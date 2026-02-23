@@ -1,5 +1,5 @@
-import { createFileRoute } from "@tanstack/react-router";
-import { useState, useCallback, useMemo } from "react";
+import { createFileRoute, useNavigate } from "@tanstack/react-router";
+import { useCallback, useMemo } from "react";
 import { useTranslation } from "react-i18next";
 import { Globe, Languages } from "lucide-react";
 import { MapView } from "~/components/Map/MapView";
@@ -8,6 +8,7 @@ import { DetailPanel } from "~/components/Detail/DetailPanel";
 import { defaultEpoch } from "~/data/config";
 import { filterByYear, filterEventsByYear } from "~/lib/dataUtils";
 import type { SelectedItem } from "~/types/history";
+import { useState } from "react";
 
 import citiesData from "~/data/antiquity/cities.json";
 import regionsData from "~/data/antiquity/regions.geojson";
@@ -15,21 +16,32 @@ import eventsData from "~/data/antiquity/events.json";
 import type { City, HistoricalEvent } from "~/types/history";
 import type { FeatureCollection } from "geojson";
 
-export const Route = createFileRoute("/")({
-  component: HomePage,
-});
-
 const cities = citiesData as unknown as City[];
 const regions = regionsData as FeatureCollection;
 const events = eventsData as unknown as HistoricalEvent[];
 
+export const Route = createFileRoute("/")({
+  validateSearch: (search: Record<string, unknown>) => {
+    const raw = Number(search.year);
+    return { year: isNaN(raw) ? 0 : raw };
+  },
+  component: HomePage,
+});
+
 function HomePage() {
   const { t, i18n } = useTranslation();
   const lang = i18n.language.startsWith("de") ? "de" : "en";
+  const navigate = useNavigate({ from: "/" });
 
+  const { year: urlYear } = Route.useSearch();
   const epoch = defaultEpoch;
-  const [currentYear, setCurrentYear] = useState(0);
+  const currentYear = Math.max(epoch.startYear, Math.min(epoch.endYear, urlYear));
+
   const [selectedItem, setSelectedItem] = useState<SelectedItem>(null);
+
+  const handleYearChange = useCallback((year: number) => {
+    navigate({ search: { year }, replace: true });
+  }, [navigate]);
 
   const filteredCities = useMemo(
     () => filterByYear(cities, currentYear),
@@ -79,12 +91,12 @@ function HomePage() {
         </button>
       </header>
 
-      {/* Bottom: Timeline Slider */}
+      {/* Bottom: Timeline */}
       <div className="absolute bottom-4 left-1/2 -translate-x-1/2 z-10 w-full max-w-xl px-4">
         <TimelineSlider
           currentYear={currentYear}
           epoch={epoch}
-          onYearChange={setCurrentYear}
+          onYearChange={handleYearChange}
           lang={lang}
         />
       </div>
