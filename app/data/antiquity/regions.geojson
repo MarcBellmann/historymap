@@ -5,27 +5,22 @@
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [-10.0, 35.0],
-            [45.0, 35.0],
-            [45.0, 57.0],
-            [-10.0, 57.0],
-            [-10.0, 35.0]
-          ]
-        ]
+        "coordinates": [[
+          [-10.0, 30.0], [45.0, 30.0], [50.0, 37.0],
+          [45.0, 55.0], [-10.0, 55.0], [-10.0, 30.0]
+        ]]
       },
       "properties": {
         "id": "roman-empire",
-        "startYear": -500,
+        "startYear": -264,
         "endYear": 476,
         "culturalSphere": "roman",
         "color": "#CC3333",
-        "opacity": 0.3,
+        "opacity": 0.25,
         "labels": { "de": "Römisches Reich", "en": "Roman Empire" },
         "description": {
-          "de": "Das Römische Reich auf seinem Höhepunkt erstreckte sich von Britannien bis Mesopotamien.",
-          "en": "The Roman Empire at its height stretched from Britain to Mesopotamia."
+          "de": "Das Römische Reich auf seinem Höhepunkt erstreckte sich von Britannien bis Mesopotamien und beherrschte die gesamte Mittelmeerwelt.",
+          "en": "The Roman Empire at its height stretched from Britain to Mesopotamia, dominating the entire Mediterranean world."
         }
       }
     },
@@ -33,15 +28,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [25.0, 20.0],
-            [80.0, 20.0],
-            [80.0, 45.0],
-            [25.0, 45.0],
-            [25.0, 20.0]
-          ]
-        ]
+        "coordinates": [[
+          [25.0, 18.0], [80.0, 18.0], [80.0, 44.0],
+          [25.0, 44.0], [25.0, 18.0]
+        ]]
       },
       "properties": {
         "id": "achaemenid-empire",
@@ -49,11 +39,11 @@
         "endYear": -330,
         "culturalSphere": "persian",
         "color": "#3366CC",
-        "opacity": 0.3,
+        "opacity": 0.25,
         "labels": { "de": "Achämenidenreich", "en": "Achaemenid Empire" },
         "description": {
-          "de": "Das erste persische Weltreich unter Kyros dem Großen. Erstreckte sich von Ägypten bis Zentralasien.",
-          "en": "The first Persian world empire under Cyrus the Great. Stretched from Egypt to Central Asia."
+          "de": "Das erste persische Weltreich unter Kyros dem Großen. Mit über 5 Millionen km² das größte Reich der damaligen Zeit.",
+          "en": "The first Persian world empire under Cyrus the Great. With over 5 million km², the largest empire of its time."
         }
       }
     },
@@ -61,15 +51,33 @@
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [100.0, 20.0],
-            [135.0, 20.0],
-            [135.0, 45.0],
-            [100.0, 45.0],
-            [100.0, 20.0]
-          ]
-        ]
+        "coordinates": [[
+          [30.0, 18.0], [80.0, 18.0], [80.0, 44.0],
+          [30.0, 44.0], [30.0, 18.0]
+        ]]
+      },
+      "properties": {
+        "id": "parthian-empire",
+        "startYear": -247,
+        "endYear": 224,
+        "culturalSphere": "parthian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": { "de": "Partherreich", "en": "Parthian Empire" },
+        "description": {
+          "de": "Das Partherreich kontrollierte die Seidenstraße zwischen Rom und China und war Jahrhunderte lang Roms mächtigster Rivale im Osten.",
+          "en": "The Parthian Empire controlled the Silk Road between Rome and China and was Rome's most powerful eastern rival for centuries."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [100.0, 18.0], [135.0, 18.0], [135.0, 45.0],
+          [100.0, 45.0], [100.0, 18.0]
+        ]]
       },
       "properties": {
         "id": "han-china",
@@ -77,11 +85,11 @@
         "endYear": 220,
         "culturalSphere": "chinese",
         "color": "#CC9900",
-        "opacity": 0.3,
+        "opacity": 0.25,
         "labels": { "de": "Han-Dynastie", "en": "Han Dynasty" },
         "description": {
-          "de": "Die Han-Dynastie war eine der einflussreichsten Dynastien Chinas. Zeitgleich mit dem Römischen Reich.",
-          "en": "The Han Dynasty was one of China's most influential dynasties. Contemporary with the Roman Empire."
+          "de": "Die Han-Dynastie prägte chinesische Kultur und Gesellschaft so nachhaltig, dass sich die Mehrheitsbevölkerung Chinas bis heute als 'Han-Chinesen' bezeichnet.",
+          "en": "The Han Dynasty shaped Chinese culture and society so profoundly that the majority population of China still calls itself 'Han Chinese' today."
         }
       }
     },
@@ -89,27 +97,114 @@
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [15.0, 25.0],
-            [37.0, 25.0],
-            [37.0, 35.0],
-            [15.0, 35.0],
-            [15.0, 25.0]
-          ]
-        ]
+        "coordinates": [[
+          [65.0, 18.0], [95.0, 18.0], [95.0, 38.0],
+          [65.0, 38.0], [65.0, 18.0]
+        ]]
+      },
+      "properties": {
+        "id": "mauryan-empire",
+        "startYear": -322,
+        "endYear": -185,
+        "culturalSphere": "indian",
+        "color": "#228844",
+        "opacity": 0.25,
+        "labels": { "de": "Maurya-Reich", "en": "Mauryan Empire" },
+        "description": {
+          "de": "Das Maurya-Reich einte fast den gesamten indischen Subkontinent. Kaiser Ashoka verbreitete den Buddhismus und gilt als einer der größten Herrscher der Geschichte.",
+          "en": "The Mauryan Empire united almost the entire Indian subcontinent. Emperor Ashoka spread Buddhism and is considered one of history's greatest rulers."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [60.0, 25.0], [90.0, 25.0], [90.0, 40.0],
+          [60.0, 40.0], [60.0, 25.0]
+        ]]
+      },
+      "properties": {
+        "id": "kushan-empire",
+        "startYear": 30,
+        "endYear": 375,
+        "culturalSphere": "kushan",
+        "color": "#AA6622",
+        "opacity": 0.25,
+        "labels": { "de": "Kushanreich", "en": "Kushan Empire" },
+        "description": {
+          "de": "Das Kushanreich lag im Herzen der Seidenstraße und verband China, Indien, Persien und Rom. Es war ein Zentrum des Buddhismus und des interkulturellen Austauschs.",
+          "en": "The Kushan Empire sat at the heart of the Silk Road, connecting China, India, Persia, and Rome. It was a center of Buddhism and cross-cultural exchange."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [15.0, 8.0], [50.0, 8.0], [50.0, 22.0],
+          [15.0, 22.0], [15.0, 8.0]
+        ]]
+      },
+      "properties": {
+        "id": "kingdom-of-axum",
+        "startYear": -400,
+        "endYear": 940,
+        "culturalSphere": "axumite",
+        "color": "#996600",
+        "opacity": 0.25,
+        "labels": { "de": "Königreich Aksum", "en": "Kingdom of Axum" },
+        "description": {
+          "de": "Das Königreich Aksum war eine der mächtigsten Handelsnationen der Antike und kontrollierte den Handel am Roten Meer. Es war eines der ersten Reiche, das das Christentum als Staatsreligion annahm.",
+          "en": "The Kingdom of Axum was one of the most powerful trading nations of antiquity, controlling Red Sea trade. It was one of the first empires to adopt Christianity as a state religion."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [15.0, 22.0], [40.0, 22.0], [40.0, 32.0],
+          [15.0, 32.0], [15.0, 22.0]
+        ]]
+      },
+      "properties": {
+        "id": "kingdom-of-kush",
+        "startYear": -750,
+        "endYear": 350,
+        "culturalSphere": "nubian",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": { "de": "Königreich Kusch", "en": "Kingdom of Kush" },
+        "description": {
+          "de": "Das Königreich Kusch (Nubien) war eine eigenständige Zivilisation südlich Ägyptens mit eigener Schrift und Pyramidentradition.",
+          "en": "The Kingdom of Kush (Nubia) was an independent civilization south of Egypt with its own script and pyramid tradition."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [15.0, 25.0], [37.0, 25.0], [37.0, 32.0],
+          [15.0, 32.0], [15.0, 25.0]
+        ]]
       },
       "properties": {
         "id": "ptolemaic-egypt",
         "startYear": -305,
         "endYear": -30,
         "culturalSphere": "egyptian",
-        "color": "#996633",
-        "opacity": 0.3,
+        "color": "#AA8800",
+        "opacity": 0.25,
         "labels": { "de": "Ptolemäisches Ägypten", "en": "Ptolemaic Egypt" },
         "description": {
-          "de": "Das Königreich der Ptolemäer in Ägypten, gegründet nach dem Tod Alexanders des Großen.",
-          "en": "The Ptolemaic Kingdom in Egypt, founded after the death of Alexander the Great."
+          "de": "Das Königreich der Ptolemäer in Ägypten, gegründet nach dem Tod Alexanders des Großen. Endete mit Kleopatra VII.",
+          "en": "The Ptolemaic Kingdom in Egypt, founded after the death of Alexander the Great. Ended with Cleopatra VII."
         }
       }
     }

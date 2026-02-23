@@ -7,8 +7,56 @@
     "culturalSphere": ["greek", "persian"],
     "labels": { "de": "Schlacht von Marathon", "en": "Battle of Marathon" },
     "description": {
-      "de": "Die Athener besiegten die persische Invasionsarmee unter Datis. Grundlegend für das griechische Selbstbewusstsein.",
-      "en": "The Athenians defeated the Persian invasion force under Datis. Foundational for Greek self-confidence."
+      "de": "Die Athener besiegten die persische Invasionsarmee unter Datis. Aus persischer Sicht ein kleiner Rückschlag; für die Griechen ein Symbol des Widerstands.",
+      "en": "The Athenians defeated the Persian invasion force under Datis. From the Persian perspective, a minor setback; for the Greeks, a symbol of resistance."
+    }
+  },
+  {
+    "id": "alexander-conquests",
+    "coordinates": [52.8917, 29.9350],
+    "year": -330,
+    "type": "political",
+    "culturalSphere": ["greek", "persian", "hellenistic"],
+    "labels": { "de": "Fall des Achämenidenreiches", "en": "Fall of the Achaemenid Empire" },
+    "description": {
+      "de": "Alexander der Große zerstört Persepolis und beendet das Achämenidenreich. Aus persischer Sicht ein kultureller Kahlschlag; er beginnt die Hellenisierung Asiens.",
+      "en": "Alexander the Great destroys Persepolis and ends the Achaemenid Empire. From a Persian perspective, a cultural devastation; he initiates the Hellenization of Asia."
+    }
+  },
+  {
+    "id": "chandragupta-founds-maurya",
+    "coordinates": [85.1376, 25.5941],
+    "year": -322,
+    "type": "political",
+    "culturalSphere": ["indian", "mauryan"],
+    "labels": { "de": "Gründung des Maurya-Reiches", "en": "Foundation of the Mauryan Empire" },
+    "description": {
+      "de": "Chandragupta Maurya gründet das erste panindische Großreich und eint den Subkontinent — zeitgleich mit Alexanders Nachfolgern im Westen.",
+      "en": "Chandragupta Maurya founds the first pan-Indian empire and unites the subcontinent — contemporaneous with Alexander's successors in the West."
+    }
+  },
+  {
+    "id": "ashoka-conversion",
+    "coordinates": [85.8245, 20.2961],
+    "year": -261,
+    "type": "cultural",
+    "culturalSphere": ["indian", "mauryan", "buddhist"],
+    "labels": { "de": "Ashokas Bekehrung zum Buddhismus", "en": "Ashoka's Conversion to Buddhism" },
+    "description": {
+      "de": "Nach der blutigen Kalinga-Schlacht wendet sich Kaiser Ashoka dem Buddhismus zu und verbreitet Gewaltlosigkeit, Toleranz und Dharma im gesamten Reich und darüber hinaus.",
+      "en": "After the bloody Kalinga battle, Emperor Ashoka embraces Buddhism and spreads non-violence, tolerance, and Dharma throughout the empire and beyond."
+    }
+  },
+  {
+    "id": "silk-road-opens",
+    "coordinates": [66.9750, 39.6542],
+    "year": -130,
+    "type": "cultural",
+    "culturalSphere": ["chinese", "sogdian", "parthian"],
+    "labels": { "de": "Öffnung der Seidenstraße", "en": "Opening of the Silk Road" },
+    "description": {
+      "de": "Diplomat Zhang Qian kehrt aus Zentralasien zurück und öffnet Han-China die Handelsrouten nach Westen. Beginn des weltumspannenden Austauschs von Waren, Ideen und Religionen.",
+      "en": "Diplomat Zhang Qian returns from Central Asia and opens Han China's trade routes westward. The beginning of a world-spanning exchange of goods, ideas, and religions."
     }
   },
   {
@@ -16,23 +64,35 @@
     "coordinates": [12.4964, 41.9028],
     "year": -44,
     "type": "political",
-    "culturalSphere": ["roman", "latin"],
+    "culturalSphere": ["roman"],
     "labels": { "de": "Ermordung Caesars", "en": "Assassination of Caesar" },
     "description": {
-      "de": "Gaius Julius Caesar wird an den Iden des März von Senatoren um Brutus und Cassius ermordet.",
-      "en": "Gaius Julius Caesar is murdered on the Ides of March by senators including Brutus and Cassius."
+      "de": "Gaius Julius Caesar wird an den Iden des März von Senatoren um Brutus und Cassius ermordet. Auslöser der Bürgerkriege, die die Republik beenden.",
+      "en": "Gaius Julius Caesar is murdered on the Ides of March by senators including Brutus and Cassius. Trigger of the civil wars that end the Republic."
     }
   },
   {
-    "id": "alexander-conquests",
-    "coordinates": [22.9337, 40.6401],
-    "year": -334,
-    "type": "political",
-    "culturalSphere": ["greek", "macedonian", "hellenistic"],
-    "labels": { "de": "Alexanders Feldzüge", "en": "Alexander's Campaigns" },
+    "id": "battle-actium",
+    "coordinates": [20.7406, 38.9500],
+    "year": -31,
+    "type": "battle",
+    "culturalSphere": ["roman", "egyptian"],
+    "labels": { "de": "Schlacht bei Actium", "en": "Battle of Actium" },
     "description": {
-      "de": "Alexander der Große beginnt seine Feldzüge, die das persische Reich erobern und die Hellenisierung Asiens einleiten.",
-      "en": "Alexander the Great begins his campaigns, conquering the Persian Empire and initiating the Hellenization of Asia."
+      "de": "Octavian besiegt Antonius und Kleopatra. Das Ende der ptolemäischen Herrschaft in Ägypten und der Beginn des Römischen Kaiserreiches.",
+      "en": "Octavian defeats Antony and Cleopatra. The end of Ptolemaic rule in Egypt and the beginning of the Roman Imperial era."
+    }
+  },
+  {
+    "id": "wang-mang-usurpation",
+    "coordinates": [108.9402, 34.2658],
+    "year": 9,
+    "type": "political",
+    "culturalSphere": ["chinese", "han"],
+    "labels": { "de": "Wang Mangs Usurpation", "en": "Wang Mang's Usurpation" },
+    "description": {
+      "de": "Wang Mang stürzt die Han-Dynastie und gründet die kurzlebige Xin-Dynastie. Versuch radikaler Landreformen führt zu Aufständen und Wiederherstellung der Han.",
+      "en": "Wang Mang overthrows the Han dynasty and founds the short-lived Xin dynasty. Attempts at radical land reform lead to uprisings and the Han restoration."
     }
   },
   {
@@ -43,8 +103,20 @@
     "culturalSphere": ["roman", "jewish"],
     "labels": { "de": "Zerstörung Jerusalems", "en": "Destruction of Jerusalem" },
     "description": {
-      "de": "Römische Truppen unter Titus zerstören Jerusalem und den Zweiten Tempel nach dem Jüdischen Aufstand.",
-      "en": "Roman forces under Titus destroy Jerusalem and the Second Temple following the Jewish revolt."
+      "de": "Römische Truppen unter Titus zerstören Jerusalem und den Zweiten Tempel. Beginn der jüdischen Diaspora.",
+      "en": "Roman forces under Titus destroy Jerusalem and the Second Temple. Beginning of the Jewish diaspora."
+    }
+  },
+  {
+    "id": "axum-adopts-christianity",
+    "coordinates": [38.7183, 14.1281],
+    "year": 330,
+    "type": "cultural",
+    "culturalSphere": ["axumite", "african"],
+    "labels": { "de": "Aksum nimmt das Christentum an", "en": "Axum Adopts Christianity" },
+    "description": {
+      "de": "König Ezana von Aksum nimmt das Christentum als Staatsreligion an — einer der ersten Herrscher der Welt, zeitgleich mit Konstantin in Rom.",
+      "en": "King Ezana of Axum adopts Christianity as the state religion — one of the first rulers in the world to do so, contemporaneous with Constantine in Rome."
     }
   },
   {
@@ -55,8 +127,20 @@
     "culturalSphere": ["roman", "byzantine"],
     "labels": { "de": "Gründung Konstantinopels", "en": "Founding of Constantinople" },
     "description": {
-      "de": "Kaiser Konstantin I. weiht Konstantinopel (heute Istanbul) als neue Hauptstadt des Römischen Reiches ein.",
-      "en": "Emperor Constantine I dedicates Constantinople (modern Istanbul) as the new capital of the Roman Empire."
+      "de": "Kaiser Konstantin I. weiht Konstantinopel als neue Hauptstadt des Römischen Reiches ein.",
+      "en": "Emperor Constantine I dedicates Constantinople as the new capital of the Roman Empire."
+    }
+  },
+  {
+    "id": "gupta-golden-age",
+    "coordinates": [78.9629, 20.5937],
+    "year": 320,
+    "type": "cultural",
+    "culturalSphere": ["indian", "gupta"],
+    "labels": { "de": "Goldenes Zeitalter der Gupta", "en": "Gupta Golden Age" },
+    "description": {
+      "de": "Die Gründung der Gupta-Dynastie leitet ein goldenes Zeitalter in Indien ein: Blüte der Mathematik, Astronomie, Literatur und Philosophie. Aryabhata und Kalidasa wirken in dieser Zeit.",
+      "en": "The founding of the Gupta dynasty initiates a golden age in India: a flourishing of mathematics, astronomy, literature, and philosophy. Aryabhata and Kalidasa flourished in this era."
     }
   }
 ]
