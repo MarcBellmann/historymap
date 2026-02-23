@@ -1,5 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { ChevronsLeft, ChevronLeft, ChevronRight, ChevronsRight } from "lucide-react";
+
 import { cn } from "~/lib/cn";
 import { formatYear } from "~/lib/timeUtils";
 import type { Epoch } from "~/types/history";
@@ -62,9 +63,6 @@ export function TimelineSlider({
           <NavBtn onClick={() => onYearChange(clamp(currentYear - 10))} disabled={atStart}>
             <ChevronLeft size={18} />
           </NavBtn>
-          <NavBtn onClick={() => onYearChange(clamp(currentYear - 1))} disabled={atStart}>
-            <span className="text-xs font-mono px-0.5">−1</span>
-          </NavBtn>
         </div>
 
         {/* Centered year + epoch */}
@@ -77,9 +75,6 @@ export function TimelineSlider({
 
         {/* Right buttons */}
         <div className="flex items-center gap-0.5">
-          <NavBtn onClick={() => onYearChange(clamp(currentYear + 1))} disabled={atEnd}>
-            <span className="text-xs font-mono px-0.5">+1</span>
-          </NavBtn>
           <NavBtn onClick={() => onYearChange(clamp(currentYear + 10))} disabled={atEnd}>
             <ChevronRight size={18} />
           </NavBtn>
