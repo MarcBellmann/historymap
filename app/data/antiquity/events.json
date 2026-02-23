@@ -1,0 +1,62 @@
+[
+  {
+    "id": "battle-marathon",
+    "coordinates": [23.9700, 38.1500],
+    "year": -490,
+    "type": "battle",
+    "culturalSphere": ["greek", "persian"],
+    "labels": { "de": "Schlacht von Marathon", "en": "Battle of Marathon" },
+    "description": {
+      "de": "Die Athener besiegten die persische Invasionsarmee unter Datis. Grundlegend für das griechische Selbstbewusstsein.",
+      "en": "The Athenians defeated the Persian invasion force under Datis. Foundational for Greek self-confidence."
+    }
+  },
+  {
+    "id": "julius-caesar-death",
+    "coordinates": [12.4964, 41.9028],
+    "year": -44,
+    "type": "political",
+    "culturalSphere": ["roman", "latin"],
+    "labels": { "de": "Ermordung Caesars", "en": "Assassination of Caesar" },
+    "description": {
+      "de": "Gaius Julius Caesar wird an den Iden des März von Senatoren um Brutus und Cassius ermordet.",
+      "en": "Gaius Julius Caesar is murdered on the Ides of March by senators including Brutus and Cassius."
+    }
+  },
+  {
+    "id": "alexander-conquests",
+    "coordinates": [22.9337, 40.6401],
+    "year": -334,
+    "type": "political",
+    "culturalSphere": ["greek", "macedonian", "hellenistic"],
+    "labels": { "de": "Alexanders Feldzüge", "en": "Alexander's Campaigns" },
+    "description": {
+      "de": "Alexander der Große beginnt seine Feldzüge, die das persische Reich erobern und die Hellenisierung Asiens einleiten.",
+      "en": "Alexander the Great begins his campaigns, conquering the Persian Empire and initiating the Hellenization of Asia."
+    }
+  },
+  {
+    "id": "destruction-jerusalem",
+    "coordinates": [35.2137, 31.7683],
+    "year": 70,
+    "type": "political",
+    "culturalSphere": ["roman", "jewish"],
+    "labels": { "de": "Zerstörung Jerusalems", "en": "Destruction of Jerusalem" },
+    "description": {
+      "de": "Römische Truppen unter Titus zerstören Jerusalem und den Zweiten Tempel nach dem Jüdischen Aufstand.",
+      "en": "Roman forces under Titus destroy Jerusalem and the Second Temple following the Jewish revolt."
+    }
+  },
+  {
+    "id": "founding-constantinople",
+    "coordinates": [28.9784, 41.0082],
+    "year": 330,
+    "type": "foundation",
+    "culturalSphere": ["roman", "byzantine"],
+    "labels": { "de": "Gründung Konstantinopels", "en": "Founding of Constantinople" },
+    "description": {
+      "de": "Kaiser Konstantin I. weiht Konstantinopel (heute Istanbul) als neue Hauptstadt des Römischen Reiches ein.",
+      "en": "Emperor Constantine I dedicates Constantinople (modern Istanbul) as the new capital of the Roman Empire."
+    }
+  }
+]

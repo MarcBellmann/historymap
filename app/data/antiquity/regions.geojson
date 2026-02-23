@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-10.0, 35.0],
+            [45.0, 35.0],
+            [45.0, 57.0],
+            [-10.0, 57.0],
+            [-10.0, 35.0]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "roman-empire",
+        "startYear": -500,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.3,
+        "labels": { "de": "Römisches Reich", "en": "Roman Empire" },
+        "description": {
+          "de": "Das Römische Reich auf seinem Höhepunkt erstreckte sich von Britannien bis Mesopotamien.",
+          "en": "The Roman Empire at its height stretched from Britain to Mesopotamia."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [25.0, 20.0],
+            [80.0, 20.0],
+            [80.0, 45.0],
+            [25.0, 45.0],
+            [25.0, 20.0]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-empire",
+        "startYear": -550,
+        "endYear": -330,
+        "culturalSphere": "persian",
+        "color": "#3366CC",
+        "opacity": 0.3,
+        "labels": { "de": "Achämenidenreich", "en": "Achaemenid Empire" },
+        "description": {
+          "de": "Das erste persische Weltreich unter Kyros dem Großen. Erstreckte sich von Ägypten bis Zentralasien.",
+          "en": "The first Persian world empire under Cyrus the Great. Stretched from Egypt to Central Asia."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [100.0, 20.0],
+            [135.0, 20.0],
+            [135.0, 45.0],
+            [100.0, 45.0],
+            [100.0, 20.0]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "han-china",
+        "startYear": -206,
+        "endYear": 220,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.3,
+        "labels": { "de": "Han-Dynastie", "en": "Han Dynasty" },
+        "description": {
+          "de": "Die Han-Dynastie war eine der einflussreichsten Dynastien Chinas. Zeitgleich mit dem Römischen Reich.",
+          "en": "The Han Dynasty was one of China's most influential dynasties. Contemporary with the Roman Empire."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.0, 25.0],
+            [37.0, 25.0],
+            [37.0, 35.0],
+            [15.0, 35.0],
+            [15.0, 25.0]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ptolemaic-egypt",
+        "startYear": -305,
+        "endYear": -30,
+        "culturalSphere": "egyptian",
+        "color": "#996633",
+        "opacity": 0.3,
+        "labels": { "de": "Ptolemäisches Ägypten", "en": "Ptolemaic Egypt" },
+        "description": {
+          "de": "Das Königreich der Ptolemäer in Ägypten, gegründet nach dem Tod Alexanders des Großen.",
+          "en": "The Ptolemaic Kingdom in Egypt, founded after the death of Alexander the Great."
+        }
+      }
+    }
+  ]
+}

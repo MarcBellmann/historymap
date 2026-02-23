@@ -1,0 +1,132 @@
+[
+  {
+    "id": "rome",
+    "coordinates": [12.4964, 41.9028],
+    "startYear": -753,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": ["roman", "mediterranean", "latin"],
+    "labels": { "de": "Rom", "en": "Rome" },
+    "description": {
+      "de": "Hauptstadt des Römischen Reiches. Gegründet der Legende nach 753 v. Chr. von Romulus.",
+      "en": "Capital of the Roman Empire. Founded according to legend in 753 BC by Romulus."
+    }
+  },
+  {
+    "id": "athens",
+    "coordinates": [23.7275, 37.9838],
+    "startYear": -3000,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": ["greek", "hellenistic", "mediterranean"],
+    "labels": { "de": "Athen", "en": "Athens" },
+    "description": {
+      "de": "Geburtsstätte der Demokratie und des westlichen Denkens. Blütezeit im 5. Jh. v. Chr.",
+      "en": "Birthplace of democracy and Western thought. Golden age in the 5th century BC."
+    }
+  },
+  {
+    "id": "carthage",
+    "coordinates": [10.3236, 36.8525],
+    "startYear": -814,
+    "endYear": -146,
+    "importance": 1,
+    "culturalSphere": ["phoenician", "mediterranean", "north-african"],
+    "labels": { "de": "Karthago", "en": "Carthage" },
+    "description": {
+      "de": "Mächtige Handelsmacht in Nordafrika, Rivalin Roms. Im 3. Punischen Krieg 146 v. Chr. zerstört.",
+      "en": "Powerful trading empire in North Africa, rival of Rome. Destroyed in 146 BC during the Third Punic War."
+    }
+  },
+  {
+    "id": "alexandria",
+    "coordinates": [29.9187, 31.2001],
+    "startYear": -331,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": ["greek", "hellenistic", "egyptian", "mediterranean"],
+    "labels": { "de": "Alexandria", "en": "Alexandria" },
+    "description": {
+      "de": "Von Alexander dem Großen 331 v. Chr. gegründet. Heimat der größten Bibliothek der Antike.",
+      "en": "Founded by Alexander the Great in 331 BC. Home to the greatest library of antiquity."
+    }
+  },
+  {
+    "id": "persepolis",
+    "coordinates": [52.8917, 29.9350],
+    "startYear": -518,
+    "endYear": -330,
+    "importance": 1,
+    "culturalSphere": ["persian", "iranian", "achaemenid"],
+    "labels": { "de": "Persepolis", "en": "Persepolis" },
+    "description": {
+      "de": "Zeremonielle Hauptstadt des Achämenidenreiches. 330 v. Chr. von Alexander dem Großen niedergebrannt.",
+      "en": "Ceremonial capital of the Achaemenid Empire. Burned down by Alexander the Great in 330 BC."
+    }
+  },
+  {
+    "id": "luoyang",
+    "coordinates": [112.4539, 34.6200],
+    "startYear": -770,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": ["chinese", "han", "east-asian"],
+    "labels": { "de": "Luoyang", "en": "Luoyang" },
+    "description": {
+      "de": "Eine der ältesten Städte Chinas, Hauptstadt mehrerer Dynastien darunter der Han-Dynastie.",
+      "en": "One of China's oldest cities, capital of several dynasties including the Han dynasty."
+    }
+  },
+  {
+    "id": "antioch",
+    "coordinates": [36.1617, 36.2021],
+    "startYear": -300,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": ["greek", "hellenistic", "roman", "seleucid"],
+    "labels": { "de": "Antiochia", "en": "Antioch" },
+    "description": {
+      "de": "Gegründet 300 v. Chr., eine der größten Städte der hellenistischen Welt und des Römischen Reiches.",
+      "en": "Founded 300 BC, one of the largest cities of the Hellenistic world and the Roman Empire."
+    }
+  },
+  {
+    "id": "jerusalem",
+    "coordinates": [35.2137, 31.7683],
+    "startYear": -3000,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": ["jewish", "roman", "mediterranean"],
+    "labels": { "de": "Jerusalem", "en": "Jerusalem" },
+    "description": {
+      "de": "Heilige Stadt der Juden, Christen und später auch Muslime. Im Jahr 70 n. Chr. von den Römern zerstört.",
+      "en": "Holy city of Jews, Christians, and later Muslims. Destroyed by the Romans in 70 AD."
+    }
+  },
+  {
+    "id": "ctesiphon",
+    "coordinates": [44.5820, 33.0944],
+    "startYear": -120,
+    "endYear": 637,
+    "importance": 1,
+    "culturalSphere": ["persian", "parthian", "sassanid", "mesopotamian"],
+    "labels": { "de": "Ktesiphon", "en": "Ctesiphon" },
+    "description": {
+      "de": "Hauptstadt der Parther und Sassaniden. Eine der größten Städte der Spätantike.",
+      "en": "Capital of the Parthians and Sassanids. One of the largest cities of late antiquity."
+    }
+  },
+  {
+    "id": "constantinople",
+    "coordinates": [28.9784, 41.0082],
+    "startYear": 330,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": ["roman", "byzantine", "greek", "mediterranean"],
+    "labels": { "de": "Konstantinopel", "en": "Constantinople" },
+    "description": {
+      "de": "330 n. Chr. von Kaiser Konstantin als neue Hauptstadt des Römischen Reiches gegründet.",
+      "en": "Founded by Emperor Constantine in 330 AD as the new capital of the Roman Empire."
+    }
+  }
+]

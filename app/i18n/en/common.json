@@ -1,0 +1,45 @@
+{
+  "app": {
+    "title": "HistoryMap",
+    "subtitle": "Interactive Historical World Map"
+  },
+  "timeline": {
+    "label": "Year",
+    "granularity": "Granularity",
+    "epoch": "Epoch",
+    "century": "Century",
+    "decade": "Decade"
+  },
+  "perspective": {
+    "label": "Perspective",
+    "roman": "Roman",
+    "persian": "Persian",
+    "greek": "Greek",
+    "chinese": "Chinese",
+    "global": "Global"
+  },
+  "detail": {
+    "founded": "Founded",
+    "destroyed": "Destroyed",
+    "present": "Present",
+    "type": "Type",
+    "culturalSphere": "Cultural Sphere",
+    "close": "Close",
+    "year": "Year"
+  },
+  "eventTypes": {
+    "battle": "Battle",
+    "foundation": "Foundation",
+    "political": "Political",
+    "cultural": "Cultural",
+    "natural": "Natural Event"
+  },
+  "layers": {
+    "cities": "Cities",
+    "regions": "Empires & Regions",
+    "events": "Events"
+  },
+  "language": {
+    "switch": "DE"
+  }
+}

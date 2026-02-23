@@ -1,0 +1,45 @@
+{
+  "app": {
+    "title": "HistoryMap",
+    "subtitle": "Interaktive historische Weltkarte"
+  },
+  "timeline": {
+    "label": "Jahr",
+    "granularity": "Granularität",
+    "epoch": "Epoche",
+    "century": "Jahrhundert",
+    "decade": "Jahrzehnt"
+  },
+  "perspective": {
+    "label": "Perspektive",
+    "roman": "Römisch",
+    "persian": "Persisch",
+    "greek": "Griechisch",
+    "chinese": "Chinesisch",
+    "global": "Global"
+  },
+  "detail": {
+    "founded": "Gegründet",
+    "destroyed": "Zerstört",
+    "present": "Heute",
+    "type": "Typ",
+    "culturalSphere": "Kulturkreis",
+    "close": "Schließen",
+    "year": "Jahr"
+  },
+  "eventTypes": {
+    "battle": "Schlachten",
+    "foundation": "Gründung",
+    "political": "Politisch",
+    "cultural": "Kulturell",
+    "natural": "Naturereignis"
+  },
+  "layers": {
+    "cities": "Städte",
+    "regions": "Reiche & Regionen",
+    "events": "Ereignisse"
+  },
+  "language": {
+    "switch": "EN"
+  }
+}
