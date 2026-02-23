@@ -1,4 +1,5 @@
 import { useTranslation } from "react-i18next";
+import { ChevronLeft, ChevronRight } from "lucide-react";
 import { cn } from "~/lib/cn";
 import { formatYear } from "~/lib/timeUtils";
 
@@ -10,54 +11,57 @@ interface TimelineSliderProps {
   lang: string;
 }
 
-function shortYear(year: number, lang: string): string {
-  if (year === 0) return "0";
-  if (lang === "de") return year < 0 ? `${Math.abs(year)}v` : `${year}n`;
-  return year < 0 ? `${Math.abs(year)}BC` : `${year}AD`;
-}
-
-function PaginationRow({
+function NavRow({
   label,
-  values,
-  activeValue,
-  onSelect,
+  displayYear,
+  onPrev,
+  onNext,
+  canPrev,
+  canNext,
   lang,
 }: {
   label: string;
-  values: number[];
-  activeValue: number;
-  onSelect: (v: number) => void;
+  displayYear: number;
+  onPrev: () => void;
+  onNext: () => void;
+  canPrev: boolean;
+  canNext: boolean;
   lang: string;
 }) {
   return (
-    <div className="flex items-center gap-2">
+    <div className="flex items-center gap-3">
       <span className="text-stone-400 text-xs font-medium w-24 shrink-0">{label}</span>
-      <div className="flex gap-1 flex-wrap">
-        {values.map((v) => (
-          <button
-            key={v}
-            onClick={() => onSelect(v)}
-            className={cn(
-              "px-2 py-1 rounded text-xs font-mono tabular-nums transition-colors",
-              v === activeValue
-                ? "bg-amber-500 text-stone-950 font-bold"
-                : v < 0
-                ? "bg-stone-800 text-stone-400 hover:bg-stone-700 hover:text-stone-200"
-                : "bg-stone-800 text-stone-300 hover:bg-stone-700 hover:text-stone-100"
-            )}
-          >
-            {shortYear(v, lang)}
-          </button>
-        ))}
+      <div className="flex items-center gap-2 grow justify-between">
+        <button
+          onClick={onPrev}
+          disabled={!canPrev}
+          className={cn(
+            "p-1 rounded-lg transition-colors",
+            canPrev
+              ? "text-stone-300 hover:bg-stone-700 hover:text-stone-100"
+              : "text-stone-600 cursor-not-allowed"
+          )}
+        >
+          <ChevronLeft size={18} />
+        </button>
+        <span className="text-amber-300 text-sm font-bold tabular-nums min-w-28 text-center">
+          {formatYear(displayYear, lang)}
+        </span>
+        <button
+          onClick={onNext}
+          disabled={!canNext}
+          className={cn(
+            "p-1 rounded-lg transition-colors",
+            canNext
+              ? "text-stone-300 hover:bg-stone-700 hover:text-stone-100"
+              : "text-stone-600 cursor-not-allowed"
+          )}
+        >
+          <ChevronRight size={18} />
+        </button>
       </div>
     </div>
   );
-}
-
-function range(min: number, max: number, step: number): number[] {
-  const result: number[] = [];
-  for (let v = min; v <= max; v += step) result.push(v);
-  return result;
 }
 
 export function TimelineSlider({
@@ -72,42 +76,42 @@ export function TimelineSlider({
   const centuryStart = Math.floor(currentYear / 100) * 100;
   const decadeStart = Math.floor(currentYear / 10) * 10;
 
-  const epochValues = range(startYear, endYear, 100);
-  const centuryValues = range(centuryStart, Math.min(centuryStart + 100, endYear), 10);
-  const decadeValues = range(decadeStart, Math.min(decadeStart + 10, endYear), 1);
-
   return (
-    <div className="bg-stone-900/90 backdrop-blur-sm border border-stone-700 rounded-xl px-5 py-4 shadow-xl space-y-3">
-      <div className="flex items-center justify-between">
-        <span className="text-stone-400 text-xs font-medium uppercase tracking-wider">
-          {t("timeline.label")}
-        </span>
-        <span className="text-amber-300 text-xl font-bold tabular-nums">
-          {formatYear(currentYear, lang)}
-        </span>
-      </div>
-
-      <div className="w-full h-px bg-stone-700" />
-
-      <PaginationRow
+    <div className="bg-stone-900/90 backdrop-blur-sm border border-stone-700 rounded-xl px-5 py-4 shadow-xl space-y-2">
+      {/* Epoch: ±100 years */}
+      <NavRow
         label={t("timeline.epoch")}
-        values={epochValues}
-        activeValue={centuryStart}
-        onSelect={onYearChange}
+        displayYear={centuryStart}
+        onPrev={() => onYearChange(Math.max(centuryStart - 100, startYear))}
+        onNext={() => onYearChange(Math.min(centuryStart + 100, endYear))}
+        canPrev={centuryStart > startYear}
+        canNext={centuryStart < endYear - 100}
         lang={lang}
       />
-      <PaginationRow
+
+      <div className="w-full h-px bg-stone-800" />
+
+      {/* Century: ±10 years */}
+      <NavRow
         label={t("timeline.century")}
-        values={centuryValues}
-        activeValue={decadeStart}
-        onSelect={onYearChange}
+        displayYear={decadeStart}
+        onPrev={() => onYearChange(Math.max(decadeStart - 10, startYear))}
+        onNext={() => onYearChange(Math.min(decadeStart + 10, endYear))}
+        canPrev={decadeStart > startYear}
+        canNext={decadeStart < endYear - 10}
         lang={lang}
       />
-      <PaginationRow
+
+      <div className="w-full h-px bg-stone-800" />
+
+      {/* Decade: ±1 year */}
+      <NavRow
         label={t("timeline.decade")}
-        values={decadeValues}
-        activeValue={currentYear}
-        onSelect={onYearChange}
+        displayYear={currentYear}
+        onPrev={() => onYearChange(Math.max(currentYear - 1, startYear))}
+        onNext={() => onYearChange(Math.min(currentYear + 1, endYear))}
+        canPrev={currentYear > startYear}
+        canNext={currentYear < endYear}
         lang={lang}
       />
     </div>
