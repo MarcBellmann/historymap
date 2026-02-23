@@ -12,10 +12,6 @@ interface MapViewProps {
   regionsGeoJSON: FeatureCollection;
   events: HistoricalEvent[];
   currentYear: number;
-  perspectiveId: string;
-  highlightedSpheres: string[];
-  defaultCenter: [number, number];
-  defaultZoom: number;
   onSelectItem: (item: SelectedItem) => void;
   lang: string;
 }
@@ -25,10 +21,6 @@ export function MapView({
   regionsGeoJSON,
   events,
   currentYear,
-  perspectiveId,
-  highlightedSpheres,
-  defaultCenter,
-  defaultZoom,
   onSelectItem,
   lang,
 }: MapViewProps) {
@@ -69,9 +61,9 @@ export function MapView({
     <Map
       ref={mapRef}
       initialViewState={{
-        longitude: defaultCenter[0],
-        latitude: defaultCenter[1],
-        zoom: defaultZoom,
+        longitude: 40,
+        latitude: 30,
+        zoom: 2,
       }}
       style={{ width: "100%", height: "100%" }}
       mapStyle="/map-style.json"
@@ -87,23 +79,17 @@ export function MapView({
       <RegionLayer
         geojson={regionsGeoJSON}
         currentYear={currentYear}
-        perspectiveId={perspectiveId}
-        highlightedSpheres={highlightedSpheres}
       />
 
       <CityLayer
         cities={cities}
         currentYear={currentYear}
-        perspectiveId={perspectiveId}
-        highlightedSpheres={highlightedSpheres}
         lang={lang}
       />
 
       <EventLayer
         events={events}
         currentYear={currentYear}
-        perspectiveId={perspectiveId}
-        highlightedSpheres={highlightedSpheres}
         onEventClick={(event) => onSelectItem({ type: "event", data: event })}
         lang={lang}
       />

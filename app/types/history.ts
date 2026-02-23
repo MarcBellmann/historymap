@@ -38,14 +38,6 @@ export interface Epoch {
   labels: Record<string, string>;
 }
 
-export interface Perspective {
-  id: string;
-  labels: Record<string, string>;
-  highlightedSpheres: string[];
-  defaultCenter: [number, number];
-  defaultZoom: number;
-}
-
 export type Granularity = "epoch" | "century" | "decade";
 
 export type SelectedItem =

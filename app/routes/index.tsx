@@ -5,8 +5,7 @@ import { Globe, Languages } from "lucide-react";
 import { MapView } from "~/components/Map/MapView";
 import { TimelineSlider } from "~/components/Timeline/TimelineSlider";
 import { DetailPanel } from "~/components/Detail/DetailPanel";
-import { PerspectiveSelector } from "~/components/PerspectiveSelector";
-import { epochs, perspectives, defaultEpoch, defaultPerspective } from "~/data/config";
+import { defaultEpoch } from "~/data/config";
 import { filterByYear, filterEventsByYear } from "~/lib/dataUtils";
 import type { SelectedItem, Granularity } from "~/types/history";
 
@@ -31,13 +30,7 @@ function HomePage() {
   const epoch = defaultEpoch;
   const [currentYear, setCurrentYear] = useState(0);
   const [granularity, setGranularity] = useState<Granularity>("century");
-  const [activePerspectiveId, setActivePerspectiveId] = useState(defaultPerspective.id);
   const [selectedItem, setSelectedItem] = useState<SelectedItem>(null);
-
-  const activePerspective = useMemo(
-    () => perspectives.find((p) => p.id === activePerspectiveId) ?? defaultPerspective,
-    [activePerspectiveId]
-  );
 
   const filteredCities = useMemo(
     () => filterByYear(cities, currentYear),
@@ -49,16 +42,8 @@ function HomePage() {
     [currentYear]
   );
 
-  const handlePerspectiveChange = useCallback(
-    (id: string) => {
-      setActivePerspectiveId(id);
-    },
-    []
-  );
-
   const toggleLanguage = useCallback(() => {
-    const next = lang === "de" ? "en" : "de";
-    i18n.changeLanguage(next);
+    i18n.changeLanguage(lang === "de" ? "en" : "de");
   }, [lang, i18n]);
 
   return (
@@ -70,10 +55,6 @@ function HomePage() {
           regionsGeoJSON={regions}
           events={filteredEvents}
           currentYear={currentYear}
-          perspectiveId={activePerspectiveId}
-          highlightedSpheres={activePerspective.highlightedSpheres}
-          defaultCenter={activePerspective.defaultCenter}
-          defaultZoom={activePerspective.defaultZoom}
           onSelectItem={setSelectedItem}
           lang={lang}
         />
@@ -98,16 +79,6 @@ function HomePage() {
           {t("language.switch")}
         </button>
       </header>
-
-      {/* Right panel: Perspective selector */}
-      <div className="absolute right-4 top-16 z-10">
-        <PerspectiveSelector
-          perspectives={perspectives}
-          activePerspectiveId={activePerspectiveId}
-          onPerspectiveChange={handlePerspectiveChange}
-          lang={lang}
-        />
-      </div>
 
       {/* Bottom: Timeline Slider */}
       <div className="absolute bottom-4 left-1/2 -translate-x-1/2 z-10 w-full max-w-xl px-4">

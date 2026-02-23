@@ -1,5 +1,3 @@
-import type { City, HistoricalEvent, RegionProperties } from "~/types/history";
-
 /**
  * Filter items that exist at the given year.
  */
@@ -15,21 +13,8 @@ export function filterByYear<T extends { startYear: number; endYear: number | nu
 /**
  * Filter events that occur within a window around the given year.
  */
-export function filterEventsByYear(events: HistoricalEvent[], year: number, windowSize: number = 50): HistoricalEvent[] {
+export function filterEventsByYear<T extends { year: number }>(events: T[], year: number, windowSize: number = 50): T[] {
   return events.filter((e) => Math.abs(e.year - year) <= windowSize);
-}
-
-/**
- * Get highlight opacity for a feature based on perspective.
- */
-export function getHighlightOpacity(
-  spheres: string[],
-  highlightedSpheres: string[],
-  perspectiveId: string
-): number {
-  if (perspectiveId === "global" || highlightedSpheres.length === 0) return 1.0;
-  const isHighlighted = spheres.some((s) => highlightedSpheres.includes(s));
-  return isHighlighted ? 1.0 : 0.3;
 }
 
 /**

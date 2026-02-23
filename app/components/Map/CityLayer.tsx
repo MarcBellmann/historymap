@@ -2,29 +2,20 @@ import { useMemo } from "react";
 import { Source, Layer } from "react-map-gl/maplibre";
 import type { FeatureCollection, Point } from "geojson";
 import type { City } from "~/types/history";
-import { filterByYear, getHighlightOpacity, getLabel } from "~/lib/dataUtils";
+import { filterByYear, getLabel } from "~/lib/dataUtils";
 
 interface CityLayerProps {
   cities: City[];
   currentYear: number;
-  perspectiveId: string;
-  highlightedSpheres: string[];
   lang: string;
 }
 
-export function CityLayer({
-  cities,
-  currentYear,
-  perspectiveId,
-  highlightedSpheres,
-  lang,
-}: CityLayerProps) {
+export function CityLayer({ cities, currentYear, lang }: CityLayerProps) {
   const filteredCities = useMemo(() => filterByYear(cities, currentYear), [cities, currentYear]);
 
   const geojson = useMemo<FeatureCollection<Point>>(() => ({
     type: "FeatureCollection",
     features: filteredCities.map((city) => {
-      const opacity = getHighlightOpacity(city.culturalSphere, highlightedSpheres, perspectiveId);
       const size = city.importance === 1 ? 8 : city.importance === 2 ? 6 : 4;
       return {
         type: "Feature",
@@ -36,12 +27,11 @@ export function CityLayer({
           id: city.id,
           label: getLabel(city.labels, lang),
           importance: city.importance,
-          opacity,
           circleRadius: size,
         },
       };
     }),
-  }), [filteredCities, highlightedSpheres, perspectiveId, lang]);
+  }), [filteredCities, lang]);
 
   const circleLayer = {
     id: "cities-circle",
@@ -51,8 +41,6 @@ export function CityLayer({
       "circle-color": "#8B4513",
       "circle-stroke-width": 1.5,
       "circle-stroke-color": "#FFF5E1",
-      "circle-opacity": ["get", "opacity"] as any,
-      "circle-stroke-opacity": ["get", "opacity"] as any,
     },
   };
 
@@ -75,7 +63,6 @@ export function CityLayer({
       "text-color": "#3D1C02",
       "text-halo-color": "#FFF5E1",
       "text-halo-width": 1.5,
-      "text-opacity": ["get", "opacity"] as any,
     },
   };
 
