@@ -7,7 +7,7 @@ import { TimelineSlider } from "~/components/Timeline/TimelineSlider";
 import { DetailPanel } from "~/components/Detail/DetailPanel";
 import { defaultEpoch } from "~/data/config";
 import { filterByYear, filterEventsByYear } from "~/lib/dataUtils";
-import type { SelectedItem, Granularity } from "~/types/history";
+import type { SelectedItem } from "~/types/history";
 
 import citiesData from "~/data/antiquity/cities.json";
 import regionsData from "~/data/antiquity/regions.geojson";
@@ -29,7 +29,6 @@ function HomePage() {
 
   const epoch = defaultEpoch;
   const [currentYear, setCurrentYear] = useState(0);
-  const [granularity, setGranularity] = useState<Granularity>("century");
   const [selectedItem, setSelectedItem] = useState<SelectedItem>(null);
 
   const filteredCities = useMemo(
@@ -86,9 +85,7 @@ function HomePage() {
           currentYear={currentYear}
           startYear={epoch.startYear}
           endYear={epoch.endYear}
-          granularity={granularity}
           onYearChange={setCurrentYear}
-          onGranularityChange={setGranularity}
           lang={lang}
         />
       </div>

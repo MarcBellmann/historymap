@@ -38,8 +38,6 @@ export interface Epoch {
   labels: Record<string, string>;
 }
 
-export type Granularity = "epoch" | "century" | "decade";
-
 export type SelectedItem =
   | { type: "city"; data: City }
   | { type: "region"; data: RegionProperties }
