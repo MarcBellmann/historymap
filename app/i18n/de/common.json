@@ -5,10 +5,8 @@
   },
   "timeline": {
     "label": "Jahr",
-    "granularity": "Granularität",
     "epoch": "Epoche",
-    "century": "Jahrhundert",
-    "decade": "Jahrzehnt"
+    "year": "Jahreszahl"
   },
   "perspective": {
     "label": "Perspektive",
