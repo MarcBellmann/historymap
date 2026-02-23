@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import * as SliderPrimitive from "@radix-ui/react-slider";
 import { cn } from "~/lib/cn";
 import { formatYear } from "~/lib/timeUtils";
 
@@ -11,80 +10,54 @@ interface TimelineSliderProps {
   lang: string;
 }
 
-function Slider({
-  value,
-  min,
-  max,
-  step,
-  onChange,
-}: {
-  value: number;
-  min: number;
-  max: number;
-  step: number;
-  onChange: (v: number) => void;
-}) {
-  // Radix Slider requires min < max
-  if (min >= max) return (
-    <div className="relative flex items-center w-full h-5">
-      <div className="bg-stone-700 relative grow rounded-full h-1.5" />
-    </div>
-  );
-
-  return (
-    <SliderPrimitive.Root
-      value={[Math.max(min, Math.min(max, value))]}
-      min={min}
-      max={max}
-      step={step}
-      onValueChange={([v]) => v !== undefined && onChange(v)}
-      className="relative flex items-center select-none touch-none w-full h-5"
-    >
-      <SliderPrimitive.Track className="bg-stone-700 relative grow rounded-full h-1.5">
-        <SliderPrimitive.Range className="absolute bg-amber-500 rounded-full h-full" />
-      </SliderPrimitive.Track>
-      <SliderPrimitive.Thumb
-        className={cn(
-          "block w-4 h-4 bg-amber-400 rounded-full border-2 border-amber-600 shadow-lg",
-          "focus:outline-none focus:ring-2 focus:ring-amber-400 focus:ring-offset-1 focus:ring-offset-stone-900",
-          "hover:bg-amber-300 transition-colors cursor-grab active:cursor-grabbing"
-        )}
-      />
-    </SliderPrimitive.Root>
-  );
+function shortYear(year: number, lang: string): string {
+  if (year === 0) return "0";
+  if (lang === "de") return year < 0 ? `${Math.abs(year)}v` : `${year}n`;
+  return year < 0 ? `${Math.abs(year)}BC` : `${year}AD`;
 }
 
-function SliderRow({
+function PaginationRow({
   label,
-  value,
-  min,
-  max,
-  step,
-  onChange,
+  values,
+  activeValue,
+  onSelect,
   lang,
 }: {
   label: string;
-  value: number;
-  min: number;
-  max: number;
-  step: number;
-  onChange: (v: number) => void;
+  values: number[];
+  activeValue: number;
+  onSelect: (v: number) => void;
   lang: string;
 }) {
   return (
-    <div className="flex items-center gap-3">
-      <span className="text-stone-400 text-xs w-24 shrink-0 font-medium">{label}</span>
-      <span className="text-stone-500 text-[10px] tabular-nums w-16 text-right shrink-0">
-        {formatYear(min, lang)}
-      </span>
-      <div className="grow">
-        <Slider value={value} min={min} max={max} step={step} onChange={onChange} />
+    <div className="flex items-center gap-2">
+      <span className="text-stone-400 text-xs font-medium w-24 shrink-0">{label}</span>
+      <div className="flex gap-1 flex-wrap">
+        {values.map((v) => (
+          <button
+            key={v}
+            onClick={() => onSelect(v)}
+            className={cn(
+              "px-2 py-1 rounded text-xs font-mono tabular-nums transition-colors",
+              v === activeValue
+                ? "bg-amber-500 text-stone-950 font-bold"
+                : v < 0
+                ? "bg-stone-800 text-stone-400 hover:bg-stone-700 hover:text-stone-200"
+                : "bg-stone-800 text-stone-300 hover:bg-stone-700 hover:text-stone-100"
+            )}
+          >
+            {shortYear(v, lang)}
+          </button>
+        ))}
       </div>
-      <span className="text-stone-500 text-[10px] tabular-nums w-16 shrink-0">
-        {formatYear(max, lang)}
-      </span>
     </div>
   );
+}
+
+function range(min: number, max: number, step: number): number[] {
+  const result: number[] = [];
+  for (let v = min; v <= max; v += step) result.push(v);
+  return result;
 }
 
 export function TimelineSlider({
@@ -96,28 +69,15 @@ export function TimelineSlider({
 }: TimelineSliderProps) {
   const { t } = useTranslation();
 
-  // Derived positions in the hierarchy
   const centuryStart = Math.floor(currentYear / 100) * 100;
-  const centuryEnd = centuryStart + 100;
   const decadeStart = Math.floor(currentYear / 10) * 10;
-  const decadeEnd = decadeStart + 10;
 
-  // Clamp ranges to epoch bounds
-  const epochMin = startYear;
-  const epochMax = endYear;
-  const centuryMin = Math.max(centuryStart, startYear);
-  const centuryMax = Math.min(centuryEnd, endYear);
-  const decadeMin = Math.max(decadeStart, startYear);
-  const decadeMax = Math.min(decadeEnd, endYear);
-
-  // Each slider snaps currentYear to its granularity on change
-  const handleEpochChange = (v: number) => onYearChange(v);
-  const handleCenturyChange = (v: number) => onYearChange(v);
-  const handleDecadeChange = (v: number) => onYearChange(v);
+  const epochValues = range(startYear, endYear, 100);
+  const centuryValues = range(centuryStart, Math.min(centuryStart + 100, endYear), 10);
+  const decadeValues = range(decadeStart, Math.min(decadeStart + 10, endYear), 1);
 
   return (
     <div className="bg-stone-900/90 backdrop-blur-sm border border-stone-700 rounded-xl px-5 py-4 shadow-xl space-y-3">
-      {/* Current year display */}
       <div className="flex items-center justify-between">
         <span className="text-stone-400 text-xs font-medium uppercase tracking-wider">
           {t("timeline.label")}
@@ -129,36 +89,25 @@ export function TimelineSlider({
 
       <div className="w-full h-px bg-stone-700" />
 
-      {/* Epoch slider: step 100, full epoch range */}
-      <SliderRow
+      <PaginationRow
         label={t("timeline.epoch")}
-        value={centuryStart}
-        min={epochMin}
-        max={epochMax}
-        step={100}
-        onChange={handleEpochChange}
+        values={epochValues}
+        activeValue={centuryStart}
+        onSelect={onYearChange}
         lang={lang}
       />
-
-      {/* Century slider: step 10, within current century */}
-      <SliderRow
+      <PaginationRow
         label={t("timeline.century")}
-        value={decadeStart}
-        min={centuryMin}
-        max={centuryMax}
-        step={10}
-        onChange={handleCenturyChange}
+        values={centuryValues}
+        activeValue={decadeStart}
+        onSelect={onYearChange}
         lang={lang}
       />
-
-      {/* Decade slider: step 1, within current decade */}
-      <SliderRow
+      <PaginationRow
         label={t("timeline.decade")}
-        value={currentYear}
-        min={decadeMin}
-        max={decadeMax}
-        step={1}
-        onChange={handleDecadeChange}
+        values={decadeValues}
+        activeValue={currentYear}
+        onSelect={onYearChange}
         lang={lang}
       />
     </div>
