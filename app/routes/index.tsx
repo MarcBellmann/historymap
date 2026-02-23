@@ -83,8 +83,7 @@ function HomePage() {
       <div className="absolute bottom-4 left-1/2 -translate-x-1/2 z-10 w-full max-w-xl px-4">
         <TimelineSlider
           currentYear={currentYear}
-          startYear={epoch.startYear}
-          endYear={epoch.endYear}
+          epoch={epoch}
           onYearChange={setCurrentYear}
           lang={lang}
         />
