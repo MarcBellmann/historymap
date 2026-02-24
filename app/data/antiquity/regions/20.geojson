@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10,
+              30
+            ],
+            [
+              45,
+              30
+            ],
+            [
+              50,
+              37
+            ],
+            [
+              45,
+              55
+            ],
+            [
+              -10,
+              55
+            ],
+            [
+              -10,
+              30
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "roman-empire",
+        "startYear": -264,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Römisches Reich",
+          "en": "Roman Empire"
+        },
+        "description": {
+          "de": "Das Römische Reich auf seinem Höhepunkt erstreckte sich von Britannien bis Mesopotamien und beherrschte die gesamte Mittelmeerwelt.",
+          "en": "The Roman Empire at its height stretched from Britain to Mesopotamia, dominating the entire Mediterranean world."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30,
+              18
+            ],
+            [
+              80,
+              18
+            ],
+            [
+              80,
+              44
+            ],
+            [
+              30,
+              44
+            ],
+            [
+              30,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "parthian-empire",
+        "startYear": -247,
+        "endYear": 224,
+        "culturalSphere": "parthian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Partherreich",
+          "en": "Parthian Empire"
+        },
+        "description": {
+          "de": "Das Partherreich kontrollierte die Seidenstraße zwischen Rom und China und war Jahrhunderte lang Roms mächtigster Rivale im Osten.",
+          "en": "The Parthian Empire controlled the Silk Road between Rome and China and was Rome's most powerful eastern rival for centuries."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              18
+            ],
+            [
+              135,
+              18
+            ],
+            [
+              135,
+              45
+            ],
+            [
+              100,
+              45
+            ],
+            [
+              100,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "han-china",
+        "startYear": -206,
+        "endYear": 220,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Han-Dynastie",
+          "en": "Han Dynasty"
+        },
+        "description": {
+          "de": "Die Han-Dynastie prägte chinesische Kultur und Gesellschaft so nachhaltig, dass sich die Mehrheitsbevölkerung Chinas bis heute als 'Han-Chinesen' bezeichnet.",
+          "en": "The Han Dynasty shaped Chinese culture and society so profoundly that the majority population of China still calls itself 'Han Chinese' today."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15,
+              8
+            ],
+            [
+              50,
+              8
+            ],
+            [
+              50,
+              22
+            ],
+            [
+              15,
+              22
+            ],
+            [
+              15,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-axum",
+        "startYear": -400,
+        "endYear": 940,
+        "culturalSphere": "axumite",
+        "color": "#996600",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Aksum",
+          "en": "Kingdom of Axum"
+        },
+        "description": {
+          "de": "Das Königreich Aksum war eine der mächtigsten Handelsnationen der Antike und kontrollierte den Handel am Roten Meer. Es war eines der ersten Reiche, das das Christentum als Staatsreligion annahm.",
+          "en": "The Kingdom of Axum was one of the most powerful trading nations of antiquity, controlling Red Sea trade. It was one of the first empires to adopt Christianity as a state religion."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15,
+              22
+            ],
+            [
+              40,
+              22
+            ],
+            [
+              40,
+              32
+            ],
+            [
+              15,
+              32
+            ],
+            [
+              15,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-kush",
+        "startYear": -750,
+        "endYear": 350,
+        "culturalSphere": "nubian",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Kusch",
+          "en": "Kingdom of Kush"
+        },
+        "description": {
+          "de": "Das Königreich Kusch (Nubien) war eine eigenständige Zivilisation südlich Ägyptens mit eigener Schrift und Pyramidentradition.",
+          "en": "The Kingdom of Kush (Nubia) was an independent civilization south of Egypt with its own script and pyramid tradition."
+        }
+      }
+    }
+  ]
+}

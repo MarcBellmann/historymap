@@ -1,0 +1,23 @@
+[
+  {
+    "id": "battle-actium",
+    "coordinates": [
+      20.7406,
+      38.95
+    ],
+    "year": -31,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Schlacht bei Actium",
+      "en": "Battle of Actium"
+    },
+    "description": {
+      "de": "Octavian besiegt Antonius und Kleopatra. Das Ende der ptolemäischen Herrschaft in Ägypten und der Beginn des Römischen Kaiserreiches.",
+      "en": "Octavian defeats Antony and Cleopatra. The end of Ptolemaic rule in Egypt and the beginning of the Roman Imperial era."
+    }
+  }
+]

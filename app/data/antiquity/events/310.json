@@ -1,0 +1,44 @@
+[
+  {
+    "id": "battle-milvian-bridge",
+    "coordinates": [
+      12.4664,
+      41.9394
+    ],
+    "year": 312,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "christian"
+    ],
+    "labels": {
+      "de": "Schlacht an der Milvischen Brücke",
+      "en": "Battle of the Milvian Bridge"
+    },
+    "description": {
+      "de": "Konstantin besiegt seinen Rivalen Maxentius an der Milvischen Brücke und wird zum Alleinherrscher im Westen. Berichten zufolge hatte er zuvor ein christliches Symbol als Kampfzeichen empfangen — ein Wendepunkt, der die Christianisierung des Imperiums einleitete.",
+      "en": "Constantine defeats his rival Maxentius at the Milvian Bridge and becomes sole ruler of the West. He reportedly received a Christian symbol as a battle sign beforehand — a turning point that set the Christianization of the empire in motion."
+    }
+  },
+  {
+    "id": "edict-of-milan",
+    "coordinates": [
+      9.1895,
+      45.4654
+    ],
+    "year": 313,
+    "type": "political",
+    "culturalSphere": [
+      "roman",
+      "christian"
+    ],
+    "labels": {
+      "de": "Mailänder Edikt",
+      "en": "Edict of Milan"
+    },
+    "description": {
+      "de": "Konstantin und Licinius verkünden das Mailänder Edikt, das allen Bewohnern des Römischen Reiches freie Religionsausübung gewährt und verfolgte Christen rehabilitiert. Es markiert den Übergang vom verfolgten Randphänomen zur künftigen Staatsreligion.",
+      "en": "Constantine and Licinius issue the Edict of Milan, granting free religious practice to all inhabitants of the Roman Empire and rehabilitating persecuted Christians. It marks the transition of Christianity from a persecuted minority faith to the future state religion."
+    }
+  }
+]

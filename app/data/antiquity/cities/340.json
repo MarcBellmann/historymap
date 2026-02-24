@@ -1,0 +1,360 @@
+[
+  {
+    "id": "rome",
+    "coordinates": [
+      12.4964,
+      41.9028
+    ],
+    "startYear": -753,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "roman",
+      "mediterranean"
+    ],
+    "labels": {
+      "de": "Rom",
+      "en": "Rome"
+    },
+    "description": {
+      "de": "Hauptstadt des Römischen Reiches. Gegründet der Legende nach 753 v. Chr. von Romulus.",
+      "en": "Capital of the Roman Empire. Founded according to legend in 753 BC by Romulus."
+    }
+  },
+  {
+    "id": "athens",
+    "coordinates": [
+      23.7275,
+      37.9838
+    ],
+    "startYear": -3000,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "greek",
+      "mediterranean"
+    ],
+    "labels": {
+      "de": "Athen",
+      "en": "Athens"
+    },
+    "description": {
+      "de": "Geburtsstätte der Demokratie und des westlichen Denkens. Blütezeit im 5. Jh. v. Chr.",
+      "en": "Birthplace of democracy and Western thought. Golden age in the 5th century BC."
+    }
+  },
+  {
+    "id": "alexandria",
+    "coordinates": [
+      29.9187,
+      31.2001
+    ],
+    "startYear": -331,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "greek",
+      "hellenistic",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Alexandria",
+      "en": "Alexandria"
+    },
+    "description": {
+      "de": "Von Alexander dem Großen 331 v. Chr. gegründet. Heimat der größten Bibliothek der Antike.",
+      "en": "Founded by Alexander the Great in 331 BC. Home to the greatest library of antiquity."
+    }
+  },
+  {
+    "id": "changan",
+    "coordinates": [
+      108.9402,
+      34.2658
+    ],
+    "startYear": -202,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "chinese",
+      "han"
+    ],
+    "labels": {
+      "de": "Chang'an",
+      "en": "Chang'an"
+    },
+    "description": {
+      "de": "Westliche Hauptstadt der Han-Dynastie, Ausgangspunkt der Seidenstraße nach Westen.",
+      "en": "Western capital of the Han Dynasty and eastern terminus of the Silk Road."
+    }
+  },
+  {
+    "id": "luoyang",
+    "coordinates": [
+      112.4539,
+      34.62
+    ],
+    "startYear": -770,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese",
+      "han"
+    ],
+    "labels": {
+      "de": "Luoyang",
+      "en": "Luoyang"
+    },
+    "description": {
+      "de": "Eine der ältesten Städte Chinas, östliche Hauptstadt der Han-Dynastie.",
+      "en": "One of China's oldest cities, eastern capital of the Han dynasty."
+    }
+  },
+  {
+    "id": "pataliputra",
+    "coordinates": [
+      85.1376,
+      25.5941
+    ],
+    "startYear": -490,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "indian",
+      "mauryan",
+      "gupta"
+    ],
+    "labels": {
+      "de": "Pataliputra",
+      "en": "Pataliputra"
+    },
+    "description": {
+      "de": "Hauptstadt des Maurya-Reiches unter Chandragupta und Ashoka. Eine der größten Städte der Antike mit über 400.000 Einwohnern.",
+      "en": "Capital of the Maurya Empire under Chandragupta and Ashoka. One of the largest cities of antiquity with over 400,000 inhabitants."
+    }
+  },
+  {
+    "id": "taxila",
+    "coordinates": [
+      72.8416,
+      33.7361
+    ],
+    "startYear": -600,
+    "endYear": 500,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "persian",
+      "kushan"
+    ],
+    "labels": {
+      "de": "Taxila",
+      "en": "Taxila"
+    },
+    "description": {
+      "de": "Bedeutendes Bildungszentrum und Kreuzungspunkt der Kulturen an der Seidenstraße. Sitz einer der ältesten Universitäten der Welt.",
+      "en": "Major center of learning and cultural crossroads on the Silk Road. Seat of one of the world's oldest universities."
+    }
+  },
+  {
+    "id": "samarkand",
+    "coordinates": [
+      66.975,
+      39.6542
+    ],
+    "startYear": -700,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "sogdian",
+      "persian",
+      "hellenistic"
+    ],
+    "labels": {
+      "de": "Samarkand",
+      "en": "Samarkand"
+    },
+    "description": {
+      "de": "Einer der wichtigsten Knotenpunkte der Seidenstraße. Von Alexander dem Großen als Marakanda besucht.",
+      "en": "One of the most important nodes of the Silk Road. Visited by Alexander the Great as Maracanda."
+    }
+  },
+  {
+    "id": "antioch",
+    "coordinates": [
+      36.1617,
+      36.2021
+    ],
+    "startYear": -300,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "hellenistic",
+      "roman",
+      "seleucid"
+    ],
+    "labels": {
+      "de": "Antiochia",
+      "en": "Antioch"
+    },
+    "description": {
+      "de": "Gegründet 300 v. Chr., eine der größten Städte der hellenistischen Welt und des Römischen Reiches.",
+      "en": "Founded 300 BC, one of the largest cities of the Hellenistic world and the Roman Empire."
+    }
+  },
+  {
+    "id": "ctesiphon",
+    "coordinates": [
+      44.582,
+      33.0944
+    ],
+    "startYear": -120,
+    "endYear": 637,
+    "importance": 1,
+    "culturalSphere": [
+      "parthian",
+      "sassanid",
+      "mesopotamian"
+    ],
+    "labels": {
+      "de": "Ktesiphon",
+      "en": "Ctesiphon"
+    },
+    "description": {
+      "de": "Hauptstadt der Parther und Sassaniden. Eine der größten Städte der Spätantike.",
+      "en": "Capital of the Parthians and Sassanids. One of the largest cities of late antiquity."
+    }
+  },
+  {
+    "id": "jerusalem",
+    "coordinates": [
+      35.2137,
+      31.7683
+    ],
+    "startYear": -3000,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "jewish",
+      "roman"
+    ],
+    "labels": {
+      "de": "Jerusalem",
+      "en": "Jerusalem"
+    },
+    "description": {
+      "de": "Heilige Stadt der Juden, Christen und später auch Muslime. Im Jahr 70 n. Chr. von den Römern zerstört.",
+      "en": "Holy city of Jews, Christians, and later Muslims. Destroyed by the Romans in 70 AD."
+    }
+  },
+  {
+    "id": "axum",
+    "coordinates": [
+      38.7183,
+      14.1281
+    ],
+    "startYear": -400,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "axumite",
+      "african"
+    ],
+    "labels": {
+      "de": "Aksum",
+      "en": "Axum"
+    },
+    "description": {
+      "de": "Hauptstadt des Königreichs Aksum, Handelsmacht am Roten Meer. Kontrollierte den Handel zwischen Indien, Arabien und dem Mittelmeer.",
+      "en": "Capital of the Kingdom of Axum, a trading power on the Red Sea. Controlled trade between India, Arabia, and the Mediterranean."
+    }
+  },
+  {
+    "id": "meroe",
+    "coordinates": [
+      33.75,
+      16.9333
+    ],
+    "startYear": -750,
+    "endYear": 350,
+    "importance": 2,
+    "culturalSphere": [
+      "nubian",
+      "african"
+    ],
+    "labels": {
+      "de": "Meroë",
+      "en": "Meroë"
+    },
+    "description": {
+      "de": "Hauptstadt des Königreichs Kusch (Nubien), bekannt für seine Pyramiden. Eigenständige Zivilisation südlich Ägyptens.",
+      "en": "Capital of the Kingdom of Kush (Nubia), known for its pyramids. An independent civilization south of Egypt."
+    }
+  },
+  {
+    "id": "constantinople",
+    "coordinates": [
+      28.9784,
+      41.0082
+    ],
+    "startYear": 330,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "roman",
+      "byzantine",
+      "greek"
+    ],
+    "labels": {
+      "de": "Konstantinopel",
+      "en": "Constantinople"
+    },
+    "description": {
+      "de": "330 n. Chr. von Kaiser Konstantin als neue Hauptstadt des Römischen Reiches gegründet.",
+      "en": "Founded by Emperor Constantine in 330 AD as the new capital of the Roman Empire."
+    }
+  },
+  {
+    "id": "jianye",
+    "coordinates": [
+      118.7969,
+      32.0603
+    ],
+    "startYear": 229,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Nanjing (Jianye)",
+      "en": "Nanjing (Jianye)"
+    },
+    "description": {
+      "de": "Jianye (das heutige Nanjing) wurde 229 n. Chr. zur Hauptstadt des Kaisertums Wu unter Sun Quan ernannt, als dieser sich zum Kaiser ausrief. In der Zeit der Drei Reiche war es das kulturelle und politische Zentrum des südchinesischen Wu-Reiches. Nach dem Fall von Wu (280 n. Chr.) blieb die Stadt bedeutend und wurde unter dem Namen Jiankang ab 317 n. Chr. erneut zur Hauptstadt – diesmal der Östlichen Jin-Dynastie, die vor den Invasionen der nördlichen Steppenvölker in den Süden geflohen war.",
+      "en": "Jianye (present-day Nanjing) became the capital of the Kingdom of Wu in 229 AD when Sun Quan proclaimed himself emperor, establishing it as the political and cultural heart of southern China during the Three Kingdoms period. After Wu's conquest by the Jin dynasty in 280 AD, the city retained its importance. Renamed Jiankang, it again became an imperial capital from 317 AD as the seat of the Eastern Jin dynasty, which had fled south in the face of nomadic invasions from the north — marking the first time a Chinese dynastic capital was established in the Yangtze River delta."
+    }
+  },
+  {
+    "id": "nishapur",
+    "coordinates": [
+      58.7958,
+      36.2133
+    ],
+    "startYear": 260,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "sassanid",
+      "persian"
+    ],
+    "labels": {
+      "de": "Nishapur",
+      "en": "Nishapur"
+    },
+    "description": {
+      "de": "Nishapur (mittelpersisch Nev-Shapur, 'die gute Stadt Shapurs') wurde im 3. Jahrhundert n. Chr. von Shapur I. gegründet, dem zweiten König der Sassanidendynastie. Die Stadt wurde zur Hauptstadt der Provinz Abarshahr im Osten des Sassanidenreiches und war neben Merw, Herat und Balch eine der vier bedeutenden Metropolen der Region Chorasan. Sie lag an einem wichtigen Knotenpunkt des innerasiatischen Handels und bildete über Jahrhunderte ein Zentrum zoroastrischer Kultur und sassanidischer Verwaltung.",
+      "en": "Nishapur (Middle Persian: Nēv-Šāpūr, meaning 'the good city of Shapur') was founded in the 3rd century AD by Shapur I, the second king of the Sassanid dynasty. It became the capital of the satrapy of Abarshahr in the eastern Sassanid Empire and was, alongside Merv, Herat, and Balkh, one of the four great cities of the Khorasan region. Situated at a key crossroads of inner-Asian trade routes, it served for centuries as a center of Zoroastrian culture and Sassanid administration."
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "alexander-conquests",
+    "coordinates": [
+      52.8917,
+      29.935
+    ],
+    "year": -330,
+    "type": "political",
+    "culturalSphere": [
+      "greek",
+      "persian",
+      "hellenistic"
+    ],
+    "labels": {
+      "de": "Fall des Achämenidenreiches",
+      "en": "Fall of the Achaemenid Empire"
+    },
+    "description": {
+      "de": "Alexander der Große zerstört Persepolis und beendet das Achämenidenreich. Aus persischer Sicht ein kultureller Kahlschlag; er beginnt die Hellenisierung Asiens.",
+      "en": "Alexander the Great destroys Persepolis and ends the Achaemenid Empire. From a Persian perspective, a cultural devastation; he initiates the Hellenization of Asia."
+    }
+  },
+  {
+    "id": "chandragupta-founds-maurya",
+    "coordinates": [
+      85.1376,
+      25.5941
+    ],
+    "year": -322,
+    "type": "political",
+    "culturalSphere": [
+      "indian",
+      "mauryan"
+    ],
+    "labels": {
+      "de": "Gründung des Maurya-Reiches",
+      "en": "Foundation of the Mauryan Empire"
+    },
+    "description": {
+      "de": "Chandragupta Maurya gründet das erste panindische Großreich und eint den Subkontinent — zeitgleich mit Alexanders Nachfolgern im Westen.",
+      "en": "Chandragupta Maurya founds the first pan-Indian empire and unites the subcontinent — contemporaneous with Alexander's successors in the West."
+    }
+  }
+]

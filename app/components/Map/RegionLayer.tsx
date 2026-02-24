@@ -1,24 +1,11 @@
-import { useMemo } from "react";
 import { Source, Layer } from "react-map-gl/maplibre";
 import type { FeatureCollection } from "geojson";
-import type { RegionProperties } from "~/types/history";
 
 interface RegionLayerProps {
   geojson: FeatureCollection;
-  currentYear: number;
 }
 
-export function RegionLayer({ geojson, currentYear }: RegionLayerProps) {
-  const filteredGeoJSON = useMemo<FeatureCollection>(() => ({
-    type: "FeatureCollection",
-    features: geojson.features.filter((f) => {
-      const props = f.properties as RegionProperties;
-      return (
-        props.startYear <= currentYear &&
-        (props.endYear === null || props.endYear >= currentYear)
-      );
-    }),
-  }), [geojson, currentYear]);
+export function RegionLayer({ geojson }: RegionLayerProps) {
 
   const fillLayer = {
     id: "regions-fill",
@@ -40,7 +27,7 @@ export function RegionLayer({ geojson, currentYear }: RegionLayerProps) {
   };
 
   return (
-    <Source id="regions" type="geojson" data={filteredGeoJSON}>
+    <Source id="regions" type="geojson" data={geojson}>
       <Layer {...fillLayer} />
       <Layer {...outlineLayer} />
     </Source>

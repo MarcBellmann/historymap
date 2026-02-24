@@ -6,19 +6,29 @@ import { MapView } from "~/components/Map/MapView";
 import { TimelineSlider } from "~/components/Timeline/TimelineSlider";
 import { DetailPanel } from "~/components/Detail/DetailPanel";
 import { defaultEpoch } from "~/data/config";
-import { filterByYear, filterEventsByYear } from "~/lib/dataUtils";
+import { yearToDecade } from "~/lib/decadeUtils";
 import type { SelectedItem } from "~/types/history";
 import { useState } from "react";
 
-import citiesData from "~/data/antiquity/cities.json";
-import regionsData from "~/data/antiquity/regions.geojson";
-import eventsData from "~/data/antiquity/events.json";
 import type { City, HistoricalEvent } from "~/types/history";
 import type { FeatureCollection } from "geojson";
 
-const cities = citiesData as unknown as City[];
-const regions = regionsData as FeatureCollection;
-const events = eventsData as unknown as HistoricalEvent[];
+const regionModules = import.meta.glob(
+  "../data/antiquity/regions/*.geojson",
+  { eager: true }
+) as Record<string, { default: FeatureCollection }>;
+
+const cityModules = import.meta.glob(
+  "../data/antiquity/cities/*.json",
+  { eager: true }
+) as Record<string, { default: City[] }>;
+
+const eventModules = import.meta.glob(
+  "../data/antiquity/events/*.json",
+  { eager: true }
+) as Record<string, { default: HistoricalEvent[] }>;
+
+const EMPTY_FEATURE_COLLECTION: FeatureCollection = { type: "FeatureCollection", features: [] };
 
 export const Route = createFileRoute("/")({
   validateSearch: (search: Record<string, unknown>) => {
@@ -43,15 +53,28 @@ function HomePage() {
     navigate({ search: { year }, replace: true });
   }, [navigate]);
 
-  const filteredCities = useMemo(
-    () => filterByYear(cities, currentYear),
-    [currentYear]
+  const decade = yearToDecade(currentYear);
+
+  const currentRegions = useMemo(
+    () =>
+      regionModules[`../data/antiquity/regions/${decade}.geojson`]?.default ??
+      EMPTY_FEATURE_COLLECTION,
+    [decade]
   );
 
-  const filteredEvents = useMemo(
-    () => filterEventsByYear(events, currentYear, 50),
-    [currentYear]
+  const currentCities = useMemo(
+    () => cityModules[`../data/antiquity/cities/${decade}.json`]?.default ?? [],
+    [decade]
   );
+
+  const currentEvents = useMemo(() => {
+    const nearbyDecades = [-50, -40, -30, -20, -10, 0, 10, 20, 30, 40, 50].map(
+      (d) => decade + d
+    );
+    return nearbyDecades.flatMap(
+      (d) => eventModules[`../data/antiquity/events/${d}.json`]?.default ?? []
+    );
+  }, [decade]);
 
   const toggleLanguage = useCallback(() => {
     i18n.changeLanguage(lang === "de" ? "en" : "de");
@@ -62,9 +85,9 @@ function HomePage() {
       {/* Full-screen Map */}
       <div className="absolute inset-0">
         <MapView
-          cities={filteredCities}
-          regionsGeoJSON={regions}
-          events={filteredEvents}
+          cities={currentCities}
+          regionsGeoJSON={currentRegions}
+          events={currentEvents}
           currentYear={currentYear}
           onSelectItem={setSelectedItem}
           lang={lang}

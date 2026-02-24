@@ -1,0 +1,23 @@
+[
+  {
+    "id": "wang-mang-usurpation",
+    "coordinates": [
+      108.9402,
+      34.2658
+    ],
+    "year": 9,
+    "type": "political",
+    "culturalSphere": [
+      "chinese",
+      "han"
+    ],
+    "labels": {
+      "de": "Wang Mangs Usurpation",
+      "en": "Wang Mang's Usurpation"
+    },
+    "description": {
+      "de": "Wang Mang stürzt die Han-Dynastie und gründet die kurzlebige Xin-Dynastie. Versuch radikaler Landreformen führt zu Aufständen und Wiederherstellung der Han.",
+      "en": "Wang Mang overthrows the Han dynasty and founds the short-lived Xin dynasty. Attempts at radical land reform lead to uprisings and the Han restoration."
+    }
+  }
+]

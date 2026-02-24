@@ -1,0 +1,24 @@
+[
+  {
+    "id": "silk-road-opens",
+    "coordinates": [
+      66.975,
+      39.6542
+    ],
+    "year": -130,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese",
+      "sogdian",
+      "parthian"
+    ],
+    "labels": {
+      "de": "Öffnung der Seidenstraße",
+      "en": "Opening of the Silk Road"
+    },
+    "description": {
+      "de": "Diplomat Zhang Qian kehrt aus Zentralasien zurück und öffnet Han-China die Handelsrouten nach Westen. Beginn des weltumspannenden Austauschs von Waren, Ideen und Religionen.",
+      "en": "Diplomat Zhang Qian returns from Central Asia and opens Han China's trade routes westward. The beginning of a world-spanning exchange of goods, ideas, and religions."
+    }
+  }
+]

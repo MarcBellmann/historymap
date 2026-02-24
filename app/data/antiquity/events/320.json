@@ -1,0 +1,23 @@
+[
+  {
+    "id": "gupta-golden-age",
+    "coordinates": [
+      78.9629,
+      20.5937
+    ],
+    "year": 320,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian",
+      "gupta"
+    ],
+    "labels": {
+      "de": "Goldenes Zeitalter der Gupta",
+      "en": "Gupta Golden Age"
+    },
+    "description": {
+      "de": "Die Gründung der Gupta-Dynastie leitet ein goldenes Zeitalter in Indien ein: Blüte der Mathematik, Astronomie, Literatur und Philosophie. Aryabhata und Kalidasa wirken in dieser Zeit.",
+      "en": "The founding of the Gupta dynasty initiates a golden age in India: a flourishing of mathematics, astronomy, literature, and philosophy. Aryabhata and Kalidasa flourished in this era."
+    }
+  }
+]

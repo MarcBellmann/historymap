@@ -1,0 +1,287 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10,
+              30
+            ],
+            [
+              45,
+              30
+            ],
+            [
+              50,
+              37
+            ],
+            [
+              45,
+              55
+            ],
+            [
+              -10,
+              55
+            ],
+            [
+              -10,
+              30
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "roman-empire",
+        "startYear": -264,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Römisches Reich",
+          "en": "Roman Empire"
+        },
+        "description": {
+          "de": "Das Römische Reich auf seinem Höhepunkt erstreckte sich von Britannien bis Mesopotamien und beherrschte die gesamte Mittelmeerwelt.",
+          "en": "The Roman Empire at its height stretched from Britain to Mesopotamia, dominating the entire Mediterranean world."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60,
+              25
+            ],
+            [
+              90,
+              25
+            ],
+            [
+              90,
+              40
+            ],
+            [
+              60,
+              40
+            ],
+            [
+              60,
+              25
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kushan-empire",
+        "startYear": 30,
+        "endYear": 375,
+        "culturalSphere": "kushan",
+        "color": "#AA6622",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Kushanreich",
+          "en": "Kushan Empire"
+        },
+        "description": {
+          "de": "Das Kushanreich lag im Herzen der Seidenstraße und verband China, Indien, Persien und Rom. Es war ein Zentrum des Buddhismus und des interkulturellen Austauschs.",
+          "en": "The Kushan Empire sat at the heart of the Silk Road, connecting China, India, Persia, and Rome. It was a center of Buddhism and cross-cultural exchange."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15,
+              8
+            ],
+            [
+              50,
+              8
+            ],
+            [
+              50,
+              22
+            ],
+            [
+              15,
+              22
+            ],
+            [
+              15,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-axum",
+        "startYear": -400,
+        "endYear": 940,
+        "culturalSphere": "axumite",
+        "color": "#996600",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Aksum",
+          "en": "Kingdom of Axum"
+        },
+        "description": {
+          "de": "Das Königreich Aksum war eine der mächtigsten Handelsnationen der Antike und kontrollierte den Handel am Roten Meer. Es war eines der ersten Reiche, das das Christentum als Staatsreligion annahm.",
+          "en": "The Kingdom of Axum was one of the most powerful trading nations of antiquity, controlling Red Sea trade. It was one of the first empires to adopt Christianity as a state religion."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38,
+              37
+            ],
+            [
+              44,
+              42
+            ],
+            [
+              50,
+              43
+            ],
+            [
+              60,
+              40
+            ],
+            [
+              65,
+              36
+            ],
+            [
+              63,
+              24
+            ],
+            [
+              56,
+              22
+            ],
+            [
+              50,
+              22
+            ],
+            [
+              44,
+              29
+            ],
+            [
+              38,
+              33
+            ],
+            [
+              38,
+              37
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "sassanid-empire",
+        "startYear": 224,
+        "endYear": 651,
+        "culturalSphere": "sassanid",
+        "color": "#4477AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Sassanidenreich",
+          "en": "Sassanid Empire"
+        },
+        "description": {
+          "de": "Das Sassanidenreich war das zweite persische Großreich und einer der mächtigsten Staaten seiner Zeit. Als Erben der zoroastrischen Tradition und Herrscher über das iranische Hochland, Mesopotamien und weite Teile Zentralasiens schufen die Sassaniden eine blühende Hochkultur. Ihre Hauptstadt Ktesiphon am Tigris war eine der größten Städte der antiken Welt. Über vier Jahrhunderte lang stellten sie das mächtigste Gegengewicht zum Römischen und später Byzantinischen Reich im Osten.",
+          "en": "The Sassanid Empire was the second great Persian empire and one of the most powerful states of its era. As heirs to the Zoroastrian tradition and rulers of the Iranian plateau, Mesopotamia, and vast stretches of Central Asia, the Sassanids built a flourishing high civilization. Their capital Ctesiphon on the Tigris was one of the largest cities of the ancient world. For four centuries they stood as the most powerful counterbalance to the Roman and later Byzantine Empire in the east."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              38
+            ],
+            [
+              105,
+              42
+            ],
+            [
+              118,
+              42
+            ],
+            [
+              122,
+              41
+            ],
+            [
+              124,
+              41
+            ],
+            [
+              122,
+              32
+            ],
+            [
+              122,
+              22
+            ],
+            [
+              110,
+              20
+            ],
+            [
+              102,
+              22
+            ],
+            [
+              98,
+              28
+            ],
+            [
+              98,
+              38
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "jin-dynasty",
+        "startYear": 265,
+        "endYear": 420,
+        "culturalSphere": "chinese",
+        "color": "#CC8800",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Jin-Dynastie",
+          "en": "Jin Dynasty"
+        },
+        "description": {
+          "de": "Die Jin-Dynastie (晉朝) einte China nach der zerrissenen Epoche der Drei Reiche und knüpfte an die Größe der Han-Dynastie an. Unter Kaiser Wudi erreichte das Reich 280 n. Chr. mit der Unterwerfung des Königreichs Wu die vollständige Einigung Chinas. Obwohl die Westliche Jin-Periode von inneren Machtkämpfen erschüttert wurde, blieb die Jin-Dynastiekultur — ihre Literatur, Kalligraphie und philosophische Tradition — eine formende Kraft der chinesischen Zivilisation.",
+          "en": "The Jin Dynasty (晉朝) reunified China after the turbulent Three Kingdoms period, reclaiming the legacy of the Han. Under Emperor Wu, the dynasty achieved the complete unification of China in 280 AD with the conquest of the kingdom of Wu. Though the Western Jin period was shaken by internal power struggles, Jin dynastic culture — its literature, calligraphy, and philosophical traditions — remained a formative influence on Chinese civilization."
+        }
+      }
+    }
+  ]
+}

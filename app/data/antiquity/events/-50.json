@@ -1,0 +1,22 @@
+[
+  {
+    "id": "julius-caesar-death",
+    "coordinates": [
+      12.4964,
+      41.9028
+    ],
+    "year": -44,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Ermordung Caesars",
+      "en": "Assassination of Caesar"
+    },
+    "description": {
+      "de": "Gaius Julius Caesar wird an den Iden des März von Senatoren um Brutus und Cassius ermordet. Auslöser der Bürgerkriege, die die Republik beenden.",
+      "en": "Gaius Julius Caesar is murdered on the Ides of March by senators including Brutus and Cassius. Trigger of the civil wars that end the Republic."
+    }
+  }
+]

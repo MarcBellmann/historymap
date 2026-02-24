@@ -76,10 +76,7 @@ export function MapView({
       <NavigationControl position="top-right" />
       <AttributionControl position="bottom-right" compact />
 
-      <RegionLayer
-        geojson={regionsGeoJSON}
-        currentYear={currentYear}
-      />
+      <RegionLayer geojson={regionsGeoJSON} />
 
       <CityLayer
         cities={cities}

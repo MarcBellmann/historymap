@@ -5,7 +5,7 @@ export const epochs: Epoch[] = [
     id: "antiquity",
     startYear: -500,
     endYear: 500,
-    granularity: "century",
+    granularity: "decade",
     labels: {
       de: "Antike",
       en: "Antiquity",

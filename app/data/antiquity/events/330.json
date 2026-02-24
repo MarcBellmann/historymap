@@ -1,0 +1,44 @@
+[
+  {
+    "id": "axum-adopts-christianity",
+    "coordinates": [
+      38.7183,
+      14.1281
+    ],
+    "year": 330,
+    "type": "cultural",
+    "culturalSphere": [
+      "axumite",
+      "african"
+    ],
+    "labels": {
+      "de": "Aksum nimmt das Christentum an",
+      "en": "Axum Adopts Christianity"
+    },
+    "description": {
+      "de": "König Ezana von Aksum nimmt das Christentum als Staatsreligion an — einer der ersten Herrscher der Welt, zeitgleich mit Konstantin in Rom.",
+      "en": "King Ezana of Axum adopts Christianity as the state religion — one of the first rulers in the world to do so, contemporaneous with Constantine in Rome."
+    }
+  },
+  {
+    "id": "founding-constantinople",
+    "coordinates": [
+      28.9784,
+      41.0082
+    ],
+    "year": 330,
+    "type": "foundation",
+    "culturalSphere": [
+      "roman",
+      "byzantine"
+    ],
+    "labels": {
+      "de": "Gründung Konstantinopels",
+      "en": "Founding of Constantinople"
+    },
+    "description": {
+      "de": "Kaiser Konstantin I. weiht Konstantinopel als neue Hauptstadt des Römischen Reiches ein.",
+      "en": "Emperor Constantine I dedicates Constantinople as the new capital of the Roman Empire."
+    }
+  }
+]

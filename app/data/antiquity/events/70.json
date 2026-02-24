@@ -1,0 +1,23 @@
+[
+  {
+    "id": "destruction-jerusalem",
+    "coordinates": [
+      35.2137,
+      31.7683
+    ],
+    "year": 70,
+    "type": "political",
+    "culturalSphere": [
+      "roman",
+      "jewish"
+    ],
+    "labels": {
+      "de": "Zerstörung Jerusalems",
+      "en": "Destruction of Jerusalem"
+    },
+    "description": {
+      "de": "Römische Truppen unter Titus zerstören Jerusalem und den Zweiten Tempel. Beginn der jüdischen Diaspora.",
+      "en": "Roman forces under Titus destroy Jerusalem and the Second Temple. Beginning of the Jewish diaspora."
+    }
+  }
+]
