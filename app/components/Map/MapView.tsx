@@ -40,7 +40,7 @@ export function MapView({
         const cityId = feature.properties?.id as string;
         const city = cities.find((c) => c.id === cityId);
         if (city) onSelectItem({ type: "city", data: city });
-      } else if (layerId === "regions-fill") {
+      } else if (layerId === "regions-fill-parent" || layerId === "regions-fill-child") {
         onSelectItem({ type: "region", data: feature.properties as RegionProperties });
       }
     },
@@ -68,7 +68,7 @@ export function MapView({
       style={{ width: "100%", height: "100%" }}
       mapStyle="/map-style.json"
       attributionControl={false}
-      interactiveLayerIds={["cities-circle", "regions-fill"]}
+      interactiveLayerIds={["cities-circle", "regions-fill-parent", "regions-fill-child"]}
       onClick={handleMapClick}
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
