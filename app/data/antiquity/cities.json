@@ -219,5 +219,44 @@
       "de": "330 n. Chr. von Kaiser Konstantin als neue Hauptstadt des Römischen Reiches gegründet.",
       "en": "Founded by Emperor Constantine in 330 AD as the new capital of the Roman Empire."
     }
+  },
+  {
+    "id": "jianye",
+    "coordinates": [118.7969, 32.0603],
+    "startYear": 229,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": ["chinese"],
+    "labels": { "de": "Nanjing (Jianye)", "en": "Nanjing (Jianye)" },
+    "description": {
+      "de": "Jianye (das heutige Nanjing) wurde 229 n. Chr. zur Hauptstadt des Kaisertums Wu unter Sun Quan ernannt, als dieser sich zum Kaiser ausrief. In der Zeit der Drei Reiche war es das kulturelle und politische Zentrum des südchinesischen Wu-Reiches. Nach dem Fall von Wu (280 n. Chr.) blieb die Stadt bedeutend und wurde unter dem Namen Jiankang ab 317 n. Chr. erneut zur Hauptstadt – diesmal der Östlichen Jin-Dynastie, die vor den Invasionen der nördlichen Steppenvölker in den Süden geflohen war.",
+      "en": "Jianye (present-day Nanjing) became the capital of the Kingdom of Wu in 229 AD when Sun Quan proclaimed himself emperor, establishing it as the political and cultural heart of southern China during the Three Kingdoms period. After Wu's conquest by the Jin dynasty in 280 AD, the city retained its importance. Renamed Jiankang, it again became an imperial capital from 317 AD as the seat of the Eastern Jin dynasty, which had fled south in the face of nomadic invasions from the north — marking the first time a Chinese dynastic capital was established in the Yangtze River delta."
+    }
+  },
+  {
+    "id": "nishapur",
+    "coordinates": [58.7958, 36.2133],
+    "startYear": 260,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": ["sassanid", "persian"],
+    "labels": { "de": "Nishapur", "en": "Nishapur" },
+    "description": {
+      "de": "Nishapur (mittelpersisch Nev-Shapur, 'die gute Stadt Shapurs') wurde im 3. Jahrhundert n. Chr. von Shapur I. gegründet, dem zweiten König der Sassanidendynastie. Die Stadt wurde zur Hauptstadt der Provinz Abarshahr im Osten des Sassanidenreiches und war neben Merw, Herat und Balch eine der vier bedeutenden Metropolen der Region Chorasan. Sie lag an einem wichtigen Knotenpunkt des innerasiatischen Handels und bildete über Jahrhunderte ein Zentrum zoroastrischer Kultur und sassanidischer Verwaltung.",
+      "en": "Nishapur (Middle Persian: Nēv-Šāpūr, meaning 'the good city of Shapur') was founded in the 3rd century AD by Shapur I, the second king of the Sassanid dynasty. It became the capital of the satrapy of Abarshahr in the eastern Sassanid Empire and was, alongside Merv, Herat, and Balkh, one of the four great cities of the Khorasan region. Situated at a key crossroads of inner-Asian trade routes, it served for centuries as a center of Zoroastrian culture and Sassanid administration."
+    }
+  },
+  {
+    "id": "nalanda",
+    "coordinates": [85.4432, 25.1355],
+    "startYear": 427,
+    "endYear": 1200,
+    "importance": 2,
+    "culturalSphere": ["indian", "gupta"],
+    "labels": { "de": "Nalanda", "en": "Nalanda" },
+    "description": {
+      "de": "Nalanda war das bedeutendste buddhistische Kloster- und Universitätszentrum der antiken Welt. Die Große Klosterschule (Mahavihara) wurde um 427 n. Chr. unter dem Guptakönig Kumaragupta I. gegründet und zog Gelehrte aus ganz Asien an – aus China, Korea, Tibet, Sri Lanka und Südostasien. Auf dem Höhepunkt seiner Blüte beherbergte Nalanda bis zu 10.000 Studenten und 2.000 Lehrer, die Theologie, Philosophie, Logik, Grammatik und Medizin lehrten. Die Anlage wurde um 1200 n. Chr. bei Überfällen auf Bihar zerstört und nicht wiederaufgebaut.",
+      "en": "Nalanda was the most important Buddhist monastic and scholastic center of the ancient world. The great monastery (mahavihara) was founded around 427 AD under the Gupta king Kumaragupta I and attracted scholars from across Asia — from China, Korea, Tibet, Sri Lanka, and Southeast Asia. At its peak, Nalanda housed up to 10,000 students and 2,000 teachers, offering instruction in Buddhist theology, philosophy, logic, grammar, and medicine. The complex was destroyed around 1200 AD during raids on Bihar and never rebuilt."
+    }
   }
 ]
