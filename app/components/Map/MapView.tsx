@@ -41,7 +41,13 @@ export function MapView({
         const city = cities.find((c) => c.id === cityId);
         if (city) onSelectItem({ type: "city", data: city });
       } else if (layerId === "regions-fill-parent" || layerId === "regions-fill-child") {
-        onSelectItem({ type: "region", data: feature.properties as RegionProperties });
+        const props = feature.properties as any;
+        const regionData: RegionProperties = {
+          ...props,
+          labels: typeof props.labels === "string" ? JSON.parse(props.labels) : props.labels,
+          description: typeof props.description === "string" ? JSON.parse(props.description) : props.description,
+        };
+        onSelectItem({ type: "region", data: regionData });
       }
     },
     [cities, onSelectItem]
