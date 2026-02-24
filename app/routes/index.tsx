@@ -95,21 +95,18 @@ function HomePage() {
       </div>
 
       {/* Header */}
-      <header className="absolute top-0 left-0 right-0 z-10 flex items-center justify-between px-4 py-3 bg-gradient-to-b from-stone-950/80 to-transparent pointer-events-none">
-        <div className="flex items-center gap-2 pointer-events-auto">
-          <Globe className="text-amber-400" size={22} />
-          <span className="text-stone-100 font-bold text-lg tracking-tight">
+      <header className="absolute top-0 left-0 right-0 z-10 flex items-center justify-between px-4 py-2.5 backdrop-blur-md bg-stone-950/40 border-b border-white/5">
+        <div className="flex items-center gap-2">
+          <Globe className="text-amber-400 shrink-0" size={18} />
+          <span className="text-stone-100 font-semibold text-sm tracking-wide">
             {t("app.title")}
-          </span>
-          <span className="text-stone-500 text-sm hidden sm:inline">
-            {t("app.subtitle")}
           </span>
         </div>
         <button
           onClick={toggleLanguage}
-          className="pointer-events-auto flex items-center gap-1.5 bg-stone-800/90 hover:bg-stone-700 border border-stone-600 text-stone-300 hover:text-stone-100 px-3 py-1.5 rounded-lg text-sm font-medium transition-colors"
+          className="flex items-center gap-1.5 text-stone-400 hover:text-stone-100 text-xs font-medium transition-colors px-2 py-1 rounded hover:bg-white/5"
         >
-          <Languages size={14} />
+          <Languages size={13} />
           {t("language.switch")}
         </button>
       </header>
