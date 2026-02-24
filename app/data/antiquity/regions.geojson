@@ -207,6 +207,56 @@
           "en": "The Ptolemaic Kingdom in Egypt, founded after the death of Alexander the Great. Ended with Cleopatra VII."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [38.0, 37.0], [44.0, 42.0], [50.0, 43.0],
+          [60.0, 40.0], [65.0, 36.0], [63.0, 24.0],
+          [56.0, 22.0], [50.0, 22.0], [44.0, 29.0],
+          [38.0, 33.0], [38.0, 37.0]
+        ]]
+      },
+      "properties": {
+        "id": "sassanid-empire",
+        "startYear": 224,
+        "endYear": 651,
+        "culturalSphere": "sassanid",
+        "color": "#4477AA",
+        "opacity": 0.25,
+        "labels": { "de": "Sassanidenreich", "en": "Sassanid Empire" },
+        "description": {
+          "de": "Das Sassanidenreich war das zweite persische Großreich und einer der mächtigsten Staaten seiner Zeit. Als Erben der zoroastrischen Tradition und Herrscher über das iranische Hochland, Mesopotamien und weite Teile Zentralasiens schufen die Sassaniden eine blühende Hochkultur. Ihre Hauptstadt Ktesiphon am Tigris war eine der größten Städte der antiken Welt. Über vier Jahrhunderte lang stellten sie das mächtigste Gegengewicht zum Römischen und später Byzantinischen Reich im Osten.",
+          "en": "The Sassanid Empire was the second great Persian empire and one of the most powerful states of its era. As heirs to the Zoroastrian tradition and rulers of the Iranian plateau, Mesopotamia, and vast stretches of Central Asia, the Sassanids built a flourishing high civilization. Their capital Ctesiphon on the Tigris was one of the largest cities of the ancient world. For four centuries they stood as the most powerful counterbalance to the Roman and later Byzantine Empire in the east."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [98.0, 38.0], [105.0, 42.0], [118.0, 42.0],
+          [122.0, 41.0], [124.0, 41.0], [122.0, 32.0],
+          [122.0, 22.0], [110.0, 20.0], [102.0, 22.0],
+          [98.0, 28.0], [98.0, 38.0]
+        ]]
+      },
+      "properties": {
+        "id": "jin-dynasty",
+        "startYear": 265,
+        "endYear": 420,
+        "culturalSphere": "chinese",
+        "color": "#CC8800",
+        "opacity": 0.25,
+        "labels": { "de": "Jin-Dynastie", "en": "Jin Dynasty" },
+        "description": {
+          "de": "Die Jin-Dynastie (晉朝) einte China nach der zerrissenen Epoche der Drei Reiche und knüpfte an die Größe der Han-Dynastie an. Unter Kaiser Wudi erreichte das Reich 280 n. Chr. mit der Unterwerfung des Königreichs Wu die vollständige Einigung Chinas. Obwohl die Westliche Jin-Periode von inneren Machtkämpfen erschüttert wurde, blieb die Jin-Dynastiekultur — ihre Literatur, Kalligraphie und philosophische Tradition — eine formende Kraft der chinesischen Zivilisation.",
+          "en": "The Jin Dynasty (晉朝) reunified China after the turbulent Three Kingdoms period, reclaiming the legacy of the Han. Under Emperor Wu, the dynasty achieved the complete unification of China in 280 AD with the conquest of the kingdom of Wu. Though the Western Jin period was shaken by internal power struggles, Jin dynastic culture — its literature, calligraphy, and philosophical traditions — remained a formative influence on Chinese civilization."
+        }
+      }
     }
   ]
 }
