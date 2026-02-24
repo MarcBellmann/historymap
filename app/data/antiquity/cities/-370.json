@@ -266,5 +266,162 @@
       "de": "Oasenstadt in der syrischen Wüste, wichtiger Handelsknoten zwischen dem Römischen und dem Partherreich.",
       "en": "Oasis city in the Syrian desert, key trading node between the Roman and Parthian empires."
     }
+  },
+  {
+    "id": "leptis-magna",
+    "coordinates": [
+      14.3073,
+      32.6247
+    ],
+    "startYear": -600,
+    "endYear": 700,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "african",
+      "phoenician"
+    ],
+    "labels": {
+      "de": "Leptis Magna (Lepcis Magna)",
+      "en": "Leptis Magna"
+    },
+    "description": {
+      "de": "Leptis Magna wurde vor 500 v. Chr. als phönizische Siedlung gegründet und entwickelte sich unter römischer Herrschaft zur prächtigsten Stadt Nordafrikas. Kaiser Septimius Severus, ein Sohn der Stadt, ließ sie mit dem Severusbogen, einem neuen Forum und prächtigen Thermen ausbauen. Um 310 n. Chr. war Leptis Magna das kulturelle und wirtschaftliche Zentrum Tripolitaniens, obwohl Erdbeben in dieser Dekade erste Schäden anrichteten.",
+      "en": "Leptis Magna was founded before 500 BC as a Phoenician settlement and developed under Roman rule into the most magnificent city of North Africa. Emperor Septimius Severus, a son of the city, had it embellished with the Arch of Septimius Severus, a new forum, and splendid baths. Around 310 AD, Leptis Magna was the cultural and economic center of Tripolitania, though earthquakes in this decade caused early damage."
+    }
+  },
+  {
+    "id": "cyrene",
+    "coordinates": [
+      21.8561,
+      32.8194
+    ],
+    "startYear": -631,
+    "endYear": 365,
+    "importance": 2,
+    "culturalSphere": [
+      "greek",
+      "roman"
+    ],
+    "labels": {
+      "de": "Kyrene (Cyrene)",
+      "en": "Cyrene"
+    },
+    "description": {
+      "de": "Kyrene wurde 631 v. Chr. von griechischen Siedlern aus Thera gegründet und wurde zur bedeutendsten griechischen Stadt Nordafrikas. Als intellektuelles Zentrum beherbergte sie eine berühmte Schule der Philosophie (die Kyrenaische Schule). Unter der Reform Diokletians wurde Kyrene zur Hauptstadt der neuen Provinz Libya Superior; um 310 n. Chr. kämpfte die Stadt noch mit den Folgen eines Erdbebens von 262 n. Chr.",
+      "en": "Cyrene was founded in 631 BC by Greek settlers from Thera and became the most important Greek city in North Africa. As an intellectual center it housed a famous school of philosophy (the Cyrenaic school). Under Diocletian's reforms, Cyrene became the capital of the new province of Libya Superior; around 310 AD the city was still dealing with the aftermath of an earthquake in 262 AD."
+    }
+  },
+  {
+    "id": "merv",
+    "coordinates": [
+      62.1888,
+      37.6577
+    ],
+    "startYear": -500,
+    "endYear": 1221,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "parthian",
+      "sassanid",
+      "sogdian"
+    ],
+    "labels": {
+      "de": "Merw (Merv)",
+      "en": "Merv"
+    },
+    "description": {
+      "de": "Merw (Mahrv in mittelpersischer Sprache) war seit der Achämenidenzeit als Margu bekannt und zählte zu den bedeutendsten Städten Zentralasiens. Die Stadt lag an der Kreuzung der Seidenstraßenrouten nach Herat/Baktrien und nach Samarkand/Transoxanien. Um 310 n. Chr. stand Merw unter sassanidischer Herrschaft und war das religiöse und wirtschaftliche Zentrum der Provinz Margiana — ein Schmelztiegel von Zoroastrismus, Buddhismus und frühem Christentum.",
+      "en": "Merv (Mahrv in Middle Persian) was known since Achaemenid times as Margu and was one of the most important cities of Central Asia. The city lay at the crossroads of Silk Road routes to Herat and Bactria on one side, and to Samarkand and Transoxiana on the other. Around 310 AD Merv was under Sassanid rule and served as the religious and economic center of the province of Margiana — a melting pot of Zoroastrianism, Buddhism, and early Christianity."
+    }
+  },
+  {
+    "id": "bactra",
+    "coordinates": [
+      66.8972,
+      36.7564
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "hellenistic",
+      "kushan",
+      "sogdian"
+    ],
+    "labels": {
+      "de": "Baktra (Balkh)",
+      "en": "Bactra (Balkh)"
+    },
+    "description": {
+      "de": "Baktra (das heutige Balkh in Afghanistan) war die Hauptstadt des antiken Baktrien und eine der heiligen Städte des Zoroastrismus. Alexander der Große machte die Stadt zu einem seiner östlichsten Stützpunkte, und unter den Kuschanern wurde sie zu einem bedeutenden Zentrum des Buddhismus. Um 310 n. Chr. befand sich Baktra im Übergangsbereich zwischen der späten Kuschangewalt und der sich ausdehnenden sassanidischen Kontrolle.",
+      "en": "Bactra (present-day Balkh in Afghanistan) was the capital of ancient Bactria and one of the sacred cities of Zoroastrianism. Alexander the Great made it one of his easternmost strongholds, and under the Kushans it became a major center of Buddhism. Around 310 AD, Bactra lay in the transitional zone between the declining Kushan power and expanding Sassanid control."
+    }
+  },
+  {
+    "id": "ujjain",
+    "coordinates": [
+      75.7764,
+      23.1797
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Ujjain (Avantika)",
+      "en": "Ujjain (Avantika)"
+    },
+    "description": {
+      "de": "Ujjain, das antike Avantika, war eine der heiligsten Städte Indiens und Hauptstadt des Mahajanapada Avanti. Die Stadt lag auf dem zentralen Handelsweg von West- nach Ostindien und war ein Zentrum von Astronomie und Mathematik — der 0.-Meridian der klassischen indischen Astronomie verlief durch Ujjain. Um 310 n. Chr. stand die Stadt unter der Kontrolle der Westlichen Satrapen, bevor sie einige Jahrzehnte später von Chandragupta II. in das Guptareich eingegliedert wurde.",
+      "en": "Ujjain, the ancient Avantika, was one of the holiest cities of India and the capital of the Mahajanapada of Avanti. The city lay on the central trade route from western to eastern India and was a center of astronomy and mathematics — the prime meridian of classical Indian astronomy ran through Ujjain. Around 310 AD the city was under the control of the Western Satraps before being incorporated into the Gupta Empire by Chandragupta II some decades later."
+    }
+  },
+  {
+    "id": "mathura",
+    "coordinates": [
+      77.6737,
+      27.4924
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "kushan"
+    ],
+    "labels": {
+      "de": "Mathura",
+      "en": "Mathura"
+    },
+    "description": {
+      "de": "Mathura, die heilige Geburtsstadt Krishnas, war einer der wichtigsten religiösen und künstlerischen Mittelpunkte Indiens. Unter den Kuschanern, die die Stadt zu einer ihrer Hauptstädte gemacht hatten, erlebte Mathura eine bedeutende Blüte der buddhistischen und hinduistischen Skulptur. Um 310 n. Chr. stand die Stadt im Übergang zwischen der schwindenden Kuschangewalt und der aufsteigenden Gupta-Dynastie.",
+      "en": "Mathura, the sacred birthplace of Krishna, was one of the most important religious and artistic centers of India. Under the Kushans, who made the city one of their capitals, Mathura experienced a major flowering of Buddhist and Hindu sculpture. Around 310 AD the city was in transition between the fading Kushan power and the rising Gupta dynasty."
+    }
+  },
+  {
+    "id": "ye",
+    "coordinates": [
+      114.4002,
+      36.2748
+    ],
+    "startYear": -650,
+    "endYear": 580,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Ye (Yecheng)",
+      "en": "Ye (Yecheng)"
+    },
+    "description": {
+      "de": "Ye (Yecheng) war eine der wichtigsten politischen Hauptstädte Nordchinas und diente als Machtbasis des Warlords Cao Cao nach seiner Einnahme der Stadt im Jahr 204 n. Chr. Als Cao Cao 216 n. Chr. den Titel König von Wei annahm, wurde Ye offiziell zur Hauptstadt des Staates Wei. Die Stadt an der Grenze von Hebei und Henan war Sitz eines prachtvollen Palastkomplexes und ein Zentrum nordchinesischer Kultur während der Zeit der Drei Reiche und der späten Jin-Dynastie.",
+      "en": "Ye (Yecheng) was one of the most important political capitals of northern China and served as the power base of the warlord Cao Cao after he captured the city in 204 AD. When Cao Cao assumed the title King of Wei in 216 AD, Ye officially became the capital of the state of Wei. The city on the border of Hebei and Henan housed a magnificent palace complex and was a center of northern Chinese culture during the Three Kingdoms era and the later Jin dynasty."
+    }
   }
 ]

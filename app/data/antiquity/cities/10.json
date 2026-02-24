@@ -44,6 +44,28 @@
     }
   },
   {
+    "id": "carthago-romana",
+    "coordinates": [
+      10.3236,
+      36.8525
+    ],
+    "startYear": -29,
+    "endYear": 698,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "african"
+    ],
+    "labels": {
+      "de": "Römisches Karthago",
+      "en": "Roman Carthage"
+    },
+    "description": {
+      "de": "Augustus gründete 29 v. Chr. auf den Ruinen des alten Karthago die Kolonie Colonia Iulia Concordia Carthago. Die Stadt wuchs zur zweitgrößten Stadt des weströmischen Reiches und zum Hauptort der Provinz Africa Proconsularis. Um 310 n. Chr. war sie eines der wichtigsten wirtschaftlichen und kulturellen Zentren des gesamten Reiches.",
+      "en": "Augustus founded the colony Colonia Iulia Concordia Carthago in 29 BC on the ruins of the old city. It grew to become the second-largest city in the western Roman Empire and the capital of the province of Africa Proconsularis. By 310 AD it was one of the most important economic and cultural centers of the entire empire."
+    }
+  },
+  {
     "id": "alexandria",
     "coordinates": [
       29.9187,
@@ -312,6 +334,400 @@
     "description": {
       "de": "Oasenstadt in der syrischen Wüste, wichtiger Handelsknoten zwischen dem Römischen und dem Partherreich.",
       "en": "Oasis city in the Syrian desert, key trading node between the Roman and Parthian empires."
+    }
+  },
+  {
+    "id": "mediolanum",
+    "coordinates": [
+      9.1895,
+      45.4643
+    ],
+    "startYear": -222,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Mailand (Mediolanum)",
+      "en": "Milan (Mediolanum)"
+    },
+    "description": {
+      "de": "Mediolanum wurde 222 v. Chr. von den Römern als keltische Siedlung der Insubrer erobert und entwickelte sich zur bedeutendsten Stadt Norditaliens. Ab 286 n. Chr. diente es als Kaiserresidenz der westlichen Tetrarchie unter Maximian und wurde so zur de-facto-Hauptstadt des weströmischen Reiches. Um 310 n. Chr. war die Stadt mit rund 100.000 Einwohnern eines der größten und prächtigsten Zentren des Imperiums.",
+      "en": "Mediolanum was conquered by Rome in 222 BC from the Celtic Insubres tribe and grew into the most important city of northern Italy. From 286 AD it served as the imperial residence of the western tetrarchy under Maximian, becoming the de facto capital of the western Roman Empire. Around 310 AD the city was home to roughly 100,000 people and was one of the largest and most splendid centers of the empire."
+    }
+  },
+  {
+    "id": "nicomedia",
+    "coordinates": [
+      29.9169,
+      40.7669
+    ],
+    "startYear": -264,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "roman",
+      "hellenistic"
+    ],
+    "labels": {
+      "de": "Nikomedien (Nicomedia)",
+      "en": "Nicomedia"
+    },
+    "description": {
+      "de": "Nikomedes I. von Bithynien gründete 264 v. Chr. Nikomedia, das zur Hauptstadt des Königreichs Bithynien aufstieg. Im Jahr 286 n. Chr. wählte Diocletian die Stadt zur östlichen Seniorhauptstadt des Römischen Reiches, von der aus er das gesamte Imperium regierte. Während der Tetrarchie war Nikomedia das politische und administrative Zentrum des Ostens und eine der wichtigsten Städte der Welt.",
+      "en": "Nicomedes I of Bithynia founded Nicomedia in 264 BC and it became the capital of the Bithynian kingdom. In 286 AD Diocletian chose it as the senior eastern capital of the Roman Empire, from which he governed the entire realm. During the Tetrarchy, Nicomedia was the political and administrative center of the east and one of the most important cities in the world."
+    }
+  },
+  {
+    "id": "trier",
+    "coordinates": [
+      6.6394,
+      49.7556
+    ],
+    "startYear": -16,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Trier (Augusta Treverorum)",
+      "en": "Trier (Augusta Treverorum)"
+    },
+    "description": {
+      "de": "Augusta Treverorum wurde um 16 v. Chr. als römische Kolonie gegründet und entwickelte sich zur größten Stadt nördlich der Alpen. Im Rahmen der Tetrarchie wurde Trier die Kaiserresidenz des Westens: Constantius I. regierte von hier, und sein Sohn Konstantin nutzte die Stadt als Hauptstützpunkt für seine Feldzüge. Im Jahr 310 n. Chr. ließ Konstantin hier die berühmte Konstantinbasilika errichten. Trier war damals eines der vier Hauptzentren der römischen Welt.",
+      "en": "Augusta Treverorum was founded around 16 BC as a Roman colony and grew into the largest city north of the Alps. Within the Tetrarchy, Trier became the imperial residence of the west: Constantius I ruled from here, and his son Constantine used the city as his main western base. In 310 AD Constantine began construction of the famous Aula Palatina here. Trier was at this time one of the four main centers of the Roman world."
+    }
+  },
+  {
+    "id": "thessalonica",
+    "coordinates": [
+      22.9422,
+      40.6367
+    ],
+    "startYear": -316,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "roman",
+      "greek",
+      "hellenistic"
+    ],
+    "labels": {
+      "de": "Thessalonike (Thessalonica)",
+      "en": "Thessalonica"
+    },
+    "description": {
+      "de": "Thessalonike wurde um 316 v. Chr. von Kassander gegründet und nach seiner Frau, der Halbschwester Alexanders des Großen, benannt. Im Rahmen der Tetrarchie wählte Galerius die Stadt als seine Residenz und ließ einen Palastkomplex, einen Triumphbogen und ein Hippodrom errichten. Um 310 n. Chr. war Thessalonike die bedeutendste Metropole des Balkans und das Machtzentrum des östlichen Tetrarchenreiches.",
+      "en": "Thessalonica was founded around 316 BC by Cassander and named after his wife, the half-sister of Alexander the Great. During the Tetrarchy, Galerius chose the city as his residence and built an imperial palace complex, a triumphal arch, and a hippodrome. Around 310 AD, Thessalonica was the most important metropolis of the Balkans and the power center of the eastern tetrarchate."
+    }
+  },
+  {
+    "id": "sirmium",
+    "coordinates": [
+      19.6122,
+      44.9764
+    ],
+    "startYear": -100,
+    "endYear": 582,
+    "importance": 1,
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Sirmium (Sremska Mitrovica)",
+      "en": "Sirmium"
+    },
+    "description": {
+      "de": "Sirmium an der Sava war eine der vier Hauptstädte der spätrömischen Tetrarchie und galt als 'Mutter der Städte' in der Pannonia-Region. Es diente als Stützpunkt für Feldzüge an der Donaugrenze und als Kaiserresidenz unter Diocletian, Licinius und später Konstantius II. Die strategisch günstige Lage machte Sirmium zum militärischen und administrativen Schlüsselzentrum des Balkans.",
+      "en": "Sirmium on the Sava River was one of the four capitals of the late Roman Tetrarchy and was called the 'mother of cities' in the Pannonian region. It served as a base for campaigns on the Danube frontier and as an imperial residence under Diocletian, Licinius, and later Constantius II. Its strategic location made Sirmium the military and administrative key center of the Balkans."
+    }
+  },
+  {
+    "id": "aquileia",
+    "coordinates": [
+      13.3705,
+      45.7697
+    ],
+    "startYear": -181,
+    "endYear": 452,
+    "importance": 2,
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Aquileia",
+      "en": "Aquileia"
+    },
+    "description": {
+      "de": "Aquileia wurde 181 v. Chr. als römische Militärkolonie gegründet und entwickelte sich zum wichtigsten Handelsknotenpunkt zwischen Italien und dem Donau-Donauraum. In der Blütezeit war die Stadt mit rund 100.000 Einwohnern nach Rom die bedeutendste Stadt Italiens. Als Hauptstadt von Venetia et Histria und bedeutender Bischofssitz war sie um 310 n. Chr. ein zentrales Wirtschafts- und Kulturzentrum der Spätantike.",
+      "en": "Aquileia was founded in 181 BC as a Roman military colony and became the most important commercial hub between Italy and the Danubian regions. At its height the city had around 100,000 inhabitants, making it the most important Italian city after Rome. As the capital of Venetia et Histria and a major episcopal see, it was around 310 AD a central economic and cultural center of late antiquity."
+    }
+  },
+  {
+    "id": "lugdunum",
+    "coordinates": [
+      4.8357,
+      45.764
+    ],
+    "startYear": -43,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Lyon (Lugdunum)",
+      "en": "Lyon (Lugdunum)"
+    },
+    "description": {
+      "de": "Lugdunum wurde 43 v. Chr. an der Mündung der Saône in die Rhône gegründet und wurde zur Hauptstadt der Tres Galliae (Drei Gallien). Als Knotenpunkt der gallischen Straßen, Sitz des Kaiserkults und bedeutendes Handelszentrum war es die größte Stadt Galliens. Um 310 n. Chr. blieb Lugdunum trotz des Aufstiegs von Trier als kaiserliche Residenz ein wichtiges wirtschaftliches und religiöses Zentrum.",
+      "en": "Lugdunum was founded in 43 BC at the confluence of the Saone and Rhone rivers and became the capital of the Tres Galliae (Three Gauls). As the hub of the Gallic road network, the seat of the imperial cult, and a major trading center, it was the largest city in Gaul. By 310 AD Lugdunum remained an important economic and religious center despite the rise of Trier as the imperial residence."
+    }
+  },
+  {
+    "id": "carthago-nova",
+    "coordinates": [
+      -0.9738,
+      37.6013
+    ],
+    "startYear": -227,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "phoenician"
+    ],
+    "labels": {
+      "de": "Carthago Nova (Cartagena)",
+      "en": "Carthago Nova (Cartagena)"
+    },
+    "description": {
+      "de": "Carthago Nova ('Neu-Karthago') wurde um 227 v. Chr. vom karthagischen Feldherrn Hasdrubal dem Schönen als Stützpunkt in Hispanien gegründet. Mit seinem hervorragenden Naturhafen und den reichen Silberminen der Umgebung war es das wichtigste Zentrum auf der Iberischen Halbinsel. Im Jahr 298 n. Chr. wurde Carthago Nova zur Hauptstadt der neuen Provinz Hispania Carthaginensis ernannt.",
+      "en": "Carthago Nova ('New Carthage') was founded around 227 BC by the Carthaginian general Hasdrubal the Fair as a base in Hispania. With its excellent natural harbor and the rich silver mines of the surrounding area, it was the most important center on the Iberian Peninsula. In 298 AD Carthago Nova was made the capital of the new province of Hispania Carthaginensis."
+    }
+  },
+  {
+    "id": "leptis-magna",
+    "coordinates": [
+      14.3073,
+      32.6247
+    ],
+    "startYear": -600,
+    "endYear": 700,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "african",
+      "phoenician"
+    ],
+    "labels": {
+      "de": "Leptis Magna (Lepcis Magna)",
+      "en": "Leptis Magna"
+    },
+    "description": {
+      "de": "Leptis Magna wurde vor 500 v. Chr. als phönizische Siedlung gegründet und entwickelte sich unter römischer Herrschaft zur prächtigsten Stadt Nordafrikas. Kaiser Septimius Severus, ein Sohn der Stadt, ließ sie mit dem Severusbogen, einem neuen Forum und prächtigen Thermen ausbauen. Um 310 n. Chr. war Leptis Magna das kulturelle und wirtschaftliche Zentrum Tripolitaniens, obwohl Erdbeben in dieser Dekade erste Schäden anrichteten.",
+      "en": "Leptis Magna was founded before 500 BC as a Phoenician settlement and developed under Roman rule into the most magnificent city of North Africa. Emperor Septimius Severus, a son of the city, had it embellished with the Arch of Septimius Severus, a new forum, and splendid baths. Around 310 AD, Leptis Magna was the cultural and economic center of Tripolitania, though earthquakes in this decade caused early damage."
+    }
+  },
+  {
+    "id": "cyrene",
+    "coordinates": [
+      21.8561,
+      32.8194
+    ],
+    "startYear": -631,
+    "endYear": 365,
+    "importance": 2,
+    "culturalSphere": [
+      "greek",
+      "roman"
+    ],
+    "labels": {
+      "de": "Kyrene (Cyrene)",
+      "en": "Cyrene"
+    },
+    "description": {
+      "de": "Kyrene wurde 631 v. Chr. von griechischen Siedlern aus Thera gegründet und wurde zur bedeutendsten griechischen Stadt Nordafrikas. Als intellektuelles Zentrum beherbergte sie eine berühmte Schule der Philosophie (die Kyrenaische Schule). Unter der Reform Diokletians wurde Kyrene zur Hauptstadt der neuen Provinz Libya Superior; um 310 n. Chr. kämpfte die Stadt noch mit den Folgen eines Erdbebens von 262 n. Chr.",
+      "en": "Cyrene was founded in 631 BC by Greek settlers from Thera and became the most important Greek city in North Africa. As an intellectual center it housed a famous school of philosophy (the Cyrenaic school). Under Diocletian's reforms, Cyrene became the capital of the new province of Libya Superior; around 310 AD the city was still dealing with the aftermath of an earthquake in 262 AD."
+    }
+  },
+  {
+    "id": "edessa",
+    "coordinates": [
+      38.7924,
+      37.1583
+    ],
+    "startYear": -304,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "aramaic",
+      "hellenistic"
+    ],
+    "labels": {
+      "de": "Edessa (Urfa)",
+      "en": "Edessa"
+    },
+    "description": {
+      "de": "Edessa (heute Urfa in der Türkei) wurde 304 v. Chr. als hellenistische Stadtgründung auf einer älteren Siedlung errichtet. Als Hauptstadt des arabisch-aramäischen Königreichs Osroene war es über Jahrhunderte ein Handelsknotenpunkt zwischen dem Römischen und dem Partherreich. Um 310 n. Chr. war Edessa eine römische Colonia in der Provinz Osroene und ein frühes Zentrum des östlichen Christentums.",
+      "en": "Edessa (present-day Urfa in Turkey) was established in 304 BC as a Hellenistic city over an older settlement. As the capital of the Arab-Aramaic kingdom of Osroene, it was for centuries a trading hub between the Roman and Parthian empires. Around 310 AD, Edessa was a Roman colonia in the province of Osroene and an early center of eastern Christianity."
+    }
+  },
+  {
+    "id": "merv",
+    "coordinates": [
+      62.1888,
+      37.6577
+    ],
+    "startYear": -500,
+    "endYear": 1221,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "parthian",
+      "sassanid",
+      "sogdian"
+    ],
+    "labels": {
+      "de": "Merw (Merv)",
+      "en": "Merv"
+    },
+    "description": {
+      "de": "Merw (Mahrv in mittelpersischer Sprache) war seit der Achämenidenzeit als Margu bekannt und zählte zu den bedeutendsten Städten Zentralasiens. Die Stadt lag an der Kreuzung der Seidenstraßenrouten nach Herat/Baktrien und nach Samarkand/Transoxanien. Um 310 n. Chr. stand Merw unter sassanidischer Herrschaft und war das religiöse und wirtschaftliche Zentrum der Provinz Margiana — ein Schmelztiegel von Zoroastrismus, Buddhismus und frühem Christentum.",
+      "en": "Merv (Mahrv in Middle Persian) was known since Achaemenid times as Margu and was one of the most important cities of Central Asia. The city lay at the crossroads of Silk Road routes to Herat and Bactria on one side, and to Samarkand and Transoxiana on the other. Around 310 AD Merv was under Sassanid rule and served as the religious and economic center of the province of Margiana — a melting pot of Zoroastrianism, Buddhism, and early Christianity."
+    }
+  },
+  {
+    "id": "bactra",
+    "coordinates": [
+      66.8972,
+      36.7564
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "hellenistic",
+      "kushan",
+      "sogdian"
+    ],
+    "labels": {
+      "de": "Baktra (Balkh)",
+      "en": "Bactra (Balkh)"
+    },
+    "description": {
+      "de": "Baktra (das heutige Balkh in Afghanistan) war die Hauptstadt des antiken Baktrien und eine der heiligen Städte des Zoroastrismus. Alexander der Große machte die Stadt zu einem seiner östlichsten Stützpunkte, und unter den Kuschanern wurde sie zu einem bedeutenden Zentrum des Buddhismus. Um 310 n. Chr. befand sich Baktra im Übergangsbereich zwischen der späten Kuschangewalt und der sich ausdehnenden sassanidischen Kontrolle.",
+      "en": "Bactra (present-day Balkh in Afghanistan) was the capital of ancient Bactria and one of the sacred cities of Zoroastrianism. Alexander the Great made it one of his easternmost strongholds, and under the Kushans it became a major center of Buddhism. Around 310 AD, Bactra lay in the transitional zone between the declining Kushan power and expanding Sassanid control."
+    }
+  },
+  {
+    "id": "ujjain",
+    "coordinates": [
+      75.7764,
+      23.1797
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Ujjain (Avantika)",
+      "en": "Ujjain (Avantika)"
+    },
+    "description": {
+      "de": "Ujjain, das antike Avantika, war eine der heiligsten Städte Indiens und Hauptstadt des Mahajanapada Avanti. Die Stadt lag auf dem zentralen Handelsweg von West- nach Ostindien und war ein Zentrum von Astronomie und Mathematik — der 0.-Meridian der klassischen indischen Astronomie verlief durch Ujjain. Um 310 n. Chr. stand die Stadt unter der Kontrolle der Westlichen Satrapen, bevor sie einige Jahrzehnte später von Chandragupta II. in das Guptareich eingegliedert wurde.",
+      "en": "Ujjain, the ancient Avantika, was one of the holiest cities of India and the capital of the Mahajanapada of Avanti. The city lay on the central trade route from western to eastern India and was a center of astronomy and mathematics — the prime meridian of classical Indian astronomy ran through Ujjain. Around 310 AD the city was under the control of the Western Satraps before being incorporated into the Gupta Empire by Chandragupta II some decades later."
+    }
+  },
+  {
+    "id": "mathura",
+    "coordinates": [
+      77.6737,
+      27.4924
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "kushan"
+    ],
+    "labels": {
+      "de": "Mathura",
+      "en": "Mathura"
+    },
+    "description": {
+      "de": "Mathura, die heilige Geburtsstadt Krishnas, war einer der wichtigsten religiösen und künstlerischen Mittelpunkte Indiens. Unter den Kuschanern, die die Stadt zu einer ihrer Hauptstädte gemacht hatten, erlebte Mathura eine bedeutende Blüte der buddhistischen und hinduistischen Skulptur. Um 310 n. Chr. stand die Stadt im Übergang zwischen der schwindenden Kuschangewalt und der aufsteigenden Gupta-Dynastie.",
+      "en": "Mathura, the sacred birthplace of Krishna, was one of the most important religious and artistic centers of India. Under the Kushans, who made the city one of their capitals, Mathura experienced a major flowering of Buddhist and Hindu sculpture. Around 310 AD the city was in transition between the fading Kushan power and the rising Gupta dynasty."
+    }
+  },
+  {
+    "id": "ye",
+    "coordinates": [
+      114.4002,
+      36.2748
+    ],
+    "startYear": -650,
+    "endYear": 580,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Ye (Yecheng)",
+      "en": "Ye (Yecheng)"
+    },
+    "description": {
+      "de": "Ye (Yecheng) war eine der wichtigsten politischen Hauptstädte Nordchinas und diente als Machtbasis des Warlords Cao Cao nach seiner Einnahme der Stadt im Jahr 204 n. Chr. Als Cao Cao 216 n. Chr. den Titel König von Wei annahm, wurde Ye offiziell zur Hauptstadt des Staates Wei. Die Stadt an der Grenze von Hebei und Henan war Sitz eines prachtvollen Palastkomplexes und ein Zentrum nordchinesischer Kultur während der Zeit der Drei Reiche und der späten Jin-Dynastie.",
+      "en": "Ye (Yecheng) was one of the most important political capitals of northern China and served as the power base of the warlord Cao Cao after he captured the city in 204 AD. When Cao Cao assumed the title King of Wei in 216 AD, Ye officially became the capital of the state of Wei. The city on the border of Hebei and Henan housed a magnificent palace complex and was a center of northern Chinese culture during the Three Kingdoms era and the later Jin dynasty."
+    }
+  },
+  {
+    "id": "chengdu",
+    "coordinates": [
+      104.0658,
+      30.658
+    ],
+    "startYear": -316,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Chengdu",
+      "en": "Chengdu"
+    },
+    "description": {
+      "de": "Chengdu, das antike 'Land des Himmels', war die Hauptstadt des Königreichs Shu Han (221–263 n. Chr.) unter Liu Bei und Zhuge Liang und das kulturelle Herz Südwestchinas. Nach der Eingliederung in das Jinreich blieb Chengdu als Verwaltungszentrum der Sichuan-Region von großer Bedeutung. Die Stadt war bekannt für ihre Seidenproduktion und ihre strategische Lage an den Handelsrouten nach Süd- und Zentralasien.",
+      "en": "Chengdu, the ancient 'Land of Heaven', was the capital of the Kingdom of Shu Han (221–263 AD) under Liu Bei and Zhuge Liang and the cultural heart of southwestern China. After incorporation into the Jin empire, Chengdu retained its great importance as the administrative center of the Sichuan region. The city was known for its silk production and its strategic location on trade routes to South and Central Asia."
+    }
+  },
+  {
+    "id": "ravenna",
+    "coordinates": [
+      12.1983,
+      44.4184
+    ],
+    "startYear": -100,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Ravenna",
+      "en": "Ravenna"
+    },
+    "description": {
+      "de": "Ravenna an der Adria war seit augusteischer Zeit Heimat des wichtigsten weströmischen Kriegshafens Classis und ein bedeutendes Handelszentrum. Seine Lage in sumpfigem Gelände machte es militärisch nahezu uneinnehmbar. Im Jahr 402 n. Chr. wurde Ravenna zur letzten Hauptstadt des Weströmischen Reiches, aber bereits um 310 n. Chr. war es ein strategisch wichtiger Stützpunkt des Imperiums.",
+      "en": "Ravenna on the Adriatic had since Augustan times been home to the most important western Roman naval harbor, Classis, and was a significant trading center. Its location in marshy terrain made it nearly impregnable militarily. In 402 AD Ravenna became the last capital of the Western Roman Empire, but already around 310 AD it was a strategically important base of the empire."
     }
   }
 ]
