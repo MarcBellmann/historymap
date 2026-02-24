@@ -23,7 +23,8 @@
     "type": "Typ",
     "culturalSphere": "Kulturkreis",
     "close": "Schließen",
-    "year": "Jahr"
+    "year": "Jahr",
+    "peakPeriod": "Blütezeit"
   },
   "eventTypes": {
     "battle": "Schlachten",

@@ -38,6 +38,8 @@
         "id": "roman-empire",
         "startYear": -264,
         "endYear": 476,
+        "peakStartYear": -27,
+        "peakEndYear": 284,
         "culturalSphere": "roman",
         "color": "#CC3333",
         "opacity": 0.25,
@@ -186,76 +188,6 @@
         "description": {
           "de": "Das Königreich Kusch (Nubien) war eine eigenständige Zivilisation südlich Ägyptens mit eigener Schrift und Pyramidentradition.",
           "en": "The Kingdom of Kush (Nubia) was an independent civilization south of Egypt with its own script and pyramid tradition."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              38,
-              37
-            ],
-            [
-              44,
-              42
-            ],
-            [
-              50,
-              43
-            ],
-            [
-              60,
-              40
-            ],
-            [
-              65,
-              36
-            ],
-            [
-              63,
-              24
-            ],
-            [
-              56,
-              22
-            ],
-            [
-              50,
-              22
-            ],
-            [
-              44,
-              29
-            ],
-            [
-              38,
-              33
-            ],
-            [
-              38,
-              37
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "sassanid-empire",
-        "startYear": 224,
-        "endYear": 651,
-        "culturalSphere": "sassanid",
-        "color": "#4477AA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Sassanidenreich",
-          "en": "Sassanid Empire"
-        },
-        "description": {
-          "de": "Das Sassanidenreich war das zweite persische Großreich und einer der mächtigsten Staaten seiner Zeit. Als Erben der zoroastrischen Tradition und Herrscher über das iranische Hochland, Mesopotamien und weite Teile Zentralasiens schufen die Sassaniden eine blühende Hochkultur. Ihre Hauptstadt Ktesiphon am Tigris war eine der größten Städte der antiken Welt. Über vier Jahrhunderte lang stellten sie das mächtigste Gegengewicht zum Römischen und später Byzantinischen Reich im Osten.",
-          "en": "The Sassanid Empire was the second great Persian empire and one of the most powerful states of its era. As heirs to the Zoroastrian tradition and rulers of the Iranian plateau, Mesopotamia, and vast stretches of Central Asia, the Sassanids built a flourishing high civilization. Their capital Ctesiphon on the Tigris was one of the largest cities of the ancient world. For four centuries they stood as the most powerful counterbalance to the Roman and later Byzantine Empire in the east."
         }
       }
     },

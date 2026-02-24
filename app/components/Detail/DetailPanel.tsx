@@ -121,6 +121,19 @@ export function DetailPanel({ item, onClose, lang }: DetailPanelProps) {
                   {data.endYear !== null ? formatYear(data.endYear, lang) : t("detail.present")}
                 </span>
               </div>
+              {(data.peakStartYear !== undefined || data.peakEndYear !== undefined) &&
+                (data.peakStartYear !== data.startYear || data.peakEndYear !== data.endYear) && (
+                <div className="flex gap-3">
+                  <span className="text-stone-500">{t("detail.peakPeriod")}:</span>
+                  <span className="text-stone-300">
+                    {formatYear(data.peakStartYear ?? data.startYear, lang)}
+                    {" – "}
+                    {data.peakEndYear !== null && data.peakEndYear !== undefined
+                      ? formatYear(data.peakEndYear, lang)
+                      : t("detail.present")}
+                  </span>
+                </div>
+              )}
               <div className="flex gap-3">
                 <span className="text-stone-500">{t("detail.culturalSphere")}:</span>
                 <span className="bg-stone-700 text-stone-300 px-1.5 py-0.5 rounded text-xs">

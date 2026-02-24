@@ -38,6 +38,8 @@
         "id": "roman-empire",
         "startYear": -264,
         "endYear": 476,
+        "peakStartYear": -27,
+        "peakEndYear": 284,
         "culturalSphere": "roman",
         "color": "#CC3333",
         "opacity": 0.25,

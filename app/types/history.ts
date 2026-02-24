@@ -11,8 +11,11 @@ export interface City {
 
 export interface RegionProperties {
   id: string;
+  parentId?: string;
   startYear: number;
   endYear: number | null;
+  peakStartYear?: number;
+  peakEndYear?: number | null;
   culturalSphere: string;
   color: string;
   opacity: number;

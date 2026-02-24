@@ -23,7 +23,8 @@
     "type": "Type",
     "culturalSphere": "Cultural Sphere",
     "close": "Close",
-    "year": "Year"
+    "year": "Year",
+    "peakPeriod": "Peak Period"
   },
   "eventTypes": {
     "battle": "Battle",

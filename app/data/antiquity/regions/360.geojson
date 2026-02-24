@@ -8,56 +8,6 @@
         "coordinates": [
           [
             [
-              -10,
-              30
-            ],
-            [
-              45,
-              30
-            ],
-            [
-              50,
-              37
-            ],
-            [
-              45,
-              55
-            ],
-            [
-              -10,
-              55
-            ],
-            [
-              -10,
-              30
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "roman-empire",
-        "startYear": -264,
-        "endYear": 476,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Römisches Reich",
-          "en": "Roman Empire"
-        },
-        "description": {
-          "de": "Das Römische Reich auf seinem Höhepunkt erstreckte sich von Britannien bis Mesopotamien und beherrschte die gesamte Mittelmeerwelt.",
-          "en": "The Roman Empire at its height stretched from Britain to Mesopotamia, dominating the entire Mediterranean world."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               60,
               25
             ],
@@ -200,6 +150,8 @@
         "id": "sassanid-empire",
         "startYear": 224,
         "endYear": 651,
+        "peakStartYear": 260,
+        "peakEndYear": 400,
         "culturalSphere": "sassanid",
         "color": "#4477AA",
         "opacity": 0.25,

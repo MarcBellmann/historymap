@@ -25,7 +25,9 @@ for (let decade = -500; decade <= 500; decade += 10) {
     type: "FeatureCollection",
     features: regions.features.filter((f: any) => {
       const props = f.properties;
-      return props.startYear <= decade && (props.endYear === null || props.endYear >= decade);
+      const displayStart = props.peakStartYear ?? props.startYear;
+      const displayEnd = props.peakEndYear !== undefined ? props.peakEndYear : props.endYear;
+      return displayStart <= decade && (displayEnd === null || displayEnd >= decade);
     }),
   };
   writeFileSync(
