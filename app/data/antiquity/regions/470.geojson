@@ -166,6 +166,276 @@
           "en": "The Sassanid Empire was the second great Persian empire and one of the most powerful states of its era. As heirs to the Zoroastrian tradition and rulers of the Iranian plateau, Mesopotamia, and vast stretches of Central Asia, the Sassanids built a flourishing high civilization. Their capital Ctesiphon on the Tigris was one of the largest cities of the ancient world. For four centuries they stood as the most powerful counterbalance to the Roman and later Byzantine Empire in the east."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6,
+              47
+            ],
+            [
+              15,
+              47
+            ],
+            [
+              15.5,
+              48.5
+            ],
+            [
+              13,
+              50
+            ],
+            [
+              8,
+              50.5
+            ],
+            [
+              6,
+              49.5
+            ],
+            [
+              6,
+              47
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "alemanni",
+        "startYear": 260,
+        "endYear": 496,
+        "culturalSphere": "germanic",
+        "color": "#8B7355",
+        "opacity": 0.35,
+        "labels": {
+          "de": "Alamannen",
+          "en": "Alemanni"
+        },
+        "description": {
+          "de": "Die Alamannen waren ein germanischer Stammesverband, der die Region zwischen Rhein, Main und Donau beherrschte — das heutige Südwestdeutschland, das Elsass, die Schweiz und Österreich. Sie drängten Rom wiederholt aus den Grenzgebieten zurück und besiedelten die römischen Agri Decumates dauerhaft. Ihre Krieger galten als besonders furchtlos, und ihr Einfluss auf die alemannische Dialektgruppe und die Herausbildung der deutschen Sprache ist bis heute spürbar.",
+          "en": "The Alemanni were a Germanic tribal confederation that dominated the region between the Rhine, Main, and Danube rivers — modern southwest Germany, Alsace, Switzerland, and Austria. They repeatedly pushed Rome back from its frontier territories and permanently settled the Roman Agri Decumates. Their warriors were renowned for ferocity, and their influence on the Alemannic dialect group and the formation of the German language endures to this day."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3,
+              50.5
+            ],
+            [
+              9,
+              50.5
+            ],
+            [
+              9,
+              53.5
+            ],
+            [
+              6,
+              53.5
+            ],
+            [
+              3,
+              52.5
+            ],
+            [
+              2.5,
+              51.5
+            ],
+            [
+              3,
+              50.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "franks",
+        "startYear": 260,
+        "endYear": 843,
+        "culturalSphere": "germanic",
+        "color": "#5A7A3A",
+        "opacity": 0.35,
+        "labels": {
+          "de": "Franken",
+          "en": "Franks"
+        },
+        "description": {
+          "de": "Die Franken waren ein germanischer Stammesverband am Niederrhein, zusammengesetzt aus kleineren Gruppen wie den Chamaven, Bructerern und Salyiern. Um 310 n. Chr. standen sie unter stetem Druck des Römischen Reiches, dienten aber auch als Verbündete und Söldner in der Armee. Aus diesen Anfängen entstand das mächtigste Nachfolgekönigreich des Weströmischen Reiches — das Frankenreich, das Europa für das Mittelalter formte.",
+          "en": "The Franks were a Germanic tribal confederation along the lower Rhine, composed of smaller groups including the Chamavi, Bructeri, and Salii. Around 310 AD they lived under constant pressure from the Roman Empire while also serving as allies and mercenaries in its army. From these origins grew the most powerful successor kingdom of the Western Roman Empire — the Frankish realm that shaped medieval Europe."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.5,
+              41
+            ],
+            [
+              46.5,
+              41
+            ],
+            [
+              47,
+              42.5
+            ],
+            [
+              45.5,
+              43.5
+            ],
+            [
+              43,
+              43
+            ],
+            [
+              41,
+              42
+            ],
+            [
+              41.5,
+              41
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-iberia-caucasus",
+        "startYear": -302,
+        "endYear": 580,
+        "culturalSphere": "caucasian",
+        "color": "#6B8E5A",
+        "opacity": 0.35,
+        "labels": {
+          "de": "Königreich Iberien (Kaukasus)",
+          "en": "Kingdom of Iberia (Caucasus)"
+        },
+        "description": {
+          "de": "Das kaukasische Königreich Iberien — nicht zu verwechseln mit der Iberischen Halbinsel — lag im Herzen des heutigen Georgiens und kontrollierte wichtige Gebirgspässe wie die Darialpforte. Als Vasallenstaat Roms nach dem Friedensvertrag von 298 n. Chr. spielte Iberien eine strategisch entscheidende Rolle als Puffer zwischen Rom und den Sassaniden. Um 319 n. Chr. nahm König Mirian III. das Christentum an und machte Iberien zu einem der ältesten christlichen Königreiche der Welt.",
+          "en": "The Caucasian Kingdom of Iberia — not to be confused with the Iberian Peninsula — lay at the heart of modern Georgia and controlled vital mountain passes including the Daryal Pass. As a Roman vassal state following the Peace of 298 AD, Iberia played a strategically pivotal role as a buffer between Rome and the Sassanids. Around 319 AD King Mirian III adopted Christianity, making Iberia one of the oldest Christian kingdoms in the world."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43,
+              29
+            ],
+            [
+              50,
+              27
+            ],
+            [
+              50,
+              31.5
+            ],
+            [
+              47,
+              33
+            ],
+            [
+              44,
+              33.5
+            ],
+            [
+              43,
+              32
+            ],
+            [
+              43,
+              29
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "lakhmid-kingdom",
+        "startYear": 300,
+        "endYear": 602,
+        "culturalSphere": "arab",
+        "color": "#C9833A",
+        "opacity": 0.35,
+        "labels": {
+          "de": "Lachmidisches Königreich",
+          "en": "Lakhmid Kingdom"
+        },
+        "description": {
+          "de": "Das Lakhmidische Königreich mit seiner Hauptstadt al-Hira am mittleren Euphrat war ein arabischer Klientelstaat der Sassaniden. Die Lakhmiden schützten die mesopotamische Grenze gegen Beduineneinfälle und rivalisierten mit den Ghassaniden, den arabischen Verbündeten Roms. Al-Hira entwickelte sich zu einem bedeutenden Zentrum arabischer Dichtung und Kultur in der vorislamischen Zeit.",
+          "en": "The Lakhmid Kingdom, centered on al-Hira on the middle Euphrates, was an Arab client state of the Sassanid Empire. The Lakhmids guarded the Mesopotamian frontier against Bedouin raids and rivaled the Ghassanids, the Arab allies of Rome. Al-Hira grew into a major center of Arab poetry and culture in the pre-Islamic period."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.5,
+              29
+            ],
+            [
+              39.5,
+              29
+            ],
+            [
+              39.5,
+              33.5
+            ],
+            [
+              36.5,
+              35
+            ],
+            [
+              34.5,
+              33.5
+            ],
+            [
+              34,
+              31.5
+            ],
+            [
+              35.5,
+              29
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ghassanid-kingdom",
+        "startYear": 220,
+        "endYear": 638,
+        "culturalSphere": "arab",
+        "color": "#B8722A",
+        "opacity": 0.35,
+        "labels": {
+          "de": "Ghassanidenreich",
+          "en": "Ghassanid Kingdom"
+        },
+        "description": {
+          "de": "Die Ghassaniden waren ein arabisches Herrscherhaus, das als Klientelkönigreich Roms den syrisch-jordanischen Grenzstreifen kontrollierte. Sie siedelten in der Hauran-Region und dem heutigen Jordanien und dienten als militärische Schutzzone gegen Angriffe aus der arabischen Wüste. Als chalzedonisch-christliche Gemeinschaft verbanden die Ghassaniden byzantinische Kultur mit arabischer Stammestradition und förderten arabische Dichtkunst und Baukultur.",
+          "en": "The Ghassanids were an Arab ruling dynasty who, as a client kingdom of Rome, controlled the Syrian-Jordanian frontier zone. Settled in the Hauran region and modern Jordan, they served as a military buffer against raids from the Arabian desert. As Chalcedonian Christians, the Ghassanids blended Byzantine culture with Arab tribal tradition and patronized Arab poetry and architecture."
+        }
+      }
     }
   ]
 }

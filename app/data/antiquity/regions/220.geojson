@@ -280,6 +280,176 @@
           "en": "The Kingdom of Kush (Nubia) was an independent civilization south of Egypt with its own script and pyramid tradition."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36,
+              37.5
+            ],
+            [
+              44,
+              37.5
+            ],
+            [
+              47,
+              39
+            ],
+            [
+              49,
+              41
+            ],
+            [
+              46,
+              42.5
+            ],
+            [
+              43,
+              42
+            ],
+            [
+              38,
+              40
+            ],
+            [
+              36,
+              39
+            ],
+            [
+              36,
+              37.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-armenia",
+        "startYear": -190,
+        "endYear": 428,
+        "culturalSphere": "armenian",
+        "color": "#7B5EA7",
+        "opacity": 0.35,
+        "labels": {
+          "de": "Königreich Armenien",
+          "en": "Kingdom of Armenia"
+        },
+        "description": {
+          "de": "Das Königreich Armenien unter der Arsakiden-Dynastie war ein kulturell eigenständiges Reich zwischen den Großmächten Rom und den Sassaniden. Im Jahr 301 n. Chr. nahm König Tiridates III. das Christentum als erste Staatsmacht der Welt offiziell an — ein Schritt von welthistorischer Bedeutung. Armenien entwickelte eine reiche eigene Literatur, Architektur und kirchliche Tradition, die trotz jahrhundertelanger politischer Kämpfe lebendig blieb.",
+          "en": "The Kingdom of Armenia under the Arsacid dynasty was a culturally distinct realm caught between the great powers of Rome and the Sassanids. In 301 AD King Tiridates III officially adopted Christianity — the first state in world history to do so. Armenia developed a rich tradition of its own literature, architecture, and church culture that endured despite centuries of political struggle."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.5,
+              41
+            ],
+            [
+              46.5,
+              41
+            ],
+            [
+              47,
+              42.5
+            ],
+            [
+              45.5,
+              43.5
+            ],
+            [
+              43,
+              43
+            ],
+            [
+              41,
+              42
+            ],
+            [
+              41.5,
+              41
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-iberia-caucasus",
+        "startYear": -302,
+        "endYear": 580,
+        "culturalSphere": "caucasian",
+        "color": "#6B8E5A",
+        "opacity": 0.35,
+        "labels": {
+          "de": "Königreich Iberien (Kaukasus)",
+          "en": "Kingdom of Iberia (Caucasus)"
+        },
+        "description": {
+          "de": "Das kaukasische Königreich Iberien — nicht zu verwechseln mit der Iberischen Halbinsel — lag im Herzen des heutigen Georgiens und kontrollierte wichtige Gebirgspässe wie die Darialpforte. Als Vasallenstaat Roms nach dem Friedensvertrag von 298 n. Chr. spielte Iberien eine strategisch entscheidende Rolle als Puffer zwischen Rom und den Sassaniden. Um 319 n. Chr. nahm König Mirian III. das Christentum an und machte Iberien zu einem der ältesten christlichen Königreiche der Welt.",
+          "en": "The Caucasian Kingdom of Iberia — not to be confused with the Iberian Peninsula — lay at the heart of modern Georgia and controlled vital mountain passes including the Daryal Pass. As a Roman vassal state following the Peace of 298 AD, Iberia played a strategically pivotal role as a buffer between Rome and the Sassanids. Around 319 AD King Mirian III adopted Christianity, making Iberia one of the oldest Christian kingdoms in the world."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.5,
+              29
+            ],
+            [
+              39.5,
+              29
+            ],
+            [
+              39.5,
+              33.5
+            ],
+            [
+              36.5,
+              35
+            ],
+            [
+              34.5,
+              33.5
+            ],
+            [
+              34,
+              31.5
+            ],
+            [
+              35.5,
+              29
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ghassanid-kingdom",
+        "startYear": 220,
+        "endYear": 638,
+        "culturalSphere": "arab",
+        "color": "#B8722A",
+        "opacity": 0.35,
+        "labels": {
+          "de": "Ghassanidenreich",
+          "en": "Ghassanid Kingdom"
+        },
+        "description": {
+          "de": "Die Ghassaniden waren ein arabisches Herrscherhaus, das als Klientelkönigreich Roms den syrisch-jordanischen Grenzstreifen kontrollierte. Sie siedelten in der Hauran-Region und dem heutigen Jordanien und dienten als militärische Schutzzone gegen Angriffe aus der arabischen Wüste. Als chalzedonisch-christliche Gemeinschaft verbanden die Ghassaniden byzantinische Kultur mit arabischer Stammestradition und förderten arabische Dichtkunst und Baukultur.",
+          "en": "The Ghassanids were an Arab ruling dynasty who, as a client kingdom of Rome, controlled the Syrian-Jordanian frontier zone. Settled in the Hauran region and modern Jordan, they served as a military buffer against raids from the Arabian desert. As Chalcedonian Christians, the Ghassanids blended Byzantine culture with Arab tribal tradition and patronized Arab poetry and architecture."
+        }
+      }
     }
   ]
 }
