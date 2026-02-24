@@ -37,10 +37,18 @@ app/
     Timeline/     # TimelineSlider (prev/next navigation)
     Detail/       # DetailPanel (click popups)
   data/
-    antiquity/    # cities.json, events.json, regions.geojson
+    antiquity/
+      cities.json          # source data — edit this
+      events.json          # source data — edit this
+      regions.geojson      # source data — edit this
+      cities/              # pre-generated per-decade files (do not edit)
+      events/              # pre-generated per-decade files (do not edit)
+      regions/             # pre-generated per-decade files (do not edit)
     config.ts     # epochs definition
   lib/            # i18n, dataUtils, timeUtils, cn
   types/          # history.ts type definitions
+scripts/
+  generate-decades.ts  # generates per-decade files from source data
 public/
   map-style.json        # MapLibre style (Natural Earth base, no modern labels)
   ne_110m_ocean.geojson # Bundled Natural Earth data
@@ -56,15 +64,65 @@ public/
 - `@vitejs/plugin-react` must be in the Vite plugins list for JSX to work
 - Map click events are handled at `<Map>` level via `interactiveLayerIds` — not on individual `<Layer>` components
 - Year encoding: negative integers = BC (e.g. `-44` = 44 BC), positive = AD
+- **MapLibre click gotcha**: nested objects in feature properties (e.g. `labels`, `description`) are serialized as JSON strings by MapLibre. Always `JSON.parse` them in the click handler before use.
 
 ## Data Model
 
-- `cities.json`: `{ id, coordinates, startYear, endYear, importance (1-3), culturalSphere[], labels, description }`
-- `regions.geojson`: GeoJSON FeatureCollection, properties: `{ id, startYear, endYear, culturalSphere, color, opacity, labels, description }`
-- `events.json`: `{ id, coordinates, year, type, culturalSphere[], labels, description }`
-- Filter logic: `startYear <= currentYear && (endYear === null || endYear >= currentYear)`
+### cities.json
+```
+{ id, coordinates, startYear, endYear, importance (1-3), culturalSphere[], labels, description }
+```
+
+### events.json
+```
+{ id, coordinates, year, type, culturalSphere[], labels, description }
+```
+
+### regions.geojson
+GeoJSON FeatureCollection. Feature properties:
+```
+{
+  id,
+  parentId?,          # optional: links province to parent empire
+  startYear,          # historical existence start (shown in DetailPanel)
+  endYear,            # historical existence end (shown in DetailPanel)
+  peakStartYear?,     # visibility window start (defaults to startYear)
+  peakEndYear?,       # visibility window end (defaults to endYear)
+  culturalSphere,
+  color,
+  opacity,
+  labels,
+  description
+}
+```
+
+**Visibility filter** (used by generate-decades.ts):
+```
+displayStart = peakStartYear ?? startYear
+displayEnd   = peakEndYear !== undefined ? peakEndYear : endYear
+visible when: displayStart <= decade && (displayEnd === null || displayEnd >= decade)
+```
+
+**RegionLayer** renders 4 MapLibre layers:
+- `regions-fill-parent` / `regions-outline-parent` — top-level empires (`!has parentId`)
+- `regions-fill-child` / `regions-outline-child` — provinces (`has parentId`), reduced opacity × 0.6
+
+## Data Generation
+
+**Always edit source files, then regenerate:**
+
+1. Edit source data in `app/data/antiquity/` (`cities.json`, `events.json`, `regions.geojson`)
+2. Regenerate pre-built decade files:
+   ```sh
+   PATH="/home/marc/.nvm/versions/node/v22.20.0/bin:/home/marc/.bun/bin:$PATH" bunx tsx scripts/generate-decades.ts
+   ```
+3. The script writes one file per decade (−500 to +500, step 10) into `cities/`, `events/`, `regions/`
+4. The app loads only the relevant decade file at runtime — never the full source files
+
+**Never edit the generated files** in `cities/`, `events/`, `regions/` directly.
 
 ## Workflow
 
 - Commit frequently — after each meaningful step (feature, bugfix, refactor)
 - Run `bunx tsc --noEmit` before committing
+- After any data change: regenerate decades before committing
