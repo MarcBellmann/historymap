@@ -108,6 +108,54 @@
     }
   },
   {
+    "id": "diocletian-tetrarchy",
+    "coordinates": [29.9519, 40.7654],
+    "year": 293,
+    "type": "political",
+    "culturalSphere": ["roman"],
+    "labels": { "de": "Diokletians Tetrarchie", "en": "Diocletian's Tetrarchy" },
+    "description": {
+      "de": "Diocletian teilt die Regierung des Römischen Reiches unter vier Herrschern auf — zwei Augusti und zwei Caesares. Die Reform stabilisiert vorübergehend ein Reich, das von Usurpatoren und Grenzkriegen zerrissen wurde, und legt die Grundlage für die spätere Teilung in Ost und West.",
+      "en": "Diocletian divides the governance of the Roman Empire among four rulers — two Augusti and two Caesars. The reform temporarily stabilizes an empire torn by usurpers and frontier wars, and lays the groundwork for the later division into East and West."
+    }
+  },
+  {
+    "id": "armenia-adopts-christianity",
+    "coordinates": [44.5693, 40.1629],
+    "year": 301,
+    "type": "cultural",
+    "culturalSphere": ["armenian", "christian"],
+    "labels": { "de": "Armenien nimmt Christentum an", "en": "Armenia Adopts Christianity" },
+    "description": {
+      "de": "König Tiridates III. von Armenien nimmt auf Betreiben Gregors des Erleuchters das Christentum als Staatsreligion an — rund ein Jahrzehnt vor Konstantins Mailänder Edikt. Armenien gilt damit als der erste christliche Staat der Geschichte.",
+      "en": "King Tiridates III of Armenia adopts Christianity as the state religion at the urging of Gregory the Illuminator — roughly a decade before Constantine's Edict of Milan. Armenia is thereby regarded as the world's first Christian state."
+    }
+  },
+  {
+    "id": "battle-milvian-bridge",
+    "coordinates": [12.4664, 41.9394],
+    "year": 312,
+    "type": "battle",
+    "culturalSphere": ["roman", "christian"],
+    "labels": { "de": "Schlacht an der Milvischen Brücke", "en": "Battle of the Milvian Bridge" },
+    "description": {
+      "de": "Konstantin besiegt seinen Rivalen Maxentius an der Milvischen Brücke und wird zum Alleinherrscher im Westen. Berichten zufolge hatte er zuvor ein christliches Symbol als Kampfzeichen empfangen — ein Wendepunkt, der die Christianisierung des Imperiums einleitete.",
+      "en": "Constantine defeats his rival Maxentius at the Milvian Bridge and becomes sole ruler of the West. He reportedly received a Christian symbol as a battle sign beforehand — a turning point that set the Christianization of the empire in motion."
+    }
+  },
+  {
+    "id": "edict-of-milan",
+    "coordinates": [9.1895, 45.4654],
+    "year": 313,
+    "type": "political",
+    "culturalSphere": ["roman", "christian"],
+    "labels": { "de": "Mailänder Edikt", "en": "Edict of Milan" },
+    "description": {
+      "de": "Konstantin und Licinius verkünden das Mailänder Edikt, das allen Bewohnern des Römischen Reiches freie Religionsausübung gewährt und verfolgte Christen rehabilitiert. Es markiert den Übergang vom verfolgten Randphänomen zur künftigen Staatsreligion.",
+      "en": "Constantine and Licinius issue the Edict of Milan, granting free religious practice to all inhabitants of the Roman Empire and rehabilitating persecuted Christians. It marks the transition of Christianity from a persecuted minority faith to the future state religion."
+    }
+  },
+  {
     "id": "axum-adopts-christianity",
     "coordinates": [38.7183, 14.1281],
     "year": 330,
