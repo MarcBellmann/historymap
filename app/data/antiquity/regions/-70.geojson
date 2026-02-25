@@ -909,6 +909,273 @@
           "en": "Cyrenaica, the north Libyan coastal territory, was handed to Rome in 74 BC by the testament of the last Ptolemaic king Apion and was initially combined with Crete to form the double province Creta et Cyrenaica. Cyrene, one of the most important Greek colonies, was a center of Hellenistic culture and the home of the philosopher Aristippus and the mathematician Eratosthenes. The province had a significant Jewish diaspora population. The Pentapolis, an alliance of five coastal cities, was the economic backbone of the region."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              32
+            ],
+            [
+              122,
+              32
+            ],
+            [
+              122,
+              42
+            ],
+            [
+              110,
+              43
+            ],
+            [
+              100,
+              40
+            ],
+            [
+              100,
+              32
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "han-north-china",
+        "parentId": "han-china",
+        "startYear": -206,
+        "endYear": 9,
+        "peakStartYear": -206,
+        "peakEndYear": 9,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Westliche Han-Kommandantschaften / Nordchina",
+          "en": "Western Han Commanderies / North China"
+        },
+        "description": {
+          "de": "Das nördliche Kernland der Westlichen Han-Dynastie erstreckte sich über die Nordchinesische Tiefebene und umfasste die Hauptstadt Chang'an. Diese dicht besiedelten Kommandantschaften bildeten das politische und wirtschaftliche Zentrum des frühen Han-Reiches.",
+          "en": "The northern heartland of the Western Han dynasty spread across the North China Plain and included the capital Chang'an. These densely populated commanderies formed the political and economic center of the early Han Empire."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104,
+              22
+            ],
+            [
+              122,
+              22
+            ],
+            [
+              122,
+              32
+            ],
+            [
+              104,
+              32
+            ],
+            [
+              104,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "han-south-china",
+        "parentId": "han-china",
+        "startYear": -206,
+        "endYear": 9,
+        "peakStartYear": -111,
+        "peakEndYear": 9,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Westliche Han / Südchina",
+          "en": "Western Han / South China"
+        },
+        "description": {
+          "de": "Südchina wurde von der Han-Dynastie schrittweise integriert. Die Regionen südlich des Yangzi umfassten das Königreich Nanyue (Südviet) und wurden ab 111 v. Chr. direkte Han-Kommandantschaften, wobei lokale Kulturen erhalten blieben.",
+          "en": "South China was gradually integrated by the Han dynasty. The regions south of the Yangtze included the Kingdom of Nanyue and became direct Han commanderies from 111 BC onward, while preserving local cultures."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124,
+              36
+            ],
+            [
+              130,
+              36
+            ],
+            [
+              130,
+              42
+            ],
+            [
+              125.5,
+              42.5
+            ],
+            [
+              124,
+              40.5
+            ],
+            [
+              124,
+              36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "han-lelang-korea",
+        "parentId": "han-china",
+        "startYear": -108,
+        "endYear": 313,
+        "peakStartYear": -108,
+        "peakEndYear": 220,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Lelang-Kommandantschaft (Han-Korea)",
+          "en": "Lelang Commandery (Han Korea)"
+        },
+        "description": {
+          "de": "Lelang war die bedeutendste der Vier Han-Kommandantschaften auf der koreanischen Halbinsel, gegründet 108 v. Chr. nach dem Sturz des Königreichs Gojoseon. Das Zentrum chinesischer Verwaltung und Kultur in Korea bestand über vier Jahrhunderte.",
+          "en": "Lelang was the most significant of the Four Han Commanderies on the Korean Peninsula, founded in 108 BC after the overthrow of the kingdom of Gojoseon. The center of Chinese administration and culture in Korea lasted over four centuries."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.5,
+              40
+            ],
+            [
+              41.5,
+              40
+            ],
+            [
+              42,
+              43.5
+            ],
+            [
+              38.5,
+              44
+            ],
+            [
+              33.5,
+              43
+            ],
+            [
+              31.5,
+              41.5
+            ],
+            [
+              31.5,
+              40
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-pontus",
+        "startYear": -302,
+        "endYear": -63,
+        "peakStartYear": -120,
+        "peakEndYear": -63,
+        "culturalSphere": "greek",
+        "color": "#3366CC",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Pontus",
+          "en": "Kingdom of Pontus"
+        },
+        "description": {
+          "de": "Das Königreich Pontus an der südlichen Schwarzmeerküste wurde von der Mithridatischen Dynastie mit iranisch-persischen Wurzeln regiert. Mithridates VI. der Große führte drei große Kriege gegen Rom und wurde zu einem der härtesten Feinde der Römischen Republik.",
+          "en": "The Kingdom of Pontus on the southern Black Sea coast was ruled by the Mithridatic dynasty of Iranian-Persian descent. Mithridates VI the Great waged three major wars against Rome and became one of the toughest enemies of the Roman Republic."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5,
+              29
+            ],
+            [
+              39.5,
+              29
+            ],
+            [
+              39.5,
+              32.5
+            ],
+            [
+              37.5,
+              34
+            ],
+            [
+              34.5,
+              33
+            ],
+            [
+              33.5,
+              31
+            ],
+            [
+              34.5,
+              29
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "nabataean-kingdom",
+        "startYear": -168,
+        "endYear": 106,
+        "peakStartYear": -100,
+        "peakEndYear": 50,
+        "culturalSphere": "arab",
+        "color": "#AA8800",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Nabatäisches Königreich",
+          "en": "Nabataean Kingdom"
+        },
+        "description": {
+          "de": "Das Nabatäische Königreich mit der Felsenhauptstadt Petra beherrschte die Handelsrouten von Arabien in die Mittelmeerregion. Als Meister des Fernhandels und der Wasserversorgung in der Wüste schufen die Nabatäer eine eigenständige Schrift und eine reiche Zivilisation.",
+          "en": "The Nabataean Kingdom with its rock-hewn capital Petra controlled the trade routes from Arabia into the Mediterranean region. Masters of long-distance trade and desert water management, the Nabataeans created their own script and a rich civilization."
+        }
+      }
     }
   ]
 }

@@ -1672,6 +1672,240 @@
           "en": "The Bahmani Sultanate was the first independent Islamic sultanate of the Deccan, emerging in 1347 through revolt against the Delhi Sultanate. Ruling from Gulbarga and later Bidar, it controlled the central Deccan between the Narmada and Krishna rivers. It developed a rich Perso-Dakhini culture, patronized Indo-Islamic architecture, and maintained a constant rivalry with the Vijayanagara Empire — a balance of power that decisively shaped medieval South Indian history."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5,
+              44.5
+            ],
+            [
+              13,
+              44
+            ],
+            [
+              14,
+              45
+            ],
+            [
+              13.5,
+              45.5
+            ],
+            [
+              16.5,
+              45.5
+            ],
+            [
+              17,
+              45
+            ],
+            [
+              18,
+              45.5
+            ],
+            [
+              18.5,
+              44.5
+            ],
+            [
+              16.5,
+              43.5
+            ],
+            [
+              17,
+              42.5
+            ],
+            [
+              16.5,
+              41.5
+            ],
+            [
+              18.5,
+              40
+            ],
+            [
+              19.5,
+              40.5
+            ],
+            [
+              20,
+              42
+            ],
+            [
+              19.5,
+              43.5
+            ],
+            [
+              18,
+              45.5
+            ],
+            [
+              17,
+              45
+            ],
+            [
+              16.5,
+              45.5
+            ],
+            [
+              13.5,
+              45.5
+            ],
+            [
+              12.5,
+              45.5
+            ],
+            [
+              12,
+              45
+            ],
+            [
+              12.5,
+              44.5
+            ],
+            [
+              11.5,
+              44.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "republic-of-venice",
+        "startYear": 697,
+        "endYear": 1797,
+        "peakStartYear": 1200,
+        "peakEndYear": 1600,
+        "culturalSphere": "italian",
+        "color": "#3399AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Republik Venedig",
+          "en": "Republic of Venice"
+        },
+        "description": {
+          "de": "Die Serenissima war über tausend Jahre eine unabhängige Handelsmacht, die das östliche Mittelmeer dominierte. Als führende Seerepublik kontrollierte Venedig den Handel zwischen Europa und dem Orient und prägte Kunst, Architektur und Diplomatie weit über seine Grenzen hinaus.",
+          "en": "The Serenissima was for over a thousand years an independent trading power that dominated the eastern Mediterranean. As the leading maritime republic, Venice controlled trade between Europe and the Orient and shaped art, architecture, and diplomacy far beyond its borders."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107,
+              18
+            ],
+            [
+              121,
+              18
+            ],
+            [
+              121,
+              27
+            ],
+            [
+              116,
+              32
+            ],
+            [
+              110,
+              34
+            ],
+            [
+              107,
+              32
+            ],
+            [
+              107,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ming-north-zhili",
+        "parentId": "ming-dynasty",
+        "startYear": 1368,
+        "endYear": 1644,
+        "peakStartYear": 1368,
+        "peakEndYear": 1644,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Nord-Zhili (Beijing)",
+          "en": "Northern Zhili (Beijing)"
+        },
+        "description": {
+          "de": "Nord-Zhili (Beizhili – ‚Nördlich Direkt Verwaltetes Gebiet') war die Kernprovinz der Ming-Dynastie und Heimat der Hauptstadt Beijing. Direkt von der kaiserlichen Regierung verwaltet, umfasste die Region das politische und kulturelle Herz des Reiches. Nach dem Umzug der Hauptstadt von Nanjing nach Beijing durch den Yongle-Kaiser 1421 wurde Nord-Zhili zum Mittelpunkt der Ming-Herrschaft und Sitz der großen imperialen Institutionen.",
+          "en": "Northern Zhili (Beizhili – 'Northern Directly Administered Area') was the core province of the Ming dynasty and home to the capital Beijing. Directly administered by the imperial government, the region encompassed the political and cultural heart of the empire. After the Yongle Emperor moved the capital from Nanjing to Beijing in 1421, Northern Zhili became the center of Ming governance and seat of the great imperial institutions."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107,
+              27
+            ],
+            [
+              122.5,
+              27
+            ],
+            [
+              122.5,
+              35
+            ],
+            [
+              116,
+              36
+            ],
+            [
+              110,
+              34
+            ],
+            [
+              107,
+              32
+            ],
+            [
+              107,
+              27
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ming-south-zhili",
+        "parentId": "ming-dynasty",
+        "startYear": 1368,
+        "endYear": 1644,
+        "peakStartYear": 1368,
+        "peakEndYear": 1644,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Süd-Zhili (Nanjing)",
+          "en": "Southern Zhili (Nanjing)"
+        },
+        "description": {
+          "de": "Süd-Zhili (Nanzhili – ‚Südlich Direkt Verwaltetes Gebiet') war die Wiege der Ming-Dynastie mit der ursprünglichen Hauptstadt Nanjing. Auch nach der Verlegung der Hauptstadt nach Beijing blieb Nanjing Nebenhauptstadt. Die Region umfasste das wirtschaftlich produktivste Kerngebiet Chinas im Yangzi-Delta mit blühendem Textilhandel, Seidenproduktion und Keramikmanufaktur. Heute entspricht das Gebiet den Provinzen Jiangsu und Anhui.",
+          "en": "Southern Zhili (Nanzhili – 'Southern Directly Administered Area') was the birthplace of the Ming dynasty with the original capital Nanjing. Even after the capital was moved to Beijing, Nanjing remained a secondary capital. The region encompassed China's most economically productive core area in the Yangtze Delta, with flourishing textile trade, silk production, and ceramic manufacturing. Today the territory corresponds to Jiangsu and Anhui provinces."
+        }
+      }
     }
   ]
 }

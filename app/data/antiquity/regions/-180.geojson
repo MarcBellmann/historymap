@@ -484,6 +484,326 @@
           "en": "Italia was the heartland of the Roman Empire, exempt from taxes and politically privileged. The peninsula was densely populated and urbanized — from the capital Roma to Mediolanum (Milan), Capua, and Neapolis. Italy's wealth rested on crafts, viticulture, olive oil, and grain. The Po plain in the north was the breadbasket; Campania in the south produced famous wines. In the imperial period many provincial families entered the Senate, and Italy's cultural hegemony was increasingly supplemented by the vibrant provincial cultures."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36,
+              31.5
+            ],
+            [
+              49,
+              31.5
+            ],
+            [
+              49,
+              38
+            ],
+            [
+              42.5,
+              38
+            ],
+            [
+              38,
+              37.5
+            ],
+            [
+              36,
+              35
+            ],
+            [
+              36,
+              31.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "seleucid-mesopotamia",
+        "parentId": "seleucid-empire",
+        "startYear": -312,
+        "endYear": -141,
+        "peakStartYear": -312,
+        "peakEndYear": -141,
+        "culturalSphere": "greek",
+        "color": "#3366CC",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Seleukidisches Mesopotamien",
+          "en": "Seleucid Mesopotamia"
+        },
+        "description": {
+          "de": "Mesopotamien war das Herzstück des Seleukidenreiches. Die neue Hauptstadt Seleukia am Tigris ersetzte das alte Babylon als das wirtschaftliche und administrative Zentrum und entwickelte sich zu einer der größten Städte der hellenistischen Welt.",
+          "en": "Mesopotamia was the heartland of the Seleucid Empire. The new capital Seleucia on the Tigris replaced old Babylon as the economic and administrative center, growing into one of the largest cities of the Hellenistic world."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.5,
+              31.5
+            ],
+            [
+              42.5,
+              31.5
+            ],
+            [
+              42.5,
+              38
+            ],
+            [
+              36.5,
+              38
+            ],
+            [
+              35,
+              35.5
+            ],
+            [
+              35.5,
+              31.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "seleucid-coele-syria",
+        "parentId": "seleucid-empire",
+        "startYear": -312,
+        "endYear": -83,
+        "peakStartYear": -312,
+        "peakEndYear": -83,
+        "culturalSphere": "greek",
+        "color": "#3366CC",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Koilesyrien / Seleukidisches Syrien",
+          "en": "Coele-Syria / Seleucid Syria"
+        },
+        "description": {
+          "de": "Koilesyrien ('Hohles Syrien') war die reiche Westprovinz des Seleukidenreiches mit der prächtigen Hauptstadt Antiocheia am Orontes. Die Region war wiederholt Streitobjekt zwischen den Seleukiden und den Ptolemäern Ägyptens.",
+          "en": "Coele-Syria ('Hollow Syria') was the wealthy western province of the Seleucid Empire with the magnificent capital Antioch on the Orontes. The region was repeatedly contested between the Seleucids and the Ptolemies of Egypt."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              33
+            ],
+            [
+              56,
+              33
+            ],
+            [
+              56,
+              40
+            ],
+            [
+              48,
+              40.5
+            ],
+            [
+              44,
+              38.5
+            ],
+            [
+              44,
+              33
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "seleucid-media",
+        "parentId": "seleucid-empire",
+        "startYear": -312,
+        "endYear": -150,
+        "peakStartYear": -312,
+        "peakEndYear": -150,
+        "culturalSphere": "greek",
+        "color": "#3366CC",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Seleukidisches Medien",
+          "en": "Seleucid Media"
+        },
+        "description": {
+          "de": "Medien unter seleukidischer Herrschaft war eine wichtige östliche Provinz des hellenistischen Reiches. Die reiche Region mit Ekbatana als königlicher Schatzkammer wurde Mitte des 2. Jh. v. Chr. von den aufstrebenden Parthern übernommen.",
+          "en": "Media under Seleucid rule was an important eastern province of the Hellenistic empire. The wealthy region with Ecbatana as a royal treasury was taken over by the rising Parthians in the mid-2nd century BC."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              32
+            ],
+            [
+              122,
+              32
+            ],
+            [
+              122,
+              42
+            ],
+            [
+              110,
+              43
+            ],
+            [
+              100,
+              40
+            ],
+            [
+              100,
+              32
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "han-north-china",
+        "parentId": "han-china",
+        "startYear": -206,
+        "endYear": 9,
+        "peakStartYear": -206,
+        "peakEndYear": 9,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Westliche Han-Kommandantschaften / Nordchina",
+          "en": "Western Han Commanderies / North China"
+        },
+        "description": {
+          "de": "Das nördliche Kernland der Westlichen Han-Dynastie erstreckte sich über die Nordchinesische Tiefebene und umfasste die Hauptstadt Chang'an. Diese dicht besiedelten Kommandantschaften bildeten das politische und wirtschaftliche Zentrum des frühen Han-Reiches.",
+          "en": "The northern heartland of the Western Han dynasty spread across the North China Plain and included the capital Chang'an. These densely populated commanderies formed the political and economic center of the early Han Empire."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              63,
+              33
+            ],
+            [
+              75,
+              33
+            ],
+            [
+              75,
+              39.5
+            ],
+            [
+              68.5,
+              40.5
+            ],
+            [
+              63,
+              38
+            ],
+            [
+              63,
+              33
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "greco-bactrian-kingdom",
+        "startYear": -256,
+        "endYear": -125,
+        "peakStartYear": -230,
+        "peakEndYear": -145,
+        "culturalSphere": "greek",
+        "color": "#3399AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Griechisch-Baktrisches Königreich",
+          "en": "Greco-Bactrian Kingdom"
+        },
+        "description": {
+          "de": "Das Griechisch-Baktrische Königreich entstand um 256 v. Chr., als sich der Satrap Diodotos I. vom Seleukidenreich loslöste. Es entwickelte eine einzigartige griechisch-iranische Mischkultur im Herzen Zentralasiens und war für seine hohe Münzkunst bekannt.",
+          "en": "The Greco-Bactrian Kingdom emerged around 256 BC when the satrap Diodotus I broke away from the Seleucid Empire. It developed a unique Greek-Iranian mixed culture at the heart of Central Asia and was renowned for its exquisite coinage."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.5,
+              37.5
+            ],
+            [
+              30.5,
+              37.5
+            ],
+            [
+              30.5,
+              40.5
+            ],
+            [
+              27.5,
+              40.5
+            ],
+            [
+              25.5,
+              39.5
+            ],
+            [
+              25.5,
+              37.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-pergamon",
+        "startYear": -282,
+        "endYear": -133,
+        "peakStartYear": -230,
+        "peakEndYear": -133,
+        "culturalSphere": "greek",
+        "color": "#3399AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Pergamon",
+          "en": "Kingdom of Pergamon"
+        },
+        "description": {
+          "de": "Das Königreich Pergamon in Westanatolien war ein bedeutendes hellenistisches Kulturzentrum. Die Attaliden-Könige förderten Kunst und Wissenschaft; die Bibliothek von Pergamon war neben Alexandria eine der bedeutendsten der antiken Welt. Das Reich wurde 133 v. Chr. an Rom vermacht.",
+          "en": "The Kingdom of Pergamon in western Anatolia was an important Hellenistic cultural center. The Attalid kings patronized arts and sciences; the Library of Pergamon was alongside Alexandria one of the greatest of the ancient world. The realm was bequeathed to Rome in 133 BC."
+        }
+      }
     }
   ]
 }

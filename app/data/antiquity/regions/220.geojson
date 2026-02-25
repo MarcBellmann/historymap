@@ -2496,6 +2496,59 @@
           "en": "Mauretania Caesariensis, the eastern of the two Mauretanian provinces, roughly corresponded to modern northwestern Algeria. Caesarea (Cherchell), the former royal residence of Juba II, was the provincial capital and a significant city with a harbor, theater, and water supply system. The province was important for supplying Rome with exotic wild animals for the arenas, for recruiting Berber auxiliary troops, and for trade in the western Sahara."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124,
+              36
+            ],
+            [
+              130,
+              36
+            ],
+            [
+              130,
+              42
+            ],
+            [
+              125.5,
+              42.5
+            ],
+            [
+              124,
+              40.5
+            ],
+            [
+              124,
+              36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "han-lelang-korea",
+        "parentId": "han-china",
+        "startYear": -108,
+        "endYear": 313,
+        "peakStartYear": -108,
+        "peakEndYear": 220,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Lelang-Kommandantschaft (Han-Korea)",
+          "en": "Lelang Commandery (Han Korea)"
+        },
+        "description": {
+          "de": "Lelang war die bedeutendste der Vier Han-Kommandantschaften auf der koreanischen Halbinsel, gegründet 108 v. Chr. nach dem Sturz des Königreichs Gojoseon. Das Zentrum chinesischer Verwaltung und Kultur in Korea bestand über vier Jahrhunderte.",
+          "en": "Lelang was the most significant of the Four Han Commanderies on the Korean Peninsula, founded in 108 BC after the overthrow of the kingdom of Gojoseon. The center of Chinese administration and culture in Korea lasted over four centuries."
+        }
+      }
     }
   ]
 }

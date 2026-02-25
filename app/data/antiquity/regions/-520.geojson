@@ -204,6 +204,613 @@
           "en": "The Zhou Dynasty was the longest-ruling dynasty in Chinese history. It shaped classical China through the birth of Confucianism, Taoism, and Legalism — philosophical traditions that have influenced Chinese thought to the present day. The Eastern Zhou period with its Warring States era produced an extraordinary cultural and philosophical flowering despite political turmoil."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.5,
+              22
+            ],
+            [
+              37,
+              22
+            ],
+            [
+              37,
+              31.5
+            ],
+            [
+              34.5,
+              31.5
+            ],
+            [
+              34.5,
+              32.5
+            ],
+            [
+              32.5,
+              31
+            ],
+            [
+              29.5,
+              30
+            ],
+            [
+              25,
+              30.5
+            ],
+            [
+              24.5,
+              28
+            ],
+            [
+              24.5,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-egypt",
+        "parentId": "achaemenid-empire",
+        "startYear": -525,
+        "endYear": -332,
+        "peakStartYear": -525,
+        "peakEndYear": -332,
+        "culturalSphere": "persian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Satrapie Ägypten (Mudraya)",
+          "en": "Satrapy of Egypt (Mudraya)"
+        },
+        "description": {
+          "de": "Die Satrapie Mudraya war das persische Ägypten unter achämenidischer Herrschaft. Gegründet von Kambyses II. nach der Eroberung Ägyptens 525 v. Chr., behielt sie pharaonische Traditionen bei und war eine der reichsten Provinzen des Reiches.",
+          "en": "The satrapy of Mudraya was Persian Egypt under Achaemenid rule. Founded by Cambyses II after conquering Egypt in 525 BC, it preserved pharaonic traditions and was one of the wealthiest provinces of the empire."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38,
+              29.5
+            ],
+            [
+              48.5,
+              29.5
+            ],
+            [
+              48.5,
+              37.5
+            ],
+            [
+              44,
+              37.5
+            ],
+            [
+              41,
+              34.5
+            ],
+            [
+              38,
+              33
+            ],
+            [
+              38,
+              29.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-babylonia",
+        "parentId": "achaemenid-empire",
+        "startYear": -539,
+        "endYear": -330,
+        "peakStartYear": -539,
+        "peakEndYear": -330,
+        "culturalSphere": "persian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Satrapie Babylonien (Babirus)",
+          "en": "Satrapy of Babylonia (Babirus)"
+        },
+        "description": {
+          "de": "Die Satrapie Babirus umfasste das fruchtbare Zweistromland zwischen Tigris und Euphrat. Babylon, die prächtige Hauptstadt, blieb unter persischer Herrschaft ein bedeutendes Kulturzentrum und wirtschaftliches Herz des Reiches.",
+          "en": "The satrapy of Babirus encompassed the fertile land between the Tigris and Euphrates. Babylon, the magnificent capital, remained a major cultural center and the economic heart of the empire under Persian rule."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              33
+            ],
+            [
+              54,
+              33
+            ],
+            [
+              54,
+              39
+            ],
+            [
+              48,
+              40
+            ],
+            [
+              44,
+              38.5
+            ],
+            [
+              44,
+              33
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-media",
+        "parentId": "achaemenid-empire",
+        "startYear": -550,
+        "endYear": -330,
+        "peakStartYear": -550,
+        "peakEndYear": -330,
+        "culturalSphere": "persian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Satrapie Medien",
+          "en": "Satrapy of Media"
+        },
+        "description": {
+          "de": "Medien war das Kernland des medischen Reiches, das von Kyros dem Großen 550 v. Chr. erobert wurde. Die Region blieb eine wichtige Satrapie des Achämenidenreichs mit Ekbatana (Hamadan) als bedeutender Residenzstadt.",
+          "en": "Media was the heartland of the Median Empire, conquered by Cyrus the Great in 550 BC. The region remained an important satrapy of the Achaemenid Empire with Ecbatana (Hamadan) as a major royal residence."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              37
+            ],
+            [
+              34,
+              37
+            ],
+            [
+              34,
+              42
+            ],
+            [
+              30,
+              42
+            ],
+            [
+              26,
+              40.5
+            ],
+            [
+              26,
+              37
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-lydia",
+        "parentId": "achaemenid-empire",
+        "startYear": -547,
+        "endYear": -334,
+        "peakStartYear": -547,
+        "peakEndYear": -334,
+        "culturalSphere": "persian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Satrapie Lydien (Sparda)",
+          "en": "Satrapy of Lydia (Sparda)"
+        },
+        "description": {
+          "de": "Die Satrapie Sparda (Lydien) erstreckte sich über Westanatolien mit der Hauptstadt Sardes. Nach der Niederlage des lydischen Königs Krösus 547 v. Chr. bildete sie die westliche Schatzkammer des Achämenidenreiches.",
+          "en": "The satrapy of Sparda (Lydia) covered western Anatolia with its capital at Sardis. After the defeat of the Lydian king Croesus in 547 BC, it formed the western treasury of the Achaemenid Empire."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.5,
+              36.5
+            ],
+            [
+              30,
+              36.5
+            ],
+            [
+              30,
+              39.5
+            ],
+            [
+              26.5,
+              39.5
+            ],
+            [
+              24.5,
+              38
+            ],
+            [
+              25.5,
+              36.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-ionia",
+        "parentId": "achaemenid-empire",
+        "startYear": -547,
+        "endYear": -334,
+        "peakStartYear": -547,
+        "peakEndYear": -334,
+        "culturalSphere": "persian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Satrapie Ionien",
+          "en": "Satrapy of Ionia"
+        },
+        "description": {
+          "de": "Die griechischen Städte Ioniens an der Westküste Anatoliens standen unter persischer Herrschaft. Der Ionische Aufstand (499–493 v. Chr.) gegen die Perser wurde zum Funken, der die Perserkriege entfachte.",
+          "en": "The Greek cities of Ionia on the western coast of Anatolia were under Persian rule. The Ionian Revolt (499–493 BC) against the Persians became the spark that ignited the Greco-Persian Wars."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              63,
+              33
+            ],
+            [
+              73,
+              33
+            ],
+            [
+              73,
+              39
+            ],
+            [
+              67,
+              39.5
+            ],
+            [
+              63,
+              37.5
+            ],
+            [
+              63,
+              33
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-bactria",
+        "parentId": "achaemenid-empire",
+        "startYear": -550,
+        "endYear": -330,
+        "peakStartYear": -550,
+        "peakEndYear": -330,
+        "culturalSphere": "persian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Satrapie Baktrien (Bakhtri)",
+          "en": "Satrapy of Bactria (Bakhtri)"
+        },
+        "description": {
+          "de": "Baktrien im heutigen Nordafghanistan und Tadschikistan war eine strategisch wichtige Satrapie an der Kreuzung iranischer und zentralasiatischer Kulturen. Die reiche, fruchtbare Region mit der Hauptstadt Baktra war für Luxusgüter bekannt.",
+          "en": "Bactria in modern northern Afghanistan and Tajikistan was a strategically vital satrapy at the crossroads of Iranian and Central Asian cultures. The rich, fertile region with its capital Bactra was renowned for luxury goods."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              58.5,
+              37.5
+            ],
+            [
+              68,
+              37.5
+            ],
+            [
+              68,
+              42.5
+            ],
+            [
+              63,
+              43
+            ],
+            [
+              58.5,
+              41.5
+            ],
+            [
+              58.5,
+              37.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-sogdiana",
+        "parentId": "achaemenid-empire",
+        "startYear": -550,
+        "endYear": -330,
+        "peakStartYear": -550,
+        "peakEndYear": -330,
+        "culturalSphere": "persian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Satrapie Sogdien",
+          "en": "Satrapy of Sogdiana"
+        },
+        "description": {
+          "de": "Sogdien umfasste das Gebiet um Samarkand und Buchara im heutigen Usbekistan und Tadschikistan. Die sogdischen Händler spielten eine Schlüsselrolle im Handel entlang der späteren Seidenstraße.",
+          "en": "Sogdiana encompassed the region around Samarkand and Bukhara in modern Uzbekistan and Tajikistan. Sogdian merchants played a key role in trade along what would become the Silk Road."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54,
+              34
+            ],
+            [
+              62,
+              34
+            ],
+            [
+              62,
+              40
+            ],
+            [
+              57,
+              40.5
+            ],
+            [
+              54,
+              38
+            ],
+            [
+              54,
+              34
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-parthia",
+        "parentId": "achaemenid-empire",
+        "startYear": -550,
+        "endYear": -330,
+        "peakStartYear": -550,
+        "peakEndYear": -330,
+        "culturalSphere": "persian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Satrapie Parthien",
+          "en": "Satrapy of Parthia"
+        },
+        "description": {
+          "de": "Parthien im heutigen Nordostiran und Turkmenistan war eine achämenidische Satrapie, aus der später das mächtige Partherreich hervorging. Die Parther übernahmen 247 v. Chr. die Unabhängigkeit und gründeten ihr eigenes Imperium.",
+          "en": "Parthia in modern northeastern Iran and Turkmenistan was an Achaemenid satrapy from which the powerful Parthian Empire later emerged. The Parthians seized independence in 247 BC and founded their own empire."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36,
+              37.5
+            ],
+            [
+              48,
+              37.5
+            ],
+            [
+              48,
+              42.5
+            ],
+            [
+              43,
+              43.5
+            ],
+            [
+              38,
+              43
+            ],
+            [
+              36,
+              40
+            ],
+            [
+              36,
+              37.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-armenia",
+        "parentId": "achaemenid-empire",
+        "startYear": -550,
+        "endYear": -330,
+        "peakStartYear": -550,
+        "peakEndYear": -330,
+        "culturalSphere": "persian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Satrapie Armenien",
+          "en": "Satrapy of Armenia"
+        },
+        "description": {
+          "de": "Armenien als persische Satrapie umfasste das armenische Hochland zwischen Schwarzem Meer und Kaspischem Meer. Die armenische Kultur entwickelte sich unter persischem Einfluss und die Region lieferte wertvolle Pferde und Tribute an den Perserkönig.",
+          "en": "Armenia as a Persian satrapy encompassed the Armenian highlands between the Black Sea and the Caspian Sea. Armenian culture developed under Persian influence, and the region supplied valuable horses and tributes to the Persian king."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.5,
+              37.5
+            ],
+            [
+              35.5,
+              37.5
+            ],
+            [
+              35.5,
+              42.5
+            ],
+            [
+              30,
+              42.5
+            ],
+            [
+              28.5,
+              41
+            ],
+            [
+              28.5,
+              37.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-phrygia",
+        "parentId": "achaemenid-empire",
+        "startYear": -547,
+        "endYear": -334,
+        "peakStartYear": -547,
+        "peakEndYear": -334,
+        "culturalSphere": "persian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Satrapie Phrygien (Hellespontisches Phrygien)",
+          "en": "Satrapy of Phrygia (Hellespontine Phrygia)"
+        },
+        "description": {
+          "de": "Die Satrapie Hellespontisches Phrygien kontrollierte die Meerengen zwischen Europa und Asien und den nordwestlichen Teil Anatoliens. Daskyleion am Marmarameer war die Satrapieshauptstadt dieser strategisch bedeutenden Region.",
+          "en": "The satrapy of Hellespontine Phrygia controlled the straits between Europe and Asia and the northwestern part of Anatolia. Dascylium on the Sea of Marmara was the satrapal capital of this strategically vital region."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5,
+              31.5
+            ],
+            [
+              42.5,
+              31.5
+            ],
+            [
+              42.5,
+              37.5
+            ],
+            [
+              36,
+              37.5
+            ],
+            [
+              34.5,
+              35.5
+            ],
+            [
+              34.5,
+              31.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaemenid-eber-nari",
+        "parentId": "achaemenid-empire",
+        "startYear": -539,
+        "endYear": -332,
+        "peakStartYear": -539,
+        "peakEndYear": -332,
+        "culturalSphere": "persian",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Satrapie Syrien (Eber-Nari / Jenseits des Flusses)",
+          "en": "Satrapy of Syria (Eber-Nari / Beyond the River)"
+        },
+        "description": {
+          "de": "Eber-Nari ('Jenseits des Flusses') war die achämenidische Satrapie der Levante westlich des Euphrats, die das heutige Syrien, Libanon, Israel und Palästina umfasste. Die Region war ein wichtiges Handelszentrum und Durchgangsgebiet.",
+          "en": "Eber-Nari ('Beyond the River') was the Achaemenid satrapy of the Levant west of the Euphrates, encompassing modern Syria, Lebanon, Israel and Palestine. The region was an important trading center and transit zone."
+        }
+      }
     }
   ]
 }

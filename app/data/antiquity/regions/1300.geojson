@@ -1938,6 +1938,126 @@
           "en": "The Kingdom of Benin, also known as the Edo Kingdom, emerged in present-day southern Nigeria and was ruled by the Oba (kings) of the Benin dynasty. Famous for its extraordinary bronze castings and ivory carvings, Benin maintained a sophisticated court life, wide-ranging trade contacts as far as Portugal, and a complex administrative apparatus. The art of the Benin bronzes stands as a pinnacle of West African metalwork and testifies to the kingdom's cultural refinement."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5,
+              44.5
+            ],
+            [
+              13,
+              44
+            ],
+            [
+              14,
+              45
+            ],
+            [
+              13.5,
+              45.5
+            ],
+            [
+              16.5,
+              45.5
+            ],
+            [
+              17,
+              45
+            ],
+            [
+              18,
+              45.5
+            ],
+            [
+              18.5,
+              44.5
+            ],
+            [
+              16.5,
+              43.5
+            ],
+            [
+              17,
+              42.5
+            ],
+            [
+              16.5,
+              41.5
+            ],
+            [
+              18.5,
+              40
+            ],
+            [
+              19.5,
+              40.5
+            ],
+            [
+              20,
+              42
+            ],
+            [
+              19.5,
+              43.5
+            ],
+            [
+              18,
+              45.5
+            ],
+            [
+              17,
+              45
+            ],
+            [
+              16.5,
+              45.5
+            ],
+            [
+              13.5,
+              45.5
+            ],
+            [
+              12.5,
+              45.5
+            ],
+            [
+              12,
+              45
+            ],
+            [
+              12.5,
+              44.5
+            ],
+            [
+              11.5,
+              44.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "republic-of-venice",
+        "startYear": 697,
+        "endYear": 1797,
+        "peakStartYear": 1200,
+        "peakEndYear": 1600,
+        "culturalSphere": "italian",
+        "color": "#3399AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Republik Venedig",
+          "en": "Republic of Venice"
+        },
+        "description": {
+          "de": "Die Serenissima war über tausend Jahre eine unabhängige Handelsmacht, die das östliche Mittelmeer dominierte. Als führende Seerepublik kontrollierte Venedig den Handel zwischen Europa und dem Orient und prägte Kunst, Architektur und Diplomatie weit über seine Grenzen hinaus.",
+          "en": "The Serenissima was for over a thousand years an independent trading power that dominated the eastern Mediterranean. As the leading maritime republic, Venice controlled trade between Europe and the Orient and shaped art, architecture, and diplomacy far beyond its borders."
+        }
+      }
     }
   ]
 }

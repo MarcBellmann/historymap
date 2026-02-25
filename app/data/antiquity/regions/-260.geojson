@@ -499,6 +499,222 @@
           "en": "Italia was the heartland of the Roman Empire, exempt from taxes and politically privileged. The peninsula was densely populated and urbanized — from the capital Roma to Mediolanum (Milan), Capua, and Neapolis. Italy's wealth rested on crafts, viticulture, olive oil, and grain. The Po plain in the north was the breadbasket; Campania in the south produced famous wines. In the imperial period many provincial families entered the Senate, and Italy's cultural hegemony was increasingly supplemented by the vibrant provincial cultures."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36,
+              31.5
+            ],
+            [
+              49,
+              31.5
+            ],
+            [
+              49,
+              38
+            ],
+            [
+              42.5,
+              38
+            ],
+            [
+              38,
+              37.5
+            ],
+            [
+              36,
+              35
+            ],
+            [
+              36,
+              31.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "seleucid-mesopotamia",
+        "parentId": "seleucid-empire",
+        "startYear": -312,
+        "endYear": -141,
+        "peakStartYear": -312,
+        "peakEndYear": -141,
+        "culturalSphere": "greek",
+        "color": "#3366CC",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Seleukidisches Mesopotamien",
+          "en": "Seleucid Mesopotamia"
+        },
+        "description": {
+          "de": "Mesopotamien war das Herzstück des Seleukidenreiches. Die neue Hauptstadt Seleukia am Tigris ersetzte das alte Babylon als das wirtschaftliche und administrative Zentrum und entwickelte sich zu einer der größten Städte der hellenistischen Welt.",
+          "en": "Mesopotamia was the heartland of the Seleucid Empire. The new capital Seleucia on the Tigris replaced old Babylon as the economic and administrative center, growing into one of the largest cities of the Hellenistic world."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.5,
+              31.5
+            ],
+            [
+              42.5,
+              31.5
+            ],
+            [
+              42.5,
+              38
+            ],
+            [
+              36.5,
+              38
+            ],
+            [
+              35,
+              35.5
+            ],
+            [
+              35.5,
+              31.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "seleucid-coele-syria",
+        "parentId": "seleucid-empire",
+        "startYear": -312,
+        "endYear": -83,
+        "peakStartYear": -312,
+        "peakEndYear": -83,
+        "culturalSphere": "greek",
+        "color": "#3366CC",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Koilesyrien / Seleukidisches Syrien",
+          "en": "Coele-Syria / Seleucid Syria"
+        },
+        "description": {
+          "de": "Koilesyrien ('Hohles Syrien') war die reiche Westprovinz des Seleukidenreiches mit der prächtigen Hauptstadt Antiocheia am Orontes. Die Region war wiederholt Streitobjekt zwischen den Seleukiden und den Ptolemäern Ägyptens.",
+          "en": "Coele-Syria ('Hollow Syria') was the wealthy western province of the Seleucid Empire with the magnificent capital Antioch on the Orontes. The region was repeatedly contested between the Seleucids and the Ptolemies of Egypt."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              33
+            ],
+            [
+              56,
+              33
+            ],
+            [
+              56,
+              40
+            ],
+            [
+              48,
+              40.5
+            ],
+            [
+              44,
+              38.5
+            ],
+            [
+              44,
+              33
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "seleucid-media",
+        "parentId": "seleucid-empire",
+        "startYear": -312,
+        "endYear": -150,
+        "peakStartYear": -312,
+        "peakEndYear": -150,
+        "culturalSphere": "greek",
+        "color": "#3366CC",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Seleukidisches Medien",
+          "en": "Seleucid Media"
+        },
+        "description": {
+          "de": "Medien unter seleukidischer Herrschaft war eine wichtige östliche Provinz des hellenistischen Reiches. Die reiche Region mit Ekbatana als königlicher Schatzkammer wurde Mitte des 2. Jh. v. Chr. von den aufstrebenden Parthern übernommen.",
+          "en": "Media under Seleucid rule was an important eastern province of the Hellenistic empire. The wealthy region with Ecbatana as a royal treasury was taken over by the rising Parthians in the mid-2nd century BC."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              63,
+              33
+            ],
+            [
+              73.5,
+              33
+            ],
+            [
+              73.5,
+              39.5
+            ],
+            [
+              66.5,
+              40
+            ],
+            [
+              63,
+              37.5
+            ],
+            [
+              63,
+              33
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "seleucid-bactria",
+        "parentId": "seleucid-empire",
+        "startYear": -312,
+        "endYear": -250,
+        "peakStartYear": -312,
+        "peakEndYear": -250,
+        "culturalSphere": "greek",
+        "color": "#3366CC",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Baktrien unter den Seleukiden",
+          "en": "Bactria under the Seleucids"
+        },
+        "description": {
+          "de": "Baktrien unter seleukidischer Herrschaft war eine fernöstliche Provinz des hellenistischen Reiches mit bedeutenden griechischen Kolonisten. Unter dem Satrapen Diodotos I. machte sich die Region um 256 v. Chr. unabhängig und wurde zum Griechisch-Baktrischen Königreich.",
+          "en": "Bactria under Seleucid rule was a far-eastern province of the Hellenistic empire with significant Greek settlers. Under the satrap Diodotus I, the region declared independence around 256 BC and became the Greco-Bactrian Kingdom."
+        }
+      }
     }
   ]
 }

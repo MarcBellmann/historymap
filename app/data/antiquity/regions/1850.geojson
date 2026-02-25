@@ -364,6 +364,775 @@
           "en": "The Kingdom of Benin, also known as the Edo Kingdom, emerged in present-day southern Nigeria and was ruled by the Oba (kings) of the Benin dynasty. Famous for its extraordinary bronze castings and ivory carvings, Benin maintained a sophisticated court life, wide-ranging trade contacts as far as Portugal, and a complex administrative apparatus. The art of the Benin bronzes stands as a pinnacle of West African metalwork and testifies to the kingdom's cultural refinement."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              68,
+              8
+            ],
+            [
+              90,
+              20
+            ],
+            [
+              92,
+              26
+            ],
+            [
+              88,
+              28
+            ],
+            [
+              80,
+              28
+            ],
+            [
+              72,
+              24
+            ],
+            [
+              68,
+              22
+            ],
+            [
+              64,
+              18
+            ],
+            [
+              68,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "british-empire-india",
+        "startYear": 1757,
+        "endYear": 1947,
+        "peakStartYear": 1800,
+        "peakEndYear": 1900,
+        "culturalSphere": "british",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Britisch-Indien",
+          "en": "British Empire - India"
+        },
+        "description": {
+          "de": "Nach dem Sieg der East India Company in der Schlacht von Plassey 1757 baute Großbritannien seine Kontrolle über den indischen Subkontinent aus. Für die Bevölkerung Indiens bedeutete dies wirtschaftliche Ausbeutung, den Verlust traditioneller Handelswege und politischer Souveränität. Der Sepoy-Aufstand von 1857 führte zur direkten Kronherrschaft und endete erst mit der indischen Unabhängigkeit 1947.",
+          "en": "After the East India Company's victory at Plassey in 1757, Britain steadily expanded control across the subcontinent. For Indians, this meant economic exploitation, destruction of traditional industries, and suppression of political sovereignty. The Sepoy Uprising of 1857 brought direct Crown rule. Independence came in 1947 after decades of resistance led by figures including Mahatma Gandhi."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16,
+              -35
+            ],
+            [
+              32,
+              -27
+            ],
+            [
+              42,
+              -11
+            ],
+            [
+              36,
+              5
+            ],
+            [
+              4,
+              10
+            ],
+            [
+              3,
+              6
+            ],
+            [
+              12,
+              -3
+            ],
+            [
+              14,
+              -18
+            ],
+            [
+              16,
+              -35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "british-empire-africa",
+        "startYear": 1795,
+        "endYear": 1910,
+        "peakStartYear": 1850,
+        "peakEndYear": 1910,
+        "culturalSphere": "british",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Britisches Afrika",
+          "en": "British Empire - Africa"
+        },
+        "description": {
+          "de": "Im Zuge des Wettlaufs um Afrika sicherte sich Großbritannien weite Teile des südlichen und östlichen Afrikas sowie Nigerieas. Die Kapkolonie, Natal, Kenia und Nigeria wurden Teil des Empires. Die einheimischen Bevölkerungen — Zulu, Xhosa, Kikuyu und viele andere — leisteten vielfach bewaffneten Widerstand gegen die Landnahme und Unterwerfung.",
+          "en": "During the Scramble for Africa, Britain secured large parts of southern and eastern Africa as well as Nigeria. The Cape Colony, Natal, Kenya and Nigeria became imperial possessions. Indigenous peoples — Zulu, Xhosa, Kikuyu, and many others — frequently resisted conquest through armed struggle. Britain's presence restructured local economies and societies for extraction of raw materials."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112,
+              -38
+            ],
+            [
+              154,
+              -38
+            ],
+            [
+              154,
+              -10
+            ],
+            [
+              130,
+              -10
+            ],
+            [
+              112,
+              -22
+            ],
+            [
+              112,
+              -38
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "british-empire-australia",
+        "startYear": 1788,
+        "endYear": 1901,
+        "peakStartYear": 1820,
+        "peakEndYear": 1901,
+        "culturalSphere": "british",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Britisch-Australien",
+          "en": "British Empire - Australia/Pacific"
+        },
+        "description": {
+          "de": "Die britische Besiedlung Australiens begann 1788 mit der Ankunft der First Fleet in Sydney Cove. Für die Aboriginal-Völker bedeutete die Kolonisierung den Verlust ihres Landes, die Zerstörung ihrer Kulturen und eine dramatische Verringerung ihrer Bevölkerung. 1901 schlossen sich die australischen Kolonien zur Commonwealth of Australia zusammen.",
+          "en": "British settlement of Australia began in 1788 with the arrival of the First Fleet at Sydney Cove, initially as a penal colony. For Aboriginal Australians, colonization brought dispossession of land, destruction of cultures, and catastrophic population decline. The continent's vast interior was gradually opened through exploration. In 1901, the colonies federated as the Commonwealth of Australia."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              -18
+            ],
+            [
+              24,
+              -18
+            ],
+            [
+              26,
+              -10
+            ],
+            [
+              22,
+              -4
+            ],
+            [
+              18,
+              -2
+            ],
+            [
+              12,
+              -2
+            ],
+            [
+              10,
+              -8
+            ],
+            [
+              10,
+              -18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "portuguese-empire-africa-west",
+        "startYear": 1575,
+        "endYear": 1975,
+        "peakStartYear": 1650,
+        "peakEndYear": 1900,
+        "culturalSphere": "portuguese",
+        "color": "#228844",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Portugiesisches Afrika – Angola",
+          "en": "Portuguese Empire - Angola"
+        },
+        "description": {
+          "de": "Portugal errichtete ab 1575 Handelsstützpunkte an der angolanischen Küste. Angola war eines der zentralen Zentren des transatlantischen Sklavenhandels — Millionen von Menschen des Königreichs Kongo, Ndongo und anderer Reiche wurden nach Brasilien und in die Karibik verschleppt. Die vollständige Kontrolle über das Innere wurde erst Anfang des 20. Jahrhunderts durchgesetzt. Die Unabhängigkeit kam 1975 nach dem Nelkenrevolution in Portugal.",
+          "en": "Portugal established coastal trading posts in Angola from 1575. The region became a central hub of the transatlantic slave trade — millions from the Kingdom of Kongo, Ndongo, and other polities were transported to Brazil and the Caribbean. Full interior control was only achieved in the early 20th century. Independence came in 1975 following Portugal's Carnation Revolution, ending nearly 400 years of colonial presence."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32,
+              -26
+            ],
+            [
+              42,
+              -26
+            ],
+            [
+              40,
+              -10
+            ],
+            [
+              36,
+              -4
+            ],
+            [
+              34,
+              -8
+            ],
+            [
+              34,
+              -16
+            ],
+            [
+              32,
+              -22
+            ],
+            [
+              32,
+              -26
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "portuguese-empire-africa-east",
+        "startYear": 1498,
+        "endYear": 1975,
+        "peakStartYear": 1600,
+        "peakEndYear": 1900,
+        "culturalSphere": "portuguese",
+        "color": "#228844",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Portugiesisches Afrika – Mosambik",
+          "en": "Portuguese Empire - Mozambique"
+        },
+        "description": {
+          "de": "Vasco da Gama erreichte 1498 die mosambikanische Küste auf dem Weg nach Indien. Portugal nutzte die ostafrikanische Küste als Stützpunkt auf dem Seeweg nach Asien und gründete Handelsstationen an der Küste und im Sambesi-Becken. Die volle Kontrolle des Innenlandes wurde erst 1918 gesichert. Mozambique erlangte seine Unabhängigkeit 1975 nach einem jahrelangen Befreiungskrieg der FRELIMO.",
+          "en": "Vasco da Gama reached the Mozambican coast in 1498 en route to India. Portugal used East Africa as a waystation on the sea route to Asia, establishing coastal trading posts and penetrating the Zambezi basin. Full interior control was only secured in 1918. Mozambique gained independence in 1975 after years of armed struggle by FRELIMO, ending nearly five centuries of Portuguese presence."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              95,
+              -8
+            ],
+            [
+              140,
+              -8
+            ],
+            [
+              140,
+              6
+            ],
+            [
+              120,
+              8
+            ],
+            [
+              104,
+              4
+            ],
+            [
+              96,
+              2
+            ],
+            [
+              95,
+              -8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "dutch-east-indies",
+        "startYear": 1602,
+        "endYear": 1949,
+        "peakStartYear": 1700,
+        "peakEndYear": 1900,
+        "culturalSphere": "dutch",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Niederländisch-Ostindien (VOC)",
+          "en": "Dutch East Indies / VOC"
+        },
+        "description": {
+          "de": "Die Vereinigte Ostindische Compagnie (VOC) errichtete ab 1602 ein Handelsnetz im Indischen Ozean mit Batavia (Jakarta) als Zentrum. Der Gewürzhandel, insbesondere Muskat, Nelken und Pfeffer von den Molukken, war die Grundlage eines enormen Reichtums. Die VOC übte quasi-staatliche Gewalt aus und unterwarf die lokalen Sultanate gewaltsam. Das niederländische Kolonialregime beruhte auf erzwungener Arbeit (Kultursystem), die die javanische Landbevölkerung verarmte. Indonesia erklärte 1945 die Unabhängigkeit.",
+          "en": "The VOC (Dutch East India Company) established a trading network across the Indian Ocean from 1602 with Batavia (Jakarta) as its hub. The spice trade — nutmeg, cloves, and pepper from the Moluccas — generated enormous wealth. The VOC exercised quasi-governmental powers, subjugating local sultanates by force. The Dutch colonial regime relied on forced cultivation (cultuurstelsel) that impoverished Javanese peasants. Indonesia declared independence in 1945."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.5,
+              51
+            ],
+            [
+              18.5,
+              51
+            ],
+            [
+              22,
+              52.5
+            ],
+            [
+              20.5,
+              54.5
+            ],
+            [
+              19.5,
+              54.5
+            ],
+            [
+              16,
+              54.5
+            ],
+            [
+              14,
+              54
+            ],
+            [
+              12,
+              54.5
+            ],
+            [
+              10.5,
+              54
+            ],
+            [
+              10,
+              52.5
+            ],
+            [
+              11.5,
+              51.5
+            ],
+            [
+              13.5,
+              51
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-prussia",
+        "startYear": 1701,
+        "endYear": 1918,
+        "peakStartYear": 1740,
+        "peakEndYear": 1866,
+        "culturalSphere": "german",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Preußen",
+          "en": "Kingdom of Prussia"
+        },
+        "description": {
+          "de": "Das Königreich Preußen entstand 1701 und entwickelte sich unter Friedrich dem Großen zur führenden deutschen Militärmacht. Preußen trieb die Einigung Deutschlands voran und war treibende Kraft bei der Gründung des Deutschen Kaiserreichs 1871.",
+          "en": "The Kingdom of Prussia was established in 1701 and developed under Frederick the Great into the leading German military power. Prussia drove German unification and was the driving force behind the founding of the German Empire in 1871."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.5,
+              34
+            ],
+            [
+              130,
+              34
+            ],
+            [
+              130.5,
+              37
+            ],
+            [
+              129.5,
+              40
+            ],
+            [
+              128.5,
+              42.5
+            ],
+            [
+              126,
+              42
+            ],
+            [
+              124,
+              40
+            ],
+            [
+              124,
+              37
+            ],
+            [
+              124.5,
+              34
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "joseon-dynasty",
+        "startYear": 1392,
+        "endYear": 1897,
+        "peakStartYear": 1392,
+        "peakEndYear": 1897,
+        "culturalSphere": "korean",
+        "color": "#CC8899",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Joseon-Dynastie",
+          "en": "Joseon Dynasty"
+        },
+        "description": {
+          "de": "Die Joseon-Dynastie herrschte 505 Jahre über Korea und prägte die koreanische Identität bis heute. Gegründet 1392 von Taejo Yi Seonggye, führte sie den Neokonfuzianismus als Staatsideologie ein und erlebte eine Blütezeit der koreanischen Kultur, Wissenschaft und Literatur, darunter die Schaffung des Hangul-Alphabets. Obwohl durch japanische und mandschurische Invasionen geschwächt, blieb Korea als ‚Einsiedlerkönigreich' von außen größtenteils isoliert.",
+          "en": "The Joseon dynasty ruled Korea for 505 years and profoundly shaped Korean identity to this day. Founded in 1392 by Taejo Yi Seonggye, it instituted Neo-Confucianism as the state ideology and experienced a flourishing of Korean culture, science, and literature, including the creation of the Hangul alphabet. Although weakened by Japanese and Manchu invasions, Korea remained largely isolated as the 'Hermit Kingdom'."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              119.5,
+              21.5
+            ],
+            [
+              122,
+              21.5
+            ],
+            [
+              122.5,
+              25.5
+            ],
+            [
+              121.5,
+              25.5
+            ],
+            [
+              119.5,
+              24
+            ],
+            [
+              119.5,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "qing-taiwan",
+        "parentId": "qing-dynasty",
+        "startYear": 1683,
+        "endYear": 1895,
+        "peakStartYear": 1683,
+        "peakEndYear": 1895,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Taiwan unter der Qing-Dynastie",
+          "en": "Taiwan under Qing Dynasty"
+        },
+        "description": {
+          "de": "Taiwan kam 1683 nach dem Sieg der Qing-Flotte über das Ming-treue Königreich Tungning unter die Herrschaft der Qing-Dynastie. Über zwei Jahrhunderte als Präfektur der Provinz Fujian verwaltet, wurde Taiwan 1887 zur eigenständigen Provinz erhoben. Die Insel erlebte eine starke chinesische Einwanderung und wirtschaftliche Entwicklung. 1895 trat die Qing-Dynasty Taiwan nach der Niederlage im Ersten Japanisch-Chinesischen Krieg an Japan ab.",
+          "en": "Taiwan came under Qing dynasty rule in 1683 after the Qing fleet defeated the Ming-loyalist Kingdom of Tungning. Administered for two centuries as a prefecture of Fujian Province, Taiwan was elevated to its own province in 1887. The island saw significant Chinese immigration and economic development. In 1895, the Qing dynasty ceded Taiwan to Japan after defeat in the First Sino-Japanese War."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              119,
+              38
+            ],
+            [
+              135,
+              38
+            ],
+            [
+              135.5,
+              48
+            ],
+            [
+              130,
+              53
+            ],
+            [
+              122,
+              53
+            ],
+            [
+              115,
+              48
+            ],
+            [
+              119,
+              38
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "qing-manchuria",
+        "parentId": "qing-dynasty",
+        "startYear": 1644,
+        "endYear": 1912,
+        "peakStartYear": 1644,
+        "peakEndYear": 1912,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Mandschurei (Qing-Heimat)",
+          "en": "Manchuria (Qing Homeland)"
+        },
+        "description": {
+          "de": "Die Mandschurei war die ancestrale Heimat der Mandschu, der Gründer der Qing-Dynastie. Aus dieser Region brach 1644 die Qing-Armee auf und eroberte China. Als heiliges Stammland war die Mandschurei lange Zeit für Han-Chinesen gesperrt. Die Region umfasst das heutige Nordostchina und bildete die Basis der kaiserlichen Legitimität und militärischen Macht der Qing.",
+          "en": "Manchuria was the ancestral homeland of the Manchu people, founders of the Qing dynasty. From this region, the Qing army launched its conquest of China in 1644. As a sacred ancestral land, Manchuria was long closed to Han Chinese settlement. The region encompasses modern northeast China and formed the basis of Qing imperial legitimacy and military power."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87,
+              42
+            ],
+            [
+              120,
+              42
+            ],
+            [
+              120,
+              50
+            ],
+            [
+              106,
+              52
+            ],
+            [
+              87,
+              50
+            ],
+            [
+              87,
+              42
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "qing-mongolia",
+        "parentId": "qing-dynasty",
+        "startYear": 1691,
+        "endYear": 1912,
+        "peakStartYear": 1691,
+        "peakEndYear": 1912,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Mongolei unter der Qing-Dynastie",
+          "en": "Mongolia under Qing Dynasty"
+        },
+        "description": {
+          "de": "Die Mongolei wurde 1691 vollständig in die Qing-Dynastie eingegliedert, nachdem die Khalkha-Fürsten Schutz vor den Dsungar-Invasionen gesucht hatten. Als Äußere Mongolei bildete sie über zwei Jahrhunderte eine Kernregion des Qing-Imperiums. Die Qing-Kaiser nutzten ihre mongolische Abstammungslegitimität, um die Kontrolle über die Steppenvölker zu wahren. Mit der Xinhai-Revolution 1911 erklärte die Mongolei ihre Unabhängigkeit.",
+          "en": "Mongolia was fully incorporated into the Qing dynasty in 1691 after the Khalkha princes sought protection from the Dzungar invasions. As Outer Mongolia it formed a core region of the Qing empire for over two centuries. Qing emperors utilized their Mongol descent legitimacy to maintain control over the steppe peoples. With the Xinhai Revolution of 1911, Mongolia declared its independence."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78,
+              26
+            ],
+            [
+              97,
+              26
+            ],
+            [
+              97,
+              36
+            ],
+            [
+              92,
+              37
+            ],
+            [
+              84,
+              36
+            ],
+            [
+              78,
+              32
+            ],
+            [
+              78,
+              26
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "qing-tibet",
+        "parentId": "qing-dynasty",
+        "startYear": 1720,
+        "endYear": 1912,
+        "peakStartYear": 1720,
+        "peakEndYear": 1912,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Tibet unter der Qing-Dynastie",
+          "en": "Tibet under Qing Dynasty"
+        },
+        "description": {
+          "de": "Tibet kam 1720 unter Qing-Herrschaft, als die Qing-Armee die invasierenden Dsungaren vertrieb. Als Protektorat bewahrte Tibet eine erhebliche innere Autonomie unter dem Dalai Lama, während die Qing-Kaiser ihre Beziehung als religiöse Schirmherrschaft (Patron-Priester-Verhältnis) definierten. Die Ammans (Qing-Residenten) überwachten die tibetische Verwaltung. Tibet blieb ein wichtiger spiritueller und strategischer Puffer für das Qing-Imperium.",
+          "en": "Tibet came under Qing rule in 1720 when Qing forces expelled the invading Dzungars. As a protectorate, Tibet retained considerable internal autonomy under the Dalai Lama, while Qing emperors defined their relationship as religious patronage (patron-priest relationship). Ambans (Qing residents) supervised Tibetan administration. Tibet remained an important spiritual and strategic buffer for the Qing empire."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73,
+              35
+            ],
+            [
+              96,
+              35
+            ],
+            [
+              96,
+              48
+            ],
+            [
+              85,
+              48
+            ],
+            [
+              73,
+              45
+            ],
+            [
+              73,
+              35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "qing-xinjiang",
+        "parentId": "qing-dynasty",
+        "startYear": 1759,
+        "endYear": 1912,
+        "peakStartYear": 1759,
+        "peakEndYear": 1912,
+        "culturalSphere": "chinese",
+        "color": "#CC9900",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Xinjiang unter der Qing-Dynastie",
+          "en": "Xinjiang under Qing Dynasty"
+        },
+        "description": {
+          "de": "Xinjiang (‚Neue Grenzmark') wurde 1759 nach dem Sieg über das Dsungar-Khanat und die Unterwerfung des Tarim-Beckens vollständig unter Qing-Herrschaft gebracht. Die Region war ethnisch divers, mit Uiguren, Kasachen, Mongolen und anderen Gruppen. Die Qing-Verwaltung unterhielt ein umfangreiches Netz von Garnisonen. 1884 wurde Xinjiang als reguläre Provinz in das Qing-Reich integriert.",
+          "en": "Xinjiang ('New Frontier') was fully brought under Qing rule in 1759 after the defeat of the Dzungar Khanate and subjugation of the Tarim Basin. The region was ethnically diverse, with Uyghurs, Kazakhs, Mongols, and other groups. Qing administration maintained an extensive network of garrisons. In 1884, Xinjiang was integrated into the Qing empire as a regular province."
+        }
+      }
     }
   ]
 }
