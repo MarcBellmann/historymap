@@ -1,0 +1,201 @@
+[
+  {
+    "id": "rome",
+    "coordinates": [
+      12.4964,
+      41.9028
+    ],
+    "startYear": -753,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "roman",
+      "mediterranean"
+    ],
+    "labels": {
+      "de": "Rom",
+      "en": "Rome"
+    },
+    "description": {
+      "de": "Hauptstadt des Römischen Reiches. Gegründet der Legende nach 753 v. Chr. von Romulus.",
+      "en": "Capital of the Roman Empire. Founded according to legend in 753 BC by Romulus."
+    }
+  },
+  {
+    "id": "athens",
+    "coordinates": [
+      23.7275,
+      37.9838
+    ],
+    "startYear": -3000,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "greek",
+      "mediterranean"
+    ],
+    "labels": {
+      "de": "Athen",
+      "en": "Athens"
+    },
+    "description": {
+      "de": "Geburtsstätte der Demokratie und des westlichen Denkens. Blütezeit im 5. Jh. v. Chr.",
+      "en": "Birthplace of democracy and Western thought. Golden age in the 5th century BC."
+    }
+  },
+  {
+    "id": "carthage",
+    "coordinates": [
+      10.3236,
+      36.8525
+    ],
+    "startYear": -814,
+    "endYear": -146,
+    "importance": 1,
+    "culturalSphere": [
+      "phoenician",
+      "mediterranean"
+    ],
+    "labels": {
+      "de": "Karthago",
+      "en": "Carthage"
+    },
+    "description": {
+      "de": "Mächtige Handelsmacht in Nordafrika, Rivalin Roms. Im 3. Punischen Krieg 146 v. Chr. zerstört.",
+      "en": "Powerful trading empire in North Africa, rival of Rome. Destroyed in 146 BC during the Third Punic War."
+    }
+  },
+  {
+    "id": "luoyang",
+    "coordinates": [
+      112.4539,
+      34.62
+    ],
+    "startYear": -770,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese",
+      "han"
+    ],
+    "labels": {
+      "de": "Luoyang",
+      "en": "Luoyang"
+    },
+    "description": {
+      "de": "Eine der ältesten Städte Chinas, östliche Hauptstadt der Han-Dynastie.",
+      "en": "One of China's oldest cities, eastern capital of the Han dynasty."
+    }
+  },
+  {
+    "id": "samarkand",
+    "coordinates": [
+      66.975,
+      39.6542
+    ],
+    "startYear": -700,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "sogdian",
+      "persian",
+      "hellenistic"
+    ],
+    "labels": {
+      "de": "Samarkand",
+      "en": "Samarkand"
+    },
+    "description": {
+      "de": "Einer der wichtigsten Knotenpunkte der Seidenstraße. Von Alexander dem Großen als Marakanda besucht.",
+      "en": "One of the most important nodes of the Silk Road. Visited by Alexander the Great as Maracanda."
+    }
+  },
+  {
+    "id": "jerusalem",
+    "coordinates": [
+      35.2137,
+      31.7683
+    ],
+    "startYear": -3000,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "jewish",
+      "roman"
+    ],
+    "labels": {
+      "de": "Jerusalem",
+      "en": "Jerusalem"
+    },
+    "description": {
+      "de": "Heilige Stadt der Juden, Christen und später auch Muslime. Im Jahr 70 n. Chr. von den Römern zerstört.",
+      "en": "Holy city of Jews, Christians, and later Muslims. Destroyed by the Romans in 70 AD."
+    }
+  },
+  {
+    "id": "meroe",
+    "coordinates": [
+      33.75,
+      16.9333
+    ],
+    "startYear": -750,
+    "endYear": 350,
+    "importance": 2,
+    "culturalSphere": [
+      "nubian",
+      "african"
+    ],
+    "labels": {
+      "de": "Meroë",
+      "en": "Meroë"
+    },
+    "description": {
+      "de": "Hauptstadt des Königreichs Kusch (Nubien), bekannt für seine Pyramiden. Eigenständige Zivilisation südlich Ägyptens.",
+      "en": "Capital of the Kingdom of Kush (Nubia), known for its pyramids. An independent civilization south of Egypt."
+    }
+  },
+  {
+    "id": "palmyra",
+    "coordinates": [
+      38.2701,
+      34.5516
+    ],
+    "startYear": -2000,
+    "endYear": 273,
+    "importance": 2,
+    "culturalSphere": [
+      "aramaic",
+      "roman",
+      "parthian"
+    ],
+    "labels": {
+      "de": "Palmyra",
+      "en": "Palmyra"
+    },
+    "description": {
+      "de": "Oasenstadt in der syrischen Wüste, wichtiger Handelsknoten zwischen dem Römischen und dem Partherreich.",
+      "en": "Oasis city in the Syrian desert, key trading node between the Roman and Parthian empires."
+    }
+  },
+  {
+    "id": "ye",
+    "coordinates": [
+      114.4002,
+      36.2748
+    ],
+    "startYear": -650,
+    "endYear": 580,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Ye (Yecheng)",
+      "en": "Ye (Yecheng)"
+    },
+    "description": {
+      "de": "Ye (Yecheng) war eine der wichtigsten politischen Hauptstädte Nordchinas und diente als Machtbasis des Warlords Cao Cao nach seiner Einnahme der Stadt im Jahr 204 n. Chr. Als Cao Cao 216 n. Chr. den Titel König von Wei annahm, wurde Ye offiziell zur Hauptstadt des Staates Wei. Die Stadt an der Grenze von Hebei und Henan war Sitz eines prachtvollen Palastkomplexes und ein Zentrum nordchinesischer Kultur während der Zeit der Drei Reiche und der späten Jin-Dynastie.",
+      "en": "Ye (Yecheng) was one of the most important political capitals of northern China and served as the power base of the warlord Cao Cao after he captured the city in 204 AD. When Cao Cao assumed the title King of Wei in 216 AD, Ye officially became the capital of the state of Wei. The city on the border of Hebei and Henan housed a magnificent palace complex and was a center of northern Chinese culture during the Three Kingdoms era and the later Jin dynasty."
+    }
+  }
+]

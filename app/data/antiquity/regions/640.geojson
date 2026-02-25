@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15,
+              8
+            ],
+            [
+              50,
+              8
+            ],
+            [
+              50,
+              22
+            ],
+            [
+              15,
+              22
+            ],
+            [
+              15,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-axum",
+        "startYear": -400,
+        "endYear": 940,
+        "culturalSphere": "axumite",
+        "color": "#996600",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Aksum",
+          "en": "Kingdom of Axum"
+        },
+        "description": {
+          "de": "Das Königreich Aksum war eine der mächtigsten Handelsnationen der Antike und kontrollierte den Handel am Roten Meer. Es war eines der ersten Reiche, das das Christentum als Staatsreligion annahm.",
+          "en": "The Kingdom of Axum was one of the most powerful trading nations of antiquity, controlling Red Sea trade. It was one of the first empires to adopt Christianity as a state religion."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3,
+              50.5
+            ],
+            [
+              9,
+              50.5
+            ],
+            [
+              9,
+              53.5
+            ],
+            [
+              6,
+              53.5
+            ],
+            [
+              3,
+              52.5
+            ],
+            [
+              2.5,
+              51.5
+            ],
+            [
+              3,
+              50.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "franks",
+        "startYear": 260,
+        "endYear": 843,
+        "culturalSphere": "germanic",
+        "color": "#5A7A3A",
+        "opacity": 0.35,
+        "labels": {
+          "de": "Franken",
+          "en": "Franks"
+        },
+        "description": {
+          "de": "Die Franken waren ein germanischer Stammesverband am Niederrhein, zusammengesetzt aus kleineren Gruppen wie den Chamaven, Bructerern und Salyiern. Um 310 n. Chr. standen sie unter stetem Druck des Römischen Reiches, dienten aber auch als Verbündete und Söldner in der Armee. Aus diesen Anfängen entstand das mächtigste Nachfolgekönigreich des Weströmischen Reiches — das Frankenreich, das Europa für das Mittelalter formte.",
+          "en": "The Franks were a Germanic tribal confederation along the lower Rhine, composed of smaller groups including the Chamavi, Bructeri, and Salii. Around 310 AD they lived under constant pressure from the Roman Empire while also serving as allies and mercenaries in its army. From these origins grew the most powerful successor kingdom of the Western Roman Empire — the Frankish realm that shaped medieval Europe."
+        }
+      }
+    }
+  ]
+}

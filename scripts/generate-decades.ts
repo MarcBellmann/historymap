@@ -19,7 +19,7 @@ mkdirSync(join(dataDir, "events"), { recursive: true });
 
 let regionFiles = 0, cityFiles = 0, eventFiles = 0;
 
-for (let decade = -500; decade <= 500; decade += 10) {
+for (let decade = -1000; decade <= 1900; decade += 10) {
   // Regions: features where startYear <= decade && (endYear === null || endYear >= decade)
   const filteredRegions = {
     type: "FeatureCollection",

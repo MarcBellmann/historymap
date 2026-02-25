@@ -26,5 +26,5 @@
       "~/*": ["./app/*"]
     }
   },
-  "include": ["app", "app.config.ts"]
+  "include": ["app", "scripts"]
 }

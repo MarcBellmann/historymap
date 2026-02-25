@@ -1,0 +1,69 @@
+[
+  {
+    "id": "athens",
+    "coordinates": [
+      23.7275,
+      37.9838
+    ],
+    "startYear": -3000,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "greek",
+      "mediterranean"
+    ],
+    "labels": {
+      "de": "Athen",
+      "en": "Athens"
+    },
+    "description": {
+      "de": "Geburtsstätte der Demokratie und des westlichen Denkens. Blütezeit im 5. Jh. v. Chr.",
+      "en": "Birthplace of democracy and Western thought. Golden age in the 5th century BC."
+    }
+  },
+  {
+    "id": "jerusalem",
+    "coordinates": [
+      35.2137,
+      31.7683
+    ],
+    "startYear": -3000,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "jewish",
+      "roman"
+    ],
+    "labels": {
+      "de": "Jerusalem",
+      "en": "Jerusalem"
+    },
+    "description": {
+      "de": "Heilige Stadt der Juden, Christen und später auch Muslime. Im Jahr 70 n. Chr. von den Römern zerstört.",
+      "en": "Holy city of Jews, Christians, and later Muslims. Destroyed by the Romans in 70 AD."
+    }
+  },
+  {
+    "id": "palmyra",
+    "coordinates": [
+      38.2701,
+      34.5516
+    ],
+    "startYear": -2000,
+    "endYear": 273,
+    "importance": 2,
+    "culturalSphere": [
+      "aramaic",
+      "roman",
+      "parthian"
+    ],
+    "labels": {
+      "de": "Palmyra",
+      "en": "Palmyra"
+    },
+    "description": {
+      "de": "Oasenstadt in der syrischen Wüste, wichtiger Handelsknoten zwischen dem Römischen und dem Partherreich.",
+      "en": "Oasis city in the Syrian desert, key trading node between the Roman and Parthian empires."
+    }
+  }
+]

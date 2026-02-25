@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15,
+              22
+            ],
+            [
+              40,
+              22
+            ],
+            [
+              40,
+              32
+            ],
+            [
+              15,
+              32
+            ],
+            [
+              15,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-kush",
+        "startYear": -750,
+        "endYear": 350,
+        "culturalSphere": "nubian",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Kusch",
+          "en": "Kingdom of Kush"
+        },
+        "description": {
+          "de": "Das Königreich Kusch (Nubien) war eine eigenständige Zivilisation südlich Ägyptens mit eigener Schrift und Pyramidentradition.",
+          "en": "The Kingdom of Kush (Nubia) was an independent civilization south of Egypt with its own script and pyramid tradition."
+        }
+      }
+    }
+  ]
+}

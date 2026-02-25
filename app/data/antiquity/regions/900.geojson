@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15,
+              8
+            ],
+            [
+              50,
+              8
+            ],
+            [
+              50,
+              22
+            ],
+            [
+              15,
+              22
+            ],
+            [
+              15,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-axum",
+        "startYear": -400,
+        "endYear": 940,
+        "culturalSphere": "axumite",
+        "color": "#996600",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Aksum",
+          "en": "Kingdom of Axum"
+        },
+        "description": {
+          "de": "Das Königreich Aksum war eine der mächtigsten Handelsnationen der Antike und kontrollierte den Handel am Roten Meer. Es war eines der ersten Reiche, das das Christentum als Staatsreligion annahm.",
+          "en": "The Kingdom of Axum was one of the most powerful trading nations of antiquity, controlling Red Sea trade. It was one of the first empires to adopt Christianity as a state religion."
+        }
+      }
+    }
+  ]
+}

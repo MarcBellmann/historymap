@@ -1,5 +1,5 @@
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
-import { useCallback, useMemo } from "react";
+import { useCallback, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { Globe, Languages } from "lucide-react";
 import { MapView } from "~/components/Map/MapView";
@@ -7,33 +7,49 @@ import { TimelineSlider } from "~/components/Timeline/TimelineSlider";
 import { DetailPanel } from "~/components/Detail/DetailPanel";
 import { defaultEpoch } from "~/data/config";
 import { yearToDecade } from "~/lib/decadeUtils";
-import type { SelectedItem } from "~/types/history";
-import { useState } from "react";
-
-import type { City, HistoricalEvent } from "~/types/history";
+import type { SelectedItem, City, HistoricalEvent } from "~/types/history";
 import type { FeatureCollection } from "geojson";
 
-const regionModules = import.meta.glob(
-  "../data/antiquity/regions/*.geojson",
-  { eager: true }
-) as Record<string, { default: FeatureCollection }>;
+const regionGlob = import.meta.glob<{ default: FeatureCollection }>(
+  "../data/antiquity/regions/*.geojson"
+);
+const cityGlob = import.meta.glob<{ default: City[] }>(
+  "../data/antiquity/cities/*.json"
+);
+const eventGlob = import.meta.glob<{ default: HistoricalEvent[] }>(
+  "../data/antiquity/events/*.json"
+);
 
-const cityModules = import.meta.glob(
-  "../data/antiquity/cities/*.json",
-  { eager: true }
-) as Record<string, { default: City[] }>;
-
-const eventModules = import.meta.glob(
-  "../data/antiquity/events/*.json",
-  { eager: true }
-) as Record<string, { default: HistoricalEvent[] }>;
-
-const EMPTY_FEATURE_COLLECTION: FeatureCollection = { type: "FeatureCollection", features: [] };
+const EMPTY_FC: FeatureCollection = { type: "FeatureCollection", features: [] };
+const EVENT_OFFSETS = [-50, -40, -30, -20, -10, 0, 10, 20, 30, 40, 50];
 
 export const Route = createFileRoute("/")({
   validateSearch: (search: Record<string, unknown>) => {
     const raw = Number(search.year);
     return { year: isNaN(raw) ? 0 : raw };
+  },
+  loaderDeps: ({ search: { year } }) => ({
+    decade: yearToDecade(
+      Math.max(defaultEpoch.startYear, Math.min(defaultEpoch.endYear, year || 0))
+    ),
+  }),
+  loader: async ({ deps: { decade } }) => {
+    const [regionsResult, citiesResult, ...eventResults] = await Promise.all([
+      regionGlob[`../data/antiquity/regions/${decade}.geojson`]?.() ??
+        Promise.resolve({ default: EMPTY_FC }),
+      cityGlob[`../data/antiquity/cities/${decade}.json`]?.() ??
+        Promise.resolve({ default: [] as City[] }),
+      ...EVENT_OFFSETS.map(
+        (d) =>
+          eventGlob[`../data/antiquity/events/${decade + d}.json`]?.() ??
+          Promise.resolve({ default: [] as HistoricalEvent[] })
+      ),
+    ]);
+    return {
+      regions: regionsResult.default,
+      cities: citiesResult.default,
+      events: eventResults.flatMap((r) => r.default),
+    };
   },
   component: HomePage,
 });
@@ -47,34 +63,15 @@ function HomePage() {
   const epoch = defaultEpoch;
   const currentYear = Math.max(epoch.startYear, Math.min(epoch.endYear, urlYear));
 
+  const { regions, cities, events } = Route.useLoaderData();
   const [selectedItem, setSelectedItem] = useState<SelectedItem>(null);
 
-  const handleYearChange = useCallback((year: number) => {
-    navigate({ search: { year }, replace: true });
-  }, [navigate]);
-
-  const decade = yearToDecade(currentYear);
-
-  const currentRegions = useMemo(
-    () =>
-      regionModules[`../data/antiquity/regions/${decade}.geojson`]?.default ??
-      EMPTY_FEATURE_COLLECTION,
-    [decade]
+  const handleYearChange = useCallback(
+    (year: number) => {
+      navigate({ search: { year }, replace: true });
+    },
+    [navigate]
   );
-
-  const currentCities = useMemo(
-    () => cityModules[`../data/antiquity/cities/${decade}.json`]?.default ?? [],
-    [decade]
-  );
-
-  const currentEvents = useMemo(() => {
-    const nearbyDecades = [-50, -40, -30, -20, -10, 0, 10, 20, 30, 40, 50].map(
-      (d) => decade + d
-    );
-    return nearbyDecades.flatMap(
-      (d) => eventModules[`../data/antiquity/events/${d}.json`]?.default ?? []
-    );
-  }, [decade]);
 
   const toggleLanguage = useCallback(() => {
     i18n.changeLanguage(lang === "de" ? "en" : "de");
@@ -85,9 +82,9 @@ function HomePage() {
       {/* Full-screen Map */}
       <div className="absolute inset-0">
         <MapView
-          cities={currentCities}
-          regionsGeoJSON={currentRegions}
-          events={currentEvents}
+          cities={cities}
+          regionsGeoJSON={regions}
+          events={events}
           currentYear={currentYear}
           onSelectItem={setSelectedItem}
           lang={lang}

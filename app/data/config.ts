@@ -2,13 +2,13 @@ import type { Epoch } from "~/types/history";
 
 export const epochs: Epoch[] = [
   {
-    id: "antiquity",
-    startYear: -500,
-    endYear: 500,
+    id: "world",
+    startYear: -1000,
+    endYear: 1900,
     granularity: "decade",
     labels: {
-      de: "Antike",
-      en: "Antiquity",
+      de: "Weltgeschichte",
+      en: "World History",
     },
   },
 ];
