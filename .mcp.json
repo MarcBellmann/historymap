@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "tanstack": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@tanstack/cli",
+        "mcp"
+      ],
+      "env": {}
+    }
+  }
+}
