@@ -352,6 +352,1109 @@
           "en": "The Caucasian Kingdom of Iberia — not to be confused with the Iberian Peninsula — lay at the heart of modern Georgia and controlled vital mountain passes including the Daryal Pass. As a Roman vassal state following the Peace of 298 AD, Iberia played a strategically pivotal role as a buffer between Rome and the Sassanids. Around 319 AD King Mirian III adopted Christianity, making Iberia one of the oldest Christian kingdoms in the world."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.5,
+              35.9
+            ],
+            [
+              -9,
+              38.8
+            ],
+            [
+              -7,
+              42
+            ],
+            [
+              -2,
+              43.5
+            ],
+            [
+              3,
+              43.5
+            ],
+            [
+              3,
+              40.5
+            ],
+            [
+              0,
+              38.5
+            ],
+            [
+              -1.5,
+              36
+            ],
+            [
+              -5.5,
+              36
+            ],
+            [
+              -9.5,
+              35.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "hispania-baetica",
+        "parentId": "roman-empire",
+        "startYear": -146,
+        "endYear": 429,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Hispania Baetica",
+          "en": "Hispania Baetica"
+        },
+        "description": {
+          "de": "Hispania Baetica, benannt nach dem Fluss Baetis (dem heutigen Guadalquivir), war die wohlhabendste und am stärksten romanisierte Provinz der Iberischen Halbinsel. Die fruchtbaren Täler des Baetis-Beckens lieferten riesige Mengen an Olivenöl, Wein und Weizen in die gesamte römische Welt. Städte wie Hispalis (Sevilla), Corduba (Córdoba) und Gades (Cádiz) blühten als bedeutende Handelszentren. Kaiser Traianus und Hadrianus stammten beide aus dieser Provinz, was ihren kulturellen Einfluss auf das Gesamtreich unterstreicht.",
+          "en": "Hispania Baetica, named after the river Baetis (the modern Guadalquivir), was the wealthiest and most thoroughly Romanized province of the Iberian Peninsula. The fertile valleys of the Baetis basin supplied vast quantities of olive oil, wine, and grain to the entire Roman world. Cities such as Hispalis (Seville), Corduba (Córdoba), and Gades (Cádiz) flourished as major commercial centers. Emperors Trajan and Hadrian both originated from this province, underlining its cultural influence on the empire as a whole."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.5,
+              36
+            ],
+            [
+              -7,
+              37
+            ],
+            [
+              -6.5,
+              39.5
+            ],
+            [
+              -7.5,
+              42
+            ],
+            [
+              -9.5,
+              42
+            ],
+            [
+              -9.5,
+              38
+            ],
+            [
+              -9.5,
+              36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "lusitania",
+        "parentId": "roman-empire",
+        "startYear": -27,
+        "endYear": 409,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Lusitania",
+          "en": "Lusitania"
+        },
+        "description": {
+          "de": "Lusitania, die westlichste Provinz des Römischen Reiches auf dem europäischen Festland, entsprach grob dem heutigen Portugal und der spanischen Extremadura. Ihre Hauptstadt Emerita Augusta (Mérida) war eine der prachtvollsten Städte des Westens mit einem Theater, Amphitheater und einem bis heute erhaltenen Triumphbogen. Die Lusitaner, bekannt durch ihren Widerstandskämpfer Viriatus, wurden erst nach langen Kriegen pacifiziert. Die Provinz lieferte Silber, Zinn und Kupfer und war für ihren robusten Weinbau bekannt.",
+          "en": "Lusitania, the westernmost province of the Roman Empire on the European mainland, corresponded roughly to modern Portugal and Spanish Extremadura. Its capital Emerita Augusta (Mérida) was one of the most splendid cities of the west, with a theater, amphitheater, and a triumphal arch still standing today. The Lusitanians, famous for their resistance leader Viriathus, were pacified only after prolonged warfare. The province supplied silver, tin, and copper and was renowned for its robust viticulture."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9,
+              38.5
+            ],
+            [
+              -5,
+              36
+            ],
+            [
+              3.5,
+              37.5
+            ],
+            [
+              4,
+              40.5
+            ],
+            [
+              3,
+              43.5
+            ],
+            [
+              -2,
+              43.5
+            ],
+            [
+              -4,
+              44
+            ],
+            [
+              -8.5,
+              43.5
+            ],
+            [
+              -9,
+              42
+            ],
+            [
+              -7.5,
+              42
+            ],
+            [
+              -6.5,
+              39.5
+            ],
+            [
+              -7,
+              37
+            ],
+            [
+              -9,
+              38.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "hispania-tarraconensis",
+        "parentId": "roman-empire",
+        "startYear": -197,
+        "endYear": 472,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Hispania Tarraconensis",
+          "en": "Hispania Tarraconensis"
+        },
+        "description": {
+          "de": "Hispania Tarraconensis war die größte der römischen Provinzen auf der Iberischen Halbinsel und erstreckte sich von den Pyrenäen bis zur Südküste. Ihre Hauptstadt Tarraco (Tarragona) war der bedeutendste Hafen und Verwaltungssitz des nördlichen Hispaniens. Die Provinz umfasste die wichtigen Bergbaugebiete der Sierra Morena sowie die fruchtbaren Küstenebenen Kataloniens. Das dichte Straßennetz verband Tarraco mit den nördlichen Alpenpässen und dem fernen Mesopotamien und machte Tarraconensis zu einem Knotenpunkt des imperialen Kommunikationssystems.",
+          "en": "Hispania Tarraconensis was the largest of the Roman provinces on the Iberian Peninsula, stretching from the Pyrenees to the southern coast. Its capital Tarraco (Tarragona) was the most important port and administrative center of northern Hispania. The province encompassed the major mining districts of the Sierra Morena as well as the fertile coastal plains of Catalonia. An extensive road network connected Tarraco with the northern Alpine passes and distant Mesopotamia, making Tarraconensis a key node in the imperial communications system."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5,
+              43.5
+            ],
+            [
+              3,
+              43.5
+            ],
+            [
+              8,
+              44
+            ],
+            [
+              8,
+              46.5
+            ],
+            [
+              5,
+              46
+            ],
+            [
+              0,
+              46
+            ],
+            [
+              -2,
+              47
+            ],
+            [
+              -4.5,
+              47.5
+            ],
+            [
+              -5,
+              48.5
+            ],
+            [
+              -2.5,
+              48.8
+            ],
+            [
+              2,
+              47
+            ],
+            [
+              2,
+              48.5
+            ],
+            [
+              -2,
+              49.5
+            ],
+            [
+              -5,
+              49
+            ],
+            [
+              -5.5,
+              47
+            ],
+            [
+              -5,
+              43.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "gallia-lugdunensis",
+        "parentId": "roman-empire",
+        "startYear": -27,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Gallia Lugdunensis",
+          "en": "Gallia Lugdunensis"
+        },
+        "description": {
+          "de": "Gallia Lugdunensis, die zentrale gallische Provinz, hatte ihre Hauptstadt in Lugdunum (Lyon) — einer der wichtigsten Städte des Weströmischen Reiches und Kreuzungspunkt aller Straßen nach Britannien, Germanien und den Alpen. Die Provinz umfasste das Herz des keltischen Galliens mit dem Loirebecken und den Ardennen. In Lugdunum befand sich die berühmte Altaranlage der drei Gallien (Ara Romae et Augusti), an der Vertreter aller gallischen Stämme alljährlich zusammenkamen. Ihre Weinbautradition an Rhône und Loire zählt zu den dauerhaftesten Hinterlassenschaften der römischen Zivilisation.",
+          "en": "Gallia Lugdunensis, the central Gallic province, had its capital at Lugdunum (Lyon) — one of the most important cities of the Western Roman Empire and the crossroads of all roads leading to Britain, Germania, and the Alps. The province encompassed the heart of Celtic Gaul with the Loire basin and the Ardennes. At Lugdunum stood the famous Altar of the Three Gauls (Ara Romae et Augusti), where representatives of all Gallic tribes gathered annually. Its viticulture tradition along the Rhône and Loire ranks among the most enduring legacies of Roman civilization."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2,
+              43.5
+            ],
+            [
+              3,
+              43.5
+            ],
+            [
+              5,
+              46
+            ],
+            [
+              8,
+              46.5
+            ],
+            [
+              8,
+              48.5
+            ],
+            [
+              7.5,
+              50.5
+            ],
+            [
+              6,
+              51.5
+            ],
+            [
+              3,
+              50.5
+            ],
+            [
+              2,
+              49.5
+            ],
+            [
+              2,
+              47
+            ],
+            [
+              -2.5,
+              48.8
+            ],
+            [
+              -5,
+              48.5
+            ],
+            [
+              -5,
+              49
+            ],
+            [
+              -2,
+              49.5
+            ],
+            [
+              -2,
+              43.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "gallia-belgica",
+        "parentId": "roman-empire",
+        "startYear": -27,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Gallia Belgica",
+          "en": "Gallia Belgica"
+        },
+        "description": {
+          "de": "Gallia Belgica umfasste den nordöstlichen Teil Galliens — das heutige Belgien, Luxemburg, die Niederlande und Teile Deutschlands westlich des Rheins. Die Provinz war nach den Belgiern benannt, die Caesar als die tapfersten Stämme Galliens bezeichnete. Ihre Hauptstadt Durocortorum (Reims) war ein wichtiges Verwaltungs- und Straßenzentrum. Das dichte Netz von Römerstraßen, das von hier nach Colonia Agrippina (Köln), Gesoriacum (Boulogne) und Londinium verlief, machte Belgica zur logistischen Drehscheibe des Nordwestens.",
+          "en": "Gallia Belgica encompassed the northeastern part of Gaul — modern Belgium, Luxembourg, the Netherlands, and parts of Germany west of the Rhine. The province was named after the Belgae, whom Caesar described as the bravest tribes of Gaul. Its capital Durocortorum (Reims) was an important administrative and road hub. The dense network of Roman roads running from here to Colonia Agrippina (Cologne), Gesoriacum (Boulogne), and Londinium made Belgica the logistical hub of the northwest."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5,
+              43.5
+            ],
+            [
+              -5.5,
+              47
+            ],
+            [
+              -5,
+              49
+            ],
+            [
+              -2,
+              49.5
+            ],
+            [
+              -1,
+              46
+            ],
+            [
+              -2,
+              44.5
+            ],
+            [
+              -5,
+              43.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "gallia-aquitania",
+        "parentId": "roman-empire",
+        "startYear": -27,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Gallia Aquitania",
+          "en": "Gallia Aquitania"
+        },
+        "description": {
+          "de": "Gallia Aquitania, die südwestliche gallische Provinz zwischen den Pyrenäen, dem Atlantik und dem Massif Central, war eine der fruchtbarsten Provinzen des Westens. Hauptstadt war Burdigala (Bordeaux), schon in der Antike bekannt für seinen Weinhandel. Die Provinz war dünn besiedelt, aber reich an landwirtschaftlichen Ressourcen und Handelswegen entlang der Garonne. Augustus hatte die Grenzen Aquitaniens deutlich über die ursprüngliche Caesar'sche Definition hinaus ausgedehnt, um die Provinz bis zur Loire zu vergrößern.",
+          "en": "Gallia Aquitania, the southwestern Gallic province between the Pyrenees, the Atlantic, and the Massif Central, was one of the most fertile provinces of the west. Its capital was Burdigala (Bordeaux), already famous in antiquity for its wine trade. The province was sparsely settled but rich in agricultural resources and trade routes along the Garonne. Augustus had significantly expanded Aquitania's boundaries beyond Caesar's original definition to extend the province to the Loire."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3,
+              43.5
+            ],
+            [
+              8,
+              43.5
+            ],
+            [
+              8,
+              44.5
+            ],
+            [
+              7,
+              45
+            ],
+            [
+              5,
+              46
+            ],
+            [
+              3,
+              43.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "gallia-narbonensis",
+        "parentId": "roman-empire",
+        "startYear": -121,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Gallia Narbonensis",
+          "en": "Gallia Narbonensis"
+        },
+        "description": {
+          "de": "Gallia Narbonensis war die älteste und am stärksten romanisierte gallische Provinz, oft schlicht als 'Provincia' bezeichnet — ein Name, der im heutigen Wort 'Provence' weiterlebt. Gegründet 121 v. Chr. nach dem Sieg über keltische und ligurische Stämme, war sie Roms Landbrücke nach Hispanien. Narbó Martius (Narbonne) und Massilia (Marseille) waren blühende Handelsstädte. Die Region war für ihre Wein- und Ölproduktion berühmt und galt als die reichste Provinz Galliens.",
+          "en": "Gallia Narbonensis was the oldest and most thoroughly Romanized Gallic province, often simply called 'Provincia' — a name that lives on in the modern word 'Provence'. Founded in 121 BC after the defeat of Celtic and Ligurian tribes, it served as Rome's land bridge to Hispania. Narbó Martius (Narbonne) and Massilia (Marseille) were thriving commercial cities. The region was famous for its wine and oil production and was considered the wealthiest province of Gaul."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12,
+              37.5
+            ],
+            [
+              16,
+              37.5
+            ],
+            [
+              18.5,
+              40.5
+            ],
+            [
+              16,
+              41.5
+            ],
+            [
+              13.5,
+              42.5
+            ],
+            [
+              12.5,
+              41.5
+            ],
+            [
+              12,
+              40
+            ],
+            [
+              12,
+              37.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "parentId": "roman-empire",
+        "startYear": -264,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Italia (Kernland)",
+          "en": "Italia (Heartland)"
+        },
+        "description": {
+          "de": "Italia war das Kernland des Römischen Reiches, von Steuern befreit und politisch privilegiert. Die Halbinsel war dicht besiedelt und urbanisiert — von der Kapitale Roma über Mediolanum (Mailand), Capua bis Neapolis. Der Reichtum Italiens gründete sich auf Handwerk, Weinbau, Olivenöl und Getreide. Die Po-Ebene im Norden war die Kornkammer; Kampanien im Süden erzeugte berühmte Weine. In der Kaiserzeit wurden viele provinzielle Familien in den Senat aufgenommen, und die kulturelle Hegemonie Italiens wurde zunehmend durch die vitalen Provinzkulturen ergänzt.",
+          "en": "Italia was the heartland of the Roman Empire, exempt from taxes and politically privileged. The peninsula was densely populated and urbanized — from the capital Roma to Mediolanum (Milan), Capua, and Neapolis. Italy's wealth rested on crafts, viticulture, olive oil, and grain. The Po plain in the north was the breadbasket; Campania in the south produced famous wines. In the imperial period many provincial families entered the Senate, and Italy's cultural hegemony was increasingly supplemented by the vibrant provincial cultures."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              39.5
+            ],
+            [
+              24.5,
+              39
+            ],
+            [
+              26.5,
+              40
+            ],
+            [
+              26.5,
+              41
+            ],
+            [
+              24,
+              41.5
+            ],
+            [
+              20.5,
+              41.5
+            ],
+            [
+              20,
+              40.5
+            ],
+            [
+              20,
+              39.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "macedonia",
+        "parentId": "roman-empire",
+        "startYear": -146,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Macedonia",
+          "en": "Macedonia"
+        },
+        "description": {
+          "de": "Macedonia wurde 146 v. Chr. nach der Niederlage des Andriskos in der Vierten Makedonischen Kriege zur ersten regulären römischen Provinz im griechischen Osten. Die Provinz umfasste das Kernland des ehemaligen makedonischen Königreichs sowie Epirus, Thessalien und Teile Illyricums. Thessalonike (Thessaloniki) war die wichtigste Hafenstadt und zeitweise Residenz der tetrarchischen Kaiser. Die Via Egnatia — die wichtigste Ost-West-Verbindung des Reiches — querte die gesamte Provinz vom Adriatischen Meer bis zum Hellespont.",
+          "en": "Macedonia became the first regular Roman province in the Greek east in 146 BC following the defeat of Andriscus in the Fourth Macedonian War. The province encompassed the heartland of the former Macedonian kingdom as well as Epirus, Thessaly, and parts of Illyricum. Thessalonica (Thessaloniki) was the most important port city and occasionally the residence of tetrarchic emperors. The Via Egnatia — the most important east-west connection of the empire — traversed the entire province from the Adriatic Sea to the Hellespont."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              37
+            ],
+            [
+              24.5,
+              36.5
+            ],
+            [
+              26.5,
+              37.5
+            ],
+            [
+              26.5,
+              39.5
+            ],
+            [
+              24,
+              40.5
+            ],
+            [
+              21,
+              40.5
+            ],
+            [
+              20,
+              39.5
+            ],
+            [
+              20,
+              37
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "achaea",
+        "parentId": "roman-empire",
+        "startYear": -27,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Achaea (Griechenland)",
+          "en": "Achaea (Greece)"
+        },
+        "description": {
+          "de": "Achaea, gegründet 27 v. Chr. durch Augustus aus den südlichen Distrikten der Provinz Macedonia, umfasste Griechenland südlich des Pindus mit dem Peloponnes, Attika und Teilen Thessaliens. Athen war zwar nicht Provinzhauptstadt — diese Rolle kam Korinth zu — blieb aber das kulturelle und philosophische Zentrum des gesamten Reiches. Korinth als Neugründung Caesars war ein blühender Handelsknoten auf dem Isthmus. Die Provinz war von unschätzbarem kulturellen Wert für Rom: Literatur, Philosophie, Kunst und Architektur Griechenlands bildeten das geistige Fundament der römischen Zivilisation.",
+          "en": "Achaea, founded in 27 BC by Augustus from the southern districts of the province of Macedonia, encompassed Greece south of the Pindus with the Peloponnese, Attica, and parts of Thessaly. Athens, though not the provincial capital — that role fell to Corinth — remained the cultural and philosophical center of the entire empire. Corinth, refounded by Caesar, was a thriving commercial hub on the Isthmus. The province was of immeasurable cultural value to Rome: Greek literature, philosophy, art, and architecture formed the intellectual foundation of Roman civilization."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              39.5
+            ],
+            [
+              32,
+              38
+            ],
+            [
+              36.5,
+              38.5
+            ],
+            [
+              36.5,
+              41.5
+            ],
+            [
+              32,
+              42.5
+            ],
+            [
+              28,
+              42
+            ],
+            [
+              26.5,
+              41.5
+            ],
+            [
+              26,
+              40.5
+            ],
+            [
+              26,
+              39.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "asia-province",
+        "parentId": "roman-empire",
+        "startYear": -133,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Provincia Asia",
+          "en": "Provincia Asia"
+        },
+        "description": {
+          "de": "Die Provinz Asia, das ehemalige Reich der Attaliden in Westanatolien, wurde 133 v. Chr. durch Testament des letzten Königs Attalos III. an Rom vererbt. Mit Städten wie Ephesos, Pergamon, Smyrna und Milet war Asia die reichste Provinz des Reiches. Ephesos mit seinem berühmten Artemistempel war die Hauptstadt und nach Rom und Alexandria die drittgrößte Stadt der antiken Welt. Die Provinz war das Zentrum des hellenistischen Handels, der griechischen Philosophie und — ab dem 1. Jh. n. Chr. — des aufkommenden Christentums.",
+          "en": "The province of Asia, the former realm of the Attalids in western Anatolia, was bequeathed to Rome by testament in 133 BC by the last king Attalus III. With cities such as Ephesus, Pergamon, Smyrna, and Miletus, Asia was the wealthiest province of the empire. Ephesus with its famous Temple of Artemis was the capital and, after Rome and Alexandria, the third largest city of the ancient world. The province was the center of Hellenistic trade, Greek philosophy, and — from the 1st century AD — of nascent Christianity."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28,
+              40.5
+            ],
+            [
+              32,
+              40
+            ],
+            [
+              36.5,
+              41
+            ],
+            [
+              36.5,
+              42.5
+            ],
+            [
+              32,
+              43
+            ],
+            [
+              28,
+              43
+            ],
+            [
+              26.5,
+              42.5
+            ],
+            [
+              26.5,
+              41.5
+            ],
+            [
+              28,
+              40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bithynia-pontus",
+        "parentId": "roman-empire",
+        "startYear": -74,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Bithynia et Pontus",
+          "en": "Bithynia et Pontus"
+        },
+        "description": {
+          "de": "Bithynia et Pontus, die kombinierte Schwarzmeerküstenprovinz, entstand aus Bithynien (74 v. Chr. durch Testament von König Nikomedes IV. an Rom gefallen) und Pontus (63 v. Chr. nach der Niederlage des Mithridates VI.). Die Küstenprovinz kontrollierte die strategisch wichtigen Meerengen des Bosporus und des Hellespont. Nicaea und Nikomedeia (Izmit) waren die bedeutendsten Städte. Plinius der Jüngere verwaltete die Provinz unter Traianus und schrieb von dort seine berühmten Berichte über die Christen.",
+          "en": "Bithynia et Pontus, the combined Black Sea coastal province, emerged from Bithynia (bequeathed to Rome by testament in 74 BC by King Nicomedes IV) and Pontus (63 BC after the defeat of Mithridates VI). The coastal province controlled the strategically important straits of the Bosphorus and Hellespont. Nicaea and Nicomedia (Izmit) were the most important cities. Pliny the Younger governed the province under Trajan and wrote from there his famous reports about the Christians."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30,
+              36
+            ],
+            [
+              36,
+              36
+            ],
+            [
+              40,
+              37.5
+            ],
+            [
+              40,
+              39
+            ],
+            [
+              36.5,
+              40
+            ],
+            [
+              32,
+              40
+            ],
+            [
+              29,
+              38.5
+            ],
+            [
+              29,
+              37
+            ],
+            [
+              30,
+              36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "galatia",
+        "parentId": "roman-empire",
+        "startYear": -25,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Galatia",
+          "en": "Galatia"
+        },
+        "description": {
+          "de": "Galatia, das zentrale Hochplateau Anatoliens, wurde 25 v. Chr. nach dem Tod des letzten Galater-Königs Amyntas zur römischen Provinz. Die Galater waren keltische Einwanderer, die im 3. Jh. v. Chr. Anatolien überquert hatten und noch Jahrhunderte später ihre keltische Sprache bewahrten. Ancyra (Ankara) war Provinzhauptstadt und beherbergte das berühmte Monumentum Ancyranum — eine Abschrift der Res Gestae des Augustus, die sich bis heute erhalten hat. Der Apostel Paulus bereiste die Provinz mehrfach und schrieb seinen Galaterbrief an die dortigen Christengemeinden.",
+          "en": "Galatia, the central high plateau of Anatolia, became a Roman province in 25 BC after the death of the last Galatian king Amyntas. The Galatians were Celtic immigrants who had crossed Anatolia in the 3rd century BC and preserved their Celtic language for centuries afterward. Ancyra (Ankara) was the provincial capital and housed the famous Monumentum Ancyranum — a copy of the Res Gestae of Augustus that has survived to this day. The Apostle Paul traveled the province multiple times and wrote his Letter to the Galatians to the Christian communities there."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.5,
+              33.5
+            ],
+            [
+              42.5,
+              33.5
+            ],
+            [
+              44,
+              35
+            ],
+            [
+              44,
+              37.5
+            ],
+            [
+              40,
+              38
+            ],
+            [
+              36.5,
+              37.5
+            ],
+            [
+              35.5,
+              36.5
+            ],
+            [
+              34.5,
+              35.5
+            ],
+            [
+              35.5,
+              33.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "syria",
+        "parentId": "roman-empire",
+        "startYear": -64,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Syria",
+          "en": "Syria"
+        },
+        "description": {
+          "de": "Syria, die reiche Levantprovinz zwischen Euphrat und Mittelmeer, wurde 64 v. Chr. von Pompeius Magnus nach dem Sturz des Seleukidenreiches zur römischen Provinz gemacht. Antiochia am Orontes war die Hauptstadt und nach Rom und Alexandria die drittgrößte Stadt des Reiches — ein kosmopolitisches Handelszentrum, in dem Griechen, Römer, Syrer, Juden und Nabatäer zusammenlebten. In Antiochia wurden die Anhänger Jesu erstmals 'Christen' genannt. Die Provinz war wirtschaftlich enorm bedeutend dank Seidenhandel, Glas- und Textilproduktion sowie Landwirtschaft.",
+          "en": "Syria, the rich Levantine province between the Euphrates and the Mediterranean, was made a Roman province in 64 BC by Pompey the Great after the overthrow of the Seleucid realm. Antioch on the Orontes was the capital and, after Rome and Alexandria, the third largest city of the empire — a cosmopolitan trading center where Greeks, Romans, Syrians, Jews, and Nabataeans lived together. In Antioch the followers of Jesus were first called 'Christians'. The province was enormously economically significant due to its silk trade, glass and textile production, and agriculture."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.5,
+              22
+            ],
+            [
+              36.5,
+              22
+            ],
+            [
+              37.5,
+              24
+            ],
+            [
+              37,
+              31
+            ],
+            [
+              33.5,
+              31
+            ],
+            [
+              31.5,
+              29.5
+            ],
+            [
+              29.5,
+              27
+            ],
+            [
+              25,
+              26
+            ],
+            [
+              24.5,
+              24
+            ],
+            [
+              24.5,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "aegyptus",
+        "parentId": "roman-empire",
+        "startYear": -30,
+        "endYear": 395,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Aegyptus",
+          "en": "Aegyptus"
+        },
+        "description": {
+          "de": "Aegyptus wurde 30 v. Chr. nach dem Tod Kleopatras VII. und Marcus Antonius' zur römischen Provinz — die bedeutendste wirtschaftliche Provinz des gesamten Reiches. Ägypten war die Kornkammer Roms: fast die Hälfte des Getreidebedarfs der Hauptstadt kam aus den fruchtbaren Nildeltas. Alexandria war die zweitgrößte Stadt des Reiches und ein unübertroffenes Zentrum von Wissenschaft, Philosophie und Handel. Die Provinz hatte einen Sonderstatus: aufgrund ihrer strategischen Bedeutung wurde sie direkt vom Kaiser verwaltet und kein Senator durfte sie ohne Genehmigung betreten.",
+          "en": "Aegyptus became a Roman province in 30 BC after the deaths of Cleopatra VII and Mark Antony — the most economically important province of the entire empire. Egypt was the breadbasket of Rome: almost half of the grain needs of the capital came from the fertile Nile Delta. Alexandria was the second largest city of the empire and an unrivaled center of science, philosophy, and trade. The province had a special status: due to its strategic importance it was administered directly by the emperor, and no senator was permitted to enter without permission."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5,
+              30.5
+            ],
+            [
+              14,
+              30
+            ],
+            [
+              17,
+              31.5
+            ],
+            [
+              15,
+              35
+            ],
+            [
+              10,
+              37.5
+            ],
+            [
+              7,
+              37.5
+            ],
+            [
+              5,
+              36.5
+            ],
+            [
+              5,
+              34
+            ],
+            [
+              7.5,
+              30.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "africa-proconsularis",
+        "parentId": "roman-empire",
+        "startYear": -146,
+        "endYear": 429,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Africa Proconsularis",
+          "en": "Africa Proconsularis"
+        },
+        "description": {
+          "de": "Africa Proconsularis, entstanden aus den Trümmern des karthagischen Reiches nach 146 v. Chr., war die wirtschaftlich bedeutendste Provinz Nordafrikas. Carthago Nova (Karthago) wurde als römische Kolonie neu gegründet und zur viertgrößten Stadt des Reiches. Die Provinz war nach Aegyptus die wichtigste Getreidekammer und lieferte auch Olivenöl in großen Mengen. Bedeutende Denker des frühen Christentums stammten von hier: Tertullian, Cyprian und vor allem Augustinus von Hippo, der Kirchenvater und Philosoph, der die abendländische Theologie prägte wie kein anderer.",
+          "en": "Africa Proconsularis, formed from the ruins of the Carthaginian realm after 146 BC, was the most economically important province of North Africa. Carthago Nova (Carthage) was refounded as a Roman colony and became the fourth largest city of the empire. The province was after Aegyptus the most important granary and also supplied large quantities of olive oil. Major thinkers of early Christianity came from here: Tertullian, Cyprian, and above all Augustine of Hippo, the Church Father and philosopher who shaped western theology more than any other."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              17,
+              28
+            ],
+            [
+              24,
+              28
+            ],
+            [
+              24.5,
+              31
+            ],
+            [
+              22,
+              33
+            ],
+            [
+              18,
+              33.5
+            ],
+            [
+              15.5,
+              32.5
+            ],
+            [
+              15,
+              30
+            ],
+            [
+              17,
+              28
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "cyrenaica",
+        "parentId": "roman-empire",
+        "startYear": -74,
+        "endYear": 395,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Cyrenaica",
+          "en": "Cyrenaica"
+        },
+        "description": {
+          "de": "Cyrenaica, das nordlibysche Küstenland, wurde 74 v. Chr. durch das Testament des letzten ptolemäischen Königs Apion an Rom übergeben und zunächst mit Kreta zur Doppelprovinz Creta et Cyrenaica verbunden. Kyrene, eine der bedeutendsten griechischen Kolonien, war ein Zentrum der hellenistischen Kultur und Heimat des Philosophen Aristippos und des Mathematikers Eratosthenes. Die Provinz hatte eine bedeutende jüdische Diasporabevölkerung. Pentapolis, eine Allianz von fünf Küstenstädten, war das wirtschaftliche Rückgrat der Region.",
+          "en": "Cyrenaica, the north Libyan coastal territory, was handed to Rome in 74 BC by the testament of the last Ptolemaic king Apion and was initially combined with Crete to form the double province Creta et Cyrenaica. Cyrene, one of the most important Greek colonies, was a center of Hellenistic culture and the home of the philosopher Aristippus and the mathematician Eratosthenes. The province had a significant Jewish diaspora population. The Pentapolis, an alliance of five coastal cities, was the economic backbone of the region."
+        }
+      }
     }
   ]
 }

@@ -1,4 +1,399 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6,
+              44
+            ],
+            [
+              22,
+              44
+            ],
+            [
+              24,
+              48
+            ],
+            [
+              20,
+              52
+            ],
+            [
+              15,
+              54
+            ],
+            [
+              8,
+              54
+            ],
+            [
+              6,
+              52
+            ],
+            [
+              4,
+              50
+            ],
+            [
+              6,
+              44
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "holy-roman-empire",
+        "startYear": 962,
+        "endYear": 1806,
+        "peakStartYear": 962,
+        "peakEndYear": 1648,
+        "culturalSphere": "germanic",
+        "color": "#8B0000",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Heiliges Römisches Reich",
+          "en": "Holy Roman Empire"
+        },
+        "description": {
+          "de": "Das Heilige Römische Reich war das wichtigste politische Gebilde Mitteleuropas über fast neun Jahrhunderte. Es prägte das Selbstverständnis des deutschen und italienischen Adels und war das institutionelle Gerüst, in dem die mittelalterliche Papst-Kaiser-Auseinandersetzung, die Kreuzzüge und schließlich die Reformation ausgetragen wurden. Als loser Verband von Fürstentümern, Städten und Bistuemern entwickelte es komplexe Verfassungsformen, die Vorläufer moderner Bundesstaatlichkeit wurden.",
+          "en": "The Holy Roman Empire was the central political entity of Central Europe for almost nine centuries. It shaped the identity of the German and Italian nobility and was the institutional framework in which the medieval Pope-Emperor conflict, the Crusades, and eventually the Reformation were played out. As a loose confederation of principalities, cities, and bishoprics, it developed complex constitutional forms that became precursors to modern federalism."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              36
+            ],
+            [
+              42,
+              36
+            ],
+            [
+              44,
+              40
+            ],
+            [
+              38,
+              44
+            ],
+            [
+              30,
+              46
+            ],
+            [
+              24,
+              44
+            ],
+            [
+              22,
+              42
+            ],
+            [
+              24,
+              38
+            ],
+            [
+              26,
+              36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ottoman-empire",
+        "startYear": 1299,
+        "endYear": 1922,
+        "peakStartYear": 1453,
+        "peakEndYear": 1683,
+        "culturalSphere": "ottoman",
+        "color": "#C04000",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Osmanisches Reich",
+          "en": "Ottoman Empire"
+        },
+        "description": {
+          "de": "Das Osmanische Reich war eines der mächtigsten und dauerhaftesten Reiche der Geschichte und verband über sechs Jahrhunderte drei Kontinente. Istanbul (Konstantinopel) wurde zu einem der bedeutendsten Kulturzentren der Welt, in dem islamische, griechische und osmanische Traditionen zusammenflossen. Die osmanische Verwaltung, Architektur und Kultur — von der Süleymaniye-Moschee bis zur osmanischen Miniaturmalerei — schufen ein einzigartiges Zivilisationsmodell.",
+          "en": "The Ottoman Empire was one of the most powerful and long-lasting empires in history, connecting three continents for over six centuries. Istanbul (Constantinople) became one of the world's most important cultural centers, where Islamic, Greek, and Ottoman traditions converged. Ottoman administration, architecture, and culture — from the Süleymaniye Mosque to Ottoman miniature painting — created a unique model of civilization."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              18
+            ],
+            [
+              128,
+              18
+            ],
+            [
+              132,
+              28
+            ],
+            [
+              128,
+              42
+            ],
+            [
+              116,
+              48
+            ],
+            [
+              108,
+              50
+            ],
+            [
+              98,
+              44
+            ],
+            [
+              88,
+              38
+            ],
+            [
+              88,
+              28
+            ],
+            [
+              98,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ming-dynasty",
+        "startYear": 1368,
+        "endYear": 1644,
+        "culturalSphere": "chinese",
+        "color": "#BB5500",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Ming-Dynastie",
+          "en": "Ming Dynasty"
+        },
+        "description": {
+          "de": "Die Ming-Dynastie restaurierte nach der Mongolenherrschaft eine eigenständige chinesische Zivilisation und gilt als eine der stabilsten und wohlhabendsten Perioden der chinesischen Geschichte. Die Ming schufen die heute noch stehende Große Mauer in ihrer endgültigen Form, bauten die Verbotene Stadt in Peking und schickten die legendären Schatzflotten des Admirals Zheng He auf Fernreisen nach Südostasien, Indien, Arabien und Ostafrika.",
+          "en": "The Ming Dynasty restored an independent Chinese civilization after Mongol rule and is considered one of the most stable and prosperous periods in Chinese history. The Ming built the Great Wall in its final, present-day form, constructed the Forbidden City in Beijing, and sent the legendary treasure fleets of Admiral Zheng He on voyages to Southeast Asia, India, Arabia, and East Africa."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              62,
+              22
+            ],
+            [
+              80,
+              20
+            ],
+            [
+              90,
+              24
+            ],
+            [
+              92,
+              30
+            ],
+            [
+              80,
+              36
+            ],
+            [
+              70,
+              38
+            ],
+            [
+              60,
+              36
+            ],
+            [
+              54,
+              30
+            ],
+            [
+              54,
+              24
+            ],
+            [
+              62,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mughal-empire",
+        "startYear": 1526,
+        "endYear": 1857,
+        "peakStartYear": 1600,
+        "peakEndYear": 1707,
+        "culturalSphere": "mughal",
+        "color": "#2E6B4F",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Mogulreich",
+          "en": "Mughal Empire"
+        },
+        "description": {
+          "de": "Das Mogulreich vereinte den größten Teil des indischen Subkontinents unter einer Herrschaft und schuf eine einzigartige Synthese aus zentralasiatischer, persischer und indischer Kultur. Unter Akbar dem Großen entwickelte das Reich eine beispiellose religiöse Toleranz und eine effiziente Zentralverwaltung. Die mughalische Architektur — Taj Mahal, Rotes Fort, Jama Masjid — gehört zu den schönsten Bauwerken der Menschheit.",
+          "en": "The Mughal Empire united most of the Indian subcontinent under one rule and created a unique synthesis of Central Asian, Persian, and Indian culture. Under Akbar the Great, the empire developed an unprecedented religious tolerance and an efficient central administration. Mughal architecture — the Taj Mahal, Red Fort, Jama Masjid — ranks among the most beautiful structures humanity has ever created."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38,
+              28
+            ],
+            [
+              58,
+              26
+            ],
+            [
+              66,
+              30
+            ],
+            [
+              70,
+              38
+            ],
+            [
+              60,
+              44
+            ],
+            [
+              48,
+              44
+            ],
+            [
+              38,
+              40
+            ],
+            [
+              34,
+              34
+            ],
+            [
+              38,
+              28
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "safavid-persia",
+        "startYear": 1501,
+        "endYear": 1736,
+        "peakStartYear": 1590,
+        "peakEndYear": 1666,
+        "culturalSphere": "persian",
+        "color": "#1A3A8A",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Safawidisches Persien",
+          "en": "Safavid Persia"
+        },
+        "description": {
+          "de": "Das Safawidische Reich begründete den schiitischen Islam als Staatsreligion Persiens und schuf damit den Rahmen des modernen Irans. Isfahan, die safawidische Hauptstadt, wurde unter Shah Abbas I. zur Perle des Orients — ein städtebauliches Meisterwerk mit prächtigen Moscheen, Basaren und dem weltberühmten Naqsh-e Jahan-Platz. Die Safawiden förderten persische Miniaturmalerei, Dichtung, Teppichweberei und Architektur auf einem unvergleichlichen Niveau.",
+          "en": "The Safavid Empire established Twelver Shia Islam as the state religion of Persia, creating the framework of modern Iran. Isfahan, the Safavid capital, was transformed under Shah Abbas I into the pearl of the Orient — an urban masterpiece with magnificent mosques, bazaars, and the world-famous Naqsh-e Jahan Square. The Safavids patronized Persian miniature painting, poetry, carpet weaving, and architecture at an unparalleled level."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -120,
+              14
+            ],
+            [
+              -36,
+              -4
+            ],
+            [
+              -36,
+              -58
+            ],
+            [
+              -70,
+              -55
+            ],
+            [
+              -82,
+              -36
+            ],
+            [
+              -82,
+              12
+            ],
+            [
+              -90,
+              18
+            ],
+            [
+              -100,
+              22
+            ],
+            [
+              -110,
+              22
+            ],
+            [
+              -120,
+              14
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "spanish-empire-americas",
+        "startYear": 1492,
+        "endYear": 1898,
+        "peakStartYear": 1600,
+        "peakEndYear": 1800,
+        "culturalSphere": "colonial",
+        "color": "#B03060",
+        "opacity": 0.2,
+        "labels": {
+          "de": "Spanisches Kolonialreich (Amerika)",
+          "en": "Spanish Colonial Empire (Americas)"
+        },
+        "description": {
+          "de": "Das Spanische Kolonialreich in Amerika war das erste globale Kolonialreich der Geschichte und umfasste auf seinem Höhepunkt fast ganz Mittel- und Südamerika. Die spanische Kolonisation veränderte die Welt grundlegend: Silber aus den Minen Potosis und Mexikos floss in die europäische Wirtschaft und finanzierte die Mächte der frühen Neuzeit. Gleichzeitig entstanden neue Kulturen der Vermischung — Mestizen-Zivilisationen, die spanische, indigene und afrikanische Elemente zu etwas Eigenständigem verbanden.",
+          "en": "The Spanish Colonial Empire in the Americas was the first global colonial empire in history and at its height encompassed almost all of Central and South America. Spanish colonization fundamentally transformed the world: silver from the mines of Potosi and Mexico flowed into the European economy and financed the powers of the early modern period. At the same time, new cultures of blending emerged — mestizo civilizations that combined Spanish, indigenous, and African elements into something distinctive."
+        }
+      }
+    }
+  ]
 }

@@ -138,6 +138,212 @@
           "en": "The Kingdom of Kush (Nubia) was an independent civilization south of Egypt with its own script and pyramid tradition."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105,
+              25
+            ],
+            [
+              122,
+              25
+            ],
+            [
+              122,
+              40
+            ],
+            [
+              115,
+              42
+            ],
+            [
+              105,
+              40
+            ],
+            [
+              100,
+              35
+            ],
+            [
+              100,
+              30
+            ],
+            [
+              105,
+              25
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "zhou-dynasty",
+        "startYear": -1046,
+        "endYear": -256,
+        "culturalSphere": "chinese",
+        "color": "#B8860B",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Zhou-Dynastie",
+          "en": "Zhou Dynasty"
+        },
+        "description": {
+          "de": "Die Zhou-Dynastie war die längste Herrscherdynastie der chinesischen Geschichte. Sie prägte das klassische China durch die Entstehung des Konfuzianismus, Taoismus und Legalismus — philosophische Strömungen, die das chinesische Denken bis in die Gegenwart prägen. Die Östliche Zhou-Periode mit ihrer Epoche der Streitenden Reiche brachte trotz politischer Wirren eine außerordentliche kulturelle und philosophische Blüte hervor.",
+          "en": "The Zhou Dynasty was the longest-ruling dynasty in Chinese history. It shaped classical China through the birth of Confucianism, Taoism, and Legalism — philosophical traditions that have influenced Chinese thought to the present day. The Eastern Zhou period with its Warring States era produced an extraordinary cultural and philosophical flowering despite political turmoil."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              30
+            ],
+            [
+              72,
+              24
+            ],
+            [
+              76,
+              30
+            ],
+            [
+              75,
+              35
+            ],
+            [
+              72,
+              38
+            ],
+            [
+              66,
+              38
+            ],
+            [
+              52,
+              40
+            ],
+            [
+              44,
+              42
+            ],
+            [
+              38,
+              40
+            ],
+            [
+              22,
+              38
+            ],
+            [
+              20,
+              34
+            ],
+            [
+              20,
+              30
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "macedonian-empire",
+        "startYear": -336,
+        "endYear": -323,
+        "peakStartYear": -334,
+        "peakEndYear": -323,
+        "culturalSphere": "greek",
+        "color": "#3399AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Makedonisches Reich (Alexander)",
+          "en": "Macedonian Empire (Alexander)"
+        },
+        "description": {
+          "de": "Das Reich Alexanders des Großen war das größte Weltreich, das je in so kurzer Zeit erschaffen wurde. Innerhalb von nur dreizehn Jahren vereinte Alexander Griechenland, Ägypten, Persien und den Nordwesten Indiens unter seiner Herrschaft und verbreitete dabei griechische Sprache und Kultur weit in den Orient. Die von ihm gegründeten Städte — allen voran Alexandria — wurden zu Brennpunkten des Wissens und der Zivilisation im hellenistischen Zeitalter.",
+          "en": "The empire of Alexander the Great was the largest realm ever created in such a short time. In just thirteen years, Alexander unified Greece, Egypt, Persia, and northwest India under his rule, spreading Greek language and culture deep into the East. The cities he founded — above all Alexandria — became beacons of knowledge and civilization in the Hellenistic age."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8,
+              34
+            ],
+            [
+              15,
+              30
+            ],
+            [
+              25,
+              30
+            ],
+            [
+              25,
+              37
+            ],
+            [
+              15,
+              37.5
+            ],
+            [
+              9,
+              38
+            ],
+            [
+              3,
+              40
+            ],
+            [
+              -2,
+              40
+            ],
+            [
+              -5,
+              38
+            ],
+            [
+              -8,
+              36
+            ],
+            [
+              -8,
+              34
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "carthage",
+        "startYear": -814,
+        "endYear": -146,
+        "peakStartYear": -400,
+        "peakEndYear": -200,
+        "culturalSphere": "phoenician",
+        "color": "#8B6914",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Karthago",
+          "en": "Carthage"
+        },
+        "description": {
+          "de": "Karthago war die mächtigste Handelsnation des westlichen Mittelmeers und stand Jahrhunderte lang in direkter Konkurrenz zu den griechischen Kolonien und schließlich zu Rom. Die Stadt selbst war ein Wunder der antiken Stadtplanung mit einem Kriegshafen, einer florierenden Handelsstadt und einer monumentalen Akropole auf dem Byrsa-Hügel. Die Karthager entwickelten eine eigenständige Kultur aus phönizischen Wurzeln, prägten ganz Nordafrika und Iberien und hinterließen mit ihrer Landwirtschaft und Seefahrt bleibende Spuren.",
+          "en": "Carthage was the dominant trading power of the western Mediterranean and for centuries competed directly with the Greek colonies and eventually with Rome. The city itself was a marvel of ancient urban planning, with a military harbor, a thriving commercial port, and a monumental acropolis on the Byrsa hill. The Carthaginians developed a distinct culture from Phoenician roots, left a deep mark on North Africa and Iberia, and made lasting contributions in agriculture and seamanship."
+        }
+      }
     }
   ]
 }

@@ -46,6 +46,142 @@
           "en": "The Kingdom of Axum was one of the most powerful trading nations of antiquity, controlling Red Sea trade. It was one of the first empires to adopt Christianity as a state religion."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22,
+              30
+            ],
+            [
+              42,
+              30
+            ],
+            [
+              45,
+              37
+            ],
+            [
+              38,
+              42
+            ],
+            [
+              28,
+              42
+            ],
+            [
+              22,
+              42
+            ],
+            [
+              18,
+              40
+            ],
+            [
+              15,
+              38
+            ],
+            [
+              15,
+              33
+            ],
+            [
+              18,
+              30
+            ],
+            [
+              22,
+              30
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "byzantine-empire",
+        "startYear": 330,
+        "endYear": 1453,
+        "peakStartYear": 476,
+        "peakEndYear": 1453,
+        "culturalSphere": "byzantine",
+        "color": "#AA2222",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Byzantinisches Reich",
+          "en": "Byzantine Empire"
+        },
+        "description": {
+          "de": "Das Byzantinische Reich war die Fortsetzung des Oströmischen Reiches und bewahrte über tausend Jahre lang die Tradition griechischer Bildung, römischen Rechts und christlichen Glaubens. Konstantinopel war Jahrhunderte lang die größte und reichste Stadt der christlichen Welt und ein unubertroffenes Zentrum von Kunst, Theologie und Diplomatie. Das Reich prägte die Kulturen Osteuropas, der Balkanhalbinsel und des Nahen Ostens und hinterließ ein Erbe, das weit über seinen Fall 1453 hinauswirkt.",
+          "en": "The Byzantine Empire was the continuation of the Eastern Roman Empire and preserved for over a thousand years the tradition of Greek learning, Roman law, and Christian faith. Constantinople was for centuries the largest and wealthiest city in the Christian world and an unrivaled center of art, theology, and diplomacy. The empire shaped the cultures of Eastern Europe, the Balkans, and the Near East and left a legacy that extends far beyond its fall in 1453."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -14,
+              12
+            ],
+            [
+              4,
+              10
+            ],
+            [
+              8,
+              14
+            ],
+            [
+              6,
+              18
+            ],
+            [
+              0,
+              20
+            ],
+            [
+              -6,
+              20
+            ],
+            [
+              -10,
+              18
+            ],
+            [
+              -14,
+              15
+            ],
+            [
+              -14,
+              12
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ghana-empire",
+        "startYear": 700,
+        "endYear": 1200,
+        "peakStartYear": 900,
+        "peakEndYear": 1050,
+        "culturalSphere": "westafrican",
+        "color": "#8B5E3C",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Ghana-Reich",
+          "en": "Ghana Empire"
+        },
+        "description": {
+          "de": "Das Ghana-Reich, eigentlich Wagadu genannt, war das erste große Staatsgebilde Westafrikas und beherrschte den lukrativen Goldhandel zwischen dem subsaharischen Afrika und den nordafrikanischen Berbern und arabischen Händlern. Sein Reichtum gründete sich auf die Kontrolle der Goldfelder und der Salzrouten durch die Sahara. Die Hauptstadt Koumbi Saleh war eine der größten Städte ihrer Zeit in Afrika und zeugt von einer hoch entwickelten urbanen Zivilisation.",
+          "en": "The Ghana Empire, properly known as Wagadu, was the first great state formation in West Africa and dominated the lucrative gold trade between sub-Saharan Africa and North African Berber and Arab merchants. Its wealth rested on control of the goldfields and the salt routes across the Sahara. The capital Koumbi Saleh was one of the largest cities of its era in Africa and testifies to a highly developed urban civilization."
+        }
+      }
     }
   ]
 }

@@ -1,4 +1,257 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6,
+              44
+            ],
+            [
+              22,
+              44
+            ],
+            [
+              24,
+              48
+            ],
+            [
+              20,
+              52
+            ],
+            [
+              15,
+              54
+            ],
+            [
+              8,
+              54
+            ],
+            [
+              6,
+              52
+            ],
+            [
+              4,
+              50
+            ],
+            [
+              6,
+              44
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "holy-roman-empire",
+        "startYear": 962,
+        "endYear": 1806,
+        "peakStartYear": 962,
+        "peakEndYear": 1648,
+        "culturalSphere": "germanic",
+        "color": "#8B0000",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Heiliges Römisches Reich",
+          "en": "Holy Roman Empire"
+        },
+        "description": {
+          "de": "Das Heilige Römische Reich war das wichtigste politische Gebilde Mitteleuropas über fast neun Jahrhunderte. Es prägte das Selbstverständnis des deutschen und italienischen Adels und war das institutionelle Gerüst, in dem die mittelalterliche Papst-Kaiser-Auseinandersetzung, die Kreuzzüge und schließlich die Reformation ausgetragen wurden. Als loser Verband von Fürstentümern, Städten und Bistuemern entwickelte es komplexe Verfassungsformen, die Vorläufer moderner Bundesstaatlichkeit wurden.",
+          "en": "The Holy Roman Empire was the central political entity of Central Europe for almost nine centuries. It shaped the identity of the German and Italian nobility and was the institutional framework in which the medieval Pope-Emperor conflict, the Crusades, and eventually the Reformation were played out. As a loose confederation of principalities, cities, and bishoprics, it developed complex constitutional forms that became precursors to modern federalism."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              36
+            ],
+            [
+              42,
+              36
+            ],
+            [
+              44,
+              40
+            ],
+            [
+              38,
+              44
+            ],
+            [
+              30,
+              46
+            ],
+            [
+              24,
+              44
+            ],
+            [
+              22,
+              42
+            ],
+            [
+              24,
+              38
+            ],
+            [
+              26,
+              36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ottoman-empire",
+        "startYear": 1299,
+        "endYear": 1922,
+        "peakStartYear": 1453,
+        "peakEndYear": 1683,
+        "culturalSphere": "ottoman",
+        "color": "#C04000",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Osmanisches Reich",
+          "en": "Ottoman Empire"
+        },
+        "description": {
+          "de": "Das Osmanische Reich war eines der mächtigsten und dauerhaftesten Reiche der Geschichte und verband über sechs Jahrhunderte drei Kontinente. Istanbul (Konstantinopel) wurde zu einem der bedeutendsten Kulturzentren der Welt, in dem islamische, griechische und osmanische Traditionen zusammenflossen. Die osmanische Verwaltung, Architektur und Kultur — von der Süleymaniye-Moschee bis zur osmanischen Miniaturmalerei — schufen ein einzigartiges Zivilisationsmodell.",
+          "en": "The Ottoman Empire was one of the most powerful and long-lasting empires in history, connecting three continents for over six centuries. Istanbul (Constantinople) became one of the world's most important cultural centers, where Islamic, Greek, and Ottoman traditions converged. Ottoman administration, architecture, and culture — from the Süleymaniye Mosque to Ottoman miniature painting — created a unique model of civilization."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82,
+              -36
+            ],
+            [
+              -68,
+              -36
+            ],
+            [
+              -66,
+              -18
+            ],
+            [
+              -68,
+              -4
+            ],
+            [
+              -76,
+              2
+            ],
+            [
+              -80,
+              -4
+            ],
+            [
+              -82,
+              -12
+            ],
+            [
+              -82,
+              -36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "inca-empire",
+        "startYear": 1438,
+        "endYear": 1533,
+        "culturalSphere": "andean",
+        "color": "#9B4A1A",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Inkareich",
+          "en": "Inca Empire"
+        },
+        "description": {
+          "de": "Das Inkareich, Tawantinsuyu genannt ('Vier Regionen der Welt'), war das größte Reich Präkolumbiens und erstreckte sich 5.500 Kilometer entlang der Andenkueste Südamerikas. Ohne Schrift und Rad schuf die Inka-Zivilisation ein Meisterwerk der Verwaltung und Ingenieurskunst: ein Netz von 40.000 km Straßen, befestigte Bergstädte wie Machu Picchu und ein Kommunikationssystem mit Laufboten, das Nachrichten in kürzester Zeit über das gesamte Reich übermittelte.",
+          "en": "The Inca Empire, known as Tawantinsuyu ('Four Regions of the World'), was the largest pre-Columbian empire and stretched 5,500 kilometers along the Andean coast of South America. Without writing or the wheel, Inca civilization created a masterpiece of administration and engineering: a network of 40,000 km of roads, fortified mountain cities such as Machu Picchu, and a relay runner communication system that transmitted messages across the entire empire at remarkable speed."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              18
+            ],
+            [
+              128,
+              18
+            ],
+            [
+              132,
+              28
+            ],
+            [
+              128,
+              42
+            ],
+            [
+              116,
+              48
+            ],
+            [
+              108,
+              50
+            ],
+            [
+              98,
+              44
+            ],
+            [
+              88,
+              38
+            ],
+            [
+              88,
+              28
+            ],
+            [
+              98,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ming-dynasty",
+        "startYear": 1368,
+        "endYear": 1644,
+        "culturalSphere": "chinese",
+        "color": "#BB5500",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Ming-Dynastie",
+          "en": "Ming Dynasty"
+        },
+        "description": {
+          "de": "Die Ming-Dynastie restaurierte nach der Mongolenherrschaft eine eigenständige chinesische Zivilisation und gilt als eine der stabilsten und wohlhabendsten Perioden der chinesischen Geschichte. Die Ming schufen die heute noch stehende Große Mauer in ihrer endgültigen Form, bauten die Verbotene Stadt in Peking und schickten die legendären Schatzflotten des Admirals Zheng He auf Fernreisen nach Südostasien, Indien, Arabien und Ostafrika.",
+          "en": "The Ming Dynasty restored an independent Chinese civilization after Mongol rule and is considered one of the most stable and prosperous periods in Chinese history. The Ming built the Great Wall in its final, present-day form, constructed the Forbidden City in Beijing, and sent the legendary treasure fleets of Admiral Zheng He on voyages to Southeast Asia, India, Arabia, and East Africa."
+        }
+      }
+    }
+  ]
 }

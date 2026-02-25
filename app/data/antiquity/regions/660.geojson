@@ -100,6 +100,150 @@
           "en": "The Franks were a Germanic tribal confederation along the lower Rhine, composed of smaller groups including the Chamavi, Bructeri, and Salii. Around 310 AD they lived under constant pressure from the Roman Empire while also serving as allies and mercenaries in its army. From these origins grew the most powerful successor kingdom of the Western Roman Empire — the Frankish realm that shaped medieval Europe."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22,
+              30
+            ],
+            [
+              42,
+              30
+            ],
+            [
+              45,
+              37
+            ],
+            [
+              38,
+              42
+            ],
+            [
+              28,
+              42
+            ],
+            [
+              22,
+              42
+            ],
+            [
+              18,
+              40
+            ],
+            [
+              15,
+              38
+            ],
+            [
+              15,
+              33
+            ],
+            [
+              18,
+              30
+            ],
+            [
+              22,
+              30
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "byzantine-empire",
+        "startYear": 330,
+        "endYear": 1453,
+        "peakStartYear": 476,
+        "peakEndYear": 1453,
+        "culturalSphere": "byzantine",
+        "color": "#AA2222",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Byzantinisches Reich",
+          "en": "Byzantine Empire"
+        },
+        "description": {
+          "de": "Das Byzantinische Reich war die Fortsetzung des Oströmischen Reiches und bewahrte über tausend Jahre lang die Tradition griechischer Bildung, römischen Rechts und christlichen Glaubens. Konstantinopel war Jahrhunderte lang die größte und reichste Stadt der christlichen Welt und ein unubertroffenes Zentrum von Kunst, Theologie und Diplomatie. Das Reich prägte die Kulturen Osteuropas, der Balkanhalbinsel und des Nahen Ostens und hinterließ ein Erbe, das weit über seinen Fall 1453 hinauswirkt.",
+          "en": "The Byzantine Empire was the continuation of the Eastern Roman Empire and preserved for over a thousand years the tradition of Greek learning, Roman law, and Christian faith. Constantinople was for centuries the largest and wealthiest city in the Christian world and an unrivaled center of art, theology, and diplomacy. The empire shaped the cultures of Eastern Europe, the Balkans, and the Near East and left a legacy that extends far beyond its fall in 1453."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              18
+            ],
+            [
+              135,
+              18
+            ],
+            [
+              135,
+              45
+            ],
+            [
+              125,
+              50
+            ],
+            [
+              115,
+              50
+            ],
+            [
+              98,
+              48
+            ],
+            [
+              80,
+              42
+            ],
+            [
+              76,
+              38
+            ],
+            [
+              80,
+              30
+            ],
+            [
+              90,
+              24
+            ],
+            [
+              98,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "tang-dynasty",
+        "startYear": 618,
+        "endYear": 907,
+        "peakStartYear": 650,
+        "peakEndYear": 755,
+        "culturalSphere": "chinese",
+        "color": "#CC7700",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Tang-Dynastie",
+          "en": "Tang Dynasty"
+        },
+        "description": {
+          "de": "Die Tang-Dynastie gilt als Höhepunkt der chinesischen Zivilisation. Chang'an, ihre Hauptstadt, war mit über einer Million Einwohnern die größte und kosmopolitischste Stadt der Welt — ein Knotenpunkt der Seidenstraße, wo Kaufleute, Diplomaten und Gelehrte aus aller Welt zusammenkamen. Chinesische Dichtung, Kunst, Musik und Buddhismus blühten auf und strahlten auf Korea, Japan und Vietnam aus. Die Tang schufen ein mächtiges Reich, das von der Mandschurei bis nach Zentralasien reichte.",
+          "en": "The Tang Dynasty is considered the pinnacle of Chinese civilization. Chang'an, its capital, with over a million inhabitants was the largest and most cosmopolitan city in the world — a Silk Road hub where merchants, diplomats, and scholars from across the globe converged. Chinese poetry, art, music, and Buddhism flourished and radiated outward to Korea, Japan, and Vietnam. The Tang built a powerful empire stretching from Manchuria to Central Asia."
+        }
+      }
     }
   ]
 }

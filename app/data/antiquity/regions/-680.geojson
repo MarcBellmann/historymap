@@ -46,6 +46,190 @@
           "en": "The Kingdom of Kush (Nubia) was an independent civilization south of Egypt with its own script and pyramid tradition."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              22
+            ],
+            [
+              38,
+              22
+            ],
+            [
+              42,
+              26
+            ],
+            [
+              48,
+              30
+            ],
+            [
+              48,
+              37
+            ],
+            [
+              44,
+              38
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              27,
+              34
+            ],
+            [
+              25,
+              31
+            ],
+            [
+              25,
+              26
+            ],
+            [
+              26,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "neo-assyrian-empire",
+        "startYear": -934,
+        "endYear": -610,
+        "peakStartYear": -745,
+        "peakEndYear": -650,
+        "culturalSphere": "assyrian",
+        "color": "#8B4513",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Neuassyrisches Reich",
+          "en": "Neo-Assyrian Empire"
+        },
+        "description": {
+          "de": "Das Neuassyrische Reich war das erste Weltreich der Geschichte, das ein professionelles stehendes Heer, systematische Verwaltung und ein Netz von Straßen und Boten einsetzte, um ein riesiges Territorium zu kontrollieren. Auf seinem Höhepunkt unter Assurbanipal erstreckte es sich von Ägypten bis Persien und umfasste Mesopotamien, die Levante und Teile Anatoliens. Die assyrische Kunst und Architektur — besonders die Reliefs der Palaststädte Ninive und Nimrud — zählen zu den eindrucksvollsten Hinterlassenschaften der antiken Welt.",
+          "en": "The Neo-Assyrian Empire was the first world empire in history to deploy a professional standing army, systematic administration, and a network of roads and messengers to control a vast territory. At its height under Ashurbanipal it stretched from Egypt to Persia, encompassing Mesopotamia, the Levant, and parts of Anatolia. Assyrian art and architecture — especially the palace reliefs of Nineveh and Nimrud — rank among the most impressive achievements of the ancient world."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25,
+              22
+            ],
+            [
+              37,
+              22
+            ],
+            [
+              37,
+              32
+            ],
+            [
+              33,
+              31.5
+            ],
+            [
+              32,
+              30
+            ],
+            [
+              25,
+              30
+            ],
+            [
+              25,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ancient-egypt-late",
+        "startYear": -1070,
+        "endYear": -332,
+        "culturalSphere": "egyptian",
+        "color": "#C8A000",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Altes Ägypten (Spätzeit)",
+          "en": "Ancient Egypt (Late Period)"
+        },
+        "description": {
+          "de": "Ägypten in der Dritten Zwischenzeit und Spätzeit war trotz politischer Fragmentierung und fremder Herrschaft — durch Libyer, Nubier, Assyrer und schließlich Perser — eine lebendige Zivilisation. Die ägyptische Sprache, Religion und Kunst blieben lebendig und prägend. Erst mit Alexander dem Großen endete die Pharaonentradition, die über dreitausend Jahre gedauert hatte.",
+          "en": "Egypt in the Third Intermediate and Late Periods, despite political fragmentation and foreign rule — by Libyans, Nubians, Assyrians, and finally Persians — remained a vibrant civilization. The Egyptian language, religion, and art endured and remained influential. Only with Alexander the Great did the Pharaonic tradition come to an end after more than three thousand years."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105,
+              25
+            ],
+            [
+              122,
+              25
+            ],
+            [
+              122,
+              40
+            ],
+            [
+              115,
+              42
+            ],
+            [
+              105,
+              40
+            ],
+            [
+              100,
+              35
+            ],
+            [
+              100,
+              30
+            ],
+            [
+              105,
+              25
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "zhou-dynasty",
+        "startYear": -1046,
+        "endYear": -256,
+        "culturalSphere": "chinese",
+        "color": "#B8860B",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Zhou-Dynastie",
+          "en": "Zhou Dynasty"
+        },
+        "description": {
+          "de": "Die Zhou-Dynastie war die längste Herrscherdynastie der chinesischen Geschichte. Sie prägte das klassische China durch die Entstehung des Konfuzianismus, Taoismus und Legalismus — philosophische Strömungen, die das chinesische Denken bis in die Gegenwart prägen. Die Östliche Zhou-Periode mit ihrer Epoche der Streitenden Reiche brachte trotz politischer Wirren eine außerordentliche kulturelle und philosophische Blüte hervor.",
+          "en": "The Zhou Dynasty was the longest-ruling dynasty in Chinese history. It shaped classical China through the birth of Confucianism, Taoism, and Legalism — philosophical traditions that have influenced Chinese thought to the present day. The Eastern Zhou period with its Warring States era produced an extraordinary cultural and philosophical flowering despite political turmoil."
+        }
+      }
     }
   ]
 }

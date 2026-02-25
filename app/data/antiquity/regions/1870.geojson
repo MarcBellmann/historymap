@@ -1,4 +1,77 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30,
+              50
+            ],
+            [
+              60,
+              50
+            ],
+            [
+              80,
+              54
+            ],
+            [
+              140,
+              54
+            ],
+            [
+              140,
+              68
+            ],
+            [
+              80,
+              68
+            ],
+            [
+              40,
+              70
+            ],
+            [
+              20,
+              66
+            ],
+            [
+              20,
+              58
+            ],
+            [
+              26,
+              54
+            ],
+            [
+              30,
+              50
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "russian-empire",
+        "startYear": 1721,
+        "endYear": 1917,
+        "peakStartYear": 1800,
+        "peakEndYear": 1900,
+        "culturalSphere": "slavic",
+        "color": "#1C4E8A",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Russisches Kaiserreich",
+          "en": "Russian Empire"
+        },
+        "description": {
+          "de": "Das Russische Kaiserreich war das drittgrößte Reich der Geschichte und erstreckte sich von der Ostsee bis zum Pazifik und von der Arktis bis zu den Steppen Zentralasiens. Peter der Große und Katharina die Große modernisierten Russland nach westlichem Vorbild und machten es zu einer europäischen Großmacht. Das russische Kaiserreich brachte eine außerordentliche Blüte von Literatur, Musik und Kunst hervor — Tolstoi, Dostojewski, Tschaikowski und viele andere prägten die Weltkultur.",
+          "en": "The Russian Empire was the third largest empire in history, stretching from the Baltic Sea to the Pacific and from the Arctic to the steppes of Central Asia. Peter the Great and Catherine the Great modernized Russia on Western models and made it a European great power. The Russian Empire produced an extraordinary flourishing of literature, music, and art — Tolstoy, Dostoevsky, Tchaikovsky and many others shaped world culture."
+        }
+      }
+    }
+  ]
 }

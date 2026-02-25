@@ -346,6 +346,144 @@
           "en": "The Caucasian Kingdom of Iberia — not to be confused with the Iberian Peninsula — lay at the heart of modern Georgia and controlled vital mountain passes including the Daryal Pass. As a Roman vassal state following the Peace of 298 AD, Iberia played a strategically pivotal role as a buffer between Rome and the Sassanids. Around 319 AD King Mirian III adopted Christianity, making Iberia one of the oldest Christian kingdoms in the world."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9,
+              38.5
+            ],
+            [
+              -5,
+              36
+            ],
+            [
+              3.5,
+              37.5
+            ],
+            [
+              4,
+              40.5
+            ],
+            [
+              3,
+              43.5
+            ],
+            [
+              -2,
+              43.5
+            ],
+            [
+              -4,
+              44
+            ],
+            [
+              -8.5,
+              43.5
+            ],
+            [
+              -9,
+              42
+            ],
+            [
+              -7.5,
+              42
+            ],
+            [
+              -6.5,
+              39.5
+            ],
+            [
+              -7,
+              37
+            ],
+            [
+              -9,
+              38.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "hispania-tarraconensis",
+        "parentId": "roman-empire",
+        "startYear": -197,
+        "endYear": 472,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Hispania Tarraconensis",
+          "en": "Hispania Tarraconensis"
+        },
+        "description": {
+          "de": "Hispania Tarraconensis war die größte der römischen Provinzen auf der Iberischen Halbinsel und erstreckte sich von den Pyrenäen bis zur Südküste. Ihre Hauptstadt Tarraco (Tarragona) war der bedeutendste Hafen und Verwaltungssitz des nördlichen Hispaniens. Die Provinz umfasste die wichtigen Bergbaugebiete der Sierra Morena sowie die fruchtbaren Küstenebenen Kataloniens. Das dichte Straßennetz verband Tarraco mit den nördlichen Alpenpässen und dem fernen Mesopotamien und machte Tarraconensis zu einem Knotenpunkt des imperialen Kommunikationssystems.",
+          "en": "Hispania Tarraconensis was the largest of the Roman provinces on the Iberian Peninsula, stretching from the Pyrenees to the southern coast. Its capital Tarraco (Tarragona) was the most important port and administrative center of northern Hispania. The province encompassed the major mining districts of the Sierra Morena as well as the fertile coastal plains of Catalonia. An extensive road network connected Tarraco with the northern Alpine passes and distant Mesopotamia, making Tarraconensis a key node in the imperial communications system."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12,
+              37.5
+            ],
+            [
+              16,
+              37.5
+            ],
+            [
+              18.5,
+              40.5
+            ],
+            [
+              16,
+              41.5
+            ],
+            [
+              13.5,
+              42.5
+            ],
+            [
+              12.5,
+              41.5
+            ],
+            [
+              12,
+              40
+            ],
+            [
+              12,
+              37.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "parentId": "roman-empire",
+        "startYear": -264,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Italia (Kernland)",
+          "en": "Italia (Heartland)"
+        },
+        "description": {
+          "de": "Italia war das Kernland des Römischen Reiches, von Steuern befreit und politisch privilegiert. Die Halbinsel war dicht besiedelt und urbanisiert — von der Kapitale Roma über Mediolanum (Mailand), Capua bis Neapolis. Der Reichtum Italiens gründete sich auf Handwerk, Weinbau, Olivenöl und Getreide. Die Po-Ebene im Norden war die Kornkammer; Kampanien im Süden erzeugte berühmte Weine. In der Kaiserzeit wurden viele provinzielle Familien in den Senat aufgenommen, und die kulturelle Hegemonie Italiens wurde zunehmend durch die vitalen Provinzkulturen ergänzt.",
+          "en": "Italia was the heartland of the Roman Empire, exempt from taxes and politically privileged. The peninsula was densely populated and urbanized — from the capital Roma to Mediolanum (Milan), Capua, and Neapolis. Italy's wealth rested on crafts, viticulture, olive oil, and grain. The Po plain in the north was the breadbasket; Campania in the south produced famous wines. In the imperial period many provincial families entered the Senate, and Italy's cultural hegemony was increasingly supplemented by the vibrant provincial cultures."
+        }
+      }
     }
   ]
 }

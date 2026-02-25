@@ -238,6 +238,267 @@
           "en": "The Caucasian Kingdom of Iberia — not to be confused with the Iberian Peninsula — lay at the heart of modern Georgia and controlled vital mountain passes including the Daryal Pass. As a Roman vassal state following the Peace of 298 AD, Iberia played a strategically pivotal role as a buffer between Rome and the Sassanids. Around 319 AD King Mirian III adopted Christianity, making Iberia one of the oldest Christian kingdoms in the world."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105,
+              25
+            ],
+            [
+              122,
+              25
+            ],
+            [
+              122,
+              40
+            ],
+            [
+              115,
+              42
+            ],
+            [
+              105,
+              40
+            ],
+            [
+              100,
+              35
+            ],
+            [
+              100,
+              30
+            ],
+            [
+              105,
+              25
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "zhou-dynasty",
+        "startYear": -1046,
+        "endYear": -256,
+        "culturalSphere": "chinese",
+        "color": "#B8860B",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Zhou-Dynastie",
+          "en": "Zhou Dynasty"
+        },
+        "description": {
+          "de": "Die Zhou-Dynastie war die längste Herrscherdynastie der chinesischen Geschichte. Sie prägte das klassische China durch die Entstehung des Konfuzianismus, Taoismus und Legalismus — philosophische Strömungen, die das chinesische Denken bis in die Gegenwart prägen. Die Östliche Zhou-Periode mit ihrer Epoche der Streitenden Reiche brachte trotz politischer Wirren eine außerordentliche kulturelle und philosophische Blüte hervor.",
+          "en": "The Zhou Dynasty was the longest-ruling dynasty in Chinese history. It shaped classical China through the birth of Confucianism, Taoism, and Legalism — philosophical traditions that have influenced Chinese thought to the present day. The Eastern Zhou period with its Warring States era produced an extraordinary cultural and philosophical flowering despite political turmoil."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              30
+            ],
+            [
+              75,
+              25
+            ],
+            [
+              76,
+              34
+            ],
+            [
+              70,
+              38
+            ],
+            [
+              60,
+              42
+            ],
+            [
+              50,
+              42
+            ],
+            [
+              40,
+              40
+            ],
+            [
+              36,
+              38
+            ],
+            [
+              28,
+              36
+            ],
+            [
+              26,
+              32
+            ],
+            [
+              26,
+              30
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "seleucid-empire",
+        "startYear": -312,
+        "endYear": -63,
+        "peakStartYear": -280,
+        "peakEndYear": -190,
+        "culturalSphere": "greek",
+        "color": "#2288AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Seleukidenreich",
+          "en": "Seleucid Empire"
+        },
+        "description": {
+          "de": "Das Seleukidenreich war das größte der hellenistischen Nachfolgestaaten Alexanders des Großen. Es erstreckte sich von der Ägäis bis zum Indus und verband persische, babylonische und griechische Traditionen zu einer einzigartigen Hochkultur. Mit Städten wie Antiochia am Orontes und Seleukia am Tigris schufen die Seleukiden blühende kosmopolitische Zentren, die griechische Bildung und orientalische Weisheit vereinten.",
+          "en": "The Seleucid Empire was the largest of the Hellenistic successor states of Alexander the Great. Stretching from the Aegean to the Indus, it blended Persian, Babylonian, and Greek traditions into a unique high civilization. With cities such as Antioch on the Orontes and Seleucia on the Tigris, the Seleucids created flourishing cosmopolitan centers that united Greek learning with Eastern wisdom."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8,
+              34
+            ],
+            [
+              15,
+              30
+            ],
+            [
+              25,
+              30
+            ],
+            [
+              25,
+              37
+            ],
+            [
+              15,
+              37.5
+            ],
+            [
+              9,
+              38
+            ],
+            [
+              3,
+              40
+            ],
+            [
+              -2,
+              40
+            ],
+            [
+              -5,
+              38
+            ],
+            [
+              -8,
+              36
+            ],
+            [
+              -8,
+              34
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "carthage",
+        "startYear": -814,
+        "endYear": -146,
+        "peakStartYear": -400,
+        "peakEndYear": -200,
+        "culturalSphere": "phoenician",
+        "color": "#8B6914",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Karthago",
+          "en": "Carthage"
+        },
+        "description": {
+          "de": "Karthago war die mächtigste Handelsnation des westlichen Mittelmeers und stand Jahrhunderte lang in direkter Konkurrenz zu den griechischen Kolonien und schließlich zu Rom. Die Stadt selbst war ein Wunder der antiken Stadtplanung mit einem Kriegshafen, einer florierenden Handelsstadt und einer monumentalen Akropole auf dem Byrsa-Hügel. Die Karthager entwickelten eine eigenständige Kultur aus phönizischen Wurzeln, prägten ganz Nordafrika und Iberien und hinterließen mit ihrer Landwirtschaft und Seefahrt bleibende Spuren.",
+          "en": "Carthage was the dominant trading power of the western Mediterranean and for centuries competed directly with the Greek colonies and eventually with Rome. The city itself was a marvel of ancient urban planning, with a military harbor, a thriving commercial port, and a monumental acropolis on the Byrsa hill. The Carthaginians developed a distinct culture from Phoenician roots, left a deep mark on North Africa and Iberia, and made lasting contributions in agriculture and seamanship."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12,
+              37.5
+            ],
+            [
+              16,
+              37.5
+            ],
+            [
+              18.5,
+              40.5
+            ],
+            [
+              16,
+              41.5
+            ],
+            [
+              13.5,
+              42.5
+            ],
+            [
+              12.5,
+              41.5
+            ],
+            [
+              12,
+              40
+            ],
+            [
+              12,
+              37.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "parentId": "roman-empire",
+        "startYear": -264,
+        "endYear": 476,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Italia (Kernland)",
+          "en": "Italia (Heartland)"
+        },
+        "description": {
+          "de": "Italia war das Kernland des Römischen Reiches, von Steuern befreit und politisch privilegiert. Die Halbinsel war dicht besiedelt und urbanisiert — von der Kapitale Roma über Mediolanum (Mailand), Capua bis Neapolis. Der Reichtum Italiens gründete sich auf Handwerk, Weinbau, Olivenöl und Getreide. Die Po-Ebene im Norden war die Kornkammer; Kampanien im Süden erzeugte berühmte Weine. In der Kaiserzeit wurden viele provinzielle Familien in den Senat aufgenommen, und die kulturelle Hegemonie Italiens wurde zunehmend durch die vitalen Provinzkulturen ergänzt.",
+          "en": "Italia was the heartland of the Roman Empire, exempt from taxes and politically privileged. The peninsula was densely populated and urbanized — from the capital Roma to Mediolanum (Milan), Capua, and Neapolis. Italy's wealth rested on crafts, viticulture, olive oil, and grain. The Po plain in the north was the breadbasket; Campania in the south produced famous wines. In the imperial period many provincial families entered the Senate, and Italy's cultural hegemony was increasingly supplemented by the vibrant provincial cultures."
+        }
+      }
     }
   ]
 }
