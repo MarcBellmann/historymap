@@ -1,0 +1,830 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [24.5, 22.0],
+        [37.0, 22.0],
+        [37.0, 31.5],
+        [34.5, 31.5],
+        [34.5, 32.5],
+        [32.5, 31.0],
+        [29.5, 30.0],
+        [25.0, 30.5],
+        [24.5, 28.0],
+        [24.5, 22.0]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-egypt",
+      "parentId": "achaemenid-empire",
+      "startYear": -525,
+      "endYear": -332,
+      "peakStartYear": -525,
+      "peakEndYear": -332,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Ägypten (Mudraya)",
+        "en": "Satrapy of Egypt (Mudraya)"
+      },
+      "description": {
+        "de": "Die Satrapie Mudraya war das persische Ägypten unter achämenidischer Herrschaft. Gegründet von Kambyses II. nach der Eroberung Ägyptens 525 v. Chr., behielt sie pharaonische Traditionen bei und war eine der reichsten Provinzen des Reiches.",
+        "en": "The satrapy of Mudraya was Persian Egypt under Achaemenid rule. Founded by Cambyses II after conquering Egypt in 525 BC, it preserved pharaonic traditions and was one of the wealthiest provinces of the empire."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [38.0, 29.5],
+        [48.5, 29.5],
+        [48.5, 37.5],
+        [44.0, 37.5],
+        [41.0, 34.5],
+        [38.0, 33.0],
+        [38.0, 29.5]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-babylonia",
+      "parentId": "achaemenid-empire",
+      "startYear": -539,
+      "endYear": -330,
+      "peakStartYear": -539,
+      "peakEndYear": -330,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Babylonien (Babirus)",
+        "en": "Satrapy of Babylonia (Babirus)"
+      },
+      "description": {
+        "de": "Die Satrapie Babirus umfasste das fruchtbare Zweistromland zwischen Tigris und Euphrat. Babylon, die prächtige Hauptstadt, blieb unter persischer Herrschaft ein bedeutendes Kulturzentrum und wirtschaftliches Herz des Reiches.",
+        "en": "The satrapy of Babirus encompassed the fertile land between the Tigris and Euphrates. Babylon, the magnificent capital, remained a major cultural center and the economic heart of the empire under Persian rule."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [44.0, 33.0],
+        [54.0, 33.0],
+        [54.0, 39.0],
+        [48.0, 40.0],
+        [44.0, 38.5],
+        [44.0, 33.0]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-media",
+      "parentId": "achaemenid-empire",
+      "startYear": -550,
+      "endYear": -330,
+      "peakStartYear": -550,
+      "peakEndYear": -330,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Medien",
+        "en": "Satrapy of Media"
+      },
+      "description": {
+        "de": "Medien war das Kernland des medischen Reiches, das von Kyros dem Großen 550 v. Chr. erobert wurde. Die Region blieb eine wichtige Satrapie des Achämenidenreichs mit Ekbatana (Hamadan) als bedeutender Residenzstadt.",
+        "en": "Media was the heartland of the Median Empire, conquered by Cyrus the Great in 550 BC. The region remained an important satrapy of the Achaemenid Empire with Ecbatana (Hamadan) as a major royal residence."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [26.0, 37.0],
+        [34.0, 37.0],
+        [34.0, 42.0],
+        [30.0, 42.0],
+        [26.0, 40.5],
+        [26.0, 37.0]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-lydia",
+      "parentId": "achaemenid-empire",
+      "startYear": -547,
+      "endYear": -334,
+      "peakStartYear": -547,
+      "peakEndYear": -334,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Lydien (Sparda)",
+        "en": "Satrapy of Lydia (Sparda)"
+      },
+      "description": {
+        "de": "Die Satrapie Sparda (Lydien) erstreckte sich über Westanatolien mit der Hauptstadt Sardes. Nach der Niederlage des lydischen Königs Krösus 547 v. Chr. bildete sie die westliche Schatzkammer des Achämenidenreiches.",
+        "en": "The satrapy of Sparda (Lydia) covered western Anatolia with its capital at Sardis. After the defeat of the Lydian king Croesus in 547 BC, it formed the western treasury of the Achaemenid Empire."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [25.5, 36.5],
+        [30.0, 36.5],
+        [30.0, 39.5],
+        [26.5, 39.5],
+        [24.5, 38.0],
+        [25.5, 36.5]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-ionia",
+      "parentId": "achaemenid-empire",
+      "startYear": -547,
+      "endYear": -334,
+      "peakStartYear": -547,
+      "peakEndYear": -334,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Ionien",
+        "en": "Satrapy of Ionia"
+      },
+      "description": {
+        "de": "Die griechischen Städte Ioniens an der Westküste Anatoliens standen unter persischer Herrschaft. Der Ionische Aufstand (499–493 v. Chr.) gegen die Perser wurde zum Funken, der die Perserkriege entfachte.",
+        "en": "The Greek cities of Ionia on the western coast of Anatolia were under Persian rule. The Ionian Revolt (499–493 BC) against the Persians became the spark that ignited the Greco-Persian Wars."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [63.0, 33.0],
+        [73.0, 33.0],
+        [73.0, 39.0],
+        [67.0, 39.5],
+        [63.0, 37.5],
+        [63.0, 33.0]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-bactria",
+      "parentId": "achaemenid-empire",
+      "startYear": -550,
+      "endYear": -330,
+      "peakStartYear": -550,
+      "peakEndYear": -330,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Baktrien (Bakhtri)",
+        "en": "Satrapy of Bactria (Bakhtri)"
+      },
+      "description": {
+        "de": "Baktrien im heutigen Nordafghanistan und Tadschikistan war eine strategisch wichtige Satrapie an der Kreuzung iranischer und zentralasiatischer Kulturen. Die reiche, fruchtbare Region mit der Hauptstadt Baktra war für Luxusgüter bekannt.",
+        "en": "Bactria in modern northern Afghanistan and Tajikistan was a strategically vital satrapy at the crossroads of Iranian and Central Asian cultures. The rich, fertile region with its capital Bactra was renowned for luxury goods."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [58.5, 37.5],
+        [68.0, 37.5],
+        [68.0, 42.5],
+        [63.0, 43.0],
+        [58.5, 41.5],
+        [58.5, 37.5]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-sogdiana",
+      "parentId": "achaemenid-empire",
+      "startYear": -550,
+      "endYear": -330,
+      "peakStartYear": -550,
+      "peakEndYear": -330,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Sogdien",
+        "en": "Satrapy of Sogdiana"
+      },
+      "description": {
+        "de": "Sogdien umfasste das Gebiet um Samarkand und Buchara im heutigen Usbekistan und Tadschikistan. Die sogdischen Händler spielten eine Schlüsselrolle im Handel entlang der späteren Seidenstraße.",
+        "en": "Sogdiana encompassed the region around Samarkand and Bukhara in modern Uzbekistan and Tajikistan. Sogdian merchants played a key role in trade along what would become the Silk Road."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [68.0, 31.0],
+        [76.0, 31.0],
+        [76.0, 36.5],
+        [71.0, 36.5],
+        [68.0, 34.5],
+        [68.0, 31.0]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-gandhara",
+      "parentId": "achaemenid-empire",
+      "startYear": -517,
+      "endYear": -330,
+      "peakStartYear": -517,
+      "peakEndYear": -330,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Gandhara / Indien (Gadara)",
+        "en": "Satrapy of Gandhara / India (Gadara)"
+      },
+      "description": {
+        "de": "Gandhara im heutigen Pakistan und östlichen Afghanistan war die östlichste Satrapie des Achämenidenreiches. Die Region wurde von Darius I. um 517 v. Chr. eingegliedert und zahlte Tribut in Form von Gold und Elefanten.",
+        "en": "Gandhara in modern Pakistan and eastern Afghanistan was the easternmost satrapy of the Achaemenid Empire. The region was incorporated by Darius I around 517 BC and paid tribute in gold and elephants."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [54.0, 34.0],
+        [62.0, 34.0],
+        [62.0, 40.0],
+        [57.0, 40.5],
+        [54.0, 38.0],
+        [54.0, 34.0]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-parthia",
+      "parentId": "achaemenid-empire",
+      "startYear": -550,
+      "endYear": -330,
+      "peakStartYear": -550,
+      "peakEndYear": -330,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Parthien",
+        "en": "Satrapy of Parthia"
+      },
+      "description": {
+        "de": "Parthien im heutigen Nordostiran und Turkmenistan war eine achämenidische Satrapie, aus der später das mächtige Partherreich hervorging. Die Parther übernahmen 247 v. Chr. die Unabhängigkeit und gründeten ihr eigenes Imperium.",
+        "en": "Parthia in modern northeastern Iran and Turkmenistan was an Achaemenid satrapy from which the powerful Parthian Empire later emerged. The Parthians seized independence in 247 BC and founded their own empire."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [36.0, 37.5],
+        [48.0, 37.5],
+        [48.0, 42.5],
+        [43.0, 43.5],
+        [38.0, 43.0],
+        [36.0, 40.0],
+        [36.0, 37.5]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-armenia",
+      "parentId": "achaemenid-empire",
+      "startYear": -550,
+      "endYear": -330,
+      "peakStartYear": -550,
+      "peakEndYear": -330,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Armenien",
+        "en": "Satrapy of Armenia"
+      },
+      "description": {
+        "de": "Armenien als persische Satrapie umfasste das armenische Hochland zwischen Schwarzem Meer und Kaspischem Meer. Die armenische Kultur entwickelte sich unter persischem Einfluss und die Region lieferte wertvolle Pferde und Tribute an den Perserkönig.",
+        "en": "Armenia as a Persian satrapy encompassed the Armenian highlands between the Black Sea and the Caspian Sea. Armenian culture developed under Persian influence, and the region supplied valuable horses and tributes to the Persian king."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [28.5, 37.5],
+        [35.5, 37.5],
+        [35.5, 42.5],
+        [30.0, 42.5],
+        [28.5, 41.0],
+        [28.5, 37.5]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-phrygia",
+      "parentId": "achaemenid-empire",
+      "startYear": -547,
+      "endYear": -334,
+      "peakStartYear": -547,
+      "peakEndYear": -334,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Phrygien (Hellespontisches Phrygien)",
+        "en": "Satrapy of Phrygia (Hellespontine Phrygia)"
+      },
+      "description": {
+        "de": "Die Satrapie Hellespontisches Phrygien kontrollierte die Meerengen zwischen Europa und Asien und den nordwestlichen Teil Anatoliens. Daskyleion am Marmarameer war die Satrapieshauptstadt dieser strategisch bedeutenden Region.",
+        "en": "The satrapy of Hellespontine Phrygia controlled the straits between Europe and Asia and the northwestern part of Anatolia. Dascylium on the Sea of Marmara was the satrapal capital of this strategically vital region."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [34.5, 31.5],
+        [42.5, 31.5],
+        [42.5, 37.5],
+        [36.0, 37.5],
+        [34.5, 35.5],
+        [34.5, 31.5]
+      ]]
+    },
+    "properties": {
+      "id": "achaemenid-eber-nari",
+      "parentId": "achaemenid-empire",
+      "startYear": -539,
+      "endYear": -332,
+      "peakStartYear": -539,
+      "peakEndYear": -332,
+      "culturalSphere": "persian",
+      "color": "#6644AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Satrapie Syrien (Eber-Nari / Jenseits des Flusses)",
+        "en": "Satrapy of Syria (Eber-Nari / Beyond the River)"
+      },
+      "description": {
+        "de": "Eber-Nari ('Jenseits des Flusses') war die achämenidische Satrapie der Levante westlich des Euphrats, die das heutige Syrien, Libanon, Israel und Palästina umfasste. Die Region war ein wichtiges Handelszentrum und Durchgangsgebiet.",
+        "en": "Eber-Nari ('Beyond the River') was the Achaemenid satrapy of the Levant west of the Euphrates, encompassing modern Syria, Lebanon, Israel and Palestine. The region was an important trading center and transit zone."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [36.0, 31.5],
+        [49.0, 31.5],
+        [49.0, 38.0],
+        [42.5, 38.0],
+        [38.0, 37.5],
+        [36.0, 35.0],
+        [36.0, 31.5]
+      ]]
+    },
+    "properties": {
+      "id": "seleucid-mesopotamia",
+      "parentId": "seleucid-empire",
+      "startYear": -312,
+      "endYear": -141,
+      "peakStartYear": -312,
+      "peakEndYear": -141,
+      "culturalSphere": "greek",
+      "color": "#3366CC",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Seleukidisches Mesopotamien",
+        "en": "Seleucid Mesopotamia"
+      },
+      "description": {
+        "de": "Mesopotamien war das Herzstück des Seleukidenreiches. Die neue Hauptstadt Seleukia am Tigris ersetzte das alte Babylon als das wirtschaftliche und administrative Zentrum und entwickelte sich zu einer der größten Städte der hellenistischen Welt.",
+        "en": "Mesopotamia was the heartland of the Seleucid Empire. The new capital Seleucia on the Tigris replaced old Babylon as the economic and administrative center, growing into one of the largest cities of the Hellenistic world."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [35.5, 31.5],
+        [42.5, 31.5],
+        [42.5, 38.0],
+        [36.5, 38.0],
+        [35.0, 35.5],
+        [35.5, 31.5]
+      ]]
+    },
+    "properties": {
+      "id": "seleucid-coele-syria",
+      "parentId": "seleucid-empire",
+      "startYear": -312,
+      "endYear": -83,
+      "peakStartYear": -312,
+      "peakEndYear": -83,
+      "culturalSphere": "greek",
+      "color": "#3366CC",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Koilesyrien / Seleukidisches Syrien",
+        "en": "Coele-Syria / Seleucid Syria"
+      },
+      "description": {
+        "de": "Koilesyrien ('Hohles Syrien') war die reiche Westprovinz des Seleukidenreiches mit der prächtigen Hauptstadt Antiocheia am Orontes. Die Region war wiederholt Streitobjekt zwischen den Seleukiden und den Ptolemäern Ägyptens.",
+        "en": "Coele-Syria ('Hollow Syria') was the wealthy western province of the Seleucid Empire with the magnificent capital Antioch on the Orontes. The region was repeatedly contested between the Seleucids and the Ptolemies of Egypt."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [44.0, 33.0],
+        [56.0, 33.0],
+        [56.0, 40.0],
+        [48.0, 40.5],
+        [44.0, 38.5],
+        [44.0, 33.0]
+      ]]
+    },
+    "properties": {
+      "id": "seleucid-media",
+      "parentId": "seleucid-empire",
+      "startYear": -312,
+      "endYear": -150,
+      "peakStartYear": -312,
+      "peakEndYear": -150,
+      "culturalSphere": "greek",
+      "color": "#3366CC",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Seleukidisches Medien",
+        "en": "Seleucid Media"
+      },
+      "description": {
+        "de": "Medien unter seleukidischer Herrschaft war eine wichtige östliche Provinz des hellenistischen Reiches. Die reiche Region mit Ekbatana als königlicher Schatzkammer wurde Mitte des 2. Jh. v. Chr. von den aufstrebenden Parthern übernommen.",
+        "en": "Media under Seleucid rule was an important eastern province of the Hellenistic empire. The wealthy region with Ecbatana as a royal treasury was taken over by the rising Parthians in the mid-2nd century BC."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [63.0, 33.0],
+        [73.5, 33.0],
+        [73.5, 39.5],
+        [66.5, 40.0],
+        [63.0, 37.5],
+        [63.0, 33.0]
+      ]]
+    },
+    "properties": {
+      "id": "seleucid-bactria",
+      "parentId": "seleucid-empire",
+      "startYear": -312,
+      "endYear": -250,
+      "peakStartYear": -312,
+      "peakEndYear": -250,
+      "culturalSphere": "greek",
+      "color": "#3366CC",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Baktrien unter den Seleukiden",
+        "en": "Bactria under the Seleucids"
+      },
+      "description": {
+        "de": "Baktrien unter seleukidischer Herrschaft war eine fernöstliche Provinz des hellenistischen Reiches mit bedeutenden griechischen Kolonisten. Unter dem Satrapen Diodotos I. machte sich die Region um 256 v. Chr. unabhängig und wurde zum Griechisch-Baktrischen Königreich.",
+        "en": "Bactria under Seleucid rule was a far-eastern province of the Hellenistic empire with significant Greek settlers. Under the satrap Diodotus I, the region declared independence around 256 BC and became the Greco-Bactrian Kingdom."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [100.0, 32.0],
+        [122.0, 32.0],
+        [122.0, 42.0],
+        [110.0, 43.0],
+        [100.0, 40.0],
+        [100.0, 32.0]
+      ]]
+    },
+    "properties": {
+      "id": "han-north-china",
+      "parentId": "han-china",
+      "startYear": -206,
+      "endYear": 9,
+      "peakStartYear": -206,
+      "peakEndYear": 9,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Westliche Han-Kommandantschaften / Nordchina",
+        "en": "Western Han Commanderies / North China"
+      },
+      "description": {
+        "de": "Das nördliche Kernland der Westlichen Han-Dynastie erstreckte sich über die Nordchinesische Tiefebene und umfasste die Hauptstadt Chang'an. Diese dicht besiedelten Kommandantschaften bildeten das politische und wirtschaftliche Zentrum des frühen Han-Reiches.",
+        "en": "The northern heartland of the Western Han dynasty spread across the North China Plain and included the capital Chang'an. These densely populated commanderies formed the political and economic center of the early Han Empire."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [104.0, 22.0],
+        [122.0, 22.0],
+        [122.0, 32.0],
+        [104.0, 32.0],
+        [104.0, 22.0]
+      ]]
+    },
+    "properties": {
+      "id": "han-south-china",
+      "parentId": "han-china",
+      "startYear": -206,
+      "endYear": 9,
+      "peakStartYear": -111,
+      "peakEndYear": 9,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Westliche Han / Südchina",
+        "en": "Western Han / South China"
+      },
+      "description": {
+        "de": "Südchina wurde von der Han-Dynastie schrittweise integriert. Die Regionen südlich des Yangzi umfassten das Königreich Nanyue (Südviet) und wurden ab 111 v. Chr. direkte Han-Kommandantschaften, wobei lokale Kulturen erhalten blieben.",
+        "en": "South China was gradually integrated by the Han dynasty. The regions south of the Yangtze included the Kingdom of Nanyue and became direct Han commanderies from 111 BC onward, while preserving local cultures."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [72.0, 37.0],
+        [100.0, 37.0],
+        [100.0, 43.0],
+        [85.0, 45.0],
+        [72.0, 42.0],
+        [72.0, 37.0]
+      ]]
+    },
+    "properties": {
+      "id": "han-western-regions",
+      "parentId": "han-china",
+      "startYear": -60,
+      "endYear": 220,
+      "peakStartYear": -60,
+      "peakEndYear": 150,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Han-Protektorat der Westlichen Regionen (Seidenstraße)",
+        "en": "Han Protectorate of the Western Regions (Silk Road)"
+      },
+      "description": {
+        "de": "Das Protektorat der Westlichen Regionen sicherte die Seidenstraße durch das Tarimbecken (heutiges Xinjiang). Unter Han-Kontrolle ab 60 v. Chr. übte es Suzeränität über Dutzende Oasenstaaten aus und ermöglichte den direkten Handel mit dem Westen.",
+        "en": "The Protectorate of the Western Regions secured the Silk Road through the Tarim Basin (modern Xinjiang). Under Han control from 60 BC, it exercised suzerainty over dozens of oasis states and enabled direct trade with the West."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [124.0, 36.0],
+        [130.0, 36.0],
+        [130.0, 42.0],
+        [125.5, 42.5],
+        [124.0, 40.5],
+        [124.0, 36.0]
+      ]]
+    },
+    "properties": {
+      "id": "han-lelang-korea",
+      "parentId": "han-china",
+      "startYear": -108,
+      "endYear": 313,
+      "peakStartYear": -108,
+      "peakEndYear": 220,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Lelang-Kommandantschaft (Han-Korea)",
+        "en": "Lelang Commandery (Han Korea)"
+      },
+      "description": {
+        "de": "Lelang war die bedeutendste der Vier Han-Kommandantschaften auf der koreanischen Halbinsel, gegründet 108 v. Chr. nach dem Sturz des Königreichs Gojoseon. Das Zentrum chinesischer Verwaltung und Kultur in Korea bestand über vier Jahrhunderte.",
+        "en": "Lelang was the most significant of the Four Han Commanderies on the Korean Peninsula, founded in 108 BC after the overthrow of the kingdom of Gojoseon. The center of Chinese administration and culture in Korea lasted over four centuries."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [63.0, 33.0],
+        [75.0, 33.0],
+        [75.0, 39.5],
+        [68.5, 40.5],
+        [63.0, 38.0],
+        [63.0, 33.0]
+      ]]
+    },
+    "properties": {
+      "id": "greco-bactrian-kingdom",
+      "startYear": -256,
+      "endYear": -125,
+      "peakStartYear": -230,
+      "peakEndYear": -145,
+      "culturalSphere": "greek",
+      "color": "#3399AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Griechisch-Baktrisches Königreich",
+        "en": "Greco-Bactrian Kingdom"
+      },
+      "description": {
+        "de": "Das Griechisch-Baktrische Königreich entstand um 256 v. Chr., als sich der Satrap Diodotos I. vom Seleukidenreich loslöste. Es entwickelte eine einzigartige griechisch-iranische Mischkultur im Herzen Zentralasiens und war für seine hohe Münzkunst bekannt.",
+        "en": "The Greco-Bactrian Kingdom emerged around 256 BC when the satrap Diodotus I broke away from the Seleucid Empire. It developed a unique Greek-Iranian mixed culture at the heart of Central Asia and was renowned for its exquisite coinage."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [67.0, 28.0],
+        [77.0, 28.0],
+        [77.0, 35.5],
+        [71.0, 36.0],
+        [67.0, 33.0],
+        [67.0, 28.0]
+      ]]
+    },
+    "properties": {
+      "id": "indo-greek-kingdom",
+      "startYear": -180,
+      "endYear": 10,
+      "peakStartYear": -155,
+      "peakEndYear": -80,
+      "culturalSphere": "greek",
+      "color": "#3399AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Indogriechisches Königreich",
+        "en": "Indo-Greek Kingdom"
+      },
+      "description": {
+        "de": "Das Indogriechische Königreich entstand durch die Expansion des Griechisch-Baktrischen Reichs nach Indien um 200 v. Chr. Unter König Menander I. (Milinda) erreichte es seine Blüte und der König konvertierte dem Buddhismus — ein einzigartiges Beispiel griechisch-indischer Kultursynthese.",
+        "en": "The Indo-Greek Kingdom arose from the expansion of the Greco-Bactrian realm into India around 200 BC. Under King Menander I (Milinda) it reached its peak, with the king converting to Buddhism — a unique example of Greek-Indian cultural synthesis."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [31.5, 40.0],
+        [41.5, 40.0],
+        [42.0, 43.5],
+        [38.5, 44.0],
+        [33.5, 43.0],
+        [31.5, 41.5],
+        [31.5, 40.0]
+      ]]
+    },
+    "properties": {
+      "id": "kingdom-of-pontus",
+      "startYear": -302,
+      "endYear": -63,
+      "peakStartYear": -120,
+      "peakEndYear": -63,
+      "culturalSphere": "greek",
+      "color": "#3366CC",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Königreich Pontus",
+        "en": "Kingdom of Pontus"
+      },
+      "description": {
+        "de": "Das Königreich Pontus an der südlichen Schwarzmeerküste wurde von der Mithridatischen Dynastie mit iranisch-persischen Wurzeln regiert. Mithridates VI. der Große führte drei große Kriege gegen Rom und wurde zu einem der härtesten Feinde der Römischen Republik.",
+        "en": "The Kingdom of Pontus on the southern Black Sea coast was ruled by the Mithridatic dynasty of Iranian-Persian descent. Mithridates VI the Great waged three major wars against Rome and became one of the toughest enemies of the Roman Republic."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [34.5, 29.0],
+        [39.5, 29.0],
+        [39.5, 32.5],
+        [37.5, 34.0],
+        [34.5, 33.0],
+        [33.5, 31.0],
+        [34.5, 29.0]
+      ]]
+    },
+    "properties": {
+      "id": "nabataean-kingdom",
+      "startYear": -168,
+      "endYear": 106,
+      "peakStartYear": -100,
+      "peakEndYear": 50,
+      "culturalSphere": "arab",
+      "color": "#AA8800",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Nabatäisches Königreich",
+        "en": "Nabataean Kingdom"
+      },
+      "description": {
+        "de": "Das Nabatäische Königreich mit der Felsenhauptstadt Petra beherrschte die Handelsrouten von Arabien in die Mittelmeerregion. Als Meister des Fernhandels und der Wasserversorgung in der Wüste schufen die Nabatäer eine eigenständige Schrift und eine reiche Zivilisation.",
+        "en": "The Nabataean Kingdom with its rock-hewn capital Petra controlled the trade routes from Arabia into the Mediterranean region. Masters of long-distance trade and desert water management, the Nabataeans created their own script and a rich civilization."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [25.5, 37.5],
+        [30.5, 37.5],
+        [30.5, 40.5],
+        [27.5, 40.5],
+        [25.5, 39.5],
+        [25.5, 37.5]
+      ]]
+    },
+    "properties": {
+      "id": "kingdom-of-pergamon",
+      "startYear": -282,
+      "endYear": -133,
+      "peakStartYear": -230,
+      "peakEndYear": -133,
+      "culturalSphere": "greek",
+      "color": "#3399AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Königreich Pergamon",
+        "en": "Kingdom of Pergamon"
+      },
+      "description": {
+        "de": "Das Königreich Pergamon in Westanatolien war ein bedeutendes hellenistisches Kulturzentrum. Die Attaliden-Könige förderten Kunst und Wissenschaft; die Bibliothek von Pergamon war neben Alexandria eine der bedeutendsten der antiken Welt. Das Reich wurde 133 v. Chr. an Rom vermacht.",
+        "en": "The Kingdom of Pergamon in western Anatolia was an important Hellenistic cultural center. The Attalid kings patronized arts and sciences; the Library of Pergamon was alongside Alexandria one of the greatest of the ancient world. The realm was bequeathed to Rome in 133 BC."
+      }
+    }
+  }
+]
