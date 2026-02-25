@@ -1,0 +1,440 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [36.0, 9.0],
+          [42.0, 9.0],
+          [42.0, 16.0],
+          [36.0, 16.0],
+          [36.0, 9.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "zagwe-dynasty",
+      "startYear": 900,
+      "endYear": 1270,
+      "culturalSphere": "axumite",
+      "color": "#996600",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Zagwe-Dynastie",
+        "en": "Zagwe Dynasty"
+      },
+      "description": {
+        "de": "Die Zagwe-Dynastie war ein mittelalterliches Königreich der Agaw im nördlichen Äthiopien und Eritrea. Ihre bemerkenswerteste Leistung war die Schaffung der monolithischen Felsenkirchen von Lalibela unter König Gebre Meskel Lalibela – ein Pilger- und Kulturzentrum, das bis heute verehrt wird. Die Zagwe pflegten engen Kontakt zu Ägypten, Nubien und dem Heiligen Land und bewahrten das äthiopische Christentum nach dem Niedergang des Aksumitischen Reiches.",
+        "en": "The Zagwe dynasty was a medieval Agaw monarchy that ruled northern Ethiopia and Eritrea. Its most celebrated achievement was the creation of the rock-hewn monolithic churches of Lalibela under King Gebre Meskel Lalibela — a pilgrimage and cultural center revered to this day. The Zagwe maintained close ties with Egypt, Nubia, and the Holy Land, preserving Ethiopian Christianity following the decline of the Aksumite Empire."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [33.0, 6.0],
+          [44.0, 6.0],
+          [44.0, 18.0],
+          [33.0, 18.0],
+          [33.0, 6.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "solomonic-dynasty",
+      "startYear": 1270,
+      "endYear": 1527,
+      "culturalSphere": "axumite",
+      "color": "#996600",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Salomonische Dynastie",
+        "en": "Solomonic Dynasty"
+      },
+      "description": {
+        "de": "Die Salomonische Dynastie, gegründet 1270 von Yekuno Amlak nach dem Sturz der Zagwe, beanspruchte die Abstammung von König Salomo und der Königin von Saba und legitimierte damit ihre kaiserliche Herrschaft in Äthiopien. Unter Herrschern wie Amda Seyon I. und Zara Yaqob expandierte das Reich erheblich. Die Dynastie festigte das äthiopische Christentum, förderte Literatur in Geez und entwickelte ein einzigartiges Kaisertum, das Äthiopien als unabhängige Nation bis ins 20. Jahrhundert prägte.",
+        "en": "The Solomonic dynasty, founded in 1270 by Yekuno Amlak after overthrowing the Zagwe, claimed descent from King Solomon and the Queen of Sheba, legitimizing their imperial rule over Ethiopia. Under rulers such as Amda Seyon I and Zara Yaqob, the empire expanded significantly. The dynasty consolidated Ethiopian Christianity, fostered literature in Geez, and developed a unique imperial tradition that shaped Ethiopia as an independent nation well into the 20th century."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [26.0, 15.0],
+          [34.0, 15.0],
+          [34.0, 24.0],
+          [26.0, 24.0],
+          [26.0, 15.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "kingdom-of-makuria",
+      "startYear": 650,
+      "endYear": 1317,
+      "culturalSphere": "nubian",
+      "color": "#664400",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Königreich Makuria",
+        "en": "Kingdom of Makuria"
+      },
+      "description": {
+        "de": "Makuria war ein mächtiges christliches Königreich im heutigen nördlichen Sudan, dessen Herrschaftsgebiet das Niltal zwischen dem 3. und 6. Katarakt umfasste. Mit der Hauptstadt Dongola widerstand es dem arabischen Vormarsch durch den berühmten Baqt-Vertrag von 652 – eines der langlebigsten Friedensabkommen der Geschichte. Makuria pflegte regen Handel, produzierte bedeutende christliche Kunst und bewahrte die nubische Zivilisation über mehr als sechs Jahrhunderte.",
+        "en": "Makuria was a powerful Christian kingdom in present-day northern Sudan, controlling the Nile Valley between the 3rd and 6th cataracts. Based at its capital Dongola, it resisted Arab expansion through the famous Baqt treaty of 652 — one of the longest-lasting peace agreements in history. Makuria maintained vibrant trade, produced significant Christian art, and preserved Nubian civilization for over six centuries."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [10.0, 8.0],
+          [24.0, 8.0],
+          [24.0, 20.0],
+          [10.0, 20.0],
+          [10.0, 8.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "kanem-bornu",
+      "startYear": 700,
+      "endYear": 1380,
+      "culturalSphere": "african",
+      "color": "#664400",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Kanem-Bornu-Reich",
+        "en": "Kanem-Bornu Empire"
+      },
+      "description": {
+        "de": "Das Kanem-Bornu-Reich entstand um 700 n. Chr. nordöstlich des Tschadsees und entwickelte sich zu einer der bedeutendsten Mächte des zentralen Sudan. Von ihrem Zentrum im Kanem aus kontrollierten die Herrscher der Duguwa- und später der Sayfawa-Dynastie wichtige Sahara-Handelsrouten zwischen Nordafrika und subsaharischen Gebieten. Das Reich pflegte diplomatische Beziehungen bis nach Nordafrika und leistete als frühes islamisches Königreich bedeutende Beiträge zu Bildung und Verwaltung.",
+        "en": "The Kanem-Bornu Empire arose around 700 CE northeast of Lake Chad and grew into one of the most significant powers of the central Sudan. From their heartland in Kanem, the Duguwa and later Sayfawa dynasty rulers controlled vital Saharan trade routes linking North Africa to sub-Saharan regions. The empire maintained diplomatic relations as far as North Africa and, as an early Islamic kingdom, made significant contributions to education and governance."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [27.0, -22.0],
+          [35.0, -22.0],
+          [35.0, -15.0],
+          [27.0, -15.0],
+          [27.0, -22.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "great-zimbabwe",
+      "startYear": 1100,
+      "endYear": 1420,
+      "culturalSphere": "african",
+      "color": "#664400",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Königreich Simbabwe",
+        "en": "Kingdom of Great Zimbabwe"
+      },
+      "description": {
+        "de": "Das Königreich Simbabwe war ein Shona-Königreich auf dem Simbabwe-Hochplateau, benannt nach seinen beeindruckenden Steinbauten – dem Great Zimbabwe, dem größten prä-kolonialen Bauwerk südlich der Sahara. Als Zentrum des Goldhandels zwischen dem Landesinneren und der Küste Mosambiks kontrollierte das Königreich ein Netzwerk von über 150 kleineren Zimbabwes. Die Architektur ohne Mörtel und die komplexe Stadtplanung zeugen von hoher handwerklicher und politischer Organisation.",
+        "en": "The Kingdom of Great Zimbabwe was a Shona kingdom on the Zimbabwe plateau, named for its impressive stone structures — Great Zimbabwe being the largest pre-colonial construction south of the Sahara. As a hub of the gold trade between the interior and the Mozambique coast, the kingdom controlled a network of over 150 smaller zimbabwes. Its mortarless architecture and complex urban planning reflect high levels of craft expertise and political organization."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-5.0, 12.0],
+          [4.0, 12.0],
+          [4.0, 18.0],
+          [-5.0, 18.0],
+          [-5.0, 12.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "songhai-early",
+      "startYear": 800,
+      "endYear": 1375,
+      "culturalSphere": "african",
+      "color": "#664400",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Songhai-Königreich (Frühphase)",
+        "en": "Songhai Kingdom (Early Period)"
+      },
+      "description": {
+        "de": "Das frühe Songhai-Königreich entstand um 800 n. Chr. am mittleren Niger-Fluss, wo die Sorko-, Gao- und Do-Völker Siedlungen am Fluss gründeten. Ihr Zentrum Gao entwickelte sich zu einem bedeutenden Handels- und Kulturknoten. Trotz zeitweiliger Abhängigkeit vom Mali-Reich bewahrten die Songhai ihre eigene Herrschaftsstruktur und erlangten 1375 unter Suleiman-Mar ihre Unabhängigkeit – die Grundlage für ihr späteres Reich.",
+        "en": "The early Songhai kingdom emerged around 800 CE along the middle Niger River, where the Sorko, Gao, and Do peoples established riverine settlements. Their center Gao grew into an important commercial and cultural hub. Despite periods of vassalage to the Mali Empire, the Songhai maintained their own ruling structure and regained independence under Suleiman-Mar in 1375 — the foundation for their later empire."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [3.0, 4.5],
+          [7.0, 4.5],
+          [7.0, 8.0],
+          [3.0, 8.0],
+          [3.0, 4.5]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "kingdom-of-benin",
+      "startYear": 1180,
+      "endYear": 1897,
+      "culturalSphere": "african",
+      "color": "#664400",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Königreich Benin",
+        "en": "Kingdom of Benin"
+      },
+      "description": {
+        "de": "Das Königreich Benin, auch Edo-Königreich genannt, entstand im heutigen Süd-Nigeria und wurde von den Oba (Königen) der Benin-Dynastie regiert. Berühmt für seine außergewöhnlichen Bronzegüsse und Elfenbeinschnitzereien, pflegte Benin ein hochentwickeltes Hofleben, weitreichende Handelskontakte bis nach Portugal und einen komplexen Verwaltungsapparat. Die Kunst der Benin-Bronzen gilt als Höhepunkt westafrikanischer Metallbearbeitung und bezeugt die kulturelle Raffinesse dieses Reiches.",
+        "en": "The Kingdom of Benin, also known as the Edo Kingdom, emerged in present-day southern Nigeria and was ruled by the Oba (kings) of the Benin dynasty. Famous for its extraordinary bronze castings and ivory carvings, Benin maintained a sophisticated court life, wide-ranging trade contacts as far as Portugal, and a complex administrative apparatus. The art of the Benin bronzes stands as a pinnacle of West African metalwork and testifies to the kingdom's cultural refinement."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [76.0, 8.0],
+          [82.0, 8.0],
+          [82.0, 17.0],
+          [76.0, 17.0],
+          [76.0, 8.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "chola-empire",
+      "startYear": 300,
+      "endYear": 1279,
+      "peakStartYear": 850,
+      "peakEndYear": 1279,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Chola-Reich",
+        "en": "Chola Empire"
+      },
+      "description": {
+        "de": "Das Chola-Reich war eines der langlebigsten Dynastien der Weltgeschichte und beherrschte Teile Südindiens über fast zwei Jahrtausende. Auf ihrem Höhepunkt im 10.–12. Jahrhundert kontrollierten die Chola den gesamten tamilischen Süden, Sri Lanka und den Malediven und sandten sogar Kriegsflotten nach Südostasien. Sie schufen eine blühende Tempel-Baukunst, perfektionierten das Bronzegießen (die berühmten Nataraja-Statuen) und entwickelten ein ausgeklügeltes System der kommunalen Selbstverwaltung.",
+        "en": "The Chola Empire was one of the longest-lasting dynasties in world history, ruling parts of South India for nearly two millennia. At their peak in the 10th–12th centuries, the Cholas controlled all of Tamil South India, Sri Lanka, and the Maldives and even dispatched naval expeditions to Southeast Asia. They created a flourishing tradition of temple architecture, perfected bronze casting (the famous Nataraja statues), and developed a sophisticated system of communal self-governance."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [85.0, 22.0],
+          [92.0, 22.0],
+          [92.0, 27.0],
+          [85.0, 27.0],
+          [85.0, 22.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "pala-empire",
+      "startYear": 750,
+      "endYear": 1174,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Pala-Reich",
+        "en": "Pala Empire"
+      },
+      "description": {
+        "de": "Das Pala-Reich, gegründet 750 n. Chr. in Bengalen und Bihar, war die letzte große buddhistische Kaisermacht des indischen Subkontinents. Unter Dharmapala und Devapala erlangte das Reich Vorherrschaft über weite Teile Nordindiens. Die Pala-Herrscher förderten die großen buddhistischen Universitäten Nalanda und Vikramashila und trieben durch Handels- und diplomatische Beziehungen die Verbreitung des tantrischen Buddhismus bis nach Tibet und Südostasien voran.",
+        "en": "The Pala Empire, founded in 750 CE in Bengal and Bihar, was the last great Buddhist imperial power of the Indian subcontinent. Under Dharmapala and Devapala, the empire achieved dominance over large parts of northern India. Pala rulers patronized the great Buddhist universities of Nalanda and Vikramashila and, through trade and diplomatic relations, drove the spread of Tantric Buddhism as far as Tibet and Southeast Asia."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [74.0, 14.0],
+          [82.0, 14.0],
+          [82.0, 22.0],
+          [74.0, 22.0],
+          [74.0, 14.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "chalukya-dynasty",
+      "startYear": 543,
+      "endYear": 1189,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Chalukya-Dynastie",
+        "en": "Chalukya Dynasty"
+      },
+      "description": {
+        "de": "Die Chalukya-Dynastie herrschte in drei Zweigen über das Dekkan-Plateau und prägte über sechs Jahrhunderte die Geschichte Südindiens. Die Badami-Chalukyas (543–753) vereinten weite Teile des Dekkan, die Eastern Chalukyas (624–1070) dominierten das östliche Andhra Pradesh, und die Western Chalukyas (973–1189) kämpften auf Augenhöhe mit den Chola. Architektonische Meisterwerke in Badami, Aihole und Pattadakal bezeugen ihre herausragende Tempelbaukunst.",
+        "en": "The Chalukya dynasty ruled the Deccan plateau across three branches, shaping South Indian history for over six centuries. The Badami Chalukyas (543–753) unified large parts of the Deccan, the Eastern Chalukyas (624–1070) dominated eastern Andhra Pradesh, and the Western Chalukyas (973–1189) contended as equals with the Cholas. Architectural masterworks at Badami, Aihole, and Pattadakal attest to their outstanding tradition of temple construction."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [73.0, 10.0],
+          [82.0, 10.0],
+          [82.0, 17.0],
+          [73.0, 17.0],
+          [73.0, 10.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "vijayanagara-empire",
+      "startYear": 1336,
+      "endYear": 1646,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Vijayanagara-Reich",
+        "en": "Vijayanagara Empire"
+      },
+      "description": {
+        "de": "Das Vijayanagara-Reich war die bedeutendste hinduistische Großmacht des späten mittelalterlichen Südindiens. Mit seiner Hauptstadt Vijayanagara (dem heutigen Hampi) als prachtvollem Zentrum schützte es die dravidische Kultur und Hindu-Tempel gegen die Expansion der Dekkan-Sultanate. Unter Krishnadevaraya (reg. 1509–1529) erlebte das Reich seinen Höhepunkt: Gelehrsamkeit, Tempel-Architektur, Handel und Diplomatie blühten auf und machten Vijayanagara zu einem der reichsten Städte der damaligen Welt.",
+        "en": "The Vijayanagara Empire was the preeminent Hindu power of late medieval South India. With its capital Vijayanagara (modern Hampi) as a magnificent center, it protected Dravidian culture and Hindu temples against the expansion of the Deccan sultanates. Under Krishnadevaraya (r. 1509–1529), the empire reached its zenith: scholarship, temple architecture, trade, and diplomacy flourished, making Vijayanagara one of the wealthiest cities in the contemporary world."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [69.0, 22.0],
+          [80.0, 22.0],
+          [80.0, 30.0],
+          [69.0, 30.0],
+          [69.0, 22.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "rajput-kingdoms",
+      "startYear": 700,
+      "endYear": 1200,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Rajputen-Königreiche",
+        "en": "Rajput Kingdoms"
+      },
+      "description": {
+        "de": "Die Rajputen-Königreiche dominierten von etwa 700 bis 1200 n. Chr. den nordwestlichen indischen Subkontinent, insbesondere die Region des heutigen Rajasthan, Gujarat, Haryana und Madhya Pradesh. Als kriegerischer Adel mit starkem Ehrenkodex schufen die Pratihara, Paramara, Chauhan und andere Dynastien bedeutende Tempel, Festungen und Literaturtradition. Ihr Widerstand gegen arabische und turkische Invasoren prägte Jahrhunderte des indischen Mittelalters.",
+        "en": "The Rajput Kingdoms dominated the northwestern Indian subcontinent from around 700 to 1200 CE, particularly the region of present-day Rajasthan, Gujarat, Haryana, and Madhya Pradesh. As a martial aristocracy with a strong honor code, the Pratihara, Paramara, Chauhan, and other dynasties created significant temples, fortresses, and literary traditions. Their resistance against Arab and Turkic invaders shaped centuries of Indian medieval history."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [85.0, 21.0],
+          [93.0, 21.0],
+          [93.0, 27.0],
+          [85.0, 27.0],
+          [85.0, 21.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "bengal-sultanate",
+      "parentId": "delhi-sultanate",
+      "startYear": 1352,
+      "endYear": 1576,
+      "culturalSphere": "indian",
+      "color": "#3344AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Bengalen-Sultanat",
+        "en": "Bengal Sultanate"
+      },
+      "description": {
+        "de": "Das Bengalen-Sultanat war ein unabhängiges muslimisches Sultanat in der Bengal-Region des östlichen Indiens und des heutigen Bangladeschs. Nach dem Losreißen vom Delhi-Sultanat 1352 entwickelte es eine eigenständige persisch-bengalische Kultur. Bengalische Sprache und Literatur erlebten eine Blütezeit, und das Sultanat wurde zum Zentrum des maritimen Handels am Golf von Bengalen, mit Verbindungen nach Ostafrika, Arabien und Südostasien.",
+        "en": "The Bengal Sultanate was an independent Muslim sultanate in the Bengal region of eastern India and present-day Bangladesh. Having broken from the Delhi Sultanate in 1352, it developed a distinctive Perso-Bengali culture. The Bengali language and literature flourished, and the sultanate became a hub of maritime trade in the Bay of Bengal, with connections to East Africa, Arabia, and Southeast Asia."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [73.0, 15.0],
+          [80.0, 15.0],
+          [80.0, 21.0],
+          [73.0, 21.0],
+          [73.0, 15.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "bahmani-sultanate",
+      "parentId": "delhi-sultanate",
+      "startYear": 1347,
+      "endYear": 1527,
+      "culturalSphere": "indian",
+      "color": "#3344AA",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Bahmani-Sultanat",
+        "en": "Bahmani Sultanate"
+      },
+      "description": {
+        "de": "Das Bahmani-Sultanat war das erste unabhängige islamische Sultanat im Dekkan und entstand 1347 durch eine Revolte gegen das Delhi-Sultanat. Von Gulbarga und später Bidar aus herrschte es über den zentralen Dekkan zwischen Narmada und Krishna. Es entwickelte eine reiche Perso-Dakhinische Kultur, förderte Architektur im indo-islamischen Stil und war in ständiger Rivalität mit dem Vijayanagara-Reich — ein Gleichgewicht, das die mittelalterliche südindische Geschichte maßgeblich formte.",
+        "en": "The Bahmani Sultanate was the first independent Islamic sultanate of the Deccan, emerging in 1347 through revolt against the Delhi Sultanate. Ruling from Gulbarga and later Bidar, it controlled the central Deccan between the Narmada and Krishna rivers. It developed a rich Perso-Dakhini culture, patronized Indo-Islamic architecture, and maintained a constant rivalry with the Vijayanagara Empire — a balance of power that decisively shaped medieval South Indian history."
+      }
+    }
+  }
+]

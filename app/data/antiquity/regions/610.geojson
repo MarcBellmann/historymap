@@ -226,6 +226,52 @@
           "en": "The Byzantine Empire was the continuation of the Eastern Roman Empire and preserved for over a thousand years the tradition of Greek learning, Roman law, and Christian faith. Constantinople was for centuries the largest and wealthiest city in the Christian world and an unrivaled center of art, theology, and diplomacy. The empire shaped the cultures of Eastern Europe, the Balkans, and the Near East and left a legacy that extends far beyond its fall in 1453."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74,
+              14
+            ],
+            [
+              82,
+              14
+            ],
+            [
+              82,
+              22
+            ],
+            [
+              74,
+              22
+            ],
+            [
+              74,
+              14
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "chalukya-dynasty",
+        "startYear": 543,
+        "endYear": 1189,
+        "culturalSphere": "indian",
+        "color": "#228844",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Chalukya-Dynastie",
+          "en": "Chalukya Dynasty"
+        },
+        "description": {
+          "de": "Die Chalukya-Dynastie herrschte in drei Zweigen über das Dekkan-Plateau und prägte über sechs Jahrhunderte die Geschichte Südindiens. Die Badami-Chalukyas (543–753) vereinten weite Teile des Dekkan, die Eastern Chalukyas (624–1070) dominierten das östliche Andhra Pradesh, und die Western Chalukyas (973–1189) kämpften auf Augenhöhe mit den Chola. Architektonische Meisterwerke in Badami, Aihole und Pattadakal bezeugen ihre herausragende Tempelbaukunst.",
+          "en": "The Chalukya dynasty ruled the Deccan plateau across three branches, shaping South Indian history for over six centuries. The Badami Chalukyas (543–753) unified large parts of the Deccan, the Eastern Chalukyas (624–1070) dominated eastern Andhra Pradesh, and the Western Chalukyas (973–1189) contended as equals with the Cholas. Architectural masterworks at Badami, Aihole, and Pattadakal attest to their outstanding tradition of temple construction."
+        }
+      }
     }
   ]
 }

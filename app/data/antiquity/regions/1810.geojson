@@ -198,6 +198,288 @@
           "en": "The Tokugawa Shogunate, through the deliberate isolation of Japan from the outside world (Sakoku), created a unique flourishing of Japanese domestic culture. Theater, woodblock printing (Ukiyo-e), haiku poetry, and the tea ceremony reached their classical perfection. The Edo period was an era of remarkable political stability, economic growth, and urban civilization — Edo (Tokyo) grew into the largest city in the world."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8,
+              54.5
+            ],
+            [
+              15,
+              54.5
+            ],
+            [
+              15.5,
+              57.5
+            ],
+            [
+              12.5,
+              57.5
+            ],
+            [
+              10.5,
+              58
+            ],
+            [
+              8.5,
+              57
+            ],
+            [
+              8,
+              55.5
+            ],
+            [
+              8,
+              54.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-denmark",
+        "startYear": 936,
+        "endYear": 1814,
+        "culturalSphere": "norse",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Dänemark",
+          "en": "Kingdom of Denmark"
+        },
+        "description": {
+          "de": "Das Königreich Dänemark gehört zu den ältesten Monarchien Europas und entstand im 10. Jahrhundert unter Harald Blauzahn, der das Land auch christianisierte. Als Herzstück des Nordseeraums kontrollierte Dänemark wichtige Handelswege und bildete zeitweise ein Nordisches Großreich. Die Wikingertradition lebte in dänischer Seefahrt, Handel und Staatsgründungen fort. Im Mittelalter war Dänemark eine der mächtigsten Mächte Nordeuropas, mit Einfluss über Teile Englands, Norwegens und des Ostseeraums.",
+          "en": "The Kingdom of Denmark is one of Europe's oldest monarchies, emerging in the 10th century under Harald Bluetooth, who also Christianized the country. As the heart of the North Sea region, Denmark controlled important trade routes and at times formed a Nordic great empire. The Viking tradition lived on in Danish seafaring, trade, and state formation. In the medieval period Denmark was one of the most powerful forces in Northern Europe, with influence over parts of England, Norway, and the Baltic region."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.5,
+              57.5
+            ],
+            [
+              14,
+              58
+            ],
+            [
+              16,
+              61
+            ],
+            [
+              14,
+              65
+            ],
+            [
+              10,
+              63.5
+            ],
+            [
+              5,
+              62
+            ],
+            [
+              4.5,
+              59
+            ],
+            [
+              4.5,
+              57.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-norway",
+        "startYear": 872,
+        "endYear": 1814,
+        "culturalSphere": "norse",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Norwegen",
+          "en": "Kingdom of Norway"
+        },
+        "description": {
+          "de": "Das Königreich Norwegen wurde 872 von Harald Schönhaar nach der Schlacht im Hafrsfjord als erstes vereintes norwegisches Königreich gegründet. Die Norweger waren führend in der wikingerzeitlichen Expansion und gründeten Siedlungen auf Island, Grönland und in Nordamerika. Unter Olav II. (dem Heiligen) wurde die Christianisierung abgeschlossen. Norwegen entwickelte eine eigenständige Rechts- und Verwaltungstradition, die im Lagting, einer frühen Form der Volksversammlung, ihren Ausdruck fand.",
+          "en": "The Kingdom of Norway was founded in 872 by Harald Fairhair after the Battle of Hafrsfjord as the first united Norwegian kingdom. The Norwegians were leaders in Viking-age expansion, founding settlements in Iceland, Greenland, and North America. Under Olav II (the Holy), Christianization was completed. Norway developed a distinctive legal and administrative tradition expressed in the Lagting, an early form of popular assembly."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11,
+              55.5
+            ],
+            [
+              19,
+              55.5
+            ],
+            [
+              24,
+              57.5
+            ],
+            [
+              24,
+              62
+            ],
+            [
+              20,
+              65
+            ],
+            [
+              15,
+              65.5
+            ],
+            [
+              12,
+              63
+            ],
+            [
+              11,
+              59.5
+            ],
+            [
+              11,
+              55.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-sweden",
+        "startYear": 970,
+        "endYear": 1905,
+        "culturalSphere": "norse",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Schweden",
+          "en": "Kingdom of Sweden"
+        },
+        "description": {
+          "de": "Das Königreich Schweden entwickelte sich im späten 10. Jahrhundert unter dem Einfluss der Christianisierung zu einer stabilen Monarchie. Die Schweden, auch als Waräger bekannt, spielten eine entscheidende Rolle beim Aufbau der Handelswege entlang der osteuropäischen Flüsse bis nach Konstantinopel und Bagdad. Im Hochmittelalter bauten schwedische Herrscher eine effiziente Zentralverwaltung auf, die Schweden zu einem starken Königreich Nordeuropas formte. Die reiche Bergbau- und Handelstradition legte den Grundstein für spätere Großmachtstellung.",
+          "en": "The Kingdom of Sweden developed into a stable monarchy in the late 10th century under the influence of Christianization. The Swedes, also known as Varangians, played a decisive role in establishing trade routes along the rivers of Eastern Europe to Constantinople and Baghdad. In the high medieval period Swedish rulers built an efficient central administration that formed Sweden into a strong kingdom of Northern Europe. The rich mining and trading tradition laid the groundwork for later great power status."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16,
+              45.5
+            ],
+            [
+              22.5,
+              44.5
+            ],
+            [
+              26,
+              46
+            ],
+            [
+              25.5,
+              48.5
+            ],
+            [
+              22,
+              49.5
+            ],
+            [
+              18,
+              49.5
+            ],
+            [
+              16.5,
+              48
+            ],
+            [
+              16,
+              45.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-hungary",
+        "startYear": 1000,
+        "endYear": 1918,
+        "culturalSphere": "hungarian",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Ungarn",
+          "en": "Kingdom of Hungary"
+        },
+        "description": {
+          "de": "Das Königreich Ungarn wurde 1000/1001 durch die Krönung Stephans I. (des Heiligen) gegründet und integrierte das magyarische Volk vollständig in die lateinisch-christliche Welt Europas. Stephan schuf ein einheitliches Verwaltungssystem mit Grafschaften, förderte das Christentum und begründete eine Reihe von Klöstern und Bistümern. Ungarn entwickelte sich zu einem der mächtigsten Königreiche Mitteleuropas und bildete über Jahrhunderte hinweg eine wichtige Schutzwall gegen östliche Invasionen. Die Goldene Bulle von 1222 sicherte Adelsrechte und gilt als ungarisches Pendant zur Magna Carta.",
+          "en": "The Kingdom of Hungary was founded in 1000/1001 with the coronation of Stephen I (the Holy) and fully integrated the Magyar people into the Latin-Christian world of Europe. Stephen created a unified administrative system of counties, promoted Christianity, and established a series of monasteries and bishoprics. Hungary developed into one of the most powerful kingdoms of Central Europe and for centuries formed an important bulwark against eastern invasions. The Golden Bull of 1222 secured noble rights and is considered Hungary's equivalent of Magna Carta."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3,
+              4.5
+            ],
+            [
+              7,
+              4.5
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              3,
+              8
+            ],
+            [
+              3,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-benin",
+        "startYear": 1180,
+        "endYear": 1897,
+        "culturalSphere": "african",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Benin",
+          "en": "Kingdom of Benin"
+        },
+        "description": {
+          "de": "Das Königreich Benin, auch Edo-Königreich genannt, entstand im heutigen Süd-Nigeria und wurde von den Oba (Königen) der Benin-Dynastie regiert. Berühmt für seine außergewöhnlichen Bronzegüsse und Elfenbeinschnitzereien, pflegte Benin ein hochentwickeltes Hofleben, weitreichende Handelskontakte bis nach Portugal und einen komplexen Verwaltungsapparat. Die Kunst der Benin-Bronzen gilt als Höhepunkt westafrikanischer Metallbearbeitung und bezeugt die kulturelle Raffinesse dieses Reiches.",
+          "en": "The Kingdom of Benin, also known as the Edo Kingdom, emerged in present-day southern Nigeria and was ruled by the Oba (kings) of the Benin dynasty. Famous for its extraordinary bronze castings and ivory carvings, Benin maintained a sophisticated court life, wide-ranging trade contacts as far as Portugal, and a complex administrative apparatus. The art of the Benin bronzes stands as a pinnacle of West African metalwork and testifies to the kingdom's cultural refinement."
+        }
+      }
     }
   ]
 }

@@ -1,0 +1,652 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [102.0, 10.0],
+          [108.0, 10.0],
+          [108.5, 11.0],
+          [107.5, 14.0],
+          [106.0, 18.0],
+          [103.5, 18.5],
+          [100.0, 18.5],
+          [99.5, 16.0],
+          [100.0, 13.5],
+          [101.5, 12.0],
+          [102.0, 10.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "khmer-empire",
+      "startYear": 802,
+      "endYear": 1431,
+      "peakStartYear": 1000,
+      "peakEndYear": 1220,
+      "culturalSphere": "southeast-asian",
+      "color": "#AA6622",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Khmer-Reich",
+        "en": "Khmer Empire"
+      },
+      "description": {
+        "de": "Das Khmer-Reich war eine der bedeutendsten Zivilisationen Südostasiens. Von seiner Hauptstadt Angkor aus beherrschte es weite Teile des heutigen Kambodscha, Thailand, Laos und Vietnams. Die monumentalen Tempelkomplexe — insbesondere Angkor Wat und Angkor Thom — zeugen von einer hochentwickelten Hydraulikarchitektur, die Hunderttausende von Einwohnern versorgte. Die Khmer entwickelten ein ausgereiftes Verwaltungssystem, eine reiche Sanskrit-Literatur und eine Kunst, die indigene Traditionen mit indischen Einflüssen zu einem einzigartigen Stil verschmolz.",
+        "en": "The Khmer Empire was one of the most significant civilizations of Southeast Asia. Ruling from its capital of Angkor, it dominated much of modern Cambodia, Thailand, Laos, and Vietnam. Its monumental temple complexes — above all Angkor Wat and Angkor Thom — testify to a sophisticated hydraulic architecture that sustained hundreds of thousands of inhabitants. The Khmer developed an elaborate administrative system, a rich Sanskrit literary tradition, and an art that fused indigenous practices with Indian influences into a uniquely Khmer style."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [99.0, 0.0],
+          [116.0, 0.0],
+          [116.0, 6.0],
+          [104.0, 6.5],
+          [102.5, 4.0],
+          [99.5, 4.5],
+          [99.0, 2.0],
+          [99.0, 0.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "srivijaya-empire",
+      "startYear": 650,
+      "endYear": 1377,
+      "peakStartYear": 700,
+      "peakEndYear": 1100,
+      "culturalSphere": "southeast-asian",
+      "color": "#AA6622",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Srivijaya-Reich",
+        "en": "Srivijaya Empire"
+      },
+      "description": {
+        "de": "Srivijaya war eine maritime Handelsmacht mit Zentrum auf Sumatra, die über sechs Jahrhunderte die Meerenge von Malakka und den Seehandel zwischen Indien, China und dem Nahen Osten kontrollierte. Als bedeutendes Zentrum des Mahayana-Buddhismus lockte seine Hauptstadt Palembang buddhistische Pilger und Gelehrte aus ganz Asien an. Die Seemacht Srivijayas beruhte weniger auf Territorialherrschaft als auf dem Netzwerk von Häfen und Handelsposten, das den Gewürzhandel und die Schifffahrtsrouten prägte.",
+        "en": "Srivijaya was a maritime trading power centered on Sumatra that controlled the Strait of Malacca and the sea trade between India, China, and the Middle East for over six centuries. As a major center of Mahayana Buddhism, its capital Palembang attracted Buddhist pilgrims and scholars from across Asia. Srivijaya's sea power rested less on territorial dominion than on a network of ports and trading posts that shaped the spice trade and maritime routes."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [106.0, -9.0],
+          [115.5, -9.0],
+          [115.5, -6.5],
+          [113.0, -6.5],
+          [111.0, -7.0],
+          [108.0, -6.5],
+          [106.5, -6.5],
+          [106.0, -7.5],
+          [106.0, -9.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "majapahit-empire",
+      "startYear": 1293,
+      "endYear": 1527,
+      "peakStartYear": 1350,
+      "peakEndYear": 1400,
+      "culturalSphere": "southeast-asian",
+      "color": "#AA6622",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Majapahit-Reich",
+        "en": "Majapahit Empire"
+      },
+      "description": {
+        "de": "Das Majapahit-Reich war das letzte große Hindu-buddhistisches Kaiserreich in Südostasien und erstreckte sich auf seinem Höhepunkt von Java über weite Teile des heutigen Indonesiens, Malaysias und darüber hinaus. Unter dem legendären Staatsmann Gajah Mada und König Hayam Wuruk erlebte das Reich eine Blütezeit der javanischen Literatur, Kunst und Architektur. Die Nagarakretagama, ein episches Gedicht aus dieser Periode, beschreibt ein Reich von 98 Vasallenstaaten. Majapahit gilt als Kulminationspunkt der klassischen javanischen Zivilisation.",
+        "en": "The Majapahit Empire was the last great Hindu-Buddhist empire in Southeast Asia, extending at its peak from Java across much of modern Indonesia, Malaysia, and beyond. Under the legendary statesman Gajah Mada and King Hayam Wuruk, the empire experienced a golden age of Javanese literature, art, and architecture. The Nagarakretagama, an epic poem from this period, describes a realm of 98 vassal states. Majapahit is regarded as the culmination of classical Javanese civilization."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [92.0, 14.0],
+          [101.0, 14.0],
+          [101.5, 16.0],
+          [100.5, 20.0],
+          [99.0, 22.5],
+          [97.5, 24.0],
+          [96.0, 25.5],
+          [94.0, 25.0],
+          [92.5, 22.0],
+          [92.0, 18.0],
+          [92.0, 14.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "pagan-kingdom",
+      "startYear": 849,
+      "endYear": 1297,
+      "peakStartYear": 1050,
+      "peakEndYear": 1200,
+      "culturalSphere": "southeast-asian",
+      "color": "#AA6622",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Königreich Pagan",
+        "en": "Pagan Kingdom"
+      },
+      "description": {
+        "de": "Das Königreich Pagan vereinte erstmals das Territorium des heutigen Myanmar unter einer zentralen Herrschaft. Unter König Anawrahta im 11. Jahrhundert wurde der Theravada-Buddhismus als Staatsreligion eingeführt, was zu einer unvergleichlichen Blüte der Tempelarchitektur führte: Über 10.000 buddhistische Pagoden, Klöster und Tempel wurden auf den Ebenen von Bagan errichtet. Diese architektonische Hinterlassenschaft macht Pagan zu einem der bedeutendsten archäologischen Stätten Südostasiens und Zeugen einer eigenständigen birmanischen Identität.",
+        "en": "The Pagan Kingdom united the territory of modern Myanmar under central authority for the first time. Under King Anawrahta in the 11th century, Theravada Buddhism was adopted as the state religion, leading to an unparalleled flowering of temple architecture: over 10,000 Buddhist pagodas, monasteries, and temples were built on the plains of Bagan. This architectural legacy makes Pagan one of the most significant archaeological sites in Southeast Asia and a witness to a distinct Burmese identity."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [125.0, 33.5],
+          [130.5, 33.5],
+          [130.5, 38.5],
+          [129.5, 39.0],
+          [128.5, 40.0],
+          [127.5, 41.5],
+          [125.5, 42.5],
+          [124.5, 40.0],
+          [125.0, 37.5],
+          [125.0, 33.5]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "goryeo-kingdom",
+      "startYear": 918,
+      "endYear": 1392,
+      "culturalSphere": "korean",
+      "color": "#CC8899",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Königreich Goryeo",
+        "en": "Goryeo Kingdom"
+      },
+      "description": {
+        "de": "Das Königreich Goryeo vereinte die koreanische Halbinsel nach der Periode der Späten Drei Reiche und schuf eine nationale Identität, die bis heute nachwirkt — der Name 'Korea' leitet sich von Goryeo ab. Das Reich war ein Zentrum buddhistischer Gelehrsamkeit, mit der Goryeo-Tripitaka, einer monumentalen Sammlung buddhistischer Schriften auf 80.000 Holzblöcken, als herausragstem Zeugnis. Unter den Goryeo-Königen blühten Porzellankunst (Celadon), Buchdruckkunst und konfuzianisches Bildungswesen — trotz der verheerenden Mongoleninvasionen des 13. Jahrhunderts.",
+        "en": "The Goryeo Kingdom unified the Korean Peninsula following the Later Three Kingdoms period and forged a national identity whose legacy endures — the name 'Korea' itself derives from Goryeo. The kingdom was a center of Buddhist scholarship, exemplified by the Goryeo Tripitaka, a monumental collection of Buddhist scriptures carved on 80,000 woodblocks. Under Goryeo monarchs, celadon porcelain, movable type printing, and Confucian education flourished — despite the devastating Mongol invasions of the 13th century."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [129.5, 31.0],
+          [141.5, 31.0],
+          [145.0, 33.0],
+          [145.5, 36.0],
+          [141.0, 38.0],
+          [141.5, 40.5],
+          [141.0, 41.5],
+          [140.0, 42.5],
+          [141.0, 44.5],
+          [142.0, 45.5],
+          [141.5, 47.0],
+          [138.0, 48.0],
+          [135.5, 46.0],
+          [133.0, 44.0],
+          [132.0, 41.5],
+          [130.5, 40.0],
+          [130.0, 37.5],
+          [129.5, 34.0],
+          [129.5, 31.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "heian-japan",
+      "startYear": 794,
+      "endYear": 1185,
+      "culturalSphere": "japanese",
+      "color": "#CC8899",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Heian-Japan",
+        "en": "Heian Japan"
+      },
+      "description": {
+        "de": "Die Heian-Periode gilt als Goldenes Zeitalter der klassischen japanischen Kultur. Am Kaiserhof in Heian-kyō (dem heutigen Kyoto) entstanden die ersten großen Werke japanischer Literatur — Murasaki Shikibus 'Genji Monogatari', das älteste Vollroman der Weltliteratur, und Sei Shōnagons 'Kopfkissenbuch'. Die höfische Ästhetik mono no aware — das Bewusstsein der flüchtigen Schönheit der Dinge — prägte Kunst, Kalligraphie und Poesie und wirkt bis in die gegenwärtige japanische Kultur fort.",
+        "en": "The Heian Period is regarded as the golden age of classical Japanese culture. At the imperial court in Heian-kyō (present-day Kyoto), the first great works of Japanese literature were created — Murasaki Shikibu's Tale of Genji, the world's oldest surviving full novel, and Sei Shōnagon's Pillow Book. The courtly aesthetic of mono no aware — an awareness of the transient beauty of things — permeated art, calligraphy, and poetry, and continues to resonate in contemporary Japanese culture."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [129.5, 31.0],
+          [141.5, 31.0],
+          [145.0, 33.0],
+          [145.5, 36.0],
+          [141.0, 38.0],
+          [141.5, 40.5],
+          [141.0, 41.5],
+          [140.0, 42.5],
+          [141.0, 44.5],
+          [142.0, 45.5],
+          [141.5, 47.0],
+          [138.0, 48.0],
+          [135.5, 46.0],
+          [133.0, 44.0],
+          [132.0, 41.5],
+          [130.5, 40.0],
+          [130.0, 37.5],
+          [129.5, 34.0],
+          [129.5, 31.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "kamakura-shogunate",
+      "startYear": 1185,
+      "endYear": 1333,
+      "culturalSphere": "japanese",
+      "color": "#CC8899",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Kamakura-Shogunat",
+        "en": "Kamakura Shogunate"
+      },
+      "description": {
+        "de": "Das Kamakura-Shogunat begründete die Ära der Kriegerherrschaft in Japan: Minamoto no Yoritomo schuf in Kamakura eine militärische Regierung (Bakufu), die neben dem Kaiserhof in Kyoto stand. Unter den Kamakura-Shoguns blühte eine eigenständige Kriegerkultur (Bushi) auf, geprägt von Zen-Buddhismus, Schwertkunst und dem frühen Ethos des Bushido. Das Shogunat wehrte erfolgreich zwei mongolische Invasionsversuche Kublai Khans (1274 und 1281) ab — ein Triumph, der den Mythos der 'Kamikaze' (Göttlicher Wind) begründete.",
+        "en": "The Kamakura Shogunate inaugurated the era of warrior rule in Japan: Minamoto no Yoritomo established a military government (Bakufu) in Kamakura that stood alongside the imperial court in Kyoto. Under the Kamakura shoguns, a distinct warrior culture (Bushi) flourished, characterized by Zen Buddhism, swordsmanship, and the early ethos of Bushido. The shogunate successfully repelled two Mongol invasion attempts by Kublai Khan (1274 and 1281) — a triumph that gave rise to the myth of the 'Kamikaze' (Divine Wind)."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [107.5, 11.0],
+          [110.0, 11.0],
+          [110.5, 12.5],
+          [109.5, 14.5],
+          [108.5, 16.5],
+          [107.5, 18.0],
+          [106.5, 18.0],
+          [106.0, 16.0],
+          [107.0, 14.0],
+          [107.5, 11.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "champa-kingdom",
+      "startYear": 192,
+      "endYear": 1832,
+      "peakStartYear": 800,
+      "peakEndYear": 1200,
+      "culturalSphere": "southeast-asian",
+      "color": "#AA6622",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Königreich Champa",
+        "en": "Champa Kingdom"
+      },
+      "description": {
+        "de": "Das Königreich Champa war eine der dauerhaftesten Zivilisationen Südostasiens und bestand über 1600 Jahre entlang der Küste des heutigen Zentralvietnam. Als seefahrendes Handelsvolk kontrollierten die Cham wichtige Handelswege und entwickelten eine einzigartige Kultur, die hinduistische und buddhistische Einflüsse aus Indien mit lokalen austronesischen Traditionen vereinte. Die Cham-Türme (Tháp Chàm) — ziegelgebaute Heiligtümer, die der Gottheit Shiva gewidmet sind — zählen zu den bedeutendsten architektonischen Denkmälern Südostasiens.",
+        "en": "The Champa Kingdom was one of the most enduring civilizations of Southeast Asia, existing for over 1,600 years along the coast of modern central Vietnam. As a seafaring trading people, the Cham controlled important trade routes and developed a unique culture that merged Hindu and Buddhist influences from India with local Austronesian traditions. The Cham towers (Tháp Chàm) — brick sanctuaries dedicated to the deity Shiva — rank among the most significant architectural monuments of Southeast Asia."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [111.0, 38.0],
+          [122.0, 38.0],
+          [125.0, 40.0],
+          [126.0, 42.0],
+          [124.0, 44.5],
+          [122.0, 47.0],
+          [119.0, 48.5],
+          [115.0, 49.0],
+          [112.0, 48.0],
+          [110.0, 46.0],
+          [110.0, 43.0],
+          [111.0, 41.0],
+          [111.0, 38.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "liao-dynasty",
+      "startYear": 916,
+      "endYear": 1125,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Liao-Dynastie",
+        "en": "Liao Dynasty"
+      },
+      "description": {
+        "de": "Die Liao-Dynastie der Khitan war eine der bedeutendsten nichtchinesischen Dynastien in der Geschichte Ostasiens. Das von den nomadischen Khitan-Stämmen gegründete Reich kombinierte geschickt chinesische Verwaltungsformen mit Khitan-Stammesorganisation und schuf damit ein duales System, das beiden Bevölkerungsgruppen gerecht wurde. Als Großmacht des nordöstlichen Asiens zwang die Liao-Dynastie die Song-Dynastie 1005 zum Vertrag von Shanyuan, der die Liao als gleichberechtigte Nachbarn anerkannte und regelmäßige Tributzahlungen vorsah — ein diplomatischer Triumph, der die Welt Ostasiens für ein Jahrhundert prägte.",
+        "en": "The Liao Dynasty of the Khitan was one of the most significant non-Chinese dynasties in East Asian history. Founded by the nomadic Khitan tribes, the empire skillfully combined Chinese administrative forms with Khitan tribal organization, creating a dual system that served both populations. As a major power of northeast Asia, the Liao Dynasty forced the Song Dynasty into the 1005 Treaty of Shanyuan, which recognized the Liao as equal neighbors and secured regular tribute payments — a diplomatic triumph that shaped East Asian geopolitics for a century."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [111.0, 32.0],
+          [122.0, 32.0],
+          [125.0, 35.0],
+          [125.0, 40.0],
+          [122.0, 38.0],
+          [119.0, 38.5],
+          [116.0, 40.0],
+          [114.0, 42.0],
+          [112.0, 43.0],
+          [111.0, 42.0],
+          [111.0, 38.0],
+          [111.0, 32.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "jurchen-jin-dynasty",
+      "startYear": 1115,
+      "endYear": 1234,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Jin-Dynastie (Jurchen)",
+        "en": "Jin Dynasty (Jurchen)"
+      },
+      "description": {
+        "de": "Die Jurchen-Jin-Dynastie war ein mächtiges Reich, das aus dem Aufstand des Jurchen-Volkes gegen die Khitan-Liao-Herrschaft entstand. Unter dem Gründer Aguda besiegten die Jurchen die Liao und zerstörten danach die Song-Kaiserstadt Kaifeng, was die Nordchina-Herrschaft begründete. Die Jin-Dynastie förderte eine blühende Kultur: Pekingoper, Porzellankunst und Konfuzianismus florierten, und die Jurchen adaptierten erfolgreich chinesische Verwaltungstradition für ein multiethnisches Reich mit eigenem Jurchen-Schriftsystem und eigener Identität.",
+        "en": "The Jurchen Jin Dynasty was a powerful empire born from the Jurchen people's revolt against Khitan Liao rule. Under founder Aguda, the Jurchen defeated the Liao and subsequently sacked the Song imperial capital Kaifeng, establishing dominion over northern China. The Jin Dynasty fostered a flourishing culture: Peking opera, porcelain art, and Confucianism thrived, and the Jurchen successfully adapted Chinese administrative tradition for a multiethnic empire with its own Jurchen script and distinct identity."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [97.0, 34.0],
+          [108.0, 34.0],
+          [108.0, 38.5],
+          [106.0, 39.5],
+          [103.5, 40.0],
+          [100.5, 40.5],
+          [97.5, 40.0],
+          [97.0, 38.0],
+          [97.0, 34.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "western-xia",
+      "startYear": 1038,
+      "endYear": 1227,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Westliches Xia (Xi Xia)",
+        "en": "Western Xia"
+      },
+      "description": {
+        "de": "Das Westliche Xia war ein Reich des Tangut-Volkes im Nordwesten Chinas, das den strategisch bedeutsamen Hexi-Korridor der Seidenstraße kontrollierte. Die Tangut entwickelten eine eigene Schrift — die Tangut-Schrift, eine der komplexesten Schriftsysteme Asiens — und eine eigenständige buddhistische Kultur, die Sanskrit- und tibetische Einflüsse mit chinesischen Traditionen verband. Das Reich pflegte erfolgreich seine Unabhängigkeit zwischen den mächtigen Nachbarn Song, Liao und Jin, bis es schließlich von den Mongolenarmeen Dschingis Khans vernichtet wurde.",
+        "en": "The Western Xia was a kingdom of the Tangut people in northwestern China that controlled the strategically vital Hexi Corridor of the Silk Road. The Tangut developed their own script — the Tangut script, one of the most complex writing systems in Asia — and a distinctive Buddhist culture that blended Sanskrit and Tibetan influences with Chinese traditions. The kingdom successfully maintained its independence between the powerful neighbors Song, Liao, and Jin, until it was ultimately destroyed by the Mongol armies of Genghis Khan."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [55.0, 35.0],
+          [80.0, 35.0],
+          [88.0, 40.0],
+          [88.0, 44.0],
+          [80.0, 46.0],
+          [72.0, 46.0],
+          [65.0, 46.0],
+          [58.0, 44.0],
+          [55.0, 40.0],
+          [55.0, 35.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "chagatai-khanate",
+      "parentId": "mongol-empire",
+      "startYear": 1226,
+      "endYear": 1347,
+      "culturalSphere": "mongol",
+      "color": "#886633",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Tschagatai-Khanat",
+        "en": "Chagatai Khanate"
+      },
+      "description": {
+        "de": "Das Tschagatai-Khanat war der Zentralasien-Teil des Mongolischen Weltreichs, benannt nach Dschingis Khans zweitältestem Sohn Chagatai. Es erstreckte sich über Transoxanien — das kulturelle Herzland des Islam zwischen Amu Darya und Syr Darya — sowie über das Tarim-Becken bis an die Grenzen Chinas. Das Khanat bildete eine Brücke zwischen der iranischen Zivilisation im Westen, der chinesischen Kultur im Osten und den Nomadenwelten der Steppe, und seine Herrschaft ermöglichte den freien Reiseverkehr auf der Seidenstraße in der Pax Mongolica.",
+        "en": "The Chagatai Khanate was the Central Asian portion of the Mongol Empire, named for Genghis Khan's second-eldest son Chagatai. It extended across Transoxiana — the Islamic cultural heartland between the Amu Darya and Syr Darya — and across the Tarim Basin to the borders of China. The khanate formed a bridge between Iranian civilization to the west, Chinese culture to the east, and the nomadic worlds of the steppe, and its rule enabled the free movement of travelers along the Silk Road during the Pax Mongolica."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [36.0, 28.0],
+          [65.0, 28.0],
+          [68.0, 33.0],
+          [65.0, 38.0],
+          [58.0, 40.0],
+          [54.0, 42.0],
+          [47.0, 42.0],
+          [44.0, 40.0],
+          [36.0, 36.0],
+          [34.0, 38.0],
+          [33.0, 36.5],
+          [36.0, 34.0],
+          [36.0, 28.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "ilkhanate",
+      "parentId": "mongol-empire",
+      "startYear": 1256,
+      "endYear": 1335,
+      "culturalSphere": "mongol",
+      "color": "#886633",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Ilchanat",
+        "en": "Ilkhanate"
+      },
+      "description": {
+        "de": "Das Ilchanat war der persisch-vorderasiatische Teilstaat des Mongolischen Weltreichs, gegründet von Hülegü Khan nach der Zerstörung Bagdads (1258). Unter mongoli\u00ADscher Herrschaft erlebten Persien, Irak, Armenien und Teile Anatoliens eine bemerkenswerte kulturelle Renaissance: Persische Malerei, Architektur und Historiographie blühten auf. Bedeutende Ilkhan-Herrscher wie Ghazan Khan (reg. 1295–1304) konvertierten zum Islam und förderten persische Kunst und Wissenschaft. Das Ilchanat vermittelte zwischen östlicher und westlicher Gelehrsamkeit und wurde zu einem Zentrum des Wissenstransfers.",
+        "en": "The Ilkhanate was the Persian-West Asian successor state of the Mongol Empire, founded by Hülegü Khan following the destruction of Baghdad (1258). Under Mongol rule, Persia, Iraq, Armenia, and parts of Anatolia experienced a remarkable cultural renaissance: Persian painting, architecture, and historiography flourished. Prominent Ilkhan rulers such as Ghazan Khan (r. 1295–1304) converted to Islam and patronized Persian art and science. The Ilkhanate mediated between Eastern and Western scholarship and became a center of knowledge transfer."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [73.0, 18.0],
+          [135.0, 18.0],
+          [135.0, 35.0],
+          [128.0, 42.0],
+          [122.0, 47.0],
+          [115.0, 49.0],
+          [105.0, 50.0],
+          [95.0, 49.0],
+          [88.0, 48.0],
+          [80.0, 48.0],
+          [76.0, 44.0],
+          [73.0, 40.0],
+          [73.0, 18.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "yuan-dynasty",
+      "parentId": "mongol-empire",
+      "startYear": 1271,
+      "endYear": 1368,
+      "culturalSphere": "mongol",
+      "color": "#886633",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Yuan-Dynastie",
+        "en": "Yuan Dynasty"
+      },
+      "description": {
+        "de": "Die Yuan-Dynastie war das chinesische Kaiserreich unter mongolischer Herrschaft, gegründet von Kublai Khan als dem Enkel Dschingis Khans. Sie war das erste nichtchinesische Kaiserhaus, das ganz China regierte, und schloss Tibet und die Mongolei in das Kaiserreich ein. Kublai Khans Hauptstadt Dadu (Peking) wurde unter der Pax Mongolica zu einem kosmopolitischen Zentrum des Welthandels, das Reisende wie Marco Polo anzog. Die Yuan-Zeit prägte Chinas Literatur, Theater, Malerei und Keramik nachhaltig und legte die Grundlagen für die kulturelle Synthese der Ming-Dynastieperiode.",
+        "en": "The Yuan Dynasty was the Chinese Empire under Mongol rule, founded by Kublai Khan, grandson of Genghis Khan. It was the first non-Chinese imperial house to rule all of China, incorporating Tibet and Mongolia into the empire. Kublai Khan's capital Dadu (Beijing) became a cosmopolitan center of world trade under the Pax Mongolica, attracting travelers such as Marco Polo. The Yuan period left a lasting imprint on Chinese literature, theater, painting, and ceramics, laying the groundwork for the cultural synthesis of the Ming Dynasty era."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [30.0, 42.0],
+          [80.0, 42.0],
+          [80.0, 55.0],
+          [70.0, 58.0],
+          [60.0, 60.0],
+          [50.0, 58.0],
+          [40.0, 55.0],
+          [32.0, 50.0],
+          [29.0, 46.0],
+          [30.0, 42.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "golden-horde",
+      "parentId": "mongol-empire",
+      "startYear": 1242,
+      "endYear": 1502,
+      "culturalSphere": "mongol",
+      "color": "#886633",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Goldene Horde",
+        "en": "Golden Horde"
+      },
+      "description": {
+        "de": "Die Goldene Horde war das westliche Khanat des Mongolischen Weltreichs und herrschte über weite Teile Osteuropas und der eurasischen Steppe. Gegründet von Batu Khan nach dem Feldzug nach Europa (1241–1242), kontrollierte sie das untere Wolgagebiet, die Schwarzmeersteppen und zwang russische Fürstentümer zur Tributzahlung. Die Horde konvertierte im frühen 14. Jahrhundert zum Islam unter Khan Özbeg und erlebte eine wirtschaftliche Blütezeit als Knotenpunkt des eurasischen Handels. Ihre Herrschaft prägte die politische und kulturelle Entwicklung Russlands und der Steppenregion für über zwei Jahrhunderte.",
+        "en": "The Golden Horde was the western khanate of the Mongol Empire, ruling over vast stretches of Eastern Europe and the Eurasian steppe. Founded by Batu Khan following the campaign into Europe (1241–1242), it controlled the lower Volga region, the Black Sea steppes, and compelled Russian principalities to pay tribute. The Horde converted to Islam in the early 14th century under Khan Özbeg and experienced an economic golden age as a hub of Eurasian trade. Its dominion shaped the political and cultural development of Russia and the steppe region for over two centuries."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [66.0, 35.0],
+          [90.0, 35.0],
+          [90.0, 44.0],
+          [80.0, 46.0],
+          [72.0, 43.0],
+          [66.0, 42.0],
+          [66.0, 35.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "anxi-protectorate",
+      "parentId": "tang-dynasty",
+      "startYear": 640,
+      "endYear": 790,
+      "culturalSphere": "chinese",
+      "color": "#CC7700",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Protektorat Anxi",
+        "en": "Anxi Protectorate"
+      },
+      "description": {
+        "de": "Das Protektorat Anxi (Schutzgeneralat zur Befriedung des Westens) war die westlichste Ausdehnung der Tang-Herrschaft in Zentralasien. Von seinen vier Garnisonen in Kucha, Khotan, Kashgar und Karashahr aus übte die Tang-Dynastie Einfluss auf das Tarim-Becken und die Seidenstraße aus. Der Tang-General Gao Xianzhi überquerte 1747 sogar den Pamir nach Sogdien. Das Protektorat war ein entscheidendes Instrument chinesischer Außenpolitik und sicherte den Handelsverkehr zwischen China und dem Westen — bis seine Garnisonen 790 den tibetischen Angriffen unterlagen.",
+        "en": "The Anxi Protectorate (Protectorate General to Pacify the West) was the westernmost extension of Tang rule into Central Asia. From its four garrisons at Kucha, Khotan, Kashgar, and Karashahr, the Tang Dynasty exercised influence over the Tarim Basin and the Silk Road. The Tang general Gao Xianzhi even crossed the Pamir mountains into Sogdia in 747. The protectorate was a crucial instrument of Chinese foreign policy, securing trade between China and the West — until its garrisons finally fell to Tibetan attacks in 790."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [120.0, 37.0],
+          [130.0, 37.0],
+          [130.5, 40.0],
+          [129.0, 42.0],
+          [126.0, 44.0],
+          [122.0, 44.0],
+          [120.0, 42.0],
+          [120.0, 37.0]
+        ]
+      ]
+    },
+    "properties": {
+      "id": "andong-protectorate",
+      "parentId": "tang-dynasty",
+      "startYear": 668,
+      "endYear": 756,
+      "culturalSphere": "chinese",
+      "color": "#CC7700",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Protektorat Andong",
+        "en": "Andong Protectorate"
+      },
+      "description": {
+        "de": "Das Protektorat Andong (Schutzgeneralat zur Befriedung des Ostens) wurde 668 in Pjöngjang gegründet, nachdem Tang-Truppen gemeinsam mit dem Königreich Silla das Königreich Goguryeo besiegt hatten. Es war der Versuch der Tang-Dynastie, die Koreanische Halbinsel und die Mandschurei in das chinesische Verwaltungssystem einzubinden. Das Protektorat bestand jedoch nur kurz: Der Widerstand Sillas und der Mohe-Stämme zwang die Tang, ihre Kontrolle auf die Liaodong-Halbinsel zurückzuziehen, und das Protektorat wurde 756 aufgelöst.",
+        "en": "The Andong Protectorate (Protectorate General to Pacify the East) was established in 668 in Pyongyang after Tang forces, together with the kingdom of Silla, defeated the kingdom of Goguryeo. It represented the Tang Dynasty's attempt to incorporate the Korean Peninsula and Manchuria into the Chinese administrative system. The protectorate proved short-lived, however: resistance from Silla and the Mohe tribes forced the Tang to withdraw control to the Liaodong Peninsula, and the protectorate was dissolved in 756."
+      }
+    }
+  }
+]

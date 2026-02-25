@@ -330,6 +330,868 @@
           "en": "The Tang Dynasty is considered the pinnacle of Chinese civilization. Chang'an, its capital, with over a million inhabitants was the largest and most cosmopolitan city in the world — a Silk Road hub where merchants, diplomats, and scholars from across the globe converged. Chinese poetry, art, music, and Buddhism flourished and radiated outward to Korea, Japan, and Vietnam. The Tang built a powerful empire stretching from Manchuria to Central Asia."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22,
+              41.5
+            ],
+            [
+              28.5,
+              41.5
+            ],
+            [
+              30,
+              43.5
+            ],
+            [
+              28,
+              46
+            ],
+            [
+              24,
+              45.5
+            ],
+            [
+              22.5,
+              44
+            ],
+            [
+              22,
+              41.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "first-bulgarian-empire",
+        "startYear": 681,
+        "endYear": 1018,
+        "culturalSphere": "slavic",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Erstes Bulgarisches Reich",
+          "en": "First Bulgarian Empire"
+        },
+        "description": {
+          "de": "Das Erste Bulgarische Reich, gegründet 681 durch Asparuh, war der erste dauerhaft anerkannte Staat auf dem Balkan und erlangte früh internationale Anerkennung durch Byzanz. Unter Boris I. wurde das Christentum zur Staatsreligion, und das Kyrillische Alphabet wurde hier entwickelt, was einen nachhaltigen kulturellen Einfluss auf alle slawischen Völker hatte. Simeon I. der Große führte das Reich zu seinem Höhepunkt und nannte sich Zar aller Bulgaren und Griechen. Die bulgarische Zivilisation dieser Zeit war eine der fortgeschrittensten in Europa.",
+          "en": "The First Bulgarian Empire, founded in 681 by Asparuh, was the first permanently recognized state on the Balkans and gained early international recognition from Byzantium. Under Boris I Christianity became the state religion, and the Cyrillic alphabet was developed here, creating lasting cultural influence on all Slavic peoples. Simeon I the Great led the empire to its zenith and called himself Tsar of all Bulgarians and Greeks. Bulgarian civilization of this period was among the most advanced in Europe."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              37.5
+            ],
+            [
+              36.5,
+              37
+            ],
+            [
+              38,
+              40
+            ],
+            [
+              36.5,
+              42.5
+            ],
+            [
+              30,
+              42.5
+            ],
+            [
+              26,
+              40
+            ],
+            [
+              26,
+              37.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "theme-of-anatolia",
+        "parentId": "byzantine-empire",
+        "startYear": 660,
+        "endYear": 1080,
+        "culturalSphere": "byzantine",
+        "color": "#AA2222",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Thema Anatolikon",
+          "en": "Theme of Anatolia"
+        },
+        "description": {
+          "de": "Das Thema Anatolikon war eines der ursprünglichsten und militärisch bedeutsamsten Themen des Byzantinischen Reiches, entstanden im 7. Jahrhundert als Antwort auf arabische Invasionen. Es bildete die zentrale Verteidigungszone Anatoliens und stellte die größten Kontingente der byzantinischen Feldarmee. Die stratiotischen Grundbesitzer des Themas bildeten den Kern der byzantinischen Kavallerie. Als wirtschaftlich fruchtbare Region war das Anatolikon zugleich Kornkammer und Rekrutierungsgebiet und für über vier Jahrhunderte der Rückgrat byzantinischer Militärmacht.",
+          "en": "The Theme of Anatolikon was one of the oldest and most militarily significant themes of the Byzantine Empire, created in the 7th century in response to Arab invasions. It formed the central defense zone of Anatolia and supplied the largest contingents of the Byzantine field army. The stratiotai landowners of the theme formed the core of Byzantine cavalry. As an economically fertile region, the Anatolikon was simultaneously granary and recruitment pool, and for over four centuries the backbone of Byzantine military power."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              40
+            ],
+            [
+              32,
+              40
+            ],
+            [
+              32,
+              42.5
+            ],
+            [
+              26,
+              42.5
+            ],
+            [
+              25.5,
+              41.5
+            ],
+            [
+              26,
+              40
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "theme-of-thrace",
+        "parentId": "byzantine-empire",
+        "startYear": 680,
+        "endYear": 1204,
+        "culturalSphere": "byzantine",
+        "color": "#AA2222",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Thema Thrakien",
+          "en": "Theme of Thrace"
+        },
+        "description": {
+          "de": "Das Thema Thrakien, eines der ältesten byzantinischen Themen, umfasste das unmittelbare Hinterland Konstantinopels und war damit die strategisch wichtigste Provinz des Reiches. Hier trafen die Landwege von Westeuropa und dem Balkan auf die Hauptstadt. Das Thema wurde wiederholt von Bulgaren, Hunnen und anderen Völkern bedroht und war Schauplatz zahlreicher entscheidender Schlachten der byzantinischen Geschichte. Seine Bevölkerung war multiethnisch und verband griechische, thrakische und slawische Einflüsse.",
+          "en": "The Theme of Thrace, one of the oldest Byzantine themes, encompassed the immediate hinterland of Constantinople and was thus the most strategically vital province of the empire. Here the land routes from Western Europe and the Balkans converged on the capital. The theme was repeatedly threatened by Bulgarians, Huns, and other peoples and was the scene of numerous decisive battles in Byzantine history. Its population was multiethnic, combining Greek, Thracian, and Slavic influences."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              37.5
+            ],
+            [
+              24.5,
+              37.5
+            ],
+            [
+              23.5,
+              41.5
+            ],
+            [
+              21,
+              42
+            ],
+            [
+              19.5,
+              40
+            ],
+            [
+              20,
+              37.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "theme-of-hellas",
+        "parentId": "byzantine-empire",
+        "startYear": 695,
+        "endYear": 1204,
+        "culturalSphere": "byzantine",
+        "color": "#AA2222",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Thema Hellas",
+          "en": "Theme of Hellas (Greece)"
+        },
+        "description": {
+          "de": "Das Thema Hellas umfasste den größten Teil des griechischen Festlandes und der Inseln und war das Kerngebiet griechischer Sprache und Kultur innerhalb des Byzantinischen Reiches. Athen, das in dieser Zeit nur eine mittlere Provinzstadt war, und Korinth, ein bedeutender Handelshafen, lagen in diesem Thema. Die Region bewahrte trotz slawischer Einwanderung ihre griechische Identität. Das Thema war ein wichtiges Rekrutierungsgebiet für die byzantinische Marine und spielte eine bedeutende Rolle im Mittelmeerhandel.",
+          "en": "The Theme of Hellas encompassed most of the Greek mainland and islands and was the heartland of Greek language and culture within the Byzantine Empire. Athens, which was only a mid-sized provincial town at this time, and Corinth, a major trading port, lay within this theme. The region preserved its Greek identity despite Slavic immigration. The theme was an important recruitment area for the Byzantine navy and played a significant role in Mediterranean trade."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              32
+            ],
+            [
+              70,
+              32
+            ],
+            [
+              70,
+              40
+            ],
+            [
+              55,
+              42
+            ],
+            [
+              44,
+              40
+            ],
+            [
+              44,
+              32
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "abbasid-khorasan",
+        "parentId": "abbasid-caliphate",
+        "startYear": 750,
+        "endYear": 1000,
+        "culturalSphere": "islamic",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Khorasan (Abbasidisch)",
+          "en": "Khorasan (Abbasid)"
+        },
+        "description": {
+          "de": "Khorasan war die östliche Kernprovinz des Abbasidischen Kalifats und die Ursprungsregion der Abbasidischen Revolution. Die Region umfasste Teile des heutigen Iran, Afghanistans, Turkmenistans und Usbekistans und war ein Zentrum persischer Kultur, islamischer Wissenschaft und des Handels auf der Seidenstraße. Städte wie Nishapur, Merv und Balkh blühten als Metropolen auf. Khorasan bewahrte die persische Sprache und Kultur unter arabischer Herrschaft und trug wesentlich zur islamischen Klassik bei.",
+          "en": "Khorasan was the eastern core province of the Abbasid Caliphate and the birthplace region of the Abbasid Revolution. The region encompassed parts of modern Iran, Afghanistan, Turkmenistan, and Uzbekistan and was a center of Persian culture, Islamic scholarship, and Silk Road trade. Cities like Nishapur, Merv, and Balkh flourished as metropolises. Khorasan preserved the Persian language and culture under Arab rule and made essential contributions to the Islamic classical period."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38,
+              29
+            ],
+            [
+              50,
+              29
+            ],
+            [
+              50,
+              38
+            ],
+            [
+              38,
+              38
+            ],
+            [
+              38,
+              29
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "abbasid-mesopotamia",
+        "parentId": "abbasid-caliphate",
+        "startYear": 750,
+        "endYear": 1258,
+        "culturalSphere": "islamic",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Mesopotamien (Abbasidisch)",
+          "en": "Mesopotamia/Iraq (Abbasid)"
+        },
+        "description": {
+          "de": "Mesopotamien war das Herzland des Abbasidischen Kalifats mit Bagdad als Hauptstadt, der größten und blühendsten Stadt der mittelalterlichen Welt. Gegründet 762 von Kalif al-Mansur als 'Madinat as-Salam' (Stadt des Friedens), wurde Bagdad zum Zentrum des islamischen Goldenen Zeitalters. Das Haus der Weisheit (Bayt al-Hikma) sammelte Gelehrte aus der gesamten bekannten Welt, übersetzte griechisches Wissen und entwickelte Mathematik, Astronomie, Medizin und Philosophie weiter. Die Region blieb das intellektuelle Herz der islamischen Welt bis zur mongolischen Zerstörung 1258.",
+          "en": "Mesopotamia was the heartland of the Abbasid Caliphate with Baghdad as its capital, the largest and most flourishing city in the medieval world. Founded in 762 by Caliph al-Mansur as 'Madinat as-Salam' (City of Peace), Baghdad became the center of the Islamic Golden Age. The House of Wisdom (Bayt al-Hikma) gathered scholars from across the known world, translated Greek knowledge, and advanced mathematics, astronomy, medicine, and philosophy. The region remained the intellectual heart of the Islamic world until the Mongol destruction in 1258."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24,
+              22
+            ],
+            [
+              37,
+              22
+            ],
+            [
+              37,
+              32
+            ],
+            [
+              24,
+              32
+            ],
+            [
+              24,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "abbasid-egypt",
+        "parentId": "abbasid-caliphate",
+        "startYear": 750,
+        "endYear": 868,
+        "culturalSphere": "islamic",
+        "color": "#6644AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Ägypten (Abbasidisch)",
+          "en": "Egypt (Abbasid)"
+        },
+        "description": {
+          "de": "Ägypten unter abbasidischer Herrschaft war eine der reichsten Provinzen des Kalifats, dank seiner landwirtschaftlichen Produktivität am Nil und seiner Bedeutung als Handelsroute. Die Hauptstadt al-Fustat (nahe dem heutigen Kairo) entwickelte sich zu einer kosmopolitischen Stadt. Ägypten wurde in der abbasidischen Periode zu einem wichtigen Zentrum islamischer Gelehrsamkeit und bewahrte gleichzeitig eine reiche koptisch-christliche Tradition. 868 begann mit Ahmad ibn Tulun eine Phase praktischer Autonomie, die zur späteren unabhängigen Herrschaft führte.",
+          "en": "Egypt under Abbasid rule was one of the wealthiest provinces of the caliphate, thanks to its agricultural productivity along the Nile and its importance as a trade route. The capital al-Fustat (near modern Cairo) developed into a cosmopolitan city. Egypt became an important center of Islamic scholarship during the Abbasid period while preserving a rich Coptic Christian tradition. In 868, Ahmad ibn Tulun began a period of practical autonomy that led to later independent rule."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9,
+              36
+            ],
+            [
+              0,
+              36
+            ],
+            [
+              4,
+              39.5
+            ],
+            [
+              -2,
+              43.5
+            ],
+            [
+              -9,
+              43.5
+            ],
+            [
+              -9,
+              36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "umayyad-al-andalus",
+        "parentId": "umayyad-caliphate",
+        "startYear": 711,
+        "endYear": 1492,
+        "culturalSphere": "islamic",
+        "color": "#AA4400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Al-Andalus",
+          "en": "Al-Andalus"
+        },
+        "description": {
+          "de": "Al-Andalus war das islamisch beherrschte Gebiet auf der Iberischen Halbinsel und entwickelte sich zur bedeutendsten Schnittstelle zwischen islamischer, jüdischer und christlicher Zivilisation im mittelalterlichen Europa. Córdoba unter Abd ar-Rahman III. wurde zu einer der größten Städte Europas, einem Zentrum von Bibliotheken, Universitäten und einem intellektuellen Leben, das seinesgleichen suchte. Die 'Convivencia' - das Zusammenleben der drei Religionen - brachte bedeutende Leistungen in Philosophie, Medizin, Mathematik und Dichtung hervor. Al-Andalus übermittelte antikes griechisches Wissen und islamische Wissenschaften an das lateinische Europa.",
+          "en": "Al-Andalus was the Muslim-ruled territory on the Iberian Peninsula and became the most important intersection between Islamic, Jewish, and Christian civilization in medieval Europe. Córdoba under Abd ar-Rahman III became one of the largest cities in Europe, a center of libraries, universities, and an intellectual life without parallel. The 'Convivencia' - the coexistence of three religions - produced major achievements in philosophy, medicine, mathematics, and poetry. Al-Andalus transmitted ancient Greek knowledge and Islamic sciences to Latin Europe."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7,
+              30
+            ],
+            [
+              17,
+              30
+            ],
+            [
+              17,
+              38
+            ],
+            [
+              10,
+              38
+            ],
+            [
+              7,
+              36
+            ],
+            [
+              7,
+              30
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "umayyad-ifriqiya",
+        "parentId": "umayyad-caliphate",
+        "startYear": 670,
+        "endYear": 750,
+        "culturalSphere": "islamic",
+        "color": "#AA4400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Ifriqiya (Umayyaden)",
+          "en": "Ifriqiya (Umayyad)"
+        },
+        "description": {
+          "de": "Ifriqiya, das heutige Tunesien und östliche Algerien, war eine Schlüsselprovinz der Umayyaden für die Islamierung Nordafrikas. Die Stadt Kairouan (gegründet 670) wurde zur ersten islamischen Hauptstadt des Maghreb und entwickelte sich zu einem bedeutenden Zentrum islamischer Gelehrsamkeit und Architektur. Von Ifriqiya aus startete die arabisch-berberische Armee 711 die Eroberung der Iberischen Halbinsel. Die Provinz diente als Brücke zwischen dem arabischen Osten und dem westlichen Mittelmeerraum.",
+          "en": "Ifriqiya, covering modern Tunisia and eastern Algeria, was a key Umayyad province for the Islamization of North Africa. The city of Kairouan (founded 670) became the first Islamic capital of the Maghreb and developed into a major center of Islamic scholarship and architecture. From Ifriqiya, the Arab-Berber army launched the conquest of the Iberian Peninsula in 711. The province served as a bridge between the Arab East and the western Mediterranean."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              99,
+              0
+            ],
+            [
+              116,
+              0
+            ],
+            [
+              116,
+              6
+            ],
+            [
+              104,
+              6.5
+            ],
+            [
+              102.5,
+              4
+            ],
+            [
+              99.5,
+              4.5
+            ],
+            [
+              99,
+              2
+            ],
+            [
+              99,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "srivijaya-empire",
+        "startYear": 650,
+        "endYear": 1377,
+        "peakStartYear": 700,
+        "peakEndYear": 1100,
+        "culturalSphere": "southeast-asian",
+        "color": "#AA6622",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Srivijaya-Reich",
+          "en": "Srivijaya Empire"
+        },
+        "description": {
+          "de": "Srivijaya war eine maritime Handelsmacht mit Zentrum auf Sumatra, die über sechs Jahrhunderte die Meerenge von Malakka und den Seehandel zwischen Indien, China und dem Nahen Osten kontrollierte. Als bedeutendes Zentrum des Mahayana-Buddhismus lockte seine Hauptstadt Palembang buddhistische Pilger und Gelehrte aus ganz Asien an. Die Seemacht Srivijayas beruhte weniger auf Territorialherrschaft als auf dem Netzwerk von Häfen und Handelsposten, das den Gewürzhandel und die Schifffahrtsrouten prägte.",
+          "en": "Srivijaya was a maritime trading power centered on Sumatra that controlled the Strait of Malacca and the sea trade between India, China, and the Middle East for over six centuries. As a major center of Mahayana Buddhism, its capital Palembang attracted Buddhist pilgrims and scholars from across Asia. Srivijaya's sea power rested less on territorial dominion than on a network of ports and trading posts that shaped the spice trade and maritime routes."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              66,
+              35
+            ],
+            [
+              90,
+              35
+            ],
+            [
+              90,
+              44
+            ],
+            [
+              80,
+              46
+            ],
+            [
+              72,
+              43
+            ],
+            [
+              66,
+              42
+            ],
+            [
+              66,
+              35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "anxi-protectorate",
+        "parentId": "tang-dynasty",
+        "startYear": 640,
+        "endYear": 790,
+        "culturalSphere": "chinese",
+        "color": "#CC7700",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Protektorat Anxi",
+          "en": "Anxi Protectorate"
+        },
+        "description": {
+          "de": "Das Protektorat Anxi (Schutzgeneralat zur Befriedung des Westens) war die westlichste Ausdehnung der Tang-Herrschaft in Zentralasien. Von seinen vier Garnisonen in Kucha, Khotan, Kashgar und Karashahr aus übte die Tang-Dynastie Einfluss auf das Tarim-Becken und die Seidenstraße aus. Der Tang-General Gao Xianzhi überquerte 1747 sogar den Pamir nach Sogdien. Das Protektorat war ein entscheidendes Instrument chinesischer Außenpolitik und sicherte den Handelsverkehr zwischen China und dem Westen — bis seine Garnisonen 790 den tibetischen Angriffen unterlagen.",
+          "en": "The Anxi Protectorate (Protectorate General to Pacify the West) was the westernmost extension of Tang rule into Central Asia. From its four garrisons at Kucha, Khotan, Kashgar, and Karashahr, the Tang Dynasty exercised influence over the Tarim Basin and the Silk Road. The Tang general Gao Xianzhi even crossed the Pamir mountains into Sogdia in 747. The protectorate was a crucial instrument of Chinese foreign policy, securing trade between China and the West — until its garrisons finally fell to Tibetan attacks in 790."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120,
+              37
+            ],
+            [
+              130,
+              37
+            ],
+            [
+              130.5,
+              40
+            ],
+            [
+              129,
+              42
+            ],
+            [
+              126,
+              44
+            ],
+            [
+              122,
+              44
+            ],
+            [
+              120,
+              42
+            ],
+            [
+              120,
+              37
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "andong-protectorate",
+        "parentId": "tang-dynasty",
+        "startYear": 668,
+        "endYear": 756,
+        "culturalSphere": "chinese",
+        "color": "#CC7700",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Protektorat Andong",
+          "en": "Andong Protectorate"
+        },
+        "description": {
+          "de": "Das Protektorat Andong (Schutzgeneralat zur Befriedung des Ostens) wurde 668 in Pjöngjang gegründet, nachdem Tang-Truppen gemeinsam mit dem Königreich Silla das Königreich Goguryeo besiegt hatten. Es war der Versuch der Tang-Dynastie, die Koreanische Halbinsel und die Mandschurei in das chinesische Verwaltungssystem einzubinden. Das Protektorat bestand jedoch nur kurz: Der Widerstand Sillas und der Mohe-Stämme zwang die Tang, ihre Kontrolle auf die Liaodong-Halbinsel zurückzuziehen, und das Protektorat wurde 756 aufgelöst.",
+          "en": "The Andong Protectorate (Protectorate General to Pacify the East) was established in 668 in Pyongyang after Tang forces, together with the kingdom of Silla, defeated the kingdom of Goguryeo. It represented the Tang Dynasty's attempt to incorporate the Korean Peninsula and Manchuria into the Chinese administrative system. The protectorate proved short-lived, however: resistance from Silla and the Mohe tribes forced the Tang to withdraw control to the Liaodong Peninsula, and the protectorate was dissolved in 756."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              15
+            ],
+            [
+              34,
+              15
+            ],
+            [
+              34,
+              24
+            ],
+            [
+              26,
+              24
+            ],
+            [
+              26,
+              15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-makuria",
+        "startYear": 650,
+        "endYear": 1317,
+        "culturalSphere": "nubian",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Makuria",
+          "en": "Kingdom of Makuria"
+        },
+        "description": {
+          "de": "Makuria war ein mächtiges christliches Königreich im heutigen nördlichen Sudan, dessen Herrschaftsgebiet das Niltal zwischen dem 3. und 6. Katarakt umfasste. Mit der Hauptstadt Dongola widerstand es dem arabischen Vormarsch durch den berühmten Baqt-Vertrag von 652 – eines der langlebigsten Friedensabkommen der Geschichte. Makuria pflegte regen Handel, produzierte bedeutende christliche Kunst und bewahrte die nubische Zivilisation über mehr als sechs Jahrhunderte.",
+          "en": "Makuria was a powerful Christian kingdom in present-day northern Sudan, controlling the Nile Valley between the 3rd and 6th cataracts. Based at its capital Dongola, it resisted Arab expansion through the famous Baqt treaty of 652 — one of the longest-lasting peace agreements in history. Makuria maintained vibrant trade, produced significant Christian art, and preserved Nubian civilization for over six centuries."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              8
+            ],
+            [
+              24,
+              8
+            ],
+            [
+              24,
+              20
+            ],
+            [
+              10,
+              20
+            ],
+            [
+              10,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kanem-bornu",
+        "startYear": 700,
+        "endYear": 1380,
+        "culturalSphere": "african",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Kanem-Bornu-Reich",
+          "en": "Kanem-Bornu Empire"
+        },
+        "description": {
+          "de": "Das Kanem-Bornu-Reich entstand um 700 n. Chr. nordöstlich des Tschadsees und entwickelte sich zu einer der bedeutendsten Mächte des zentralen Sudan. Von ihrem Zentrum im Kanem aus kontrollierten die Herrscher der Duguwa- und später der Sayfawa-Dynastie wichtige Sahara-Handelsrouten zwischen Nordafrika und subsaharischen Gebieten. Das Reich pflegte diplomatische Beziehungen bis nach Nordafrika und leistete als frühes islamisches Königreich bedeutende Beiträge zu Bildung und Verwaltung.",
+          "en": "The Kanem-Bornu Empire arose around 700 CE northeast of Lake Chad and grew into one of the most significant powers of the central Sudan. From their heartland in Kanem, the Duguwa and later Sayfawa dynasty rulers controlled vital Saharan trade routes linking North Africa to sub-Saharan regions. The empire maintained diplomatic relations as far as North Africa and, as an early Islamic kingdom, made significant contributions to education and governance."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85,
+              22
+            ],
+            [
+              92,
+              22
+            ],
+            [
+              92,
+              27
+            ],
+            [
+              85,
+              27
+            ],
+            [
+              85,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "pala-empire",
+        "startYear": 750,
+        "endYear": 1174,
+        "culturalSphere": "indian",
+        "color": "#228844",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Pala-Reich",
+          "en": "Pala Empire"
+        },
+        "description": {
+          "de": "Das Pala-Reich, gegründet 750 n. Chr. in Bengalen und Bihar, war die letzte große buddhistische Kaisermacht des indischen Subkontinents. Unter Dharmapala und Devapala erlangte das Reich Vorherrschaft über weite Teile Nordindiens. Die Pala-Herrscher förderten die großen buddhistischen Universitäten Nalanda und Vikramashila und trieben durch Handels- und diplomatische Beziehungen die Verbreitung des tantrischen Buddhismus bis nach Tibet und Südostasien voran.",
+          "en": "The Pala Empire, founded in 750 CE in Bengal and Bihar, was the last great Buddhist imperial power of the Indian subcontinent. Under Dharmapala and Devapala, the empire achieved dominance over large parts of northern India. Pala rulers patronized the great Buddhist universities of Nalanda and Vikramashila and, through trade and diplomatic relations, drove the spread of Tantric Buddhism as far as Tibet and Southeast Asia."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74,
+              14
+            ],
+            [
+              82,
+              14
+            ],
+            [
+              82,
+              22
+            ],
+            [
+              74,
+              22
+            ],
+            [
+              74,
+              14
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "chalukya-dynasty",
+        "startYear": 543,
+        "endYear": 1189,
+        "culturalSphere": "indian",
+        "color": "#228844",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Chalukya-Dynastie",
+          "en": "Chalukya Dynasty"
+        },
+        "description": {
+          "de": "Die Chalukya-Dynastie herrschte in drei Zweigen über das Dekkan-Plateau und prägte über sechs Jahrhunderte die Geschichte Südindiens. Die Badami-Chalukyas (543–753) vereinten weite Teile des Dekkan, die Eastern Chalukyas (624–1070) dominierten das östliche Andhra Pradesh, und die Western Chalukyas (973–1189) kämpften auf Augenhöhe mit den Chola. Architektonische Meisterwerke in Badami, Aihole und Pattadakal bezeugen ihre herausragende Tempelbaukunst.",
+          "en": "The Chalukya dynasty ruled the Deccan plateau across three branches, shaping South Indian history for over six centuries. The Badami Chalukyas (543–753) unified large parts of the Deccan, the Eastern Chalukyas (624–1070) dominated eastern Andhra Pradesh, and the Western Chalukyas (973–1189) contended as equals with the Cholas. Architectural masterworks at Badami, Aihole, and Pattadakal attest to their outstanding tradition of temple construction."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              69,
+              22
+            ],
+            [
+              80,
+              22
+            ],
+            [
+              80,
+              30
+            ],
+            [
+              69,
+              30
+            ],
+            [
+              69,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rajput-kingdoms",
+        "startYear": 700,
+        "endYear": 1200,
+        "culturalSphere": "indian",
+        "color": "#228844",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Rajputen-Königreiche",
+          "en": "Rajput Kingdoms"
+        },
+        "description": {
+          "de": "Die Rajputen-Königreiche dominierten von etwa 700 bis 1200 n. Chr. den nordwestlichen indischen Subkontinent, insbesondere die Region des heutigen Rajasthan, Gujarat, Haryana und Madhya Pradesh. Als kriegerischer Adel mit starkem Ehrenkodex schufen die Pratihara, Paramara, Chauhan und andere Dynastien bedeutende Tempel, Festungen und Literaturtradition. Ihr Widerstand gegen arabische und turkische Invasoren prägte Jahrhunderte des indischen Mittelalters.",
+          "en": "The Rajput Kingdoms dominated the northwestern Indian subcontinent from around 700 to 1200 CE, particularly the region of present-day Rajasthan, Gujarat, Haryana, and Madhya Pradesh. As a martial aristocracy with a strong honor code, the Pratihara, Paramara, Chauhan, and other dynasties created significant temples, fortresses, and literary traditions. Their resistance against Arab and Turkic invaders shaped centuries of Indian medieval history."
+        }
+      }
     }
   ]
 }

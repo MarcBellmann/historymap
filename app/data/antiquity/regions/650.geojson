@@ -244,6 +244,153 @@
           "en": "The Tang Dynasty is considered the pinnacle of Chinese civilization. Chang'an, its capital, with over a million inhabitants was the largest and most cosmopolitan city in the world — a Silk Road hub where merchants, diplomats, and scholars from across the globe converged. Chinese poetry, art, music, and Buddhism flourished and radiated outward to Korea, Japan, and Vietnam. The Tang built a powerful empire stretching from Manchuria to Central Asia."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              66,
+              35
+            ],
+            [
+              90,
+              35
+            ],
+            [
+              90,
+              44
+            ],
+            [
+              80,
+              46
+            ],
+            [
+              72,
+              43
+            ],
+            [
+              66,
+              42
+            ],
+            [
+              66,
+              35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "anxi-protectorate",
+        "parentId": "tang-dynasty",
+        "startYear": 640,
+        "endYear": 790,
+        "culturalSphere": "chinese",
+        "color": "#CC7700",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Protektorat Anxi",
+          "en": "Anxi Protectorate"
+        },
+        "description": {
+          "de": "Das Protektorat Anxi (Schutzgeneralat zur Befriedung des Westens) war die westlichste Ausdehnung der Tang-Herrschaft in Zentralasien. Von seinen vier Garnisonen in Kucha, Khotan, Kashgar und Karashahr aus übte die Tang-Dynastie Einfluss auf das Tarim-Becken und die Seidenstraße aus. Der Tang-General Gao Xianzhi überquerte 1747 sogar den Pamir nach Sogdien. Das Protektorat war ein entscheidendes Instrument chinesischer Außenpolitik und sicherte den Handelsverkehr zwischen China und dem Westen — bis seine Garnisonen 790 den tibetischen Angriffen unterlagen.",
+          "en": "The Anxi Protectorate (Protectorate General to Pacify the West) was the westernmost extension of Tang rule into Central Asia. From its four garrisons at Kucha, Khotan, Kashgar, and Karashahr, the Tang Dynasty exercised influence over the Tarim Basin and the Silk Road. The Tang general Gao Xianzhi even crossed the Pamir mountains into Sogdia in 747. The protectorate was a crucial instrument of Chinese foreign policy, securing trade between China and the West — until its garrisons finally fell to Tibetan attacks in 790."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              15
+            ],
+            [
+              34,
+              15
+            ],
+            [
+              34,
+              24
+            ],
+            [
+              26,
+              24
+            ],
+            [
+              26,
+              15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-makuria",
+        "startYear": 650,
+        "endYear": 1317,
+        "culturalSphere": "nubian",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Makuria",
+          "en": "Kingdom of Makuria"
+        },
+        "description": {
+          "de": "Makuria war ein mächtiges christliches Königreich im heutigen nördlichen Sudan, dessen Herrschaftsgebiet das Niltal zwischen dem 3. und 6. Katarakt umfasste. Mit der Hauptstadt Dongola widerstand es dem arabischen Vormarsch durch den berühmten Baqt-Vertrag von 652 – eines der langlebigsten Friedensabkommen der Geschichte. Makuria pflegte regen Handel, produzierte bedeutende christliche Kunst und bewahrte die nubische Zivilisation über mehr als sechs Jahrhunderte.",
+          "en": "Makuria was a powerful Christian kingdom in present-day northern Sudan, controlling the Nile Valley between the 3rd and 6th cataracts. Based at its capital Dongola, it resisted Arab expansion through the famous Baqt treaty of 652 — one of the longest-lasting peace agreements in history. Makuria maintained vibrant trade, produced significant Christian art, and preserved Nubian civilization for over six centuries."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74,
+              14
+            ],
+            [
+              82,
+              14
+            ],
+            [
+              82,
+              22
+            ],
+            [
+              74,
+              22
+            ],
+            [
+              74,
+              14
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "chalukya-dynasty",
+        "startYear": 543,
+        "endYear": 1189,
+        "culturalSphere": "indian",
+        "color": "#228844",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Chalukya-Dynastie",
+          "en": "Chalukya Dynasty"
+        },
+        "description": {
+          "de": "Die Chalukya-Dynastie herrschte in drei Zweigen über das Dekkan-Plateau und prägte über sechs Jahrhunderte die Geschichte Südindiens. Die Badami-Chalukyas (543–753) vereinten weite Teile des Dekkan, die Eastern Chalukyas (624–1070) dominierten das östliche Andhra Pradesh, und die Western Chalukyas (973–1189) kämpften auf Augenhöhe mit den Chola. Architektonische Meisterwerke in Badami, Aihole und Pattadakal bezeugen ihre herausragende Tempelbaukunst.",
+          "en": "The Chalukya dynasty ruled the Deccan plateau across three branches, shaping South Indian history for over six centuries. The Badami Chalukyas (543–753) unified large parts of the Deccan, the Eastern Chalukyas (624–1070) dominated eastern Andhra Pradesh, and the Western Chalukyas (973–1189) contended as equals with the Cholas. Architectural masterworks at Badami, Aihole, and Pattadakal attest to their outstanding tradition of temple construction."
+        }
+      }
     }
   ]
 }

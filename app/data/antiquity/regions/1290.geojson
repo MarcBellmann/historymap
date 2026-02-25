@@ -268,6 +268,1798 @@
           "en": "The Delhi Sultanate was the first major Islamic polity on the Indian subcontinent, blending Persian-Islamic administrative culture with India's multilayered Hindu society. Under the Khalji and Tughluq sultanates, rule extended across nearly the full breadth of the subcontinent. Delhi became one of the most important cultural centers of the Islamic world, where poetry, music, and architecture formed a unique Indo-Islamic synthesis."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.5,
+              50
+            ],
+            [
+              2,
+              51
+            ],
+            [
+              2,
+              55.5
+            ],
+            [
+              -2,
+              58.5
+            ],
+            [
+              -5.5,
+              58.5
+            ],
+            [
+              -6,
+              55
+            ],
+            [
+              -5.5,
+              50
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-england",
+        "startYear": 927,
+        "endYear": 1707,
+        "culturalSphere": "anglo-norman",
+        "color": "#557744",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich England",
+          "en": "Kingdom of England"
+        },
+        "description": {
+          "de": "Das Königreich England entstand 927, als Äthelstan zum ersten König aller Engländer gekrönt wurde. Im Laufe der Jahrhunderte entwickelte sich England zu einer der einflussreichsten Monarchien Europas. Die normannische Eroberung von 1066 brachte tiefgreifende kulturelle und institutionelle Veränderungen. Die Magna Carta von 1215 und die Entstehung des Parlaments machten England zum Pionier konstitutioneller Regierung. Als maritime Macht begann England früh, Einfluss über seine unmittelbaren Grenzen hinaus zu entfalten.",
+          "en": "The Kingdom of England emerged in 927 when Æthelstan was crowned the first King of all the English. Over the centuries England developed into one of the most influential monarchies in Europe. The Norman Conquest of 1066 brought profound cultural and institutional changes. Magna Carta in 1215 and the emergence of Parliament made England a pioneer of constitutional government. As a maritime power, England began early to project influence beyond its immediate borders."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5,
+              42
+            ],
+            [
+              5.5,
+              42.5
+            ],
+            [
+              8,
+              44.5
+            ],
+            [
+              7.5,
+              48.5
+            ],
+            [
+              4,
+              51
+            ],
+            [
+              -2,
+              51
+            ],
+            [
+              -5,
+              47.5
+            ],
+            [
+              -5,
+              42
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-france-capetian",
+        "startYear": 987,
+        "endYear": 1328,
+        "culturalSphere": "french",
+        "color": "#557744",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Frankreich (Kapetinger)",
+          "en": "Kingdom of France (Capetian)"
+        },
+        "description": {
+          "de": "Die kapetingische Monarchie, gegründet 987 durch Hugo Capet, schuf über drei Jahrhunderte hinweg das mittelalterliche Frankreich als einheitliche Nation. Die Kapetinger stärkten schrittweise die königliche Zentralgewalt, gründeten die Universität Paris als intellektuelles Zentrum Europas und prägten die Gotik als Baustil der Königskirchen. Unter Philipp II. August und Ludwig IX. erreichte das Königreich territorialen und kulturellen Glanz. Das kapetingische Frankreich wurde Modell für höfische Kultur und Ritterlichkeit in ganz Europa.",
+          "en": "The Capetian monarchy, founded in 987 by Hugh Capet, built medieval France as a unified nation over three centuries. The Capetians gradually strengthened royal central authority, founded the University of Paris as Europe's intellectual center, and shaped Gothic architecture as the style of royal churches. Under Philip II Augustus and Louis IX, the kingdom reached territorial and cultural splendor. Capetian France became the model for courtly culture and chivalry throughout Europe."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8,
+              54.5
+            ],
+            [
+              15,
+              54.5
+            ],
+            [
+              15.5,
+              57.5
+            ],
+            [
+              12.5,
+              57.5
+            ],
+            [
+              10.5,
+              58
+            ],
+            [
+              8.5,
+              57
+            ],
+            [
+              8,
+              55.5
+            ],
+            [
+              8,
+              54.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-denmark",
+        "startYear": 936,
+        "endYear": 1814,
+        "culturalSphere": "norse",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Dänemark",
+          "en": "Kingdom of Denmark"
+        },
+        "description": {
+          "de": "Das Königreich Dänemark gehört zu den ältesten Monarchien Europas und entstand im 10. Jahrhundert unter Harald Blauzahn, der das Land auch christianisierte. Als Herzstück des Nordseeraums kontrollierte Dänemark wichtige Handelswege und bildete zeitweise ein Nordisches Großreich. Die Wikingertradition lebte in dänischer Seefahrt, Handel und Staatsgründungen fort. Im Mittelalter war Dänemark eine der mächtigsten Mächte Nordeuropas, mit Einfluss über Teile Englands, Norwegens und des Ostseeraums.",
+          "en": "The Kingdom of Denmark is one of Europe's oldest monarchies, emerging in the 10th century under Harald Bluetooth, who also Christianized the country. As the heart of the North Sea region, Denmark controlled important trade routes and at times formed a Nordic great empire. The Viking tradition lived on in Danish seafaring, trade, and state formation. In the medieval period Denmark was one of the most powerful forces in Northern Europe, with influence over parts of England, Norway, and the Baltic region."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.5,
+              57.5
+            ],
+            [
+              14,
+              58
+            ],
+            [
+              16,
+              61
+            ],
+            [
+              14,
+              65
+            ],
+            [
+              10,
+              63.5
+            ],
+            [
+              5,
+              62
+            ],
+            [
+              4.5,
+              59
+            ],
+            [
+              4.5,
+              57.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-norway",
+        "startYear": 872,
+        "endYear": 1814,
+        "culturalSphere": "norse",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Norwegen",
+          "en": "Kingdom of Norway"
+        },
+        "description": {
+          "de": "Das Königreich Norwegen wurde 872 von Harald Schönhaar nach der Schlacht im Hafrsfjord als erstes vereintes norwegisches Königreich gegründet. Die Norweger waren führend in der wikingerzeitlichen Expansion und gründeten Siedlungen auf Island, Grönland und in Nordamerika. Unter Olav II. (dem Heiligen) wurde die Christianisierung abgeschlossen. Norwegen entwickelte eine eigenständige Rechts- und Verwaltungstradition, die im Lagting, einer frühen Form der Volksversammlung, ihren Ausdruck fand.",
+          "en": "The Kingdom of Norway was founded in 872 by Harald Fairhair after the Battle of Hafrsfjord as the first united Norwegian kingdom. The Norwegians were leaders in Viking-age expansion, founding settlements in Iceland, Greenland, and North America. Under Olav II (the Holy), Christianization was completed. Norway developed a distinctive legal and administrative tradition expressed in the Lagting, an early form of popular assembly."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11,
+              55.5
+            ],
+            [
+              19,
+              55.5
+            ],
+            [
+              24,
+              57.5
+            ],
+            [
+              24,
+              62
+            ],
+            [
+              20,
+              65
+            ],
+            [
+              15,
+              65.5
+            ],
+            [
+              12,
+              63
+            ],
+            [
+              11,
+              59.5
+            ],
+            [
+              11,
+              55.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-sweden",
+        "startYear": 970,
+        "endYear": 1905,
+        "culturalSphere": "norse",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Schweden",
+          "en": "Kingdom of Sweden"
+        },
+        "description": {
+          "de": "Das Königreich Schweden entwickelte sich im späten 10. Jahrhundert unter dem Einfluss der Christianisierung zu einer stabilen Monarchie. Die Schweden, auch als Waräger bekannt, spielten eine entscheidende Rolle beim Aufbau der Handelswege entlang der osteuropäischen Flüsse bis nach Konstantinopel und Bagdad. Im Hochmittelalter bauten schwedische Herrscher eine effiziente Zentralverwaltung auf, die Schweden zu einem starken Königreich Nordeuropas formte. Die reiche Bergbau- und Handelstradition legte den Grundstein für spätere Großmachtstellung.",
+          "en": "The Kingdom of Sweden developed into a stable monarchy in the late 10th century under the influence of Christianization. The Swedes, also known as Varangians, played a decisive role in establishing trade routes along the rivers of Eastern Europe to Constantinople and Baghdad. In the high medieval period Swedish rulers built an efficient central administration that formed Sweden into a strong kingdom of Northern Europe. The rich mining and trading tradition laid the groundwork for later great power status."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14,
+              49
+            ],
+            [
+              24.5,
+              49.5
+            ],
+            [
+              24,
+              54.5
+            ],
+            [
+              18.5,
+              55.5
+            ],
+            [
+              14,
+              54
+            ],
+            [
+              13.5,
+              51.5
+            ],
+            [
+              14,
+              49
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-poland",
+        "startYear": 1025,
+        "endYear": 1795,
+        "culturalSphere": "slavic",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Polen",
+          "en": "Kingdom of Poland"
+        },
+        "description": {
+          "de": "Das Königreich Polen entstand 1025 mit der Krönung Bolesławs I. des Tapferen und wurde eines der bedeutendsten Reiche Ostmitteleuropas. Die Piasten-Dynastie schuf einen einheitlichen Staat, der Christentum, slawische Kultur und westeuropäische Einflüsse verband. Im Hochmittelalter war Polen ein wichtiger Vermittler zwischen der lateinischen Westkirche und den östlichen Slawen. Krakau entwickelte sich zu einem bedeutenden kulturellen und wirtschaftlichen Zentrum. Die polnische Ritterkultur und das frühe Rechtswesen legten Grundlagen für ein dauerhaftes nationales Bewusstsein.",
+          "en": "The Kingdom of Poland emerged in 1025 with the coronation of Bolesław I the Brave and became one of the most significant realms of East-Central Europe. The Piast dynasty created a unified state combining Christianity, Slavic culture, and Western European influences. In the high medieval period Poland was an important mediator between the Latin Western Church and the Eastern Slavs. Krakow developed into a significant cultural and economic center. Polish chivalric culture and early legal systems laid foundations for a lasting national consciousness."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16,
+              45.5
+            ],
+            [
+              22.5,
+              44.5
+            ],
+            [
+              26,
+              46
+            ],
+            [
+              25.5,
+              48.5
+            ],
+            [
+              22,
+              49.5
+            ],
+            [
+              18,
+              49.5
+            ],
+            [
+              16.5,
+              48
+            ],
+            [
+              16,
+              45.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-hungary",
+        "startYear": 1000,
+        "endYear": 1918,
+        "culturalSphere": "hungarian",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Ungarn",
+          "en": "Kingdom of Hungary"
+        },
+        "description": {
+          "de": "Das Königreich Ungarn wurde 1000/1001 durch die Krönung Stephans I. (des Heiligen) gegründet und integrierte das magyarische Volk vollständig in die lateinisch-christliche Welt Europas. Stephan schuf ein einheitliches Verwaltungssystem mit Grafschaften, förderte das Christentum und begründete eine Reihe von Klöstern und Bistümern. Ungarn entwickelte sich zu einem der mächtigsten Königreiche Mitteleuropas und bildete über Jahrhunderte hinweg eine wichtige Schutzwall gegen östliche Invasionen. Die Goldene Bulle von 1222 sicherte Adelsrechte und gilt als ungarisches Pendant zur Magna Carta.",
+          "en": "The Kingdom of Hungary was founded in 1000/1001 with the coronation of Stephen I (the Holy) and fully integrated the Magyar people into the Latin-Christian world of Europe. Stephen created a unified administrative system of counties, promoted Christianity, and established a series of monasteries and bishoprics. Hungary developed into one of the most powerful kingdoms of Central Europe and for centuries formed an important bulwark against eastern invasions. The Golden Bull of 1222 secured noble rights and is considered Hungary's equivalent of Magna Carta."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22,
+              41.5
+            ],
+            [
+              28.5,
+              41.5
+            ],
+            [
+              30,
+              43.5
+            ],
+            [
+              28,
+              46
+            ],
+            [
+              24,
+              45.5
+            ],
+            [
+              22.5,
+              44
+            ],
+            [
+              22,
+              41.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "second-bulgarian-empire",
+        "startYear": 1185,
+        "endYear": 1396,
+        "culturalSphere": "slavic",
+        "color": "#446688",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Zweites Bulgarisches Reich",
+          "en": "Second Bulgarian Empire"
+        },
+        "description": {
+          "de": "Das Zweite Bulgarische Reich entstand 1185 durch den Aufstand der Brüder Asen und Peter gegen Byzanz und wurde zu einem bedeutenden Machtfaktor auf dem Balkan. Unter Iwan Asen II. im 13. Jahrhundert erreichte es seine größte Ausdehnung, kontrollierte weite Teile des Balkans und pflegte rege diplomatische Beziehungen mit Westeuropa und dem Papsttum. Die Hauptstadt Tarnowo wurde ein blühendes kulturelles und kirchliches Zentrum. Das Reich entwickelte eine eigenständige bulgarische orthodoxe Kirchentradition und eine reiche Literatur in kirchenslawischer Sprache.",
+          "en": "The Second Bulgarian Empire emerged in 1185 through the revolt of brothers Asen and Peter against Byzantium and became a significant power factor in the Balkans. Under Ivan Asen II in the 13th century it reached its greatest extent, controlling large parts of the Balkans and maintaining active diplomatic relations with Western Europe and the papacy. The capital Tarnovo became a flourishing cultural and ecclesiastical center. The empire developed an independent Bulgarian Orthodox church tradition and a rich literature in Church Slavonic."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.5,
+              39
+            ],
+            [
+              21.5,
+              38.5
+            ],
+            [
+              21.5,
+              41.5
+            ],
+            [
+              20,
+              42
+            ],
+            [
+              19,
+              41
+            ],
+            [
+              19.5,
+              39
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "despotate-of-epirus",
+        "parentId": "byzantine-empire",
+        "startYear": 1204,
+        "endYear": 1337,
+        "culturalSphere": "byzantine",
+        "color": "#AA2222",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Despotat Epirus",
+          "en": "Despotate of Epirus"
+        },
+        "description": {
+          "de": "Das Despotat Epirus entstand 1204 nach dem Fall Konstantinopels im Vierten Kreuzzug als eines von drei griechischen Nachfolgestaaten des Byzantinischen Reiches. Unter Michael I. Komnenos Dukas gegründet, beanspruchte es die Nachfolge des byzantinischen Kaisertums und beherrschte weite Teile Westgriechenlands und Albaniens. 1224 errang Theodoros Komnenos Dukas eine bedeutende Expansion und krönte sich zum Kaiser. Das Despotat bewahrte byzantinische Kultur, Verwaltung und orthodoxes Christentum in Westgriechenland bis zur Unterwerfung durch das restaurierte Byzantinische Reich.",
+          "en": "The Despotate of Epirus emerged in 1204 after the fall of Constantinople in the Fourth Crusade as one of three Greek successor states of the Byzantine Empire. Founded by Michael I Komnenos Doukas, it claimed succession to the Byzantine emperorship and controlled large parts of western Greece and Albania. In 1224 Theodore Komnenos Doukas achieved a significant expansion and crowned himself emperor. The Despotate preserved Byzantine culture, administration, and Orthodox Christianity in western Greece until submission to the restored Byzantine Empire."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37,
+              40
+            ],
+            [
+              42.5,
+              39.5
+            ],
+            [
+              43,
+              41.5
+            ],
+            [
+              41,
+              42
+            ],
+            [
+              38.5,
+              41.5
+            ],
+            [
+              37,
+              40
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "empire-of-trebizond",
+        "parentId": "byzantine-empire",
+        "startYear": 1204,
+        "endYear": 1461,
+        "culturalSphere": "byzantine",
+        "color": "#AA2222",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Kaiserreich Trapezunt",
+          "en": "Empire of Trebizond"
+        },
+        "description": {
+          "de": "Das Kaiserreich Trapezunt entstand 1204 als byzantinischer Nachfolgestaat an der Südküste des Schwarzen Meeres und überlebte sogar das restaurierte Byzantinische Reich um acht Jahre. Die Komnenen-Dynastie regierte von ihrer Hauptstadt Trapezunt (heute Trabzon) aus ein Reich, das seine Stellung dem lukrativen Seidenstraßenhandel verdankte. Die Stadt war ein kosmopolitisches Zentrum, wo persische, georgische, armenische und griechische Kulturen sich begegneten. Das Reich pflegte geschickte Diplomatie mit Mongolen, Osmanen und westeuropäischen Mächten und sicherte so sein langes Überleben.",
+          "en": "The Empire of Trebizond emerged in 1204 as a Byzantine successor state on the southern coast of the Black Sea and even survived the restored Byzantine Empire by eight years. The Komnenos dynasty ruled from their capital Trebizond (modern Trabzon) an empire whose position derived from the lucrative Silk Road trade. The city was a cosmopolitan center where Persian, Georgian, Armenian, and Greek cultures met. The empire practiced skillful diplomacy with Mongols, Ottomans, and Western European powers, securing its long survival."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9,
+              47.5
+            ],
+            [
+              13.5,
+              47
+            ],
+            [
+              16.5,
+              47.5
+            ],
+            [
+              16,
+              49.5
+            ],
+            [
+              13,
+              50.5
+            ],
+            [
+              9.5,
+              50
+            ],
+            [
+              9,
+              47.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "duchy-of-bavaria",
+        "parentId": "holy-roman-empire",
+        "startYear": 907,
+        "endYear": 1806,
+        "culturalSphere": "germanic",
+        "color": "#8B0000",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Herzogtum Bayern",
+          "en": "Duchy of Bavaria"
+        },
+        "description": {
+          "de": "Das Herzogtum Bayern war eines der mächtigsten und ältesten Herzogtümer im Heiligen Römischen Reich. Die Bayern, ein germanisches Volk, hatten schon früh eine eigenständige Stammesidentität entwickelt. Unter den Agilolfingern und später den Wittelsbachern wurde Bayern zu einem kulturellen und wirtschaftlichen Zentrum Süddeutschlands. Die Kirche spielte eine besondere Rolle: Regensburg, Salzburg und Freising waren bedeutende Bischofssitze, die Bildung und Kunst förderten. Bayern bildete die Brücke zwischen dem deutschen Norden und dem romanisierten Alpenraum.",
+          "en": "The Duchy of Bavaria was one of the most powerful and oldest duchies in the Holy Roman Empire. The Bavarians, a Germanic people, had developed a distinctive tribal identity early on. Under the Agilolfings and later the Wittelsbachs, Bavaria became a cultural and economic center of southern Germany. The Church played a special role: Regensburg, Salzburg, and Freising were important episcopal sees that promoted learning and arts. Bavaria formed the bridge between the German north and the Romanized Alpine region."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12,
+              49.5
+            ],
+            [
+              18.5,
+              49.5
+            ],
+            [
+              18.5,
+              51.5
+            ],
+            [
+              15.5,
+              52
+            ],
+            [
+              13,
+              51.5
+            ],
+            [
+              12,
+              50.5
+            ],
+            [
+              12,
+              49.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-bohemia",
+        "parentId": "holy-roman-empire",
+        "startYear": 1198,
+        "endYear": 1806,
+        "culturalSphere": "slavic",
+        "color": "#8B0000",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Böhmen",
+          "en": "Kingdom of Bohemia"
+        },
+        "description": {
+          "de": "Das Königreich Böhmen, 1198 offiziell erhoben, war das einzige slawische Königreich im Heiligen Römischen Reich und nahm darin eine besondere verfassungsrechtliche Stellung ein. Die Přemysliden- und später die Luxemburger-Dynastie machten Prag zu einem der bedeutendsten Kulturzentren Mitteleuropas. Karl IV., der 1348 die Universität Prag (die erste in Mitteleuropa) gründete und als Kaiser das Reich zu neuer Blüte führte, stammt aus diesem Königreich. Böhmen war bekannt für Bergbau, Handwerk und eine hohe städtische Kultur.",
+          "en": "The Kingdom of Bohemia, officially elevated in 1198, was the only Slavic kingdom in the Holy Roman Empire and held a special constitutional position within it. The Přemyslid and later Luxembourg dynasties made Prague one of the most important cultural centers in Central Europe. Charles IV, who founded the University of Prague in 1348 (the first in Central Europe) and as Emperor led the empire to new heights, came from this kingdom. Bohemia was known for mining, craftsmanship, and a sophisticated urban culture."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5,
+              52
+            ],
+            [
+              15.5,
+              52
+            ],
+            [
+              15.5,
+              54
+            ],
+            [
+              13.5,
+              54.5
+            ],
+            [
+              11.5,
+              54
+            ],
+            [
+              11.5,
+              52
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "march-of-brandenburg",
+        "parentId": "holy-roman-empire",
+        "startYear": 1157,
+        "endYear": 1806,
+        "culturalSphere": "germanic",
+        "color": "#8B0000",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Markgrafschaft Brandenburg",
+          "en": "March of Brandenburg"
+        },
+        "description": {
+          "de": "Die Markgrafschaft Brandenburg wurde 1157 durch Albrecht den Bären als Grenzmark gegen die slawischen Stämme östlich der Elbe gegründet und wurde zum Ursprung des späteren Preußen und Deutschen Kaiserreichs. Die askanische Herrschaft förderte systematisch die Kolonisierung und Urbanisierung der Region durch deutschen Einwanderer, verdrängten die slawische Urbevölkerung und verwandelten die Region. Als Kurfürstentum spielte Brandenburg eine zentrale Rolle im Heiligen Römischen Reich und trug entscheidend zur deutschen Ostexpansion bei.",
+          "en": "The March of Brandenburg was founded in 1157 by Albert the Bear as a border march against the Slavic tribes east of the Elbe and became the origin of later Prussia and the German Empire. Ascanian rule systematically promoted the colonization and urbanization of the region by German immigrants, displaced the Slavic indigenous population, and transformed the region. As an electorate, Brandenburg played a central role in the Holy Roman Empire and decisively contributed to the German eastern expansion."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              36.5
+            ],
+            [
+              40,
+              36.5
+            ],
+            [
+              44,
+              38
+            ],
+            [
+              42,
+              42
+            ],
+            [
+              36,
+              42
+            ],
+            [
+              28,
+              41.5
+            ],
+            [
+              26,
+              39
+            ],
+            [
+              26,
+              36.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "sultanate-of-rum",
+        "startYear": 1077,
+        "endYear": 1307,
+        "culturalSphere": "islamic",
+        "color": "#CC6600",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Sultanat der Rum-Seldschuken",
+          "en": "Sultanate of Rum"
+        },
+        "description": {
+          "de": "Das Sultanat der Rum-Seldschuken war ein unabhängiges Sultanat in Anatolien, das aus dem größeren Seldschukenreich hervorgegangen war. Mit seiner Hauptstadt in Konya wurde es zu einem bedeutenden Kulturzentrum des islamischen Mittelalters. Der Sufi-Mystiker und Dichter Rumi (Jalal ad-Din Muhammad Rumi) wirkte in Konya und begründete hier den Mevlevi-Orden. Das Sultanat vermittelte zwischen byzantinischer und islamischer Kultur und schuf eine einzigartige anatolische Synthese, die Architektur, Literatur und Wissenschaft prägte.",
+          "en": "The Sultanate of Rum was an independent sultanate in Anatolia that emerged from the larger Seljuk Empire. With its capital at Konya, it became an important cultural center of the Islamic Middle Ages. The Sufi mystic and poet Rumi (Jalal ad-Din Muhammad Rumi) lived and worked in Konya, founding the Mevlevi Order here. The sultanate mediated between Byzantine and Islamic culture, creating a unique Anatolian synthesis that shaped architecture, literature, and scholarship."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24,
+              15
+            ],
+            [
+              50,
+              15
+            ],
+            [
+              50,
+              37
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              30,
+              33
+            ],
+            [
+              24,
+              30
+            ],
+            [
+              24,
+              15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "mamluk-sultanate",
+        "startYear": 1250,
+        "endYear": 1517,
+        "culturalSphere": "islamic",
+        "color": "#33AA88",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Mamluken-Sultanat",
+          "en": "Mamluk Sultanate"
+        },
+        "description": {
+          "de": "Das Mamluken-Sultanat war ein einzigartiger Staat, der von einer militärischen Kaste ehemaliger Sklaven (Mamluken) regiert wurde, die sich zum herrschenden Adel entwickelt hatte. Als einzige Macht, die die mongolische Expansion in Ägypten aufhielt, retteten die Mamluken 1260 in der Schlacht von Ain Jalut die arabisch-islamische Zivilisation. Kairo unter den Mamluken erlebte eine kulturelle Blütezeit: Die Al-Azhar-Universität, prachtvolle Moscheen und Sufi-Orden prägten das städtische Leben. Das Sultanat kontrollierte den lukrativen Gewürzhandel zwischen Asien und Europa und war ein Zentrum islamischer Gelehrsamkeit.",
+          "en": "The Mamluk Sultanate was a unique state governed by a military caste of former enslaved soldiers (Mamluks) who had evolved into a ruling nobility. As the only power to halt the Mongol expansion into Egypt, the Mamluks saved Arab-Islamic civilization at the Battle of Ain Jalut in 1260. Cairo under the Mamluks experienced a cultural golden age: Al-Azhar University, magnificent mosques, and Sufi orders shaped urban life. The sultanate controlled the lucrative spice trade between Asia and Europe and was a center of Islamic scholarship."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5,
+              29.5
+            ],
+            [
+              36.5,
+              29.5
+            ],
+            [
+              36.5,
+              34
+            ],
+            [
+              35.5,
+              34.5
+            ],
+            [
+              34,
+              33.5
+            ],
+            [
+              34.5,
+              31.5
+            ],
+            [
+              34.5,
+              29.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-jerusalem",
+        "startYear": 1099,
+        "endYear": 1291,
+        "culturalSphere": "crusader",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Jerusalem",
+          "en": "Kingdom of Jerusalem"
+        },
+        "description": {
+          "de": "Das Königreich Jerusalem war der bedeutendste der Kreuzfahrerstaaten, gegründet nach der Einnahme Jerusalems im Ersten Kreuzzug 1099. Es entwickelte sich zu einem feudalen Königreich an der levantinischen Küste mit einem einzigartigen kulturellen Mix aus lateinischen, byzantinischen, armenischen und islamischen Einflüssen. Die Kreuzfahrerherrscher schufen eine komplexe Gesellschaft, in der lokale Christen, Muslime und Juden unter einem fränkisch-lateinischen Adel lebten. Jerusalem als heilige Stadt dreier Religionen war Ziel von Pilgern aus der gesamten christlichen Welt.",
+          "en": "The Kingdom of Jerusalem was the most significant of the Crusader states, founded after the capture of Jerusalem in the First Crusade of 1099. It developed into a feudal kingdom on the Levantine coast with a unique cultural mix of Latin, Byzantine, Armenian, and Islamic influences. Crusader rulers created a complex society where local Christians, Muslims, and Jews lived under a Frankish-Latin nobility. Jerusalem as the holy city of three religions attracted pilgrims from across the Christian world."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              28
+            ],
+            [
+              80,
+              28
+            ],
+            [
+              80,
+              40
+            ],
+            [
+              65,
+              43
+            ],
+            [
+              55,
+              43
+            ],
+            [
+              44,
+              38
+            ],
+            [
+              40,
+              34
+            ],
+            [
+              44,
+              28
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ilkhanate",
+        "startYear": 1256,
+        "endYear": 1335,
+        "culturalSphere": "mongol",
+        "color": "#AA7700",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Ilchanat",
+          "en": "Ilkhanate"
+        },
+        "description": {
+          "de": "Das Ilchanat war eines der vier Teilreiche des Mongolischen Weltreiches und umfasste den Iran, Irak, Aserbaidschan, Armenien, Georgien und Teile Anatoliens. Gegründet von Hülegü Khan nach der Zerstörung Bagdads 1258, vernichtete es das Abbasidische Kalifat. Unter dem Einfluss seiner iranischen Untertanen wandelten sich viele Ilchane vom Schamanismus zum Islam. Das Ilchanat wurde zu einem wichtigen Vermittler zwischen dem ostasiatischen und dem westlichen Kulturraum, förderte Handel und Wissenschaft und ermöglichte den Austausch über die Seidenstraße.",
+          "en": "The Ilkhanate was one of the four successor states of the Mongol Empire, encompassing Iran, Iraq, Azerbaijan, Armenia, Georgia, and parts of Anatolia. Founded by Hülegü Khan following the destruction of Baghdad in 1258, it destroyed the Abbasid Caliphate. Under the influence of its Iranian subjects, many Ilkhans converted from shamanism to Islam. The Ilkhanate became an important mediator between East Asian and Western cultural spheres, promoting trade and scholarship and enabling exchange along the Silk Road."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40,
+              43
+            ],
+            [
+              82,
+              43
+            ],
+            [
+              82,
+              57
+            ],
+            [
+              60,
+              60
+            ],
+            [
+              35,
+              57
+            ],
+            [
+              28,
+              50
+            ],
+            [
+              28,
+              46
+            ],
+            [
+              35,
+              44
+            ],
+            [
+              40,
+              43
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "golden-horde",
+        "startYear": 1242,
+        "endYear": 1502,
+        "culturalSphere": "mongol",
+        "color": "#AA7700",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Goldene Horde",
+          "en": "Golden Horde"
+        },
+        "description": {
+          "de": "Die Goldene Horde, auch Ulus Dschuschi genannt, war das westlichste der mongolischen Teilreiche und herrschte über die eurasischen Steppen vom Ural bis zur Donau. Gegründet von Batu Khan, einem Enkel Dschingis Khans, kontrollierte sie die russischen Fürstentümer als Vasallen und machte Sarai an der Wolga zu einer bedeutenden Handelsmetropole. Im 14. Jahrhundert konvertierte die Goldene Horde zum sunnitischen Islam und wurde zu einer wichtigen islamischen Macht. Ihre Herrschaft prägte die politische und kulturelle Entwicklung Russlands nachhaltig und beeinflusste Sprache, Verwaltung und Handelswege.",
+          "en": "The Golden Horde, also known as the Ulus of Jochi, was the westernmost of the Mongol successor states and ruled the Eurasian steppes from the Urals to the Danube. Founded by Batu Khan, a grandson of Genghis Khan, it held Russian principalities as vassals and made Sarai on the Volga a major commercial metropolis. In the 14th century, the Golden Horde converted to Sunni Islam and became an important Islamic power. Its rule profoundly shaped the political and cultural development of Russia, influencing language, administration, and trade routes."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9,
+              36
+            ],
+            [
+              0,
+              36
+            ],
+            [
+              4,
+              39.5
+            ],
+            [
+              -2,
+              43.5
+            ],
+            [
+              -9,
+              43.5
+            ],
+            [
+              -9,
+              36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "umayyad-al-andalus",
+        "parentId": "umayyad-caliphate",
+        "startYear": 711,
+        "endYear": 1492,
+        "culturalSphere": "islamic",
+        "color": "#AA4400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Al-Andalus",
+          "en": "Al-Andalus"
+        },
+        "description": {
+          "de": "Al-Andalus war das islamisch beherrschte Gebiet auf der Iberischen Halbinsel und entwickelte sich zur bedeutendsten Schnittstelle zwischen islamischer, jüdischer und christlicher Zivilisation im mittelalterlichen Europa. Córdoba unter Abd ar-Rahman III. wurde zu einer der größten Städte Europas, einem Zentrum von Bibliotheken, Universitäten und einem intellektuellen Leben, das seinesgleichen suchte. Die 'Convivencia' - das Zusammenleben der drei Religionen - brachte bedeutende Leistungen in Philosophie, Medizin, Mathematik und Dichtung hervor. Al-Andalus übermittelte antikes griechisches Wissen und islamische Wissenschaften an das lateinische Europa.",
+          "en": "Al-Andalus was the Muslim-ruled territory on the Iberian Peninsula and became the most important intersection between Islamic, Jewish, and Christian civilization in medieval Europe. Córdoba under Abd ar-Rahman III became one of the largest cities in Europe, a center of libraries, universities, and an intellectual life without parallel. The 'Convivencia' - the coexistence of three religions - produced major achievements in philosophy, medicine, mathematics, and poetry. Al-Andalus transmitted ancient Greek knowledge and Islamic sciences to Latin Europe."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              125,
+              33.5
+            ],
+            [
+              130.5,
+              33.5
+            ],
+            [
+              130.5,
+              38.5
+            ],
+            [
+              129.5,
+              39
+            ],
+            [
+              128.5,
+              40
+            ],
+            [
+              127.5,
+              41.5
+            ],
+            [
+              125.5,
+              42.5
+            ],
+            [
+              124.5,
+              40
+            ],
+            [
+              125,
+              37.5
+            ],
+            [
+              125,
+              33.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "goryeo-kingdom",
+        "startYear": 918,
+        "endYear": 1392,
+        "culturalSphere": "korean",
+        "color": "#CC8899",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Goryeo",
+          "en": "Goryeo Kingdom"
+        },
+        "description": {
+          "de": "Das Königreich Goryeo vereinte die koreanische Halbinsel nach der Periode der Späten Drei Reiche und schuf eine nationale Identität, die bis heute nachwirkt — der Name 'Korea' leitet sich von Goryeo ab. Das Reich war ein Zentrum buddhistischer Gelehrsamkeit, mit der Goryeo-Tripitaka, einer monumentalen Sammlung buddhistischer Schriften auf 80.000 Holzblöcken, als herausragstem Zeugnis. Unter den Goryeo-Königen blühten Porzellankunst (Celadon), Buchdruckkunst und konfuzianisches Bildungswesen — trotz der verheerenden Mongoleninvasionen des 13. Jahrhunderts.",
+          "en": "The Goryeo Kingdom unified the Korean Peninsula following the Later Three Kingdoms period and forged a national identity whose legacy endures — the name 'Korea' itself derives from Goryeo. The kingdom was a center of Buddhist scholarship, exemplified by the Goryeo Tripitaka, a monumental collection of Buddhist scriptures carved on 80,000 woodblocks. Under Goryeo monarchs, celadon porcelain, movable type printing, and Confucian education flourished — despite the devastating Mongol invasions of the 13th century."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              129.5,
+              31
+            ],
+            [
+              141.5,
+              31
+            ],
+            [
+              145,
+              33
+            ],
+            [
+              145.5,
+              36
+            ],
+            [
+              141,
+              38
+            ],
+            [
+              141.5,
+              40.5
+            ],
+            [
+              141,
+              41.5
+            ],
+            [
+              140,
+              42.5
+            ],
+            [
+              141,
+              44.5
+            ],
+            [
+              142,
+              45.5
+            ],
+            [
+              141.5,
+              47
+            ],
+            [
+              138,
+              48
+            ],
+            [
+              135.5,
+              46
+            ],
+            [
+              133,
+              44
+            ],
+            [
+              132,
+              41.5
+            ],
+            [
+              130.5,
+              40
+            ],
+            [
+              130,
+              37.5
+            ],
+            [
+              129.5,
+              34
+            ],
+            [
+              129.5,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kamakura-shogunate",
+        "startYear": 1185,
+        "endYear": 1333,
+        "culturalSphere": "japanese",
+        "color": "#CC8899",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Kamakura-Shogunat",
+          "en": "Kamakura Shogunate"
+        },
+        "description": {
+          "de": "Das Kamakura-Shogunat begründete die Ära der Kriegerherrschaft in Japan: Minamoto no Yoritomo schuf in Kamakura eine militärische Regierung (Bakufu), die neben dem Kaiserhof in Kyoto stand. Unter den Kamakura-Shoguns blühte eine eigenständige Kriegerkultur (Bushi) auf, geprägt von Zen-Buddhismus, Schwertkunst und dem frühen Ethos des Bushido. Das Shogunat wehrte erfolgreich zwei mongolische Invasionsversuche Kublai Khans (1274 und 1281) ab — ein Triumph, der den Mythos der 'Kamikaze' (Göttlicher Wind) begründete.",
+          "en": "The Kamakura Shogunate inaugurated the era of warrior rule in Japan: Minamoto no Yoritomo established a military government (Bakufu) in Kamakura that stood alongside the imperial court in Kyoto. Under the Kamakura shoguns, a distinct warrior culture (Bushi) flourished, characterized by Zen Buddhism, swordsmanship, and the early ethos of Bushido. The shogunate successfully repelled two Mongol invasion attempts by Kublai Khan (1274 and 1281) — a triumph that gave rise to the myth of the 'Kamikaze' (Divine Wind)."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55,
+              35
+            ],
+            [
+              80,
+              35
+            ],
+            [
+              88,
+              40
+            ],
+            [
+              88,
+              44
+            ],
+            [
+              80,
+              46
+            ],
+            [
+              72,
+              46
+            ],
+            [
+              65,
+              46
+            ],
+            [
+              58,
+              44
+            ],
+            [
+              55,
+              40
+            ],
+            [
+              55,
+              35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "chagatai-khanate",
+        "parentId": "mongol-empire",
+        "startYear": 1226,
+        "endYear": 1347,
+        "culturalSphere": "mongol",
+        "color": "#886633",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Tschagatai-Khanat",
+          "en": "Chagatai Khanate"
+        },
+        "description": {
+          "de": "Das Tschagatai-Khanat war der Zentralasien-Teil des Mongolischen Weltreichs, benannt nach Dschingis Khans zweitältestem Sohn Chagatai. Es erstreckte sich über Transoxanien — das kulturelle Herzland des Islam zwischen Amu Darya und Syr Darya — sowie über das Tarim-Becken bis an die Grenzen Chinas. Das Khanat bildete eine Brücke zwischen der iranischen Zivilisation im Westen, der chinesischen Kultur im Osten und den Nomadenwelten der Steppe, und seine Herrschaft ermöglichte den freien Reiseverkehr auf der Seidenstraße in der Pax Mongolica.",
+          "en": "The Chagatai Khanate was the Central Asian portion of the Mongol Empire, named for Genghis Khan's second-eldest son Chagatai. It extended across Transoxiana — the Islamic cultural heartland between the Amu Darya and Syr Darya — and across the Tarim Basin to the borders of China. The khanate formed a bridge between Iranian civilization to the west, Chinese culture to the east, and the nomadic worlds of the steppe, and its rule enabled the free movement of travelers along the Silk Road during the Pax Mongolica."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36,
+              28
+            ],
+            [
+              65,
+              28
+            ],
+            [
+              68,
+              33
+            ],
+            [
+              65,
+              38
+            ],
+            [
+              58,
+              40
+            ],
+            [
+              54,
+              42
+            ],
+            [
+              47,
+              42
+            ],
+            [
+              44,
+              40
+            ],
+            [
+              36,
+              36
+            ],
+            [
+              34,
+              38
+            ],
+            [
+              33,
+              36.5
+            ],
+            [
+              36,
+              34
+            ],
+            [
+              36,
+              28
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "ilkhanate",
+        "parentId": "mongol-empire",
+        "startYear": 1256,
+        "endYear": 1335,
+        "culturalSphere": "mongol",
+        "color": "#886633",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Ilchanat",
+          "en": "Ilkhanate"
+        },
+        "description": {
+          "de": "Das Ilchanat war der persisch-vorderasiatische Teilstaat des Mongolischen Weltreichs, gegründet von Hülegü Khan nach der Zerstörung Bagdads (1258). Unter mongoli­scher Herrschaft erlebten Persien, Irak, Armenien und Teile Anatoliens eine bemerkenswerte kulturelle Renaissance: Persische Malerei, Architektur und Historiographie blühten auf. Bedeutende Ilkhan-Herrscher wie Ghazan Khan (reg. 1295–1304) konvertierten zum Islam und förderten persische Kunst und Wissenschaft. Das Ilchanat vermittelte zwischen östlicher und westlicher Gelehrsamkeit und wurde zu einem Zentrum des Wissenstransfers.",
+          "en": "The Ilkhanate was the Persian-West Asian successor state of the Mongol Empire, founded by Hülegü Khan following the destruction of Baghdad (1258). Under Mongol rule, Persia, Iraq, Armenia, and parts of Anatolia experienced a remarkable cultural renaissance: Persian painting, architecture, and historiography flourished. Prominent Ilkhan rulers such as Ghazan Khan (r. 1295–1304) converted to Islam and patronized Persian art and science. The Ilkhanate mediated between Eastern and Western scholarship and became a center of knowledge transfer."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73,
+              18
+            ],
+            [
+              135,
+              18
+            ],
+            [
+              135,
+              35
+            ],
+            [
+              128,
+              42
+            ],
+            [
+              122,
+              47
+            ],
+            [
+              115,
+              49
+            ],
+            [
+              105,
+              50
+            ],
+            [
+              95,
+              49
+            ],
+            [
+              88,
+              48
+            ],
+            [
+              80,
+              48
+            ],
+            [
+              76,
+              44
+            ],
+            [
+              73,
+              40
+            ],
+            [
+              73,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "yuan-dynasty",
+        "parentId": "mongol-empire",
+        "startYear": 1271,
+        "endYear": 1368,
+        "culturalSphere": "mongol",
+        "color": "#886633",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Yuan-Dynastie",
+          "en": "Yuan Dynasty"
+        },
+        "description": {
+          "de": "Die Yuan-Dynastie war das chinesische Kaiserreich unter mongolischer Herrschaft, gegründet von Kublai Khan als dem Enkel Dschingis Khans. Sie war das erste nichtchinesische Kaiserhaus, das ganz China regierte, und schloss Tibet und die Mongolei in das Kaiserreich ein. Kublai Khans Hauptstadt Dadu (Peking) wurde unter der Pax Mongolica zu einem kosmopolitischen Zentrum des Welthandels, das Reisende wie Marco Polo anzog. Die Yuan-Zeit prägte Chinas Literatur, Theater, Malerei und Keramik nachhaltig und legte die Grundlagen für die kulturelle Synthese der Ming-Dynastieperiode.",
+          "en": "The Yuan Dynasty was the Chinese Empire under Mongol rule, founded by Kublai Khan, grandson of Genghis Khan. It was the first non-Chinese imperial house to rule all of China, incorporating Tibet and Mongolia into the empire. Kublai Khan's capital Dadu (Beijing) became a cosmopolitan center of world trade under the Pax Mongolica, attracting travelers such as Marco Polo. The Yuan period left a lasting imprint on Chinese literature, theater, painting, and ceramics, laying the groundwork for the cultural synthesis of the Ming Dynasty era."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30,
+              42
+            ],
+            [
+              80,
+              42
+            ],
+            [
+              80,
+              55
+            ],
+            [
+              70,
+              58
+            ],
+            [
+              60,
+              60
+            ],
+            [
+              50,
+              58
+            ],
+            [
+              40,
+              55
+            ],
+            [
+              32,
+              50
+            ],
+            [
+              29,
+              46
+            ],
+            [
+              30,
+              42
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "golden-horde",
+        "parentId": "mongol-empire",
+        "startYear": 1242,
+        "endYear": 1502,
+        "culturalSphere": "mongol",
+        "color": "#886633",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Goldene Horde",
+          "en": "Golden Horde"
+        },
+        "description": {
+          "de": "Die Goldene Horde war das westliche Khanat des Mongolischen Weltreichs und herrschte über weite Teile Osteuropas und der eurasischen Steppe. Gegründet von Batu Khan nach dem Feldzug nach Europa (1241–1242), kontrollierte sie das untere Wolgagebiet, die Schwarzmeersteppen und zwang russische Fürstentümer zur Tributzahlung. Die Horde konvertierte im frühen 14. Jahrhundert zum Islam unter Khan Özbeg und erlebte eine wirtschaftliche Blütezeit als Knotenpunkt des eurasischen Handels. Ihre Herrschaft prägte die politische und kulturelle Entwicklung Russlands und der Steppenregion für über zwei Jahrhunderte.",
+          "en": "The Golden Horde was the western khanate of the Mongol Empire, ruling over vast stretches of Eastern Europe and the Eurasian steppe. Founded by Batu Khan following the campaign into Europe (1241–1242), it controlled the lower Volga region, the Black Sea steppes, and compelled Russian principalities to pay tribute. The Horde converted to Islam in the early 14th century under Khan Özbeg and experienced an economic golden age as a hub of Eurasian trade. Its dominion shaped the political and cultural development of Russia and the steppe region for over two centuries."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33,
+              6
+            ],
+            [
+              44,
+              6
+            ],
+            [
+              44,
+              18
+            ],
+            [
+              33,
+              18
+            ],
+            [
+              33,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "solomonic-dynasty",
+        "startYear": 1270,
+        "endYear": 1527,
+        "culturalSphere": "axumite",
+        "color": "#996600",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Salomonische Dynastie",
+          "en": "Solomonic Dynasty"
+        },
+        "description": {
+          "de": "Die Salomonische Dynastie, gegründet 1270 von Yekuno Amlak nach dem Sturz der Zagwe, beanspruchte die Abstammung von König Salomo und der Königin von Saba und legitimierte damit ihre kaiserliche Herrschaft in Äthiopien. Unter Herrschern wie Amda Seyon I. und Zara Yaqob expandierte das Reich erheblich. Die Dynastie festigte das äthiopische Christentum, förderte Literatur in Geez und entwickelte ein einzigartiges Kaisertum, das Äthiopien als unabhängige Nation bis ins 20. Jahrhundert prägte.",
+          "en": "The Solomonic dynasty, founded in 1270 by Yekuno Amlak after overthrowing the Zagwe, claimed descent from King Solomon and the Queen of Sheba, legitimizing their imperial rule over Ethiopia. Under rulers such as Amda Seyon I and Zara Yaqob, the empire expanded significantly. The dynasty consolidated Ethiopian Christianity, fostered literature in Geez, and developed a unique imperial tradition that shaped Ethiopia as an independent nation well into the 20th century."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              15
+            ],
+            [
+              34,
+              15
+            ],
+            [
+              34,
+              24
+            ],
+            [
+              26,
+              24
+            ],
+            [
+              26,
+              15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-makuria",
+        "startYear": 650,
+        "endYear": 1317,
+        "culturalSphere": "nubian",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Makuria",
+          "en": "Kingdom of Makuria"
+        },
+        "description": {
+          "de": "Makuria war ein mächtiges christliches Königreich im heutigen nördlichen Sudan, dessen Herrschaftsgebiet das Niltal zwischen dem 3. und 6. Katarakt umfasste. Mit der Hauptstadt Dongola widerstand es dem arabischen Vormarsch durch den berühmten Baqt-Vertrag von 652 – eines der langlebigsten Friedensabkommen der Geschichte. Makuria pflegte regen Handel, produzierte bedeutende christliche Kunst und bewahrte die nubische Zivilisation über mehr als sechs Jahrhunderte.",
+          "en": "Makuria was a powerful Christian kingdom in present-day northern Sudan, controlling the Nile Valley between the 3rd and 6th cataracts. Based at its capital Dongola, it resisted Arab expansion through the famous Baqt treaty of 652 — one of the longest-lasting peace agreements in history. Makuria maintained vibrant trade, produced significant Christian art, and preserved Nubian civilization for over six centuries."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              8
+            ],
+            [
+              24,
+              8
+            ],
+            [
+              24,
+              20
+            ],
+            [
+              10,
+              20
+            ],
+            [
+              10,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kanem-bornu",
+        "startYear": 700,
+        "endYear": 1380,
+        "culturalSphere": "african",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Kanem-Bornu-Reich",
+          "en": "Kanem-Bornu Empire"
+        },
+        "description": {
+          "de": "Das Kanem-Bornu-Reich entstand um 700 n. Chr. nordöstlich des Tschadsees und entwickelte sich zu einer der bedeutendsten Mächte des zentralen Sudan. Von ihrem Zentrum im Kanem aus kontrollierten die Herrscher der Duguwa- und später der Sayfawa-Dynastie wichtige Sahara-Handelsrouten zwischen Nordafrika und subsaharischen Gebieten. Das Reich pflegte diplomatische Beziehungen bis nach Nordafrika und leistete als frühes islamisches Königreich bedeutende Beiträge zu Bildung und Verwaltung.",
+          "en": "The Kanem-Bornu Empire arose around 700 CE northeast of Lake Chad and grew into one of the most significant powers of the central Sudan. From their heartland in Kanem, the Duguwa and later Sayfawa dynasty rulers controlled vital Saharan trade routes linking North Africa to sub-Saharan regions. The empire maintained diplomatic relations as far as North Africa and, as an early Islamic kingdom, made significant contributions to education and governance."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27,
+              -22
+            ],
+            [
+              35,
+              -22
+            ],
+            [
+              35,
+              -15
+            ],
+            [
+              27,
+              -15
+            ],
+            [
+              27,
+              -22
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "great-zimbabwe",
+        "startYear": 1100,
+        "endYear": 1420,
+        "culturalSphere": "african",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Simbabwe",
+          "en": "Kingdom of Great Zimbabwe"
+        },
+        "description": {
+          "de": "Das Königreich Simbabwe war ein Shona-Königreich auf dem Simbabwe-Hochplateau, benannt nach seinen beeindruckenden Steinbauten – dem Great Zimbabwe, dem größten prä-kolonialen Bauwerk südlich der Sahara. Als Zentrum des Goldhandels zwischen dem Landesinneren und der Küste Mosambiks kontrollierte das Königreich ein Netzwerk von über 150 kleineren Zimbabwes. Die Architektur ohne Mörtel und die komplexe Stadtplanung zeugen von hoher handwerklicher und politischer Organisation.",
+          "en": "The Kingdom of Great Zimbabwe was a Shona kingdom on the Zimbabwe plateau, named for its impressive stone structures — Great Zimbabwe being the largest pre-colonial construction south of the Sahara. As a hub of the gold trade between the interior and the Mozambique coast, the kingdom controlled a network of over 150 smaller zimbabwes. Its mortarless architecture and complex urban planning reflect high levels of craft expertise and political organization."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5,
+              12
+            ],
+            [
+              4,
+              12
+            ],
+            [
+              4,
+              18
+            ],
+            [
+              -5,
+              18
+            ],
+            [
+              -5,
+              12
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "songhai-early",
+        "startYear": 800,
+        "endYear": 1375,
+        "culturalSphere": "african",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Songhai-Königreich (Frühphase)",
+          "en": "Songhai Kingdom (Early Period)"
+        },
+        "description": {
+          "de": "Das frühe Songhai-Königreich entstand um 800 n. Chr. am mittleren Niger-Fluss, wo die Sorko-, Gao- und Do-Völker Siedlungen am Fluss gründeten. Ihr Zentrum Gao entwickelte sich zu einem bedeutenden Handels- und Kulturknoten. Trotz zeitweiliger Abhängigkeit vom Mali-Reich bewahrten die Songhai ihre eigene Herrschaftsstruktur und erlangten 1375 unter Suleiman-Mar ihre Unabhängigkeit – die Grundlage für ihr späteres Reich.",
+          "en": "The early Songhai kingdom emerged around 800 CE along the middle Niger River, where the Sorko, Gao, and Do peoples established riverine settlements. Their center Gao grew into an important commercial and cultural hub. Despite periods of vassalage to the Mali Empire, the Songhai maintained their own ruling structure and regained independence under Suleiman-Mar in 1375 — the foundation for their later empire."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3,
+              4.5
+            ],
+            [
+              7,
+              4.5
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              3,
+              8
+            ],
+            [
+              3,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-benin",
+        "startYear": 1180,
+        "endYear": 1897,
+        "culturalSphere": "african",
+        "color": "#664400",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Benin",
+          "en": "Kingdom of Benin"
+        },
+        "description": {
+          "de": "Das Königreich Benin, auch Edo-Königreich genannt, entstand im heutigen Süd-Nigeria und wurde von den Oba (Königen) der Benin-Dynastie regiert. Berühmt für seine außergewöhnlichen Bronzegüsse und Elfenbeinschnitzereien, pflegte Benin ein hochentwickeltes Hofleben, weitreichende Handelskontakte bis nach Portugal und einen komplexen Verwaltungsapparat. Die Kunst der Benin-Bronzen gilt als Höhepunkt westafrikanischer Metallbearbeitung und bezeugt die kulturelle Raffinesse dieses Reiches.",
+          "en": "The Kingdom of Benin, also known as the Edo Kingdom, emerged in present-day southern Nigeria and was ruled by the Oba (kings) of the Benin dynasty. Famous for its extraordinary bronze castings and ivory carvings, Benin maintained a sophisticated court life, wide-ranging trade contacts as far as Portugal, and a complex administrative apparatus. The art of the Benin bronzes stands as a pinnacle of West African metalwork and testifies to the kingdom's cultural refinement."
+        }
+      }
     }
   ]
 }
