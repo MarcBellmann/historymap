@@ -1,0 +1,686 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [72.0, 8.0],
+        [88.0, 8.0],
+        [88.0, 28.0],
+        [80.0, 30.0],
+        [77.0, 34.0],
+        [72.0, 30.0],
+        [66.0, 24.0],
+        [68.0, 15.0],
+        [72.0, 8.0]
+      ]]
+    },
+    "properties": {
+      "id": "maratha-empire",
+      "startYear": 1674,
+      "endYear": 1818,
+      "peakStartYear": 1720,
+      "peakEndYear": 1760,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Marathen-Reich",
+        "en": "Maratha Empire"
+      },
+      "description": {
+        "de": "Das Marathen-Reich, auch Marathen-Konföderation, war eine der letzten großen einheimischen Mächte des indischen Subkontinents vor der britischen Kolonisierung. Unter Shivaji 1674 gegründet, erstreckte es sich im 18. Jahrhundert über weite Teile Indiens und setzte dem Mughal-Reich entscheidend zu. Die Konföderation der großen Marathen-Dynastien – Scindia, Holkar, Bhonsle und Gaekwad – verkörperte das Ideal des Hindavi Swarajya (Selbstverwaltung).",
+        "en": "The Maratha Empire, also known as the Maratha Confederacy, was one of the last great indigenous powers of the Indian subcontinent before British colonization. Founded by Shivaji in 1674, it expanded across much of India in the 18th century and significantly undermined Mughal authority. The confederacy of great Maratha houses — Scindia, Holkar, Bhonsle, and Gaekwad — embodied the ideal of Hindavi Swarajya (self-rule)."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [68.0, 28.0],
+        [78.0, 28.0],
+        [78.0, 37.0],
+        [74.0, 37.5],
+        [70.0, 36.0],
+        [65.0, 33.0],
+        [63.0, 30.0],
+        [66.0, 28.0],
+        [68.0, 28.0]
+      ]]
+    },
+    "properties": {
+      "id": "sikh-empire",
+      "startYear": 1799,
+      "endYear": 1849,
+      "peakStartYear": 1799,
+      "peakEndYear": 1839,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Sikh-Reich",
+        "en": "Sikh Empire"
+      },
+      "description": {
+        "de": "Das Sikh-Reich unter Maharaja Ranjit Singh war die letzte große unabhängige Macht des indischen Subkontinents vor der britischen Annexion. Von der Einnahme Lahores 1799 bis zur Niederlage im Zweiten Anglo-Sikh-Krieg 1849 umfasste es Punjab, Kashmir und das Grenzgebiet Nordwestindiens. Das religiös vielfältige Reich vereinte Sikhs, Muslime, Hindus und Europäer unter seiner Verwaltung.",
+        "en": "The Sikh Empire under Maharaja Ranjit Singh was the last great independent power of the Indian subcontinent before British annexation. From the capture of Lahore in 1799 until defeat in the Second Anglo-Sikh War in 1849, it encompassed Punjab, Kashmir, and the northwest frontier. The religiously diverse empire united Sikhs, Muslims, Hindus, and Europeans under its administration."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [124.5, 34.0],
+        [130.0, 34.0],
+        [130.5, 37.0],
+        [129.5, 40.0],
+        [128.5, 42.5],
+        [126.0, 42.0],
+        [124.0, 40.0],
+        [124.0, 37.0],
+        [124.5, 34.0]
+      ]]
+    },
+    "properties": {
+      "id": "joseon-dynasty",
+      "startYear": 1392,
+      "endYear": 1897,
+      "peakStartYear": 1392,
+      "peakEndYear": 1897,
+      "culturalSphere": "korean",
+      "color": "#CC8899",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Joseon-Dynastie",
+        "en": "Joseon Dynasty"
+      },
+      "description": {
+        "de": "Die Joseon-Dynastie herrschte 505 Jahre über Korea und prägte die koreanische Identität bis heute. Gegründet 1392 von Taejo Yi Seonggye, führte sie den Neokonfuzianismus als Staatsideologie ein und erlebte eine Blütezeit der koreanischen Kultur, Wissenschaft und Literatur, darunter die Schaffung des Hangul-Alphabets. Obwohl durch japanische und mandschurische Invasionen geschwächt, blieb Korea als ‚Einsiedlerkönigreich' von außen größtenteils isoliert.",
+        "en": "The Joseon dynasty ruled Korea for 505 years and profoundly shaped Korean identity to this day. Founded in 1392 by Taejo Yi Seonggye, it instituted Neo-Confucianism as the state ideology and experienced a flourishing of Korean culture, science, and literature, including the creation of the Hangul alphabet. Although weakened by Japanese and Manchu invasions, Korea remained largely isolated as the 'Hermit Kingdom'."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [99.0, 12.0],
+        [105.5, 12.0],
+        [105.5, 15.5],
+        [104.0, 18.0],
+        [101.0, 20.0],
+        [98.0, 18.5],
+        [97.5, 16.0],
+        [98.5, 13.5],
+        [99.0, 12.0]
+      ]]
+    },
+    "properties": {
+      "id": "ayutthaya-kingdom",
+      "startYear": 1351,
+      "endYear": 1767,
+      "peakStartYear": 1400,
+      "peakEndYear": 1700,
+      "culturalSphere": "southeast-asian",
+      "color": "#AA6622",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Königreich Ayutthaya",
+        "en": "Ayutthaya Kingdom"
+      },
+      "description": {
+        "de": "Das Königreich Ayutthaya war eine der mächtigsten Mächte Südostasiens und Vorläufer des modernen Thailands. Gegründet 1351, entwickelte es sich zum blühenden Handelszentrum und wurde von europäischen Reisenden des 16. Jahrhunderts als eine der drei größten Mächte Asiens (neben Vijayanagara und dem Ming-Reich) bezeichnet. Im April 1767 fiel Ayutthaya nach einer 14-monatigen Belagerung durch Burma.",
+        "en": "The Ayutthaya Kingdom was one of the most powerful polities in Southeast Asia and the precursor of modern Thailand. Founded in 1351, it developed into a flourishing center of trade and was described by 16th-century European travelers as one of the three great powers of Asia (alongside Vijayanagara and Ming China). In April 1767, Ayutthaya fell after a 14-month Burmese siege."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [100.0, 14.0],
+        [106.0, 14.0],
+        [106.5, 18.0],
+        [104.5, 22.5],
+        [102.0, 22.0],
+        [100.5, 20.0],
+        [100.0, 17.0],
+        [100.0, 14.0]
+      ]]
+    },
+    "properties": {
+      "id": "lan-xang-kingdom",
+      "startYear": 1353,
+      "endYear": 1707,
+      "peakStartYear": 1400,
+      "peakEndYear": 1650,
+      "culturalSphere": "southeast-asian",
+      "color": "#AA6622",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Königreich Lan Xang",
+        "en": "Kingdom of Lan Xang"
+      },
+      "description": {
+        "de": "Lan Xang (‚Land der Millionen Elefanten') war von 1353 bis 1707 eines der größten Königreiche Südostasiens und bildete die historische und kulturelle Grundlage für die nationale Identität des heutigen Laos. Das Reich verband verschiedene Lao-Stämme unter einer buddhistischen Monarchie und spielte eine bedeutende Rolle im Handel zwischen China und dem Mekong-Delta.",
+        "en": "Lan Xang ('Land of a Million Elephants') was one of the largest kingdoms in Southeast Asia from 1353 to 1707 and forms the historical and cultural foundation of modern Laos's national identity. The kingdom united various Lao peoples under a Buddhist monarchy and played a significant role in trade between China and the Mekong Delta."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [107.5, -8.5],
+        [112.0, -8.5],
+        [112.5, -6.5],
+        [111.5, -5.5],
+        [108.5, -5.5],
+        [107.0, -6.5],
+        [107.5, -8.5]
+      ]]
+    },
+    "properties": {
+      "id": "mataram-sultanate",
+      "startYear": 1587,
+      "endYear": 1755,
+      "peakStartYear": 1613,
+      "peakEndYear": 1645,
+      "culturalSphere": "southeast-asian",
+      "color": "#AA6622",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Sultanat Mataram",
+        "en": "Mataram Sultanate"
+      },
+      "description": {
+        "de": "Das Sultanat Mataram war das letzte große unabhängige javanische Königreich vor der niederländischen Kolonisierung. Aus dem Inneren Zentraljavas heraus dominierte es zwischen dem späten 16. und frühen 18. Jahrhundert die inseljavanische Politik. Den Höhepunkt seiner Macht erlebte es unter Sultan Agung (reg. 1613–1645), der die meisten konkurrierenden Herrschaften Javas unterwarf. Der zunehmende Einfluss der Niederländischen Ostindien-Kompanie (VOC) führte schließlich zum Zerfall des Reiches.",
+        "en": "The Mataram Sultanate was the last major independent Javanese kingdom before Dutch colonization. Radiating from the interior of Central Java, it dominated Javanese politics between the late 16th and early 18th centuries. It reached its peak under Sultan Agung (r. 1613–1645), who subjugated most rival Javanese rulers. Increasing pressure from the Dutch East India Company (VOC) ultimately led to the sultanate's fragmentation."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [99.5, 1.0],
+        [104.5, 1.0],
+        [105.0, 3.5],
+        [103.5, 5.0],
+        [101.5, 6.0],
+        [100.0, 5.5],
+        [99.0, 3.5],
+        [99.5, 1.0]
+      ]]
+    },
+    "properties": {
+      "id": "malacca-sultanate",
+      "startYear": 1400,
+      "endYear": 1511,
+      "peakStartYear": 1400,
+      "peakEndYear": 1511,
+      "culturalSphere": "southeast-asian",
+      "color": "#AA6622",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Sultanat Malakka",
+        "en": "Malacca Sultanate"
+      },
+      "description": {
+        "de": "Das Sultanat Malakka war das mächtigste maritime Handelsreich Südostasiens im 15. Jahrhundert. Die Hauptstadt Malakka entwickelte sich zu einem der wichtigsten Umschlagplätze der damaligen Welt und zum Zentrum der islamischen Verbreitung in der Region. Klassisches Malaiisch wurde zur Lingua franca der maritimen Welt und die Jawi-Schrift verbreitete sich über die gesamte Region. 1511 fiel die Stadt an die Portugiesen, doch ihr kulturelles Erbe prägt Südostasien bis heute.",
+        "en": "The Malacca Sultanate was the most powerful maritime trading realm in Southeast Asia during the 15th century. Its capital became one of the most important transshipment ports of the time and a center for the spread of Islam throughout the region. Classical Malay became the lingua franca of the maritime world and Jawi script spread across the region. In 1511 the city fell to the Portuguese, but its cultural legacy continues to shape Southeast Asia today."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [119.5, 21.5],
+        [122.0, 21.5],
+        [122.5, 25.5],
+        [121.5, 25.5],
+        [119.5, 24.0],
+        [119.5, 21.5]
+      ]]
+    },
+    "properties": {
+      "id": "qing-taiwan",
+      "parentId": "qing-dynasty",
+      "startYear": 1683,
+      "endYear": 1895,
+      "peakStartYear": 1683,
+      "peakEndYear": 1895,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Taiwan unter der Qing-Dynastie",
+        "en": "Taiwan under Qing Dynasty"
+      },
+      "description": {
+        "de": "Taiwan kam 1683 nach dem Sieg der Qing-Flotte über das Ming-treue Königreich Tungning unter die Herrschaft der Qing-Dynastie. Über zwei Jahrhunderte als Präfektur der Provinz Fujian verwaltet, wurde Taiwan 1887 zur eigenständigen Provinz erhoben. Die Insel erlebte eine starke chinesische Einwanderung und wirtschaftliche Entwicklung. 1895 trat die Qing-Dynasty Taiwan nach der Niederlage im Ersten Japanisch-Chinesischen Krieg an Japan ab.",
+        "en": "Taiwan came under Qing dynasty rule in 1683 after the Qing fleet defeated the Ming-loyalist Kingdom of Tungning. Administered for two centuries as a prefecture of Fujian Province, Taiwan was elevated to its own province in 1887. The island saw significant Chinese immigration and economic development. In 1895, the Qing dynasty ceded Taiwan to Japan after defeat in the First Sino-Japanese War."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [119.0, 38.0],
+        [135.0, 38.0],
+        [135.5, 48.0],
+        [130.0, 53.0],
+        [122.0, 53.0],
+        [115.0, 48.0],
+        [119.0, 38.0]
+      ]]
+    },
+    "properties": {
+      "id": "qing-manchuria",
+      "parentId": "qing-dynasty",
+      "startYear": 1644,
+      "endYear": 1912,
+      "peakStartYear": 1644,
+      "peakEndYear": 1912,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Mandschurei (Qing-Heimat)",
+        "en": "Manchuria (Qing Homeland)"
+      },
+      "description": {
+        "de": "Die Mandschurei war die ancestrale Heimat der Mandschu, der Gründer der Qing-Dynastie. Aus dieser Region brach 1644 die Qing-Armee auf und eroberte China. Als heiliges Stammland war die Mandschurei lange Zeit für Han-Chinesen gesperrt. Die Region umfasst das heutige Nordostchina und bildete die Basis der kaiserlichen Legitimität und militärischen Macht der Qing.",
+        "en": "Manchuria was the ancestral homeland of the Manchu people, founders of the Qing dynasty. From this region, the Qing army launched its conquest of China in 1644. As a sacred ancestral land, Manchuria was long closed to Han Chinese settlement. The region encompasses modern northeast China and formed the basis of Qing imperial legitimacy and military power."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [87.0, 42.0],
+        [120.0, 42.0],
+        [120.0, 50.0],
+        [106.0, 52.0],
+        [87.0, 50.0],
+        [87.0, 42.0]
+      ]]
+    },
+    "properties": {
+      "id": "qing-mongolia",
+      "parentId": "qing-dynasty",
+      "startYear": 1691,
+      "endYear": 1912,
+      "peakStartYear": 1691,
+      "peakEndYear": 1912,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Mongolei unter der Qing-Dynastie",
+        "en": "Mongolia under Qing Dynasty"
+      },
+      "description": {
+        "de": "Die Mongolei wurde 1691 vollständig in die Qing-Dynastie eingegliedert, nachdem die Khalkha-Fürsten Schutz vor den Dsungar-Invasionen gesucht hatten. Als Äußere Mongolei bildete sie über zwei Jahrhunderte eine Kernregion des Qing-Imperiums. Die Qing-Kaiser nutzten ihre mongolische Abstammungslegitimität, um die Kontrolle über die Steppenvölker zu wahren. Mit der Xinhai-Revolution 1911 erklärte die Mongolei ihre Unabhängigkeit.",
+        "en": "Mongolia was fully incorporated into the Qing dynasty in 1691 after the Khalkha princes sought protection from the Dzungar invasions. As Outer Mongolia it formed a core region of the Qing empire for over two centuries. Qing emperors utilized their Mongol descent legitimacy to maintain control over the steppe peoples. With the Xinhai Revolution of 1911, Mongolia declared its independence."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [78.0, 26.0],
+        [97.0, 26.0],
+        [97.0, 36.0],
+        [92.0, 37.0],
+        [84.0, 36.0],
+        [78.0, 32.0],
+        [78.0, 26.0]
+      ]]
+    },
+    "properties": {
+      "id": "qing-tibet",
+      "parentId": "qing-dynasty",
+      "startYear": 1720,
+      "endYear": 1912,
+      "peakStartYear": 1720,
+      "peakEndYear": 1912,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Tibet unter der Qing-Dynastie",
+        "en": "Tibet under Qing Dynasty"
+      },
+      "description": {
+        "de": "Tibet kam 1720 unter Qing-Herrschaft, als die Qing-Armee die invasierenden Dsungaren vertrieb. Als Protektorat bewahrte Tibet eine erhebliche innere Autonomie unter dem Dalai Lama, während die Qing-Kaiser ihre Beziehung als religiöse Schirmherrschaft (Patron-Priester-Verhältnis) definierten. Die Ammans (Qing-Residenten) überwachten die tibetische Verwaltung. Tibet blieb ein wichtiger spiritueller und strategischer Puffer für das Qing-Imperium.",
+        "en": "Tibet came under Qing rule in 1720 when Qing forces expelled the invading Dzungars. As a protectorate, Tibet retained considerable internal autonomy under the Dalai Lama, while Qing emperors defined their relationship as religious patronage (patron-priest relationship). Ambans (Qing residents) supervised Tibetan administration. Tibet remained an important spiritual and strategic buffer for the Qing empire."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [73.0, 35.0],
+        [96.0, 35.0],
+        [96.0, 48.0],
+        [85.0, 48.0],
+        [73.0, 45.0],
+        [73.0, 35.0]
+      ]]
+    },
+    "properties": {
+      "id": "qing-xinjiang",
+      "parentId": "qing-dynasty",
+      "startYear": 1759,
+      "endYear": 1912,
+      "peakStartYear": 1759,
+      "peakEndYear": 1912,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Xinjiang unter der Qing-Dynastie",
+        "en": "Xinjiang under Qing Dynasty"
+      },
+      "description": {
+        "de": "Xinjiang (‚Neue Grenzmark') wurde 1759 nach dem Sieg über das Dsungar-Khanat und die Unterwerfung des Tarim-Beckens vollständig unter Qing-Herrschaft gebracht. Die Region war ethnisch divers, mit Uiguren, Kasachen, Mongolen und anderen Gruppen. Die Qing-Verwaltung unterhielt ein umfangreiches Netz von Garnisonen. 1884 wurde Xinjiang als reguläre Provinz in das Qing-Reich integriert.",
+        "en": "Xinjiang ('New Frontier') was fully brought under Qing rule in 1759 after the defeat of the Dzungar Khanate and subjugation of the Tarim Basin. The region was ethnically diverse, with Uyghurs, Kazakhs, Mongols, and other groups. Qing administration maintained an extensive network of garrisons. In 1884, Xinjiang was integrated into the Qing empire as a regular province."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [87.0, 22.0],
+        [97.0, 22.0],
+        [97.0, 28.0],
+        [90.0, 28.0],
+        [83.0, 27.5],
+        [80.0, 26.0],
+        [80.0, 24.0],
+        [87.0, 22.0]
+      ]]
+    },
+    "properties": {
+      "id": "mughal-bengal",
+      "parentId": "mughal-empire",
+      "startYear": 1576,
+      "endYear": 1765,
+      "peakStartYear": 1576,
+      "peakEndYear": 1757,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Subah Bengalen",
+        "en": "Subah of Bengal"
+      },
+      "description": {
+        "de": "Bengalen war die reichste Provinz des Mughal-Reiches und wurde von Kaiser Aurangzeb als ‚Paradies der Nationen' beschrieben. Eingegliedert nach der Niederlage des Bengalen-Sultanats 1576, bildete die Subah ein blühendes Zentrum für Textilindustrie, Schiffbau und internationalen Handel. Im 18. Jahrhundert erlangte sie unter den Nawabs von Bengalen de-facto-Unabhängigkeit, bevor die Britische Ostindien-Kompanie nach der Schlacht von Plassey 1757 die Kontrolle übernahm.",
+        "en": "Bengal was the wealthiest province of the Mughal empire, described by Emperor Aurangzeb as 'the paradise of nations'. Incorporated after the defeat of the Bengal Sultanate in 1576, the subah was a flourishing center of textile manufacturing, shipbuilding, and international trade. In the 18th century it achieved de facto independence under the Nawabs of Bengal before the British East India Company took control after the Battle of Plassey in 1757."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [73.0, 15.0],
+        [83.0, 15.0],
+        [83.0, 21.0],
+        [78.0, 23.0],
+        [73.0, 22.0],
+        [70.0, 19.0],
+        [71.0, 16.0],
+        [73.0, 15.0]
+      ]]
+    },
+    "properties": {
+      "id": "mughal-deccan",
+      "parentId": "mughal-empire",
+      "startYear": 1596,
+      "endYear": 1724,
+      "peakStartYear": 1636,
+      "peakEndYear": 1707,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Subah Dekkan",
+        "en": "Subah of Deccan"
+      },
+      "description": {
+        "de": "Die Dekkan-Subah war eine der südlichsten Provinzen des Mughal-Reiches und umfasste das strategisch wichtige Dekkan-Plateau. Sie wurde ab 1596 unter der Mughal-Verwaltung organisiert und nach Aurangzebs Reorganisation 1636 in vier Subahs aufgeteilt. Die Region war Schauplatz jahrzehntelanger Kämpfe zwischen den Mughals und den Dekkan-Sultanaten sowie später den Marathen, was letztendlich zum Niedergang der Mughal-Herrschaft führte.",
+        "en": "The Deccan Subah was one of the southernmost provinces of the Mughal empire and encompassed the strategically vital Deccan plateau. It was organized under Mughal administration from 1596 and divided into four subahs after Aurangzeb's reorganization in 1636. The region was the theater of decades-long struggles between the Mughals and the Deccan Sultanates, and later the Marathas, which ultimately contributed to the decline of Mughal power."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [70.0, 28.0],
+        [77.5, 28.0],
+        [78.0, 34.0],
+        [74.5, 36.5],
+        [70.0, 35.0],
+        [66.5, 32.0],
+        [67.0, 30.0],
+        [70.0, 28.0]
+      ]]
+    },
+    "properties": {
+      "id": "mughal-punjab",
+      "parentId": "mughal-empire",
+      "startYear": 1580,
+      "endYear": 1752,
+      "peakStartYear": 1580,
+      "peakEndYear": 1707,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Subah Lahore (Punjab)",
+        "en": "Subah of Lahore (Punjab)"
+      },
+      "description": {
+        "de": "Die Subah Lahore bildete das Herzstück des Mughal-Punjab und wurde 1580 bei Akbars Verwaltungsreform als eine der ursprünglichen zwölf Mughal-Provinzen gegründet. Lahore selbst war zeitweise die effektive Hauptstadt des Mughal-Reiches. Die strategische Provinz kontrollierte die Zugänge über den Khyber-Pass und die Nordwestgrenze. 1752 wechselte der Subahdar seine Loyalität zu Ahmad Shah Durrani, was den Beginn des Niedergangs der Mughal-Kontrolle über Punjab markierte.",
+        "en": "The Subah of Lahore formed the heartland of Mughal Punjab and was established in 1580 as one of the original twelve Mughal provinces during Akbar's administrative reforms. Lahore itself served periodically as the effective capital of the Mughal empire. The strategic province controlled access via the Khyber Pass and the northwest frontier. In 1752 the subahdar transferred his allegiance to Ahmad Shah Durrani, marking the beginning of the decline of Mughal control over Punjab."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [68.0, 20.0],
+        [75.5, 20.0],
+        [76.5, 24.5],
+        [74.0, 26.0],
+        [70.0, 24.0],
+        [66.5, 23.0],
+        [66.5, 21.0],
+        [68.0, 20.0]
+      ]]
+    },
+    "properties": {
+      "id": "mughal-gujarat",
+      "parentId": "mughal-empire",
+      "startYear": 1572,
+      "endYear": 1751,
+      "peakStartYear": 1572,
+      "peakEndYear": 1707,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Subah Gujarat",
+        "en": "Subah of Gujarat"
+      },
+      "description": {
+        "de": "Die Gujarat-Subah war eine der wohlhabendsten Provinzen des Mughal-Reiches und gab den Mughals erstmals Zugang zum Arabischen Meer. Kaiser Akbar annektierte Gujarat 1572–1573 und machte es zur bedeutendsten Handelsprovinz des Imperiums. Die Region florierte durch den Seehandel mit dem Osmanischen Reich, Persien und Europa. Im 18. Jahrhundert schwächten die wachsende Macht der Marathen und innere Unruhen die Mughal-Kontrolle, bis Ahmedabad 1752 an die Marathen fiel.",
+        "en": "The Gujarat Subah was one of the wealthiest provinces of the Mughal empire and gave the Mughals their first access to the Arabian Sea. Emperor Akbar annexed Gujarat in 1572–1573, making it the empire's most important trading province. The region flourished through maritime trade with the Ottoman Empire, Persia, and Europe. In the 18th century, growing Maratha power and internal unrest weakened Mughal control until Ahmedabad fell to the Marathas in 1752."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [72.5, 24.0],
+        [79.0, 24.0],
+        [79.5, 28.0],
+        [76.5, 28.5],
+        [73.0, 27.5],
+        [71.0, 25.5],
+        [72.5, 24.0]
+      ]]
+    },
+    "properties": {
+      "id": "mughal-rajputana",
+      "parentId": "mughal-empire",
+      "startYear": 1580,
+      "endYear": 1818,
+      "peakStartYear": 1580,
+      "peakEndYear": 1707,
+      "culturalSphere": "indian",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Subah Rajputana (Ajmer)",
+        "en": "Subah of Rajputana (Ajmer)"
+      },
+      "description": {
+        "de": "Die Ajmer-Subah (später Rajputana) war ein zentrales Bindeglied zwischen den Mughal-Territorien und den Rajput-Königreichen. Nach dem Abschluss von Bündnissen mit bedeutenden Rajput-Dynastien wie den Kachhwaha und Rathore wurde die Region in das Mughal-Verwaltungssystem integriert. Rajput-Fürsten dienten als hochrangige Generäle und Gouverneure, während sie gleichzeitig ihre regionalen Dynastien beibehielten. Diese Allianz war ein Grundpfeiler der Mughal-Macht in Nordindien.",
+        "en": "The Ajmer Subah (later Rajputana) was a key link between Mughal territories and the Rajput kingdoms. After forging alliances with major Rajput dynasties such as the Kachhwaha and Rathore, the region was integrated into the Mughal administrative system. Rajput princes served as senior generals and governors while maintaining their regional dynasties. This alliance was a cornerstone of Mughal power in northern India."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [107.0, 18.0],
+        [121.0, 18.0],
+        [121.0, 27.0],
+        [116.0, 32.0],
+        [110.0, 34.0],
+        [107.0, 32.0],
+        [107.0, 18.0]
+      ]]
+    },
+    "properties": {
+      "id": "ming-north-zhili",
+      "parentId": "ming-dynasty",
+      "startYear": 1368,
+      "endYear": 1644,
+      "peakStartYear": 1368,
+      "peakEndYear": 1644,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Nord-Zhili (Beijing)",
+        "en": "Northern Zhili (Beijing)"
+      },
+      "description": {
+        "de": "Nord-Zhili (Beizhili – ‚Nördlich Direkt Verwaltetes Gebiet') war die Kernprovinz der Ming-Dynastie und Heimat der Hauptstadt Beijing. Direkt von der kaiserlichen Regierung verwaltet, umfasste die Region das politische und kulturelle Herz des Reiches. Nach dem Umzug der Hauptstadt von Nanjing nach Beijing durch den Yongle-Kaiser 1421 wurde Nord-Zhili zum Mittelpunkt der Ming-Herrschaft und Sitz der großen imperialen Institutionen.",
+        "en": "Northern Zhili (Beizhili – 'Northern Directly Administered Area') was the core province of the Ming dynasty and home to the capital Beijing. Directly administered by the imperial government, the region encompassed the political and cultural heart of the empire. After the Yongle Emperor moved the capital from Nanjing to Beijing in 1421, Northern Zhili became the center of Ming governance and seat of the great imperial institutions."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [107.0, 27.0],
+        [122.5, 27.0],
+        [122.5, 35.0],
+        [116.0, 36.0],
+        [110.0, 34.0],
+        [107.0, 32.0],
+        [107.0, 27.0]
+      ]]
+    },
+    "properties": {
+      "id": "ming-south-zhili",
+      "parentId": "ming-dynasty",
+      "startYear": 1368,
+      "endYear": 1644,
+      "peakStartYear": 1368,
+      "peakEndYear": 1644,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Süd-Zhili (Nanjing)",
+        "en": "Southern Zhili (Nanjing)"
+      },
+      "description": {
+        "de": "Süd-Zhili (Nanzhili – ‚Südlich Direkt Verwaltetes Gebiet') war die Wiege der Ming-Dynastie mit der ursprünglichen Hauptstadt Nanjing. Auch nach der Verlegung der Hauptstadt nach Beijing blieb Nanjing Nebenhauptstadt. Die Region umfasste das wirtschaftlich produktivste Kerngebiet Chinas im Yangzi-Delta mit blühendem Textilhandel, Seidenproduktion und Keramikmanufaktur. Heute entspricht das Gebiet den Provinzen Jiangsu und Anhui.",
+        "en": "Southern Zhili (Nanzhili – 'Southern Directly Administered Area') was the birthplace of the Ming dynasty with the original capital Nanjing. Even after the capital was moved to Beijing, Nanjing remained a secondary capital. The region encompassed China's most economically productive core area in the Yangtze Delta, with flourishing textile trade, silk production, and ceramic manufacturing. Today the territory corresponds to Jiangsu and Anhui provinces."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [97.5, 21.5],
+        [108.5, 21.5],
+        [108.5, 29.0],
+        [103.0, 29.5],
+        [98.0, 28.0],
+        [97.5, 25.0],
+        [97.5, 21.5]
+      ]]
+    },
+    "properties": {
+      "id": "ming-yunnan",
+      "parentId": "ming-dynasty",
+      "startYear": 1382,
+      "endYear": 1644,
+      "peakStartYear": 1382,
+      "peakEndYear": 1644,
+      "culturalSphere": "chinese",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Provinz Yunnan (Ming)",
+        "en": "Yunnan Province (Ming)"
+      },
+      "description": {
+        "de": "Die Ming-Provinz Yunnan wurde 1382 nach der Vertreibung der Yuan-Reste aus der Region gegründet. Die kulturell und ethnisch vielfältigste Provinz des Ming-Reiches war Heimat dutzender nicht-chinesischer Völker. Über Yunnan verliefen wichtige Handelswege nach Südostasien, Burma und Tibet. Der berühmte Entdecker Zheng He stammte aus Yunnan. Die Region blieb eine Grenzprovinz mit erheblicher lokaler Autonomie unter Tusi (einheimischen Stammesführern).",
+        "en": "Ming Yunnan Province was established in 1382 after the expulsion of Yuan remnants from the region. The culturally and ethnically most diverse province of the Ming empire was home to dozens of non-Chinese peoples. Important trade routes to Southeast Asia, Burma, and Tibet passed through Yunnan. The famous explorer Zheng He hailed from Yunnan. The region remained a frontier province with considerable local autonomy under tusi (native chieftains)."
+      }
+    }
+  }
+]
