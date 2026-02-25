@@ -66,6 +66,42 @@ public/
 - Year encoding: negative integers = BC (e.g. `-44` = 44 BC), positive = AD
 - **MapLibre click gotcha**: nested objects in feature properties (e.g. `labels`, `description`) are serialized as JSON strings by MapLibre. Always `JSON.parse` them in the click handler before use.
 
+## Epoch System
+
+`app/data/config.ts` exports two things:
+
+**`epochs`** — array of sub-epochs used for timeline labeling:
+| id | Range | DE | EN |
+|----|-------|----|----|
+| `early-antiquity` | −1000 to −501 | Frühe Antike | Early Antiquity |
+| `antiquity` | −500 to 499 | Klassische Antike | Classical Antiquity |
+| `medieval` | 500 to 1499 | Mittelalter | Middle Ages |
+| `early-modern` | 1500 to 1900 | Frühe Neuzeit | Early Modern |
+
+**`defaultEpoch`** — full navigation range (−1000 to 1900). Used for clamping the URL year and loader bounds.
+
+In `index.tsx`, the current sub-epoch is derived from the year and merged with `defaultEpoch` before being passed to `TimelineSlider`:
+```ts
+const currentEpoch = epochs.find(e => currentYear >= e.startYear && currentYear <= e.endYear) ?? epochs[epochs.length - 1]!;
+const sliderEpoch = { ...defaultEpoch, labels: currentEpoch.labels };
+```
+This way navigation always spans the full range, but the label reflects the historical period.
+
+## Data Loading (Lazy Chunks)
+
+Decade data is loaded via TanStack Router's `loaderDeps` + `loader` in `app/routes/index.tsx`:
+
+```ts
+loaderDeps: ({ search: { year } }) => ({ decade: yearToDecade(clampedYear) }),
+loader: async ({ deps: { decade } }) => {
+  // parallel-fetches regions, cities, and ±50yr events for the decade
+}
+```
+
+- `import.meta.glob` is used **without** `{ eager: true }` → Vite splits each decade file into its own chunk (~870 files), none bundled at startup.
+- The loader re-runs only when the **decade** changes (not every year), and prefetches the next decade automatically via `defaultPreload: "intent"`.
+- Events are loaded from 11 surrounding decades (±50 years) to ensure continuity near decade boundaries.
+
 ## Data Model
 
 ### cities.json
@@ -116,7 +152,7 @@ visible when: displayStart <= decade && (displayEnd === null || displayEnd >= de
    ```sh
    PATH="/home/marc/.nvm/versions/node/v22.20.0/bin:/home/marc/.bun/bin:$PATH" bunx tsx scripts/generate-decades.ts
    ```
-3. The script writes one file per decade (−500 to +500, step 10) into `cities/`, `events/`, `regions/`
+3. The script writes one file per decade (−1000 to +1900, step 10) into `cities/`, `events/`, `regions/`
 4. The app loads only the relevant decade file at runtime — never the full source files
 
 **Never edit the generated files** in `cities/`, `events/`, `regions/` directly.
