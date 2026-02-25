@@ -5,7 +5,7 @@ import { Globe, Languages } from "lucide-react";
 import { MapView } from "~/components/Map/MapView";
 import { TimelineSlider } from "~/components/Timeline/TimelineSlider";
 import { DetailPanel } from "~/components/Detail/DetailPanel";
-import { defaultEpoch } from "~/data/config";
+import { epochs, defaultEpoch } from "~/data/config";
 import { yearToDecade } from "~/lib/decadeUtils";
 import type { SelectedItem, City, HistoricalEvent } from "~/types/history";
 import type { FeatureCollection } from "geojson";
@@ -66,6 +66,11 @@ function HomePage() {
   const { regions, cities, events } = Route.useLoaderData();
   const [selectedItem, setSelectedItem] = useState<SelectedItem>(null);
 
+  const currentEpoch =
+    epochs.find((e) => currentYear >= e.startYear && currentYear <= e.endYear) ??
+    epochs[epochs.length - 1]!;
+  const sliderEpoch = { ...defaultEpoch, labels: currentEpoch.labels };
+
   const handleYearChange = useCallback(
     (year: number) => {
       navigate({ search: { year }, replace: true });
@@ -112,7 +117,7 @@ function HomePage() {
       <div className="absolute bottom-4 left-1/2 -translate-x-1/2 z-10 w-full max-w-xl px-4">
         <TimelineSlider
           currentYear={currentYear}
-          epoch={epoch}
+          epoch={sliderEpoch}
           onYearChange={handleYearChange}
           lang={lang}
         />
