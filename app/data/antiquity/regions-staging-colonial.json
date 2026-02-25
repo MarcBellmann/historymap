@@ -1,0 +1,439 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-82.0, 25.0],
+        [-52.0, 25.0],
+        [-52.0, 50.0],
+        [-60.0, 52.0],
+        [-70.0, 55.0],
+        [-82.0, 50.0],
+        [-90.0, 45.0],
+        [-82.0, 25.0]
+      ]]
+    },
+    "properties": {
+      "id": "british-empire-north-america",
+      "startYear": 1607,
+      "endYear": 1783,
+      "peakStartYear": 1700,
+      "peakEndYear": 1783,
+      "culturalSphere": "british",
+      "color": "#CC3333",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Britisches Nordamerika",
+        "en": "British Empire - North America"
+      },
+      "description": {
+        "de": "Die britischen Kolonien an der Ostküste Nordamerikas entstanden ab 1607 mit der Gründung Jamestowns in Virginia. Auf Kosten der indigenen Bevölkerung — der Powhatan, Wampanoag und vieler weiterer Nationen — wuchs das Siedlungsgebiet bis zur Atlantikküste Kanadas. Die dreizehn Kolonien erklärten 1776 ihre Unabhängigkeit und gründeten die Vereinigten Staaten von Amerika.",
+        "en": "British colonies on North America's Atlantic seaboard began with Jamestown in 1607 and expanded at the expense of indigenous peoples — the Powhatan, Wampanoag, and many other nations. The thirteen colonies declared independence in 1776, forming the United States of America. Britain retained Canada and Caribbean territories after the 1783 Treaty of Paris."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [68.0, 8.0],
+        [90.0, 20.0],
+        [92.0, 26.0],
+        [88.0, 28.0],
+        [80.0, 28.0],
+        [72.0, 24.0],
+        [68.0, 22.0],
+        [64.0, 18.0],
+        [68.0, 8.0]
+      ]]
+    },
+    "properties": {
+      "id": "british-empire-india",
+      "startYear": 1757,
+      "endYear": 1947,
+      "peakStartYear": 1800,
+      "peakEndYear": 1900,
+      "culturalSphere": "british",
+      "color": "#CC3333",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Britisch-Indien",
+        "en": "British Empire - India"
+      },
+      "description": {
+        "de": "Nach dem Sieg der East India Company in der Schlacht von Plassey 1757 baute Großbritannien seine Kontrolle über den indischen Subkontinent aus. Für die Bevölkerung Indiens bedeutete dies wirtschaftliche Ausbeutung, den Verlust traditioneller Handelswege und politischer Souveränität. Der Sepoy-Aufstand von 1857 führte zur direkten Kronherrschaft und endete erst mit der indischen Unabhängigkeit 1947.",
+        "en": "After the East India Company's victory at Plassey in 1757, Britain steadily expanded control across the subcontinent. For Indians, this meant economic exploitation, destruction of traditional industries, and suppression of political sovereignty. The Sepoy Uprising of 1857 brought direct Crown rule. Independence came in 1947 after decades of resistance led by figures including Mahatma Gandhi."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [16.0, -35.0],
+        [32.0, -27.0],
+        [42.0, -11.0],
+        [36.0, 5.0],
+        [4.0, 10.0],
+        [3.0, 6.0],
+        [12.0, -3.0],
+        [14.0, -18.0],
+        [16.0, -35.0]
+      ]]
+    },
+    "properties": {
+      "id": "british-empire-africa",
+      "startYear": 1795,
+      "endYear": 1910,
+      "peakStartYear": 1850,
+      "peakEndYear": 1910,
+      "culturalSphere": "british",
+      "color": "#CC3333",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Britisches Afrika",
+        "en": "British Empire - Africa"
+      },
+      "description": {
+        "de": "Im Zuge des Wettlaufs um Afrika sicherte sich Großbritannien weite Teile des südlichen und östlichen Afrikas sowie Nigerieas. Die Kapkolonie, Natal, Kenia und Nigeria wurden Teil des Empires. Die einheimischen Bevölkerungen — Zulu, Xhosa, Kikuyu und viele andere — leisteten vielfach bewaffneten Widerstand gegen die Landnahme und Unterwerfung.",
+        "en": "During the Scramble for Africa, Britain secured large parts of southern and eastern Africa as well as Nigeria. The Cape Colony, Natal, Kenya and Nigeria became imperial possessions. Indigenous peoples — Zulu, Xhosa, Kikuyu, and many others — frequently resisted conquest through armed struggle. Britain's presence restructured local economies and societies for extraction of raw materials."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [112.0, -38.0],
+        [154.0, -38.0],
+        [154.0, -10.0],
+        [130.0, -10.0],
+        [112.0, -22.0],
+        [112.0, -38.0]
+      ]]
+    },
+    "properties": {
+      "id": "british-empire-australia",
+      "startYear": 1788,
+      "endYear": 1901,
+      "peakStartYear": 1820,
+      "peakEndYear": 1901,
+      "culturalSphere": "british",
+      "color": "#CC3333",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Britisch-Australien",
+        "en": "British Empire - Australia/Pacific"
+      },
+      "description": {
+        "de": "Die britische Besiedlung Australiens begann 1788 mit der Ankunft der First Fleet in Sydney Cove. Für die Aboriginal-Völker bedeutete die Kolonisierung den Verlust ihres Landes, die Zerstörung ihrer Kulturen und eine dramatische Verringerung ihrer Bevölkerung. 1901 schlossen sich die australischen Kolonien zur Commonwealth of Australia zusammen.",
+        "en": "British settlement of Australia began in 1788 with the arrival of the First Fleet at Sydney Cove, initially as a penal colony. For Aboriginal Australians, colonization brought dispossession of land, destruction of cultures, and catastrophic population decline. The continent's vast interior was gradually opened through exploration. In 1901, the colonies federated as the Commonwealth of Australia."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-100.0, 26.0],
+        [-52.0, 26.0],
+        [-52.0, 50.0],
+        [-68.0, 52.0],
+        [-90.0, 49.0],
+        [-100.0, 45.0],
+        [-97.0, 30.0],
+        [-100.0, 26.0]
+      ]]
+    },
+    "properties": {
+      "id": "french-colonial-americas",
+      "startYear": 1534,
+      "endYear": 1803,
+      "peakStartYear": 1680,
+      "peakEndYear": 1763,
+      "culturalSphere": "french",
+      "color": "#557744",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Französisches Kolonialreich – Amerika",
+        "en": "French Colonial Empire - Americas"
+      },
+      "description": {
+        "de": "Neufrankreich erstreckte sich in seiner Blütezeit von Neufundland bis zum Golf von Mexiko entlang der Flüsse Saint Lawrence und Mississippi. Jacques Cartier erkundete das Gebiet ab 1534; erfolgreiche Siedlungen entstanden in Quebec und Acadia im 17. Jahrhundert. Die indigenen Völker — Huron-Wendat, Algonquin und andere — waren zunächst Handelspartner, wurden jedoch zunehmend von Krankheiten und Landvertreibung getroffen. 1763 verlor Frankreich Neufrankreich im Siebenjährigen Krieg.",
+        "en": "New France at its height extended from Newfoundland to the Gulf of Mexico along the St. Lawrence and Mississippi rivers. Jacques Cartier explored from 1534; successful settlements grew in Quebec and Acadia. Indigenous nations — the Huron-Wendat, Algonquin, and others — were initially trading partners but increasingly faced disease and displacement. France lost New France in the Seven Years' War in 1763, and Napoleon sold Louisiana to the United States in 1803."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-6.0, 18.0],
+        [12.0, 18.0],
+        [22.0, 22.0],
+        [26.0, 30.0],
+        [10.0, 38.0],
+        [-2.0, 37.0],
+        [-6.0, 32.0],
+        [-6.0, 18.0]
+      ]]
+    },
+    "properties": {
+      "id": "french-colonial-africa-asia",
+      "startYear": 1830,
+      "endYear": 1900,
+      "peakStartYear": 1870,
+      "peakEndYear": 1900,
+      "culturalSphere": "french",
+      "color": "#557744",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Französisches Kolonialreich – Afrika",
+        "en": "French Colonial Empire - Africa"
+      },
+      "description": {
+        "de": "Frankreichs zweites Kolonialreich begann 1830 mit der Eroberung Algeriens, einem Krieg der von algerischen Historikern als Genozid beschrieben wird. Die Franzosen schätzten, dass bis 1875 rund 825.000 Algerier getötet wurden. Das Kolonialreich breitete sich auf Westafrika, Tunesien und Marokko aus. Die algerische Unabhängigkeitsbewegung mündete nach einem brutalen Krieg 1962 in der Unabhängigkeit.",
+        "en": "France's second colonial empire began with the conquest of Algeria in 1830 — a campaign Algerian historians describe as genocidal, with estimates of 825,000 Algerians killed by 1875. Algeria was eventually ruled as French departments. The empire expanded into West Africa, Tunisia, and Morocco. Algerian independence came in 1962 after a brutal war for self-determination."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [100.0, 8.0],
+        [110.0, 10.0],
+        [108.0, 22.0],
+        [104.0, 24.0],
+        [100.0, 22.0],
+        [98.0, 16.0],
+        [100.0, 8.0]
+      ]]
+    },
+    "properties": {
+      "id": "french-indochina",
+      "startYear": 1862,
+      "endYear": 1954,
+      "peakStartYear": 1887,
+      "peakEndYear": 1940,
+      "culturalSphere": "french",
+      "color": "#557744",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Französisch-Indochina",
+        "en": "French Indochina"
+      },
+      "description": {
+        "de": "Frankreich kolonisierte das heutige Vietnam, Kambodscha und Laos zwischen 1862 und 1887. Die Ressourcen der Region — Reis, Kautschuk und Kohle — wurden für den Metropolmarkt ausgebeutet. Trotz der 'Zivilisierungsmission' hatten die einheimischen Bevölkerungen begrenzten Zugang zu Bildung und kaum politische Rechte. Ho Chi Minh und die Viet Minh erklärten 1945 die Unabhängigkeit; 1954 endete die französische Herrschaft in der Niederlage von Dien Bien Phu.",
+        "en": "France colonized present-day Vietnam, Cambodia, and Laos between 1862 and 1887, consolidated as Indochinese Union in 1887. The region's resources — rice, rubber, and coal — were exploited for the metropolitan market. Despite the 'civilizing mission', indigenous peoples had limited educational access and minimal political rights. Ho Chi Minh declared independence in 1945; French rule ended with defeat at Dien Bien Phu in 1954."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-74.0, -34.0],
+        [-34.0, -34.0],
+        [-34.0, -3.0],
+        [-44.0, 5.0],
+        [-52.0, 5.0],
+        [-74.0, -2.0],
+        [-74.0, -34.0]
+      ]]
+    },
+    "properties": {
+      "id": "portuguese-empire-brazil",
+      "startYear": 1500,
+      "endYear": 1822,
+      "peakStartYear": 1650,
+      "peakEndYear": 1800,
+      "culturalSphere": "portuguese",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Portugiesisch-Brasilien",
+        "en": "Portuguese Empire - Brazil"
+      },
+      "description": {
+        "de": "Pedro Álvares Cabral erreichte 1500 das heutige Brasilien. Die portugiesische Kolonialisierung stützte sich auf die Ausbeutung indigener Völker und den transatlantischen Sklavenhandel aus Afrika. Millionen versklavter Afrikaner wurden in die Zuckerrohr- und Goldminen deportiert. Die Unabhängigkeit wurde 1822 unter Kaiser Dom Pedro I. ausgerufen. Brasilien blieb das einzige portugiesischsprachige Land Lateinamerikas.",
+        "en": "Pedro Álvares Cabral reached Brazil in 1500. Portuguese colonization relied on indigenous labor and then on transatlantic African slavery — millions of enslaved Africans were transported to work sugar plantations and gold mines. Brazil's economy went through cycles of brazilwood, sugar, and gold. Independence was declared in 1822 under Emperor Dom Pedro I, forming a single state — uniquely, Brazil did not fragment as Spanish America did."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [10.0, -18.0],
+        [24.0, -18.0],
+        [26.0, -10.0],
+        [22.0, -4.0],
+        [18.0, -2.0],
+        [12.0, -2.0],
+        [10.0, -8.0],
+        [10.0, -18.0]
+      ]]
+    },
+    "properties": {
+      "id": "portuguese-empire-africa-west",
+      "startYear": 1575,
+      "endYear": 1975,
+      "peakStartYear": 1650,
+      "peakEndYear": 1900,
+      "culturalSphere": "portuguese",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Portugiesisches Afrika – Angola",
+        "en": "Portuguese Empire - Angola"
+      },
+      "description": {
+        "de": "Portugal errichtete ab 1575 Handelsstützpunkte an der angolanischen Küste. Angola war eines der zentralen Zentren des transatlantischen Sklavenhandels — Millionen von Menschen des Königreichs Kongo, Ndongo und anderer Reiche wurden nach Brasilien und in die Karibik verschleppt. Die vollständige Kontrolle über das Innere wurde erst Anfang des 20. Jahrhunderts durchgesetzt. Die Unabhängigkeit kam 1975 nach dem Nelkenrevolution in Portugal.",
+        "en": "Portugal established coastal trading posts in Angola from 1575. The region became a central hub of the transatlantic slave trade — millions from the Kingdom of Kongo, Ndongo, and other polities were transported to Brazil and the Caribbean. Full interior control was only achieved in the early 20th century. Independence came in 1975 following Portugal's Carnation Revolution, ending nearly 400 years of colonial presence."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [32.0, -26.0],
+        [42.0, -26.0],
+        [40.0, -10.0],
+        [36.0, -4.0],
+        [34.0, -8.0],
+        [34.0, -16.0],
+        [32.0, -22.0],
+        [32.0, -26.0]
+      ]]
+    },
+    "properties": {
+      "id": "portuguese-empire-africa-east",
+      "startYear": 1498,
+      "endYear": 1975,
+      "peakStartYear": 1600,
+      "peakEndYear": 1900,
+      "culturalSphere": "portuguese",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Portugiesisches Afrika – Mosambik",
+        "en": "Portuguese Empire - Mozambique"
+      },
+      "description": {
+        "de": "Vasco da Gama erreichte 1498 die mosambikanische Küste auf dem Weg nach Indien. Portugal nutzte die ostafrikanische Küste als Stützpunkt auf dem Seeweg nach Asien und gründete Handelsstationen an der Küste und im Sambesi-Becken. Die volle Kontrolle des Innenlandes wurde erst 1918 gesichert. Mozambique erlangte seine Unabhängigkeit 1975 nach einem jahrelangen Befreiungskrieg der FRELIMO.",
+        "en": "Vasco da Gama reached the Mozambican coast in 1498 en route to India. Portugal used East Africa as a waystation on the sea route to Asia, establishing coastal trading posts and penetrating the Zambezi basin. Full interior control was only secured in 1918. Mozambique gained independence in 1975 after years of armed struggle by FRELIMO, ending nearly five centuries of Portuguese presence."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [72.0, 14.0],
+        [80.0, 10.0],
+        [82.0, 14.0],
+        [80.0, 18.0],
+        [74.0, 20.0],
+        [72.0, 18.0],
+        [72.0, 14.0]
+      ]]
+    },
+    "properties": {
+      "id": "portuguese-empire-asia-goa",
+      "startYear": 1510,
+      "endYear": 1961,
+      "peakStartYear": 1530,
+      "peakEndYear": 1700,
+      "culturalSphere": "portuguese",
+      "color": "#228844",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Portugiesisches Asien – Goa",
+        "en": "Portuguese Empire - Goa"
+      },
+      "description": {
+        "de": "Goa wurde 1510 von Afonso de Albuquerque eingenommen und wurde zum Zentrum des portugiesischen Asienhandels. Als 'Goldenes Goa' war es ein bedeutendes Handelszentrum für Gewürze, Seide und Edelsteine. Für die einheimische Bevölkerung brachte die Herrschaft die Inquisition und erzwungene Bekehrungen. Goa blieb bis 1961 portugiesisch, als Indien das Territorium eingliederte — das letzte europäische Kolonialterritorium auf dem Subkontinent.",
+        "en": "Goa was seized by Afonso de Albuquerque in 1510 and became the center of Portuguese trade in Asia. As 'Golden Goa' it was a major hub for spices, silk, and precious stones. For the indigenous population, rule brought the Inquisition and forced conversions. Goa remained Portuguese until 1961 when India annexed the territory — the last European colonial territory on the subcontinent."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [95.0, -8.0],
+        [140.0, -8.0],
+        [140.0, 6.0],
+        [120.0, 8.0],
+        [104.0, 4.0],
+        [96.0, 2.0],
+        [95.0, -8.0]
+      ]]
+    },
+    "properties": {
+      "id": "dutch-east-indies",
+      "startYear": 1602,
+      "endYear": 1949,
+      "peakStartYear": 1700,
+      "peakEndYear": 1900,
+      "culturalSphere": "dutch",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Niederländisch-Ostindien (VOC)",
+        "en": "Dutch East Indies / VOC"
+      },
+      "description": {
+        "de": "Die Vereinigte Ostindische Compagnie (VOC) errichtete ab 1602 ein Handelsnetz im Indischen Ozean mit Batavia (Jakarta) als Zentrum. Der Gewürzhandel, insbesondere Muskat, Nelken und Pfeffer von den Molukken, war die Grundlage eines enormen Reichtums. Die VOC übte quasi-staatliche Gewalt aus und unterwarf die lokalen Sultanate gewaltsam. Das niederländische Kolonialregime beruhte auf erzwungener Arbeit (Kultursystem), die die javanische Landbevölkerung verarmte. Indonesia erklärte 1945 die Unabhängigkeit.",
+        "en": "The VOC (Dutch East India Company) established a trading network across the Indian Ocean from 1602 with Batavia (Jakarta) as its hub. The spice trade — nutmeg, cloves, and pepper from the Moluccas — generated enormous wealth. The VOC exercised quasi-governmental powers, subjugating local sultanates by force. The Dutch colonial regime relied on forced cultivation (cultuurstelsel) that impoverished Javanese peasants. Indonesia declared independence in 1945."
+      }
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-64.0, 4.0],
+        [-52.0, 4.0],
+        [-52.0, 10.0],
+        [-60.0, 12.0],
+        [-68.0, 12.0],
+        [-68.0, 8.0],
+        [-64.0, 4.0]
+      ]]
+    },
+    "properties": {
+      "id": "dutch-empire-americas",
+      "startYear": 1621,
+      "endYear": 1954,
+      "peakStartYear": 1640,
+      "peakEndYear": 1700,
+      "culturalSphere": "dutch",
+      "color": "#CC9900",
+      "opacity": 0.25,
+      "labels": {
+        "de": "Niederländisches Amerika – Suriname & Antillen",
+        "en": "Dutch Empire - Americas (Suriname & Antilles)"
+      },
+      "description": {
+        "de": "Die Niederländische Westindische Compagnie (WIC) gründete 1621 Kolonien in Amerika. Suriname wurde eine bedeutende Plantagen-Kolonie, auf der versklavte Afrikaner unter brutalen Bedingungen Zucker, Kaffee und Indigo produzierten. Entlaufene Sklaven (Maroons) gründeten im Dschungel eigene unabhängige Gemeinschaften. Die Niederländischen Antillen blieben Teil des Königreichs der Niederlande; Suriname wurde 1975 unabhängig.",
+        "en": "The Dutch West India Company (WIC) founded American colonies from 1621. Suriname became a major plantation colony where enslaved Africans produced sugar, coffee, and indigo under brutal conditions. Escaped slaves — Maroons — founded independent communities in the jungle interior, successfully resisting Dutch recapture. The Dutch Antilles remained within the Kingdom of the Netherlands; Suriname became independent in 1975."
+      }
+    }
+  }
+]
