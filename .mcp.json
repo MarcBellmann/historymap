@@ -9,6 +9,12 @@
         "mcp"
       ],
       "env": {}
+    },
+    "wikipedia": {
+      "type": "stdio",
+      "command": "/home/marc/.local/bin/wikipedia-mcp",
+      "args": [],
+      "env": {}
     }
   }
 }
