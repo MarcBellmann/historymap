@@ -10,15 +10,15 @@
     "importance": 1,
     "culturalSphere": [
       "roman",
-      "mediterranean"
+      "italian"
     ],
     "labels": {
       "de": "Rom",
       "en": "Rome"
     },
     "description": {
-      "de": "Hauptstadt des Römischen Reiches. Gegründet der Legende nach 753 v. Chr. von Romulus.",
-      "en": "Capital of the Roman Empire. Founded according to legend in 753 BC by Romulus."
+      "de": "Hauptstadt des Römischen Reiches und Zentrum der westlichen Zivilisation. Vom Stadtstaat zur Weltmacht, die das gesamte Mittelmeer beherrschte.",
+      "en": "Capital of the Roman Empire and center of Western civilization. Rose from a city-state to a world power that dominated the entire Mediterranean."
     }
   },
   {
@@ -27,245 +27,19 @@
       23.7275,
       37.9838
     ],
-    "startYear": -3000,
+    "startYear": -800,
     "endYear": null,
     "importance": 1,
     "culturalSphere": [
-      "greek",
-      "mediterranean"
+      "greek"
     ],
     "labels": {
       "de": "Athen",
       "en": "Athens"
     },
     "description": {
-      "de": "Geburtsstätte der Demokratie und des westlichen Denkens. Blütezeit im 5. Jh. v. Chr.",
-      "en": "Birthplace of democracy and Western thought. Golden age in the 5th century BC."
-    }
-  },
-  {
-    "id": "carthago-romana",
-    "coordinates": [
-      10.3236,
-      36.8525
-    ],
-    "startYear": -29,
-    "endYear": 698,
-    "importance": 2,
-    "culturalSphere": [
-      "roman",
-      "african"
-    ],
-    "labels": {
-      "de": "Römisches Karthago",
-      "en": "Roman Carthage"
-    },
-    "description": {
-      "de": "Augustus gründete 29 v. Chr. auf den Ruinen des alten Karthago die Kolonie Colonia Iulia Concordia Carthago. Die Stadt wuchs zur zweitgrößten Stadt des weströmischen Reiches und zum Hauptort der Provinz Africa Proconsularis. Um 310 n. Chr. war sie eines der wichtigsten wirtschaftlichen und kulturellen Zentren des gesamten Reiches.",
-      "en": "Augustus founded the colony Colonia Iulia Concordia Carthago in 29 BC on the ruins of the old city. It grew to become the second-largest city in the western Roman Empire and the capital of the province of Africa Proconsularis. By 310 AD it was one of the most important economic and cultural centers of the entire empire."
-    }
-  },
-  {
-    "id": "alexandria",
-    "coordinates": [
-      29.9187,
-      31.2001
-    ],
-    "startYear": -331,
-    "endYear": null,
-    "importance": 1,
-    "culturalSphere": [
-      "greek",
-      "hellenistic",
-      "egyptian"
-    ],
-    "labels": {
-      "de": "Alexandria",
-      "en": "Alexandria"
-    },
-    "description": {
-      "de": "Von Alexander dem Großen 331 v. Chr. gegründet. Heimat der größten Bibliothek der Antike.",
-      "en": "Founded by Alexander the Great in 331 BC. Home to the greatest library of antiquity."
-    }
-  },
-  {
-    "id": "changan",
-    "coordinates": [
-      108.9402,
-      34.2658
-    ],
-    "startYear": -202,
-    "endYear": null,
-    "importance": 1,
-    "culturalSphere": [
-      "chinese",
-      "han"
-    ],
-    "labels": {
-      "de": "Chang'an",
-      "en": "Chang'an"
-    },
-    "description": {
-      "de": "Westliche Hauptstadt der Han-Dynastie, Ausgangspunkt der Seidenstraße nach Westen.",
-      "en": "Western capital of the Han Dynasty and eastern terminus of the Silk Road."
-    }
-  },
-  {
-    "id": "luoyang",
-    "coordinates": [
-      112.4539,
-      34.62
-    ],
-    "startYear": -770,
-    "endYear": null,
-    "importance": 2,
-    "culturalSphere": [
-      "chinese",
-      "han"
-    ],
-    "labels": {
-      "de": "Luoyang",
-      "en": "Luoyang"
-    },
-    "description": {
-      "de": "Eine der ältesten Städte Chinas, östliche Hauptstadt der Han-Dynastie.",
-      "en": "One of China's oldest cities, eastern capital of the Han dynasty."
-    }
-  },
-  {
-    "id": "pataliputra",
-    "coordinates": [
-      85.1376,
-      25.5941
-    ],
-    "startYear": -490,
-    "endYear": null,
-    "importance": 1,
-    "culturalSphere": [
-      "indian",
-      "mauryan",
-      "gupta"
-    ],
-    "labels": {
-      "de": "Pataliputra",
-      "en": "Pataliputra"
-    },
-    "description": {
-      "de": "Hauptstadt des Maurya-Reiches unter Chandragupta und Ashoka. Eine der größten Städte der Antike mit über 400.000 Einwohnern.",
-      "en": "Capital of the Maurya Empire under Chandragupta and Ashoka. One of the largest cities of antiquity with over 400,000 inhabitants."
-    }
-  },
-  {
-    "id": "samarkand",
-    "coordinates": [
-      66.975,
-      39.6542
-    ],
-    "startYear": -700,
-    "endYear": null,
-    "importance": 2,
-    "culturalSphere": [
-      "sogdian",
-      "persian",
-      "hellenistic"
-    ],
-    "labels": {
-      "de": "Samarkand",
-      "en": "Samarkand"
-    },
-    "description": {
-      "de": "Einer der wichtigsten Knotenpunkte der Seidenstraße. Von Alexander dem Großen als Marakanda besucht.",
-      "en": "One of the most important nodes of the Silk Road. Visited by Alexander the Great as Maracanda."
-    }
-  },
-  {
-    "id": "antioch",
-    "coordinates": [
-      36.1617,
-      36.2021
-    ],
-    "startYear": -300,
-    "endYear": null,
-    "importance": 1,
-    "culturalSphere": [
-      "hellenistic",
-      "roman",
-      "seleucid"
-    ],
-    "labels": {
-      "de": "Antiochia",
-      "en": "Antioch"
-    },
-    "description": {
-      "de": "Gegründet 300 v. Chr., eine der größten Städte der hellenistischen Welt und des Römischen Reiches.",
-      "en": "Founded 300 BC, one of the largest cities of the Hellenistic world and the Roman Empire."
-    }
-  },
-  {
-    "id": "ctesiphon",
-    "coordinates": [
-      44.582,
-      33.0944
-    ],
-    "startYear": -120,
-    "endYear": 637,
-    "importance": 1,
-    "culturalSphere": [
-      "parthian",
-      "sassanid",
-      "mesopotamian"
-    ],
-    "labels": {
-      "de": "Ktesiphon",
-      "en": "Ctesiphon"
-    },
-    "description": {
-      "de": "Hauptstadt der Parther und Sassaniden. Eine der größten Städte der Spätantike.",
-      "en": "Capital of the Parthians and Sassanids. One of the largest cities of late antiquity."
-    }
-  },
-  {
-    "id": "jerusalem",
-    "coordinates": [
-      35.2137,
-      31.7683
-    ],
-    "startYear": -3000,
-    "endYear": null,
-    "importance": 1,
-    "culturalSphere": [
-      "jewish",
-      "roman"
-    ],
-    "labels": {
-      "de": "Jerusalem",
-      "en": "Jerusalem"
-    },
-    "description": {
-      "de": "Heilige Stadt der Juden, Christen und später auch Muslime. Im Jahr 70 n. Chr. von den Römern zerstört.",
-      "en": "Holy city of Jews, Christians, and later Muslims. Destroyed by the Romans in 70 AD."
-    }
-  },
-  {
-    "id": "axum",
-    "coordinates": [
-      38.7183,
-      14.1281
-    ],
-    "startYear": -400,
-    "endYear": null,
-    "importance": 1,
-    "culturalSphere": [
-      "axumite",
-      "african"
-    ],
-    "labels": {
-      "de": "Aksum",
-      "en": "Axum"
-    },
-    "description": {
-      "de": "Hauptstadt des Königreichs Aksum, Handelsmacht am Roten Meer. Kontrollierte den Handel zwischen Indien, Arabien und dem Mittelmeer.",
-      "en": "Capital of the Kingdom of Axum, a trading power on the Red Sea. Controlled trade between India, Arabia, and the Mediterranean."
+      "de": "Geburtsstätte der Demokratie, der westlichen Philosophie und des klassischen Theaters. Führende Polis im Goldenen Zeitalter des 5. Jh. v. Chr.",
+      "en": "Birthplace of democracy, Western philosophy, and classical theater. Leading polis during the Golden Age of the 5th century BC."
     }
   },
   {
@@ -280,123 +54,194 @@
     "culturalSphere": [
       "roman",
       "byzantine",
-      "greek"
+      "ottoman"
     ],
     "labels": {
       "de": "Konstantinopel",
       "en": "Constantinople"
     },
     "description": {
-      "de": "330 n. Chr. von Kaiser Konstantin als neue Hauptstadt des Römischen Reiches gegründet.",
-      "en": "Founded by Emperor Constantine in 330 AD as the new capital of the Roman Empire."
+      "de": "Von Kaiser Konstantin 330 n. Chr. als neue Hauptstadt des Römischen Reiches gegründet. Über 1000 Jahre Zentrum des Byzantinischen Reiches, ab 1453 osmanische Hauptstadt.",
+      "en": "Founded by Emperor Constantine in 330 AD as the new capital of the Roman Empire. Center of the Byzantine Empire for over 1000 years, Ottoman capital from 1453."
     }
   },
   {
-    "id": "jianye",
+    "id": "london",
     "coordinates": [
-      118.7969,
-      32.0603
+      -0.1278,
+      51.5074
     ],
-    "startYear": 229,
+    "startYear": 50,
     "endYear": null,
     "importance": 1,
     "culturalSphere": [
-      "chinese"
+      "roman",
+      "germanic",
+      "british"
     ],
     "labels": {
-      "de": "Nanjing (Jianye)",
-      "en": "Nanjing (Jianye)"
+      "de": "London",
+      "en": "London"
     },
     "description": {
-      "de": "Jianye (das heutige Nanjing) wurde 229 n. Chr. zur Hauptstadt des Kaisertums Wu unter Sun Quan ernannt, als dieser sich zum Kaiser ausrief. In der Zeit der Drei Reiche war es das kulturelle und politische Zentrum des südchinesischen Wu-Reiches. Nach dem Fall von Wu (280 n. Chr.) blieb die Stadt bedeutend und wurde unter dem Namen Jiankang ab 317 n. Chr. erneut zur Hauptstadt – diesmal der Östlichen Jin-Dynastie, die vor den Invasionen der nördlichen Steppenvölker in den Süden geflohen war.",
-      "en": "Jianye (present-day Nanjing) became the capital of the Kingdom of Wu in 229 AD when Sun Quan proclaimed himself emperor, establishing it as the political and cultural heart of southern China during the Three Kingdoms period. After Wu's conquest by the Jin dynasty in 280 AD, the city retained its importance. Renamed Jiankang, it again became an imperial capital from 317 AD as the seat of the Eastern Jin dynasty, which had fled south in the face of nomadic invasions from the north — marking the first time a Chinese dynastic capital was established in the Yangtze River delta."
+      "de": "Als Londinium um 50 n. Chr. von den Römern gegründet. Wurde im 19. Jahrhundert zur größten Stadt der Welt und zum Zentrum des Britischen Empires.",
+      "en": "Founded as Londinium by the Romans around 50 AD. Became the world's largest city in the 19th century and the center of the British Empire."
     }
   },
   {
-    "id": "nishapur",
+    "id": "paris",
     "coordinates": [
-      58.7958,
-      36.2133
+      2.3522,
+      48.8566
     ],
-    "startYear": 260,
+    "startYear": -250,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "celtic",
+      "roman",
+      "frankish",
+      "french"
+    ],
+    "labels": {
+      "de": "Paris",
+      "en": "Paris"
+    },
+    "description": {
+      "de": "Aus der keltischen Siedlung Lutetia hervorgegangen. Hauptstadt des fränkischen und später des französischen Reiches, kulturelles Zentrum Europas seit dem Mittelalter.",
+      "en": "Evolved from the Celtic settlement Lutetia. Capital of the Frankish and later French kingdoms, cultural center of Europe since the Middle Ages."
+    }
+  },
+  {
+    "id": "corinth",
+    "coordinates": [
+      22.8794,
+      37.9059
+    ],
+    "startYear": -800,
     "endYear": null,
     "importance": 2,
     "culturalSphere": [
-      "sassanid",
-      "persian"
+      "greek",
+      "roman"
     ],
     "labels": {
-      "de": "Nishapur",
-      "en": "Nishapur"
+      "de": "Korinth",
+      "en": "Corinth"
     },
     "description": {
-      "de": "Nishapur (mittelpersisch Nev-Shapur, 'die gute Stadt Shapurs') wurde im 3. Jahrhundert n. Chr. von Shapur I. gegründet, dem zweiten König der Sassanidendynastie. Die Stadt wurde zur Hauptstadt der Provinz Abarshahr im Osten des Sassanidenreiches und war neben Merw, Herat und Balch eine der vier bedeutenden Metropolen der Region Chorasan. Sie lag an einem wichtigen Knotenpunkt des innerasiatischen Handels und bildete über Jahrhunderte ein Zentrum zoroastrischer Kultur und sassanidischer Verwaltung.",
-      "en": "Nishapur (Middle Persian: Nēv-Šāpūr, meaning 'the good city of Shapur') was founded in the 3rd century AD by Shapur I, the second king of the Sassanid dynasty. It became the capital of the satrapy of Abarshahr in the eastern Sassanid Empire and was, alongside Merv, Herat, and Balkh, one of the four great cities of the Khorasan region. Situated at a key crossroads of inner-Asian trade routes, it served for centuries as a center of Zoroastrian culture and Sassanid administration."
+      "de": "Wohlhabende griechische Handelsstadt am Isthmus zwischen Peloponnes und Festland. Kontrollierte zwei Häfen und war ein Zentrum der Keramikproduktion.",
+      "en": "Wealthy Greek trading city on the isthmus between the Peloponnese and mainland. Controlled two ports and was a center of ceramic production."
     }
   },
   {
-    "id": "nalanda",
+    "id": "argos",
     "coordinates": [
-      85.4432,
-      25.1355
+      22.7194,
+      37.6317
     ],
-    "startYear": 427,
-    "endYear": 1200,
-    "importance": 2,
+    "startYear": -900,
+    "endYear": null,
+    "importance": 3,
     "culturalSphere": [
-      "indian",
-      "gupta"
+      "greek"
     ],
     "labels": {
-      "de": "Nalanda",
-      "en": "Nalanda"
+      "de": "Argos",
+      "en": "Argos"
     },
     "description": {
-      "de": "Nalanda war das bedeutendste buddhistische Kloster- und Universitätszentrum der antiken Welt. Die Große Klosterschule (Mahavihara) wurde um 427 n. Chr. unter dem Guptakönig Kumaragupta I. gegründet und zog Gelehrte aus ganz Asien an – aus China, Korea, Tibet, Sri Lanka und Südostasien. Auf dem Höhepunkt seiner Blüte beherbergte Nalanda bis zu 10.000 Studenten und 2.000 Lehrer, die Theologie, Philosophie, Logik, Grammatik und Medizin lehrten. Die Anlage wurde um 1200 n. Chr. bei Überfällen auf Bihar zerstört und nicht wiederaufgebaut.",
-      "en": "Nalanda was the most important Buddhist monastic and scholastic center of the ancient world. The great monastery (mahavihara) was founded around 427 AD under the Gupta king Kumaragupta I and attracted scholars from across Asia — from China, Korea, Tibet, Sri Lanka, and Southeast Asia. At its peak, Nalanda housed up to 10,000 students and 2,000 teachers, offering instruction in Buddhist theology, philosophy, logic, grammar, and medicine. The complex was destroyed around 1200 AD during raids on Bihar and never rebuilt."
+      "de": "Eine der ältesten durchgängig bewohnten Städte Europas. Dominierte die Argolis-Ebene und war ein wichtiger Rivale Spartas im archaischen Griechenland.",
+      "en": "One of the oldest continuously inhabited cities in Europe. Dominated the Argolid plain and was an important rival of Sparta in Archaic Greece."
+    }
+  },
+  {
+    "id": "miletus",
+    "coordinates": [
+      27.278,
+      37.5306
+    ],
+    "startYear": -800,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Milet",
+      "en": "Miletus"
+    },
+    "description": {
+      "de": "Führende ionische Handelsstadt und Mutterstadt dutzender Kolonien am Schwarzen Meer. Heimat der ersten Philosophen Thales, Anaximander und Anaximenes.",
+      "en": "Leading Ionian trading city and mother city of dozens of Black Sea colonies. Home to the first philosophers Thales, Anaximander, and Anaximenes."
+    }
+  },
+  {
+    "id": "syracuse",
+    "coordinates": [
+      15.2866,
+      37.0755
+    ],
+    "startYear": -734,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "greek",
+      "roman"
+    ],
+    "labels": {
+      "de": "Syrakus",
+      "en": "Syracuse"
+    },
+    "description": {
+      "de": "Mächtigste griechische Kolonie im westlichen Mittelmeer, rivalisierte mit Athen und Karthago. Heimat des Mathematikers Archimedes.",
+      "en": "Most powerful Greek colony in the western Mediterranean, rivaling Athens and Carthage. Home of the mathematician Archimedes."
+    }
+  },
+  {
+    "id": "massalia",
+    "coordinates": [
+      5.3698,
+      43.2965
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "greek",
+      "roman",
+      "french"
+    ],
+    "labels": {
+      "de": "Massalia (Marseille)",
+      "en": "Massalia (Marseille)"
+    },
+    "description": {
+      "de": "Um 600 v. Chr. von griechischen Siedlern aus Phokäa gegründet. Älteste Stadt Frankreichs und wichtigstes griechisches Handelszentrum im westlichen Mittelmeer.",
+      "en": "Founded around 600 BC by Greek settlers from Phocaea. Oldest city in France and the most important Greek trading center in the western Mediterranean."
     }
   },
   {
     "id": "mediolanum",
     "coordinates": [
-      9.1895,
-      45.4643
+      9.19,
+      45.4642
     ],
     "startYear": -222,
     "endYear": null,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
-      "roman"
+      "celtic",
+      "roman",
+      "italian"
     ],
     "labels": {
       "de": "Mailand (Mediolanum)",
       "en": "Milan (Mediolanum)"
     },
     "description": {
-      "de": "Mediolanum wurde 222 v. Chr. von den Römern als keltische Siedlung der Insubrer erobert und entwickelte sich zur bedeutendsten Stadt Norditaliens. Ab 286 n. Chr. diente es als Kaiserresidenz der westlichen Tetrarchie unter Maximian und wurde so zur de-facto-Hauptstadt des weströmischen Reiches. Um 310 n. Chr. war die Stadt mit rund 100.000 Einwohnern eines der größten und prächtigsten Zentren des Imperiums.",
-      "en": "Mediolanum was conquered by Rome in 222 BC from the Celtic Insubres tribe and grew into the most important city of northern Italy. From 286 AD it served as the imperial residence of the western tetrarchy under Maximian, becoming the de facto capital of the western Roman Empire. Around 310 AD the city was home to roughly 100,000 people and was one of the largest and most splendid centers of the empire."
-    }
-  },
-  {
-    "id": "nicomedia",
-    "coordinates": [
-      29.9169,
-      40.7669
-    ],
-    "startYear": -264,
-    "endYear": null,
-    "importance": 1,
-    "culturalSphere": [
-      "roman",
-      "hellenistic"
-    ],
-    "labels": {
-      "de": "Nikomedien (Nicomedia)",
-      "en": "Nicomedia"
-    },
-    "description": {
-      "de": "Nikomedes I. von Bithynien gründete 264 v. Chr. Nikomedia, das zur Hauptstadt des Königreichs Bithynien aufstieg. Im Jahr 286 n. Chr. wählte Diocletian die Stadt zur östlichen Seniorhauptstadt des Römischen Reiches, von der aus er das gesamte Imperium regierte. Während der Tetrarchie war Nikomedia das politische und administrative Zentrum des Ostens und eine der wichtigsten Städte der Welt.",
-      "en": "Nicomedes I of Bithynia founded Nicomedia in 264 BC and it became the capital of the Bithynian kingdom. In 286 AD Diocletian chose it as the senior eastern capital of the Roman Empire, from which he governed the entire realm. During the Tetrarchy, Nicomedia was the political and administrative center of the east and one of the most important cities in the world."
+      "de": "Ab 286 n. Chr. Kaiserresidenz der westlichen Tetrarchie. Bedeutendste Stadt Norditaliens, im Mittelalter mächtiger Stadtstaat und Handelszentrum.",
+      "en": "Imperial residence of the western Tetrarchy from 286 AD. Most important city of northern Italy, powerful city-state and trade center in the Middle Ages."
     }
   },
   {
@@ -407,17 +252,19 @@
     ],
     "startYear": -16,
     "endYear": null,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
-      "roman"
+      "roman",
+      "frankish",
+      "germanic"
     ],
     "labels": {
       "de": "Trier (Augusta Treverorum)",
       "en": "Trier (Augusta Treverorum)"
     },
     "description": {
-      "de": "Augusta Treverorum wurde um 16 v. Chr. als römische Kolonie gegründet und entwickelte sich zur größten Stadt nördlich der Alpen. Im Rahmen der Tetrarchie wurde Trier die Kaiserresidenz des Westens: Constantius I. regierte von hier, und sein Sohn Konstantin nutzte die Stadt als Hauptstützpunkt für seine Feldzüge. Im Jahr 310 n. Chr. ließ Konstantin hier die berühmte Konstantinbasilika errichten. Trier war damals eines der vier Hauptzentren der römischen Welt.",
-      "en": "Augusta Treverorum was founded around 16 BC as a Roman colony and grew into the largest city north of the Alps. Within the Tetrarchy, Trier became the imperial residence of the west: Constantius I ruled from here, and his son Constantine used the city as his main western base. In 310 AD Constantine began construction of the famous Aula Palatina here. Trier was at this time one of the four main centers of the Roman world."
+      "de": "Älteste Stadt Deutschlands, um 16 v. Chr. als römische Kolonie gegründet. Im Rahmen der Tetrarchie Kaiserresidenz und größte Stadt nördlich der Alpen.",
+      "en": "Oldest city in Germany, founded as a Roman colony around 16 BC. Imperial residence during the Tetrarchy and largest city north of the Alps."
     }
   },
   {
@@ -428,220 +275,21 @@
     ],
     "startYear": -316,
     "endYear": null,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
-      "roman",
       "greek",
-      "hellenistic"
+      "hellenistic",
+      "roman",
+      "byzantine",
+      "ottoman"
     ],
     "labels": {
-      "de": "Thessalonike (Thessalonica)",
+      "de": "Thessaloniki",
       "en": "Thessalonica"
     },
     "description": {
-      "de": "Thessalonike wurde um 316 v. Chr. von Kassander gegründet und nach seiner Frau, der Halbschwester Alexanders des Großen, benannt. Im Rahmen der Tetrarchie wählte Galerius die Stadt als seine Residenz und ließ einen Palastkomplex, einen Triumphbogen und ein Hippodrom errichten. Um 310 n. Chr. war Thessalonike die bedeutendste Metropole des Balkans und das Machtzentrum des östlichen Tetrarchenreiches.",
-      "en": "Thessalonica was founded around 316 BC by Cassander and named after his wife, the half-sister of Alexander the Great. During the Tetrarchy, Galerius chose the city as his residence and built an imperial palace complex, a triumphal arch, and a hippodrome. Around 310 AD, Thessalonica was the most important metropolis of the Balkans and the power center of the eastern tetrarchate."
-    }
-  },
-  {
-    "id": "lugdunum",
-    "coordinates": [
-      4.8357,
-      45.764
-    ],
-    "startYear": -43,
-    "endYear": null,
-    "importance": 2,
-    "culturalSphere": [
-      "roman"
-    ],
-    "labels": {
-      "de": "Lyon (Lugdunum)",
-      "en": "Lyon (Lugdunum)"
-    },
-    "description": {
-      "de": "Lugdunum wurde 43 v. Chr. an der Mündung der Saône in die Rhône gegründet und wurde zur Hauptstadt der Tres Galliae (Drei Gallien). Als Knotenpunkt der gallischen Straßen, Sitz des Kaiserkults und bedeutendes Handelszentrum war es die größte Stadt Galliens. Um 310 n. Chr. blieb Lugdunum trotz des Aufstiegs von Trier als kaiserliche Residenz ein wichtiges wirtschaftliches und religiöses Zentrum.",
-      "en": "Lugdunum was founded in 43 BC at the confluence of the Saone and Rhone rivers and became the capital of the Tres Galliae (Three Gauls). As the hub of the Gallic road network, the seat of the imperial cult, and a major trading center, it was the largest city in Gaul. By 310 AD Lugdunum remained an important economic and religious center despite the rise of Trier as the imperial residence."
-    }
-  },
-  {
-    "id": "carthago-nova",
-    "coordinates": [
-      -0.9738,
-      37.6013
-    ],
-    "startYear": -227,
-    "endYear": null,
-    "importance": 2,
-    "culturalSphere": [
-      "roman",
-      "phoenician"
-    ],
-    "labels": {
-      "de": "Carthago Nova (Cartagena)",
-      "en": "Carthago Nova (Cartagena)"
-    },
-    "description": {
-      "de": "Carthago Nova ('Neu-Karthago') wurde um 227 v. Chr. vom karthagischen Feldherrn Hasdrubal dem Schönen als Stützpunkt in Hispanien gegründet. Mit seinem hervorragenden Naturhafen und den reichen Silberminen der Umgebung war es das wichtigste Zentrum auf der Iberischen Halbinsel. Im Jahr 298 n. Chr. wurde Carthago Nova zur Hauptstadt der neuen Provinz Hispania Carthaginensis ernannt.",
-      "en": "Carthago Nova ('New Carthage') was founded around 227 BC by the Carthaginian general Hasdrubal the Fair as a base in Hispania. With its excellent natural harbor and the rich silver mines of the surrounding area, it was the most important center on the Iberian Peninsula. In 298 AD Carthago Nova was made the capital of the new province of Hispania Carthaginensis."
-    }
-  },
-  {
-    "id": "leptis-magna",
-    "coordinates": [
-      14.3073,
-      32.6247
-    ],
-    "startYear": -600,
-    "endYear": 700,
-    "importance": 2,
-    "culturalSphere": [
-      "roman",
-      "african",
-      "phoenician"
-    ],
-    "labels": {
-      "de": "Leptis Magna (Lepcis Magna)",
-      "en": "Leptis Magna"
-    },
-    "description": {
-      "de": "Leptis Magna wurde vor 500 v. Chr. als phönizische Siedlung gegründet und entwickelte sich unter römischer Herrschaft zur prächtigsten Stadt Nordafrikas. Kaiser Septimius Severus, ein Sohn der Stadt, ließ sie mit dem Severusbogen, einem neuen Forum und prächtigen Thermen ausbauen. Um 310 n. Chr. war Leptis Magna das kulturelle und wirtschaftliche Zentrum Tripolitaniens, obwohl Erdbeben in dieser Dekade erste Schäden anrichteten.",
-      "en": "Leptis Magna was founded before 500 BC as a Phoenician settlement and developed under Roman rule into the most magnificent city of North Africa. Emperor Septimius Severus, a son of the city, had it embellished with the Arch of Septimius Severus, a new forum, and splendid baths. Around 310 AD, Leptis Magna was the cultural and economic center of Tripolitania, though earthquakes in this decade caused early damage."
-    }
-  },
-  {
-    "id": "edessa",
-    "coordinates": [
-      38.7924,
-      37.1583
-    ],
-    "startYear": -304,
-    "endYear": null,
-    "importance": 2,
-    "culturalSphere": [
-      "roman",
-      "aramaic",
-      "hellenistic"
-    ],
-    "labels": {
-      "de": "Edessa (Urfa)",
-      "en": "Edessa"
-    },
-    "description": {
-      "de": "Edessa (heute Urfa in der Türkei) wurde 304 v. Chr. als hellenistische Stadtgründung auf einer älteren Siedlung errichtet. Als Hauptstadt des arabisch-aramäischen Königreichs Osroene war es über Jahrhunderte ein Handelsknotenpunkt zwischen dem Römischen und dem Partherreich. Um 310 n. Chr. war Edessa eine römische Colonia in der Provinz Osroene und ein frühes Zentrum des östlichen Christentums.",
-      "en": "Edessa (present-day Urfa in Turkey) was established in 304 BC as a Hellenistic city over an older settlement. As the capital of the Arab-Aramaic kingdom of Osroene, it was for centuries a trading hub between the Roman and Parthian empires. Around 310 AD, Edessa was a Roman colonia in the province of Osroene and an early center of eastern Christianity."
-    }
-  },
-  {
-    "id": "merv",
-    "coordinates": [
-      62.1888,
-      37.6577
-    ],
-    "startYear": -500,
-    "endYear": 1221,
-    "importance": 2,
-    "culturalSphere": [
-      "persian",
-      "parthian",
-      "sassanid",
-      "sogdian"
-    ],
-    "labels": {
-      "de": "Merw (Merv)",
-      "en": "Merv"
-    },
-    "description": {
-      "de": "Merw (Mahrv in mittelpersischer Sprache) war seit der Achämenidenzeit als Margu bekannt und zählte zu den bedeutendsten Städten Zentralasiens. Die Stadt lag an der Kreuzung der Seidenstraßenrouten nach Herat/Baktrien und nach Samarkand/Transoxanien. Um 310 n. Chr. stand Merw unter sassanidischer Herrschaft und war das religiöse und wirtschaftliche Zentrum der Provinz Margiana — ein Schmelztiegel von Zoroastrismus, Buddhismus und frühem Christentum.",
-      "en": "Merv (Mahrv in Middle Persian) was known since Achaemenid times as Margu and was one of the most important cities of Central Asia. The city lay at the crossroads of Silk Road routes to Herat and Bactria on one side, and to Samarkand and Transoxiana on the other. Around 310 AD Merv was under Sassanid rule and served as the religious and economic center of the province of Margiana — a melting pot of Zoroastrianism, Buddhism, and early Christianity."
-    }
-  },
-  {
-    "id": "bactra",
-    "coordinates": [
-      66.8972,
-      36.7564
-    ],
-    "startYear": -600,
-    "endYear": null,
-    "importance": 2,
-    "culturalSphere": [
-      "persian",
-      "hellenistic",
-      "kushan",
-      "sogdian"
-    ],
-    "labels": {
-      "de": "Baktra (Balkh)",
-      "en": "Bactra (Balkh)"
-    },
-    "description": {
-      "de": "Baktra (das heutige Balkh in Afghanistan) war die Hauptstadt des antiken Baktrien und eine der heiligen Städte des Zoroastrismus. Alexander der Große machte die Stadt zu einem seiner östlichsten Stützpunkte, und unter den Kuschanern wurde sie zu einem bedeutenden Zentrum des Buddhismus. Um 310 n. Chr. befand sich Baktra im Übergangsbereich zwischen der späten Kuschangewalt und der sich ausdehnenden sassanidischen Kontrolle.",
-      "en": "Bactra (present-day Balkh in Afghanistan) was the capital of ancient Bactria and one of the sacred cities of Zoroastrianism. Alexander the Great made it one of his easternmost strongholds, and under the Kushans it became a major center of Buddhism. Around 310 AD, Bactra lay in the transitional zone between the declining Kushan power and expanding Sassanid control."
-    }
-  },
-  {
-    "id": "ujjain",
-    "coordinates": [
-      75.7764,
-      23.1797
-    ],
-    "startYear": -600,
-    "endYear": null,
-    "importance": 2,
-    "culturalSphere": [
-      "indian"
-    ],
-    "labels": {
-      "de": "Ujjain (Avantika)",
-      "en": "Ujjain (Avantika)"
-    },
-    "description": {
-      "de": "Ujjain, das antike Avantika, war eine der heiligsten Städte Indiens und Hauptstadt des Mahajanapada Avanti. Die Stadt lag auf dem zentralen Handelsweg von West- nach Ostindien und war ein Zentrum von Astronomie und Mathematik — der 0.-Meridian der klassischen indischen Astronomie verlief durch Ujjain. Um 310 n. Chr. stand die Stadt unter der Kontrolle der Westlichen Satrapen, bevor sie einige Jahrzehnte später von Chandragupta II. in das Guptareich eingegliedert wurde.",
-      "en": "Ujjain, the ancient Avantika, was one of the holiest cities of India and the capital of the Mahajanapada of Avanti. The city lay on the central trade route from western to eastern India and was a center of astronomy and mathematics — the prime meridian of classical Indian astronomy ran through Ujjain. Around 310 AD the city was under the control of the Western Satraps before being incorporated into the Gupta Empire by Chandragupta II some decades later."
-    }
-  },
-  {
-    "id": "mathura",
-    "coordinates": [
-      77.6737,
-      27.4924
-    ],
-    "startYear": -600,
-    "endYear": null,
-    "importance": 2,
-    "culturalSphere": [
-      "indian",
-      "kushan"
-    ],
-    "labels": {
-      "de": "Mathura",
-      "en": "Mathura"
-    },
-    "description": {
-      "de": "Mathura, die heilige Geburtsstadt Krishnas, war einer der wichtigsten religiösen und künstlerischen Mittelpunkte Indiens. Unter den Kuschanern, die die Stadt zu einer ihrer Hauptstädte gemacht hatten, erlebte Mathura eine bedeutende Blüte der buddhistischen und hinduistischen Skulptur. Um 310 n. Chr. stand die Stadt im Übergang zwischen der schwindenden Kuschangewalt und der aufsteigenden Gupta-Dynastie.",
-      "en": "Mathura, the sacred birthplace of Krishna, was one of the most important religious and artistic centers of India. Under the Kushans, who made the city one of their capitals, Mathura experienced a major flowering of Buddhist and Hindu sculpture. Around 310 AD the city was in transition between the fading Kushan power and the rising Gupta dynasty."
-    }
-  },
-  {
-    "id": "chengdu",
-    "coordinates": [
-      104.0658,
-      30.658
-    ],
-    "startYear": -316,
-    "endYear": null,
-    "importance": 2,
-    "culturalSphere": [
-      "chinese"
-    ],
-    "labels": {
-      "de": "Chengdu",
-      "en": "Chengdu"
-    },
-    "description": {
-      "de": "Chengdu, das antike 'Land des Himmels', war die Hauptstadt des Königreichs Shu Han (221–263 n. Chr.) unter Liu Bei und Zhuge Liang und das kulturelle Herz Südwestchinas. Nach der Eingliederung in das Jinreich blieb Chengdu als Verwaltungszentrum der Sichuan-Region von großer Bedeutung. Die Stadt war bekannt für ihre Seidenproduktion und ihre strategische Lage an den Handelsrouten nach Süd- und Zentralasien.",
-      "en": "Chengdu, the ancient 'Land of Heaven', was the capital of the Kingdom of Shu Han (221–263 AD) under Liu Bei and Zhuge Liang and the cultural heart of southwestern China. After incorporation into the Jin empire, Chengdu retained its great importance as the administrative center of the Sichuan region. The city was known for its silk production and its strategic location on trade routes to South and Central Asia."
+      "de": "316 v. Chr. von Kassander gegründet. Zweitwichtigste Stadt des Byzantinischen Reiches und bedeutende Handelsmetropole des Balkans über Jahrhunderte.",
+      "en": "Founded by Cassander in 316 BC. Second most important city of the Byzantine Empire and a major Balkan trade metropolis for centuries."
     }
   },
   {
@@ -654,15 +302,2299 @@
     "endYear": null,
     "importance": 2,
     "culturalSphere": [
-      "roman"
+      "roman",
+      "germanic",
+      "byzantine",
+      "italian"
     ],
     "labels": {
       "de": "Ravenna",
       "en": "Ravenna"
     },
     "description": {
-      "de": "Ravenna an der Adria war seit augusteischer Zeit Heimat des wichtigsten weströmischen Kriegshafens Classis und ein bedeutendes Handelszentrum. Seine Lage in sumpfigem Gelände machte es militärisch nahezu uneinnehmbar. Im Jahr 402 n. Chr. wurde Ravenna zur letzten Hauptstadt des Weströmischen Reiches, aber bereits um 310 n. Chr. war es ein strategisch wichtiger Stützpunkt des Imperiums.",
-      "en": "Ravenna on the Adriatic had since Augustan times been home to the most important western Roman naval harbor, Classis, and was a significant trading center. Its location in marshy terrain made it nearly impregnable militarily. In 402 AD Ravenna became the last capital of the Western Roman Empire, but already around 310 AD it was a strategically important base of the empire."
+      "de": "Letzte Hauptstadt des Weströmischen Reiches ab 402 n. Chr., dann Hauptstadt des Ostgotenreichs unter Theoderich. Berühmt für seine byzantinischen Mosaiken.",
+      "en": "Last capital of the Western Roman Empire from 402 AD, then capital of the Ostrogothic Kingdom under Theoderic. Famous for its Byzantine mosaics."
+    }
+  },
+  {
+    "id": "lugdunum",
+    "coordinates": [
+      4.8357,
+      45.764
+    ],
+    "startYear": -43,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "french"
+    ],
+    "labels": {
+      "de": "Lyon (Lugdunum)",
+      "en": "Lyon (Lugdunum)"
+    },
+    "description": {
+      "de": "43 v. Chr. gegründet und Hauptstadt der Tres Galliae. Knotenpunkt des gallischen Straßennetzes und größte Stadt Galliens zur Römerzeit.",
+      "en": "Founded in 43 BC and capital of the Tres Galliae. Hub of the Gallic road network and the largest city in Gaul during Roman times."
+    }
+  },
+  {
+    "id": "colonia-agrippina",
+    "coordinates": [
+      6.9603,
+      50.9375
+    ],
+    "startYear": -38,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "germanic",
+      "frankish"
+    ],
+    "labels": {
+      "de": "Köln (Colonia Agrippina)",
+      "en": "Cologne (Colonia Agrippina)"
+    },
+    "description": {
+      "de": "38 v. Chr. als Oppidum Ubiorum gegründet, 50 n. Chr. zur Colonia erhoben. Hauptstadt Niedergermaniens und eine der größten Städte des römischen Nordwestens.",
+      "en": "Founded as Oppidum Ubiorum in 38 BC, elevated to a Colonia in 50 AD. Capital of Lower Germany and one of the largest cities in the Roman northwest."
+    }
+  },
+  {
+    "id": "carthago-nova",
+    "coordinates": [
+      -0.9738,
+      37.6013
+    ],
+    "startYear": -227,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "phoenician",
+      "roman",
+      "iberian"
+    ],
+    "labels": {
+      "de": "Carthago Nova (Cartagena)",
+      "en": "Carthago Nova (Cartagena)"
+    },
+    "description": {
+      "de": "227 v. Chr. als karthagischer Stützpunkt auf der Iberischen Halbinsel gegründet. Kontrollierte reiche Silberminen und wurde zum wichtigsten römischen Hafen Hispaniens.",
+      "en": "Founded in 227 BC as a Carthaginian base on the Iberian Peninsula. Controlled rich silver mines and became the most important Roman port in Hispania."
+    }
+  },
+  {
+    "id": "venice",
+    "coordinates": [
+      12.3155,
+      45.4408
+    ],
+    "startYear": 421,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "byzantine",
+      "italian"
+    ],
+    "labels": {
+      "de": "Venedig",
+      "en": "Venice"
+    },
+    "description": {
+      "de": "Auf Laguneninseln erbaut, stieg Venedig zur mächtigsten Seerepublik des Mittelmeerraums auf. Beherrschte den Osthandel und war eines der reichsten Zentren Europas.",
+      "en": "Built on lagoon islands, Venice rose to become the most powerful maritime republic of the Mediterranean. Dominated eastern trade and was one of Europe's wealthiest centers."
+    }
+  },
+  {
+    "id": "genoa",
+    "coordinates": [
+      8.9463,
+      44.4056
+    ],
+    "startYear": 500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "italian"
+    ],
+    "labels": {
+      "de": "Genua",
+      "en": "Genoa"
+    },
+    "description": {
+      "de": "Mächtige Seerepublik und Rivalin Venedigs. Kontrollierte den westlichen Mittelmeerhandel und finanzierte als Bankenzentrum die spanische Krone.",
+      "en": "Powerful maritime republic and rival of Venice. Controlled western Mediterranean trade and financed the Spanish Crown as a banking center."
+    }
+  },
+  {
+    "id": "florence",
+    "coordinates": [
+      11.2558,
+      43.7696
+    ],
+    "startYear": -59,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "roman",
+      "italian"
+    ],
+    "labels": {
+      "de": "Florenz",
+      "en": "Florence"
+    },
+    "description": {
+      "de": "Wiege der Renaissance und unter den Medici eines der einflussreichsten kulturellen und finanziellen Zentren Europas. Heimat von Dante, Michelangelo und Leonardo.",
+      "en": "Cradle of the Renaissance and under the Medici one of Europe's most influential cultural and financial centers. Home of Dante, Michelangelo, and Leonardo."
+    }
+  },
+  {
+    "id": "naples",
+    "coordinates": [
+      14.2681,
+      40.8518
+    ],
+    "startYear": -470,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "greek",
+      "roman",
+      "italian"
+    ],
+    "labels": {
+      "de": "Neapel (Neapolis)",
+      "en": "Naples (Neapolis)"
+    },
+    "description": {
+      "de": "Als Neapolis ('Neue Stadt') von griechischen Siedlern gegründet. Über Jahrhunderte die größte Stadt Italiens und Hauptstadt des Königreichs Neapel.",
+      "en": "Founded as Neapolis ('New City') by Greek settlers. For centuries the largest city in Italy and capital of the Kingdom of Naples."
+    }
+  },
+  {
+    "id": "palermo",
+    "coordinates": [
+      13.3613,
+      38.1157
+    ],
+    "startYear": -734,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "phoenician",
+      "greek",
+      "roman",
+      "iberian",
+      "italian"
+    ],
+    "labels": {
+      "de": "Palermo",
+      "en": "Palermo"
+    },
+    "description": {
+      "de": "Phönizische Gründung, die unter arabischer Herrschaft (831–1072) zu einer der größten Städte Europas aufstieg. Hauptstadt des normannischen Königreichs Sizilien.",
+      "en": "Phoenician foundation that under Arab rule (831–1072) became one of Europe's largest cities. Capital of the Norman Kingdom of Sicily."
+    }
+  },
+  {
+    "id": "cordoba",
+    "coordinates": [
+      -4.7794,
+      37.8882
+    ],
+    "startYear": -206,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "roman",
+      "iberian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Córdoba",
+      "en": "Córdoba"
+    },
+    "description": {
+      "de": "Hauptstadt des Kalifats von Córdoba und im 10. Jahrhundert die größte Stadt Westeuropas. Zentrum islamischer Gelehrsamkeit mit legendärer Bibliothek.",
+      "en": "Capital of the Caliphate of Córdoba and in the 10th century the largest city in Western Europe. Center of Islamic scholarship with a legendary library."
+    }
+  },
+  {
+    "id": "toledo",
+    "coordinates": [
+      -4.0273,
+      39.8628
+    ],
+    "startYear": -192,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "germanic",
+      "iberian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Toledo",
+      "en": "Toledo"
+    },
+    "description": {
+      "de": "Hauptstadt des Westgotenreiches auf der Iberischen Halbinsel. Berühmt als 'Stadt der drei Kulturen' — Christen, Muslime und Juden lebten hier zusammen.",
+      "en": "Capital of the Visigothic Kingdom on the Iberian Peninsula. Famous as the 'City of Three Cultures' — Christians, Muslims, and Jews coexisted here."
+    }
+  },
+  {
+    "id": "seville",
+    "coordinates": [
+      -5.9845,
+      37.3891
+    ],
+    "startYear": -206,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "iberian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Sevilla",
+      "en": "Seville"
+    },
+    "description": {
+      "de": "Bedeutende römische Provinzhauptstadt (Hispalis), dann maurisches Zentrum. Im 16. Jh. Tor zur Neuen Welt und Monopolhafen für den Amerikahandel.",
+      "en": "Important Roman provincial capital (Hispalis), then Moorish center. In the 16th century, gateway to the New World and monopoly port for trade with the Americas."
+    }
+  },
+  {
+    "id": "lisbon",
+    "coordinates": [
+      -9.1393,
+      38.7223
+    ],
+    "startYear": -200,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "iberian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Lissabon",
+      "en": "Lisbon"
+    },
+    "description": {
+      "de": "Hauptstadt Portugals und Ausgangspunkt der großen Entdeckungsfahrten im 15. und 16. Jahrhundert. Zentrum eines globalen Seeimperiums.",
+      "en": "Capital of Portugal and starting point of the great voyages of discovery in the 15th and 16th centuries. Center of a global maritime empire."
+    }
+  },
+  {
+    "id": "vienna",
+    "coordinates": [
+      16.3738,
+      48.2082
+    ],
+    "startYear": 100,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "roman",
+      "celtic",
+      "habsburg",
+      "germanic"
+    ],
+    "labels": {
+      "de": "Wien",
+      "en": "Vienna"
+    },
+    "description": {
+      "de": "Vom römischen Legionslager Vindobona zur Hauptstadt der Habsburgermonarchie. Im 18./19. Jh. eines der wichtigsten politischen und kulturellen Zentren Europas.",
+      "en": "From the Roman legionary camp Vindobona to the capital of the Habsburg Monarchy. In the 18th/19th century one of Europe's most important political and cultural centers."
+    }
+  },
+  {
+    "id": "kyiv",
+    "coordinates": [
+      30.5234,
+      50.4501
+    ],
+    "startYear": 482,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "slavic",
+      "norse"
+    ],
+    "labels": {
+      "de": "Kiew",
+      "en": "Kyiv"
+    },
+    "description": {
+      "de": "Hauptstadt der Kiewer Rus, des ersten ostslawischen Großreiches. Zentrum der Christianisierung der Ostslawen und 'Mutter der russischen Städte'.",
+      "en": "Capital of Kievan Rus, the first major East Slavic state. Center of the Christianization of the East Slavs and 'Mother of Russian Cities'."
+    }
+  },
+  {
+    "id": "edinburgh",
+    "coordinates": [
+      -3.1883,
+      55.9533
+    ],
+    "startYear": 600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "celtic",
+      "british"
+    ],
+    "labels": {
+      "de": "Edinburgh",
+      "en": "Edinburgh"
+    },
+    "description": {
+      "de": "Hauptstadt Schottlands seit dem 15. Jahrhundert. Zentrum der schottischen Aufklärung im 18. Jh. mit Denkern wie Hume und Adam Smith.",
+      "en": "Capital of Scotland since the 15th century. Center of the Scottish Enlightenment in the 18th century with thinkers like Hume and Adam Smith."
+    }
+  },
+  {
+    "id": "budapest",
+    "coordinates": [
+      19.0402,
+      47.4979
+    ],
+    "startYear": 89,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "slavic",
+      "habsburg"
+    ],
+    "labels": {
+      "de": "Budapest (Aquincum/Buda)",
+      "en": "Budapest (Aquincum/Buda)"
+    },
+    "description": {
+      "de": "Vom römischen Legionslager Aquincum über die mittelalterliche Königsresidenz Buda zur Hauptstadt Ungarns. Im Spätmittelalter unter Matthias Corvinus eine der prächtigsten Städte Europas.",
+      "en": "From the Roman legionary camp Aquincum through the medieval royal residence of Buda to the capital of Hungary. Under Matthias Corvinus in the late Middle Ages, one of the most splendid cities in Europe."
+    }
+  },
+  {
+    "id": "belgrade",
+    "coordinates": [
+      20.4489,
+      44.7866
+    ],
+    "startYear": -279,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "celtic",
+      "roman",
+      "slavic",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Belgrad (Singidunum)",
+      "en": "Belgrade (Singidunum)"
+    },
+    "description": {
+      "de": "Strategische Festungsstadt am Zusammenfluss von Save und Donau. Keltische Gründung, römisches Legionslager, mittelalterliche serbische Hauptstadt.",
+      "en": "Strategic fortress city at the confluence of the Sava and Danube. Celtic foundation, Roman legionary camp, medieval Serbian capital."
+    }
+  },
+  {
+    "id": "split",
+    "coordinates": [
+      16.4402,
+      43.5081
+    ],
+    "startYear": 305,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "roman",
+      "slavic"
+    ],
+    "labels": {
+      "de": "Split (Spalatum)",
+      "en": "Split (Spalatum)"
+    },
+    "description": {
+      "de": "Entstand um den Alterspalast Kaiser Diokletians (erbaut um 305 n. Chr.). Der besterhaltene römische Palastkomplex der Welt bildet noch heute den Stadtkern.",
+      "en": "Grew around Emperor Diocletian's retirement palace (built around 305 AD). The best-preserved Roman palace complex in the world still forms the city center."
+    }
+  },
+  {
+    "id": "pisa",
+    "coordinates": [
+      10.4017,
+      43.7228
+    ],
+    "startYear": -180,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "italian"
+    ],
+    "labels": {
+      "de": "Pisa",
+      "en": "Pisa"
+    },
+    "description": {
+      "de": "Mächtige Seerepublik im 11./12. Jh. und Rivalin Genuas. Sitz einer der ältesten Universitäten Europas und Heimat Galileo Galileis.",
+      "en": "Powerful maritime republic in the 11th/12th centuries and rival of Genoa. Home to one of the oldest universities in Europe and birthplace of Galileo Galilei."
+    }
+  },
+  {
+    "id": "bologna",
+    "coordinates": [
+      11.3426,
+      44.4949
+    ],
+    "startYear": -189,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "italian"
+    ],
+    "labels": {
+      "de": "Bologna",
+      "en": "Bologna"
+    },
+    "description": {
+      "de": "Sitz der ältesten Universität der Welt (gegr. 1088). Bedeutendes Zentrum mittelalterlicher Gelehrsamkeit und des Kirchenrechts.",
+      "en": "Home to the oldest university in the world (founded 1088). Major center of medieval scholarship and canon law."
+    }
+  },
+  {
+    "id": "nicomedia",
+    "coordinates": [
+      29.9169,
+      40.7669
+    ],
+    "startYear": -264,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "hellenistic",
+      "roman",
+      "byzantine"
+    ],
+    "labels": {
+      "de": "Nikomedien",
+      "en": "Nicomedia"
+    },
+    "description": {
+      "de": "264 v. Chr. gegründet, unter Diokletian östliche Seniorhauptstadt des Römischen Reiches. Während der Tetrarchie politisches Zentrum des Ostens.",
+      "en": "Founded in 264 BC, under Diocletian the senior eastern capital of the Roman Empire. Political center of the east during the Tetrarchy."
+    }
+  },
+  {
+    "id": "tarraco",
+    "coordinates": [
+      1.2445,
+      41.1189
+    ],
+    "startYear": -218,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "iberian"
+    ],
+    "labels": {
+      "de": "Tarraco (Tarragona)",
+      "en": "Tarraco (Tarragona)"
+    },
+    "description": {
+      "de": "Älteste römische Siedlung auf der Iberischen Halbinsel, Hauptstadt der Provinz Hispania Citerior. Augustus regierte zeitweilig von hier aus.",
+      "en": "Oldest Roman settlement on the Iberian Peninsula, capital of the province of Hispania Citerior. Augustus temporarily governed from here."
+    }
+  },
+  {
+    "id": "turin",
+    "coordinates": [
+      7.6869,
+      45.0703
+    ],
+    "startYear": -28,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "italian"
+    ],
+    "labels": {
+      "de": "Turin",
+      "en": "Turin"
+    },
+    "description": {
+      "de": "Römische Kolonie Augusta Taurinorum. Hauptstadt des Herzogtums Savoyen und ab 1861 erste Hauptstadt des vereinigten Italien.",
+      "en": "Roman colony Augusta Taurinorum. Capital of the Duchy of Savoy and from 1861 the first capital of united Italy."
+    }
+  },
+  {
+    "id": "porto",
+    "coordinates": [
+      -8.6291,
+      41.1579
+    ],
+    "startYear": -136,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "roman",
+      "iberian"
+    ],
+    "labels": {
+      "de": "Porto",
+      "en": "Porto"
+    },
+    "description": {
+      "de": "Namensgebende Stadt Portugals (Portus Cale). Zweitgrößte Stadt des Landes und bedeutender Hafen für den Überseehandel.",
+      "en": "Name-giving city of Portugal (Portus Cale). Second largest city of the country and important port for overseas trade."
+    }
+  },
+  {
+    "id": "cadiz",
+    "coordinates": [
+      -6.2926,
+      36.5271
+    ],
+    "startYear": -1104,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "phoenician",
+      "roman",
+      "iberian"
+    ],
+    "labels": {
+      "de": "Cádiz (Gadir)",
+      "en": "Cádiz (Gadir)"
+    },
+    "description": {
+      "de": "Um 1104 v. Chr. von Phöniziern als Gadir gegründet, eine der ältesten Städte Westeuropas. Wichtiger Atlantikhafen für Handel mit Zinn und Silber.",
+      "en": "Founded by Phoenicians as Gadir around 1104 BC, one of the oldest cities in Western Europe. Important Atlantic port for tin and silver trade."
+    }
+  },
+  {
+    "id": "mainz",
+    "coordinates": [
+      8.2473,
+      49.9929
+    ],
+    "startYear": -12,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "germanic",
+      "frankish"
+    ],
+    "labels": {
+      "de": "Mainz (Mogontiacum)",
+      "en": "Mainz (Mogontiacum)"
+    },
+    "description": {
+      "de": "Gegründet als römisches Legionslager 12 v. Chr. Erzbischofssitz, Kurfürstentum und Geburtsstadt Gutenbergs, des Erfinders des Buchdrucks.",
+      "en": "Founded as a Roman legionary camp in 12 BC. Archbishopric, Electorate, and birthplace of Gutenberg, inventor of the printing press."
+    }
+  },
+  {
+    "id": "siena",
+    "coordinates": [
+      11.3308,
+      43.3188
+    ],
+    "startYear": -100,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "roman",
+      "italian"
+    ],
+    "labels": {
+      "de": "Siena",
+      "en": "Siena"
+    },
+    "description": {
+      "de": "Im 13. Jh. eine der reichsten Städte Europas und Rivalin von Florenz. Bedeutendes Bankzentrum und Sitz einer der ältesten Banken der Welt.",
+      "en": "One of the wealthiest cities in Europe in the 13th century and rival of Florence. Major banking center and home to one of the oldest banks in the world."
+    }
+  },
+  {
+    "id": "dubrovnik",
+    "coordinates": [
+      18.0944,
+      42.6507
+    ],
+    "startYear": 614,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "byzantine",
+      "slavic",
+      "italian"
+    ],
+    "labels": {
+      "de": "Ragusa (Dubrovnik)",
+      "en": "Ragusa (Dubrovnik)"
+    },
+    "description": {
+      "de": "Als Ragusa eine der bedeutendsten Seerepubliken der Adria. Handelsrivale Venedigs mit eigener Flotte und diplomatischem Geschick.",
+      "en": "As Ragusa, one of the most important maritime republics of the Adriatic. Trade rival of Venice with its own fleet and diplomatic skill."
+    }
+  },
+  {
+    "id": "sofia",
+    "coordinates": [
+      23.3219,
+      42.6977
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "slavic",
+      "byzantine",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Sofia (Serdica)",
+      "en": "Sofia (Serdica)"
+    },
+    "description": {
+      "de": "Antike thrakische Siedlung, als Serdica ein bedeutendes römisches Verwaltungszentrum. Diokletian betrachtete es als 'mein Rom'.",
+      "en": "Ancient Thracian settlement, as Serdica an important Roman administrative center. Diocletian considered it 'my Rome'."
+    }
+  },
+  {
+    "id": "nikopol",
+    "coordinates": [
+      25.1897,
+      43.1787
+    ],
+    "startYear": 102,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "roman",
+      "byzantine"
+    ],
+    "labels": {
+      "de": "Nikopolis ad Istrum",
+      "en": "Nicopolis ad Istrum"
+    },
+    "description": {
+      "de": "Von Kaiser Trajan um 102 n. Chr. zur Feier seines Sieges über die Daker gegründet. Bedeutende römische Stadt an der unteren Donau.",
+      "en": "Founded by Emperor Trajan around 102 AD to celebrate his victory over the Dacians. Important Roman city on the lower Danube."
+    }
+  },
+  {
+    "id": "bordeaux",
+    "coordinates": [
+      -0.5792,
+      44.8378
+    ],
+    "startYear": -60,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "celtic",
+      "roman",
+      "french"
+    ],
+    "labels": {
+      "de": "Bordeaux (Burdigala)",
+      "en": "Bordeaux (Burdigala)"
+    },
+    "description": {
+      "de": "Römische Provinzhauptstadt Aquitaniens. Unter englischer Herrschaft (1154–1453) blühender Weinhandelsplatz und wichtigster Atlantikhafen Frankreichs.",
+      "en": "Roman provincial capital of Aquitaine. Under English rule (1154–1453) a thriving wine trading center and France's most important Atlantic port."
+    }
+  },
+  {
+    "id": "rouen",
+    "coordinates": [
+      1.0993,
+      49.4432
+    ],
+    "startYear": 100,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "roman",
+      "norse",
+      "french"
+    ],
+    "labels": {
+      "de": "Rouen",
+      "en": "Rouen"
+    },
+    "description": {
+      "de": "Hauptstadt der Normandie und Sitz der normannischen Herzöge. Bedeutende Handels- und Kirchenstadt an der Seine.",
+      "en": "Capital of Normandy and seat of the Norman dukes. Important trading and ecclesiastical city on the Seine."
+    }
+  },
+  {
+    "id": "avignon",
+    "coordinates": [
+      4.8055,
+      43.9493
+    ],
+    "startYear": -539,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "celtic",
+      "roman",
+      "french"
+    ],
+    "labels": {
+      "de": "Avignon",
+      "en": "Avignon"
+    },
+    "description": {
+      "de": "Von 1309 bis 1377 Sitz des Papsttums (Avignonesisches Exil). Während dieser Zeit das geistliche und politische Zentrum der westlichen Christenheit.",
+      "en": "Seat of the Papacy from 1309 to 1377 (Avignon Papacy). During this time the spiritual and political center of Western Christendom."
+    }
+  },
+  {
+    "id": "tyre",
+    "coordinates": [
+      35.1956,
+      33.2705
+    ],
+    "startYear": -1000,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "phoenician",
+      "roman",
+      "crusader"
+    ],
+    "labels": {
+      "de": "Tyros",
+      "en": "Tyre"
+    },
+    "description": {
+      "de": "Bedeutendste phönizische Seehandelsstadt und Gründerin zahlreicher Kolonien, darunter Karthago. Berühmt für Purpurproduktion.",
+      "en": "Preeminent Phoenician maritime trading city and founder of many colonies including Carthage. Famous for its purple dye production."
+    }
+  },
+  {
+    "id": "sidon",
+    "coordinates": [
+      35.3733,
+      33.5631
+    ],
+    "startYear": -1000,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "phoenician",
+      "roman",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Sidon",
+      "en": "Sidon"
+    },
+    "description": {
+      "de": "Wichtige phönizische Hafenstadt und Rivalin von Tyros. Zentrum der Glasherstellung und des Seehandels im Mittelmeerraum.",
+      "en": "Major Phoenician port city and rival of Tyre. Center of glassmaking and maritime trade in the Mediterranean."
+    }
+  },
+  {
+    "id": "susa",
+    "coordinates": [
+      48.2488,
+      32.1877
+    ],
+    "startYear": -1000,
+    "endYear": 640,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "mesopotamian"
+    ],
+    "labels": {
+      "de": "Susa",
+      "en": "Susa"
+    },
+    "description": {
+      "de": "Antike Hauptstadt Elams und Winterresidenz der Achaemeniden. Fundort des Codex Hammurabi und wichtiges Verwaltungszentrum des Perserreiches.",
+      "en": "Ancient capital of Elam and winter residence of the Achaemenids. Where the Code of Hammurabi was found and a key administrative center of the Persian Empire."
+    }
+  },
+  {
+    "id": "ecbatana",
+    "coordinates": [
+      48.5146,
+      34.7988
+    ],
+    "startYear": -700,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "persian"
+    ],
+    "labels": {
+      "de": "Ekbatana",
+      "en": "Ecbatana"
+    },
+    "description": {
+      "de": "Hauptstadt des Medischen Reiches und Sommerresidenz der Achaemeniden und Parther. Heute die iranische Stadt Hamadan.",
+      "en": "Capital of the Median Empire and summer residence of the Achaemenids and Parthians. Today the Iranian city of Hamadan."
+    }
+  },
+  {
+    "id": "damascus",
+    "coordinates": [
+      36.2919,
+      33.5138
+    ],
+    "startYear": -1000,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "aramaean",
+      "roman",
+      "islamic",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Damaskus",
+      "en": "Damascus"
+    },
+    "description": {
+      "de": "Eine der ältesten durchgehend besiedelten Städte der Welt. Hauptstadt des Umayyaden-Kalifats und bedeutendes Zentrum islamischer Kultur.",
+      "en": "One of the oldest continuously inhabited cities in the world. Capital of the Umayyad Caliphate and major center of Islamic culture."
+    }
+  },
+  {
+    "id": "petra",
+    "coordinates": [
+      35.4419,
+      30.3286
+    ],
+    "startYear": -312,
+    "endYear": 663,
+    "importance": 2,
+    "culturalSphere": [
+      "nabataean",
+      "roman"
+    ],
+    "labels": {
+      "de": "Petra",
+      "en": "Petra"
+    },
+    "description": {
+      "de": "In Fels gehauene Hauptstadt des Nabatäerreiches und Knotenpunkt des Weihrauchhandels. Eines der Neuen Sieben Weltwunder.",
+      "en": "Rock-cut capital of the Nabataean Kingdom and hub of the incense trade. One of the New Seven Wonders of the World."
+    }
+  },
+  {
+    "id": "gaza",
+    "coordinates": [
+      34.4666,
+      31.5018
+    ],
+    "startYear": -1000,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "philistine",
+      "egyptian",
+      "roman",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Gaza",
+      "en": "Gaza"
+    },
+    "description": {
+      "de": "Antike Philisterstadt und bedeutende Handelsstation an der Küstenstraße zwischen Ägypten und der Levante.",
+      "en": "Ancient Philistine city and major trading station on the coastal road between Egypt and the Levant."
+    }
+  },
+  {
+    "id": "caesarea",
+    "coordinates": [
+      34.8892,
+      32.4997
+    ],
+    "startYear": -22,
+    "endYear": 1265,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "crusader"
+    ],
+    "labels": {
+      "de": "Caesarea Maritima",
+      "en": "Caesarea Maritima"
+    },
+    "description": {
+      "de": "Von Herodes dem Großen erbaute Hafenstadt und Hauptstadt der römischen Provinz Judaea für über 600 Jahre.",
+      "en": "Harbor city built by Herod the Great and capital of the Roman province of Judaea for over 600 years."
+    }
+  },
+  {
+    "id": "aleppo",
+    "coordinates": [
+      37.1612,
+      36.2021
+    ],
+    "startYear": -1000,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "aramaean",
+      "roman",
+      "islamic",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Aleppo",
+      "en": "Aleppo"
+    },
+    "description": {
+      "de": "Eine der ältesten durchgehend besiedelten Städte der Welt und Knotenpunkt des Handels zwischen Mittelmeer und Mesopotamien. Drittgrößte Stadt des Osmanischen Reiches.",
+      "en": "One of the oldest continuously inhabited cities and a trade hub between the Mediterranean and Mesopotamia. Third-largest city of the Ottoman Empire."
+    }
+  },
+  {
+    "id": "isfahan",
+    "coordinates": [
+      51.6776,
+      32.6546
+    ],
+    "startYear": -700,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Isfahan",
+      "en": "Isfahan"
+    },
+    "description": {
+      "de": "Unter den Safawiden Hauptstadt Persiens und berühmt für ihre islamische Architektur. Das Sprichwort sagt: Isfahan ist die Hälfte der Welt.",
+      "en": "Under the Safavids capital of Persia and famed for its Islamic architecture. The proverb says: 'Isfahan is half the world.'"
+    }
+  },
+  {
+    "id": "bukhara",
+    "coordinates": [
+      64.4218,
+      39.7681
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "sogdian",
+      "persian",
+      "islamic",
+      "turkic"
+    ],
+    "labels": {
+      "de": "Buchara",
+      "en": "Bukhara"
+    },
+    "description": {
+      "de": "Bedeutender Knotenpunkt der Seidenstraße und Zentrum islamischer Gelehrsamkeit. Geburtsort des Hadith-Gelehrten Imam al-Buchari.",
+      "en": "Major Silk Road hub and center of Islamic scholarship. Birthplace of the hadith scholar Imam al-Bukhari."
+    }
+  },
+  {
+    "id": "mecca",
+    "coordinates": [
+      39.8261,
+      21.4225
+    ],
+    "startYear": -400,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "arabian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Mekka",
+      "en": "Mecca"
+    },
+    "description": {
+      "de": "Heiligste Stadt des Islam und Geburtsort des Propheten Mohammed. Ziel der jährlichen Hadsch-Pilgerfahrt mit der Kaaba als zentralem Heiligtum.",
+      "en": "Holiest city of Islam and birthplace of the Prophet Muhammad. Destination of the annual Hajj pilgrimage centered on the Kaaba."
+    }
+  },
+  {
+    "id": "medina",
+    "coordinates": [
+      39.6142,
+      24.4686
+    ],
+    "startYear": 622,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "arabian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Medina",
+      "en": "Medina"
+    },
+    "description": {
+      "de": "Zweitheiligste Stadt des Islam und Ziel der Hidschra Mohammeds 622. Erste Hauptstadt des islamischen Staates und Grabstätte des Propheten.",
+      "en": "Second-holiest city of Islam and destination of Muhammad's Hijra in 622. First capital of the Islamic state and burial place of the Prophet."
+    }
+  },
+  {
+    "id": "tripoli-libya",
+    "coordinates": [
+      13.1875,
+      32.8872
+    ],
+    "startYear": -700,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "phoenician",
+      "roman",
+      "islamic",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Tripolis (Libyen)",
+      "en": "Tripoli (Libya)"
+    },
+    "description": {
+      "de": "Phönizische Gründung im 7. Jh. v. Chr. und wichtiger Hafen der Römerzeit. Unter den Osmanen Hauptstadt einer Korsarenregentschaft.",
+      "en": "Phoenician foundation from the 7th century BC and key Roman-era port. Under the Ottomans, capital of a corsair regency."
+    }
+  },
+  {
+    "id": "acre",
+    "coordinates": [
+      35.0714,
+      32.9225
+    ],
+    "startYear": -1000,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "phoenician",
+      "roman",
+      "crusader",
+      "islamic",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Akkon",
+      "en": "Acre"
+    },
+    "description": {
+      "de": "Bedeutende Hafenstadt der Kreuzfahrer und letzte Festung des Königreichs Jerusalem (fiel 1291). Wichtiger Handelshafen seit der Antike.",
+      "en": "Major Crusader port city and the last stronghold of the Kingdom of Jerusalem (fell 1291). Important trading port since antiquity."
+    }
+  },
+  {
+    "id": "aden",
+    "coordinates": [
+      45.0187,
+      12.7855
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "arabian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Aden",
+      "en": "Aden"
+    },
+    "description": {
+      "de": "Antiker Hafen am Tor zwischen Rotem Meer und Indischem Ozean. Wichtiger Umschlagplatz des Gewürz- und Weihrauchhandels.",
+      "en": "Ancient port at the gateway between the Red Sea and Indian Ocean. Key entrepot of the spice and incense trade."
+    }
+  },
+  {
+    "id": "muscat",
+    "coordinates": [
+      58.54,
+      23.5859
+    ],
+    "startYear": 100,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "arabian",
+      "islamic",
+      "persian"
+    ],
+    "labels": {
+      "de": "Maskat",
+      "en": "Muscat"
+    },
+    "description": {
+      "de": "Seit der Antike bedeutender Handelshafen am Golf von Oman. Im 18. Jahrhundert Zentrum eines Seereiches bis nach Ostafrika und Sansibar.",
+      "en": "Major trading port on the Gulf of Oman since antiquity. In the 18th century, center of a maritime empire extending to East Africa and Zanzibar."
+    }
+  },
+  {
+    "id": "tripoli-lebanon",
+    "coordinates": [
+      35.8498,
+      34.4367
+    ],
+    "startYear": -1000,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "phoenician",
+      "roman",
+      "crusader",
+      "islamic",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Tripoli (Libanon)",
+      "en": "Tripoli (Lebanon)"
+    },
+    "description": {
+      "de": "Phönizische Gründung und während der Kreuzzüge Hauptstadt der Grafschaft Tripolis. Wichtiger Hafen an der levantinischen Küste.",
+      "en": "Phoenician foundation and capital of the County of Tripoli during the Crusades. Important port on the Levantine coast."
+    }
+  },
+  {
+    "id": "sanaa",
+    "coordinates": [
+      44.2067,
+      15.3694
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "arabian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Sanaa",
+      "en": "Sana'a"
+    },
+    "description": {
+      "de": "Antike Hauptstadt Südarabiens und eine der ältesten durchgehend besiedelten Städte der Welt. Bedeutendes Zentrum islamischer Architektur.",
+      "en": "Ancient capital of South Arabia and one of the oldest continuously inhabited cities in the world. Major center of Islamic architecture."
+    }
+  },
+  {
+    "id": "harran",
+    "coordinates": [
+      39.0285,
+      36.8644
+    ],
+    "startYear": -1000,
+    "endYear": 1260,
+    "importance": 3,
+    "culturalSphere": [
+      "mesopotamian",
+      "roman",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Harran",
+      "en": "Harran"
+    },
+    "description": {
+      "de": "Uralte Stadt in Obermesopotamien, Zentrum des Mondgottes Sin. Im Mittelalter bedeutend für die Bewahrung antiken Wissens.",
+      "en": "Ancient city in Upper Mesopotamia, center of the Moon god Sin. Significant in the medieval period for preserving ancient knowledge."
+    }
+  },
+  {
+    "id": "rayy",
+    "coordinates": [
+      51.4333,
+      35.5833
+    ],
+    "startYear": -1000,
+    "endYear": 1220,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Rey",
+      "en": "Ray"
+    },
+    "description": {
+      "de": "Eine der bedeutendsten Städte der antiken Medien und des mittelalterlichen Iran. Geburtsort des Arztes ar-Razi. 1220 von den Mongolen zerstört.",
+      "en": "One of the most important cities of ancient Media and medieval Iran. Birthplace of the physician al-Razi. Destroyed by the Mongols in 1220."
+    }
+  },
+  {
+    "id": "shiraz",
+    "coordinates": [
+      52.5311,
+      29.5918
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Schiras",
+      "en": "Shiraz"
+    },
+    "description": {
+      "de": "Kulturhauptstadt Persiens und Heimatstadt der Dichter Hafis und Saadi. Unter den Zand-Herrschern im 18. Jh. Hauptstadt Irans.",
+      "en": "Cultural capital of Persia and home of the poets Hafez and Saadi. Capital of Iran under the Zand dynasty in the 18th century."
+    }
+  },
+  {
+    "id": "homs",
+    "coordinates": [
+      36.7167,
+      34.7333
+    ],
+    "startYear": -1000,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "roman",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Homs",
+      "en": "Homs"
+    },
+    "description": {
+      "de": "Antikes Emesa, Zentrum des Sonnengottkultes. Strategisch wichtige Stadt an der Verbindung zwischen Küste und Wüste.",
+      "en": "Ancient Emesa, center of the sun god cult. Strategically important city connecting the coast to the desert interior."
+    }
+  },
+  {
+    "id": "balkh",
+    "coordinates": [
+      66.8972,
+      36.7583
+    ],
+    "startYear": -500,
+    "endYear": 1220,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "islamic",
+      "hellenistic"
+    ],
+    "labels": {
+      "de": "Balkh",
+      "en": "Balkh"
+    },
+    "description": {
+      "de": "Mutter der Städte - eines der ältesten Zentren Zentralasiens. Geburtsort Rumis und wichtiger Knotenpunkt der Seidenstraße. 1220 von den Mongolen zerstört.",
+      "en": "'Mother of Cities' - one of Central Asia's oldest centers. Birthplace of Rumi and key Silk Road hub. Destroyed by the Mongols in 1220."
+    }
+  },
+  {
+    "id": "herat",
+    "coordinates": [
+      62.1997,
+      34.3529
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "islamic",
+      "turkic"
+    ],
+    "labels": {
+      "de": "Herat",
+      "en": "Herat"
+    },
+    "description": {
+      "de": "Bedeutende Stadt an der Seidenstraße und unter den Timuriden (15. Jh.) ein Zentrum persischer Kunst und Literatur.",
+      "en": "Major Silk Road city and under the Timurids (15th c.) a center of Persian art and literature."
+    }
+  },
+  {
+    "id": "tarsus",
+    "coordinates": [
+      34.8959,
+      36.9167
+    ],
+    "startYear": -700,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "roman",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Tarsus",
+      "en": "Tarsus"
+    },
+    "description": {
+      "de": "Hauptstadt der römischen Provinz Kilikien und Geburtsort des Apostels Paulus. Strategisch gelegen an den Kilikischen Toren.",
+      "en": "Capital of the Roman province of Cilicia and birthplace of the Apostle Paul. Strategically located at the Cilician Gates."
+    }
+  },
+  {
+    "id": "trabzon",
+    "coordinates": [
+      39.7168,
+      41.0027
+    ],
+    "startYear": -756,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "roman",
+      "turkic"
+    ],
+    "labels": {
+      "de": "Trabzon",
+      "en": "Trabzon"
+    },
+    "description": {
+      "de": "Griechische Kolonie Trapezus und Endpunkt der Seidenstraße am Schwarzen Meer. Hauptstadt des Kaiserreiches Trapezunt (1204-1461).",
+      "en": "Greek colony of Trapezus and Silk Road terminus on the Black Sea. Capital of the Empire of Trebizond (1204-1461)."
+    }
+  },
+  {
+    "id": "luoyang",
+    "coordinates": [
+      112.4539,
+      34.6197
+    ],
+    "startYear": -1046,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Luoyang",
+      "en": "Luoyang"
+    },
+    "description": {
+      "de": "Eine der ältesten chinesischen Hauptstädte, Sitz der Östlichen Zhou, Östlichen Han, Wei und Tang. Zentrum des frühen Buddhismus in China.",
+      "en": "One of China's oldest capitals, seat of the Eastern Zhou, Eastern Han, Wei, and Tang dynasties. Center of early Buddhism in China."
+    }
+  },
+  {
+    "id": "qufu",
+    "coordinates": [
+      116.9864,
+      35.5964
+    ],
+    "startYear": -1000,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Qufu",
+      "en": "Qufu"
+    },
+    "description": {
+      "de": "Hauptstadt des Staates Lu und Geburtsort des Konfuzius (551 v. Chr.). Wichtige Pilgerstätte des Konfuzianismus.",
+      "en": "Capital of the State of Lu and birthplace of Confucius (551 BC). Major pilgrimage site for Confucianism."
+    }
+  },
+  {
+    "id": "changan",
+    "coordinates": [
+      108.9402,
+      34.2658
+    ],
+    "startYear": -202,
+    "endYear": 904,
+    "importance": 1,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Chang'an",
+      "en": "Chang'an"
+    },
+    "description": {
+      "de": "Hauptstadt der Han- und Tang-Dynastien und zeitweise größte Stadt der Welt. Unter den Tang mit über einer Million Einwohnern kosmopolitisches Zentrum der Seidenstraße.",
+      "en": "Capital of the Han and Tang dynasties and at times the largest city in the world. Under the Tang, with over one million inhabitants, a cosmopolitan hub of the Silk Road."
+    }
+  },
+  {
+    "id": "chengdu",
+    "coordinates": [
+      104.0668,
+      30.5728
+    ],
+    "startYear": -316,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Chengdu",
+      "en": "Chengdu"
+    },
+    "description": {
+      "de": "Hauptstadt des alten Shu-Staates und des Reiches Shu-Han. Dank des Dujiangyan-Bewässerungssystems wirtschaftliches Zentrum des fruchtbaren Sichuan-Beckens.",
+      "en": "Capital of the ancient Shu state and Shu Han kingdom. Economic center of the fertile Sichuan basin thanks to the Dujiangyan irrigation system."
+    }
+  },
+  {
+    "id": "nanjing",
+    "coordinates": [
+      118.7969,
+      32.0603
+    ],
+    "startYear": -472,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Nanjing",
+      "en": "Nanjing"
+    },
+    "description": {
+      "de": "Hauptstadt der Sechs Dynastien, der frühen Ming und später der Republik China. Als 'Südliche Hauptstadt' oft Gegenhauptstadt zu den nördlichen Metropolen.",
+      "en": "Capital of the Six Dynasties, early Ming, and later the Republic of China. As 'Southern Capital,' it often served as counterpart to the northern capitals."
+    }
+  },
+  {
+    "id": "guangzhou",
+    "coordinates": [
+      113.2644,
+      23.1291
+    ],
+    "startYear": -214,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Guangzhou (Kanton)",
+      "en": "Guangzhou (Canton)"
+    },
+    "description": {
+      "de": "Wichtigster Seehandelshafen Südchinas seit der Han-Dynastie. Tor zum Südchinesischen Meer und über Jahrhunderte Hauptumschlagplatz für den Handel mit Südostasien, Indien und dem Nahen Osten.",
+      "en": "Southern China's foremost maritime port since the Han dynasty. Gateway to the South China Sea and for centuries the primary hub for trade with Southeast Asia, India, and the Middle East."
+    }
+  },
+  {
+    "id": "kaifeng",
+    "coordinates": [
+      114.3416,
+      34.7972
+    ],
+    "startYear": -364,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Kaifeng",
+      "en": "Kaifeng"
+    },
+    "description": {
+      "de": "Hauptstadt der Nördlichen Song-Dynastie (960–1127) mit über einer Million Einwohnern. Blühende Handelsmetropole, berühmt durch das Gemälde 'Entlang des Flusses während des Qingming-Festes'.",
+      "en": "Capital of the Northern Song dynasty (960-1127) with over one million inhabitants. Flourishing commercial metropolis, immortalized in the painting 'Along the River During the Qingming Festival.'"
+    }
+  },
+  {
+    "id": "hangzhou",
+    "coordinates": [
+      120.1551,
+      30.2741
+    ],
+    "startYear": -221,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Hangzhou",
+      "en": "Hangzhou"
+    },
+    "description": {
+      "de": "Hauptstadt der Südlichen Song-Dynastie (1138–1276) und damals wohl größte Stadt der Welt mit über einer Million Einwohnern. Marco Polo nannte sie 'die prächtigste Stadt der Welt'.",
+      "en": "Capital of the Southern Song dynasty (1138-1276) and likely the world's largest city at the time with over one million inhabitants. Marco Polo called it 'the finest and most splendid city in the world.'"
+    }
+  },
+  {
+    "id": "beijing",
+    "coordinates": [
+      116.4074,
+      39.9042
+    ],
+    "startYear": -1046,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "chinese",
+      "mongol",
+      "manchu"
+    ],
+    "labels": {
+      "de": "Peking",
+      "en": "Beijing"
+    },
+    "description": {
+      "de": "Hauptstadt der Yuan-, Ming- und Qing-Dynastien. Als Khanbaliq unter den Mongolen erbaut, wurde sie zum dauerhaften Machtzentrum des chinesischen Kaiserreichs. Sitz der Verbotenen Stadt.",
+      "en": "Capital of the Yuan, Ming, and Qing dynasties. Built as Khanbaliq under the Mongols, it became the permanent seat of Chinese imperial power. Home to the Forbidden City."
+    }
+  },
+  {
+    "id": "quanzhou",
+    "coordinates": [
+      118.5894,
+      24.9084
+    ],
+    "startYear": 260,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Quanzhou",
+      "en": "Quanzhou"
+    },
+    "description": {
+      "de": "Größter Seehafen Chinas im 11.–14. Jahrhundert, als 'Zayton' den arabischen und europäischen Händlern bekannt. UNESCO-Weltkulturerbe für maritimen Handel.",
+      "en": "China's greatest seaport in the 11th-14th centuries, known to Arab and European traders as 'Zayton.' UNESCO World Heritage Site for maritime trade."
+    }
+  },
+  {
+    "id": "suzhou",
+    "coordinates": [
+      120.6199,
+      31.299
+    ],
+    "startYear": -514,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Suzhou",
+      "en": "Suzhou"
+    },
+    "description": {
+      "de": "Kulturmetropole am Großen Kanal, berühmt für Seidenproduktion und klassische Gärten. Ein chinesisches Sprichwort sagt: 'Im Himmel gibt es das Paradies, auf Erden gibt es Suzhou und Hangzhou.'",
+      "en": "Cultural metropolis on the Grand Canal, famed for silk production and classical gardens. A Chinese proverb says: 'In heaven there is paradise, on earth there is Suzhou and Hangzhou.'"
+    }
+  },
+  {
+    "id": "yangzhou",
+    "coordinates": [
+      119.4212,
+      32.3934
+    ],
+    "startYear": -486,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Yangzhou",
+      "en": "Yangzhou"
+    },
+    "description": {
+      "de": "Blühende Handelsstadt am Schnittpunkt von Großem Kanal und Jangtse. Unter der Tang-Dynastie eines der reichsten Handelszentren Chinas.",
+      "en": "Thriving trade city at the junction of the Grand Canal and the Yangtze. One of China's wealthiest commercial centers during the Tang dynasty."
+    }
+  },
+  {
+    "id": "dunhuang",
+    "coordinates": [
+      94.6618,
+      40.1421
+    ],
+    "startYear": -111,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Dunhuang",
+      "en": "Dunhuang"
+    },
+    "description": {
+      "de": "Oasenstadt an der westlichen Seidenstraße, berühmt für die Mogao-Grotten mit tausenden buddhistischen Wandmalereien aus dem 4.–14. Jahrhundert.",
+      "en": "Oasis town on the western Silk Road, famous for the Mogao Caves with thousands of Buddhist murals from the 4th-14th centuries."
+    }
+  },
+  {
+    "id": "fuzhou",
+    "coordinates": [
+      119.3062,
+      26.0745
+    ],
+    "startYear": 202,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Fuzhou",
+      "en": "Fuzhou"
+    },
+    "description": {
+      "de": "Hauptstadt der Provinz Fujian und wichtiger Hafen an der Taiwanstraße. Zentrum des Min-Nan-Handels und der chinesischen Überseeemigration.",
+      "en": "Capital of Fujian province and important port on the Taiwan Strait. Center of Min Nan trade and Chinese overseas emigration."
+    }
+  },
+  {
+    "id": "pyongyang",
+    "coordinates": [
+      125.7625,
+      39.0392
+    ],
+    "startYear": -427,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Pjöngjang",
+      "en": "Pyongyang"
+    },
+    "description": {
+      "de": "Hauptstadt des Goguryeo-Reiches ab 427 n. Chr. und eine der ältesten Städte Koreas. Strategisches Machtzentrum auf der koreanischen Halbinsel.",
+      "en": "Capital of the Goguryeo kingdom from 427 AD and one of the oldest cities in Korea. Strategic power center on the Korean Peninsula."
+    }
+  },
+  {
+    "id": "gyeongju",
+    "coordinates": [
+      129.225,
+      35.8562
+    ],
+    "startYear": -57,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Gyeongju",
+      "en": "Gyeongju"
+    },
+    "description": {
+      "de": "Hauptstadt des Silla-Reiches fast tausend Jahre lang (57 v. Chr.–935 n. Chr.). Zur Blütezeit eine der größten Städte Ostasiens mit prächtigen Königsgräbern und buddhistischen Tempeln.",
+      "en": "Capital of the Silla kingdom for nearly a thousand years (57 BC-935 AD). At its peak one of the largest cities in East Asia, with magnificent royal tombs and Buddhist temples."
+    }
+  },
+  {
+    "id": "sabi",
+    "coordinates": [
+      126.9115,
+      36.2754
+    ],
+    "startYear": 538,
+    "endYear": 660,
+    "importance": 3,
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Sabi (Buyeo)",
+      "en": "Sabi (Buyeo)"
+    },
+    "description": {
+      "de": "Letzte Hauptstadt des Baekje-Reiches (538–660). Zentrum für Buddhismus und kulturellen Austausch mit Japan.",
+      "en": "Last capital of the Baekje kingdom (538-660). Center for Buddhism and cultural exchange with Japan."
+    }
+  },
+  {
+    "id": "seoul",
+    "coordinates": [
+      126.978,
+      37.5665
+    ],
+    "startYear": -18,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Seoul (Hanyang)",
+      "en": "Seoul (Hanyang)"
+    },
+    "description": {
+      "de": "Hauptstadt der Joseon-Dynastie ab 1394 (als Hanyang), vorher Hauptstadt des Baekje-Reiches. Seit über 600 Jahren politisches und kulturelles Zentrum Koreas.",
+      "en": "Capital of the Joseon dynasty from 1394 (as Hanyang), previously capital of the Baekje kingdom. Political and cultural center of Korea for over 600 years."
+    }
+  },
+  {
+    "id": "hakata",
+    "coordinates": [
+      130.4017,
+      33.5904
+    ],
+    "startYear": 600,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Hakata (Fukuoka)",
+      "en": "Hakata (Fukuoka)"
+    },
+    "description": {
+      "de": "Ältester Handelshafen Japans gegenüber Korea und China. Schauplatz der mongolischen Invasionsversuche 1274 und 1281.",
+      "en": "Japan's oldest trading port facing Korea and China. Site of the Mongol invasion attempts of 1274 and 1281."
+    }
+  },
+  {
+    "id": "palembang",
+    "coordinates": [
+      104.7458,
+      -2.9761
+    ],
+    "startYear": 600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "malay",
+      "indonesian"
+    ],
+    "labels": {
+      "de": "Palembang",
+      "en": "Palembang"
+    },
+    "description": {
+      "de": "Hauptstadt des Srivijaya-Reiches (7.–11. Jh.), einer buddhistischen Seemacht, die den Handel in der Straße von Malakka kontrollierte.",
+      "en": "Capital of the Srivijaya Empire (7th-11th c.), a Buddhist maritime power that controlled trade through the Strait of Malacca."
+    }
+  },
+  {
+    "id": "wuhan",
+    "coordinates": [
+      114.3055,
+      30.5928
+    ],
+    "startYear": -400,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Wuhan",
+      "en": "Wuhan"
+    },
+    "description": {
+      "de": "Strategisch wichtige Dreistadt am Zusammenfluss von Jangtse und Han-Fluss. Seit der Han-Zeit bedeutendes Handels- und Verkehrszentrum Zentralchinas.",
+      "en": "Strategically important triple city at the confluence of the Yangtze and Han rivers. Major trade and transportation hub of central China since the Han dynasty."
+    }
+  },
+  {
+    "id": "changsha",
+    "coordinates": [
+      112.9388,
+      28.2282
+    ],
+    "startYear": -400,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Changsha",
+      "en": "Changsha"
+    },
+    "description": {
+      "de": "Hauptstadt des Königreichs Changsha und bedeutende Stadt in Hunan seit der Chu-Zeit. Berühmt für die Mawangdui-Gräber der Han-Dynastie.",
+      "en": "Capital of the Changsha kingdom and important city in Hunan since the Chu period. Famous for the Mawangdui tombs of the Han dynasty."
+    }
+  },
+  {
+    "id": "wuwei",
+    "coordinates": [
+      102.6375,
+      37.9283
+    ],
+    "startYear": -121,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Wuwei (Liangzhou)",
+      "en": "Wuwei (Liangzhou)"
+    },
+    "description": {
+      "de": "Tor zum Hexi-Korridor und wichtige Garnisonsstadt an der Seidenstraße seit der Han-Dynastie. Hauptstadt der Früheren Liang-Dynastie.",
+      "en": "Gateway to the Hexi Corridor and important garrison city on the Silk Road since the Han dynasty. Capital of the Former Liang dynasty."
+    }
+  },
+  {
+    "id": "shenyang",
+    "coordinates": [
+      123.4315,
+      41.8057
+    ],
+    "startYear": -300,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese",
+      "manchu"
+    ],
+    "labels": {
+      "de": "Shenyang (Mukden)",
+      "en": "Shenyang (Mukden)"
+    },
+    "description": {
+      "de": "Hauptstadt der Mandschu-Qing-Dynastie vor der Eroberung Chinas (1625–1644). Sitz des Mukden-Palastes, des 'zweiten Verbotenen Stadt'.",
+      "en": "Capital of the Manchu Qing dynasty before the conquest of China (1625-1644). Home to the Mukden Palace, the 'second Forbidden City.'"
+    }
+  },
+  {
+    "id": "varanasi",
+    "coordinates": [
+      83.0007,
+      25.3176
+    ],
+    "startYear": -800,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Varanasi (Kashi)",
+      "en": "Varanasi (Kashi)"
+    },
+    "description": {
+      "de": "Eine der ältesten ununterbrochen bewohnten Städte der Welt und heiligste Stadt des Hinduismus am Ganges. Zentrum von Pilgerfahrt, Gelehrsamkeit und religiösem Leben seit über 2500 Jahren.",
+      "en": "One of the oldest continuously inhabited cities in the world and the holiest city of Hinduism on the Ganges. A center of pilgrimage, learning, and religious life for over 2,500 years."
+    }
+  },
+  {
+    "id": "kanchipuram",
+    "coordinates": [
+      79.7036,
+      12.8342
+    ],
+    "startYear": -300,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "dravidian",
+      "indian"
+    ],
+    "labels": {
+      "de": "Kanchipuram",
+      "en": "Kanchipuram"
+    },
+    "description": {
+      "de": "Eine der sieben heiligen Städte des Hinduismus und Hauptstadt des Pallava-Reiches (4.–9. Jh.). Bekannt als Stadt der tausend Tempel und Zentrum der Seidenweberei.",
+      "en": "One of the seven sacred cities of Hinduism and capital of the Pallava dynasty (4th-9th century). Known as the City of Thousand Temples and center of silk weaving."
+    }
+  },
+  {
+    "id": "anuradhapura",
+    "coordinates": [
+      80.3847,
+      8.3114
+    ],
+    "startYear": -437,
+    "endYear": 993,
+    "importance": 2,
+    "culturalSphere": [
+      "sri-lankan",
+      "indian"
+    ],
+    "labels": {
+      "de": "Anuradhapura",
+      "en": "Anuradhapura"
+    },
+    "description": {
+      "de": "Älteste Hauptstadt Sri Lankas und Wiege des Theravada-Buddhismus. Über 1500 Jahre lang Zentrum einer hochentwickelten hydraulischen Zivilisation mit monumentalen Stupas.",
+      "en": "Oldest capital of Sri Lanka and cradle of Theravada Buddhism. Center of a sophisticated hydraulic civilization with monumental stupas for over 1,500 years."
+    }
+  },
+  {
+    "id": "purushapura",
+    "coordinates": [
+      71.5249,
+      34.0151
+    ],
+    "startYear": -100,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "kushan",
+      "afghan"
+    ],
+    "labels": {
+      "de": "Purushapura (Peschawar)",
+      "en": "Purushapura (Peshawar)"
+    },
+    "description": {
+      "de": "Hauptstadt des Kuschanreiches unter Kanischka dem Großen im 2. Jh. n. Chr. und bedeutendes Zentrum der Gandhara-Kunst, wo griechische und buddhistische Stile verschmolzen.",
+      "en": "Capital of the Kushan Empire under Kanishka the Great in the 2nd century AD and a major center of Gandhara art, where Greek and Buddhist styles merged."
+    }
+  },
+  {
+    "id": "madurai",
+    "coordinates": [
+      78.1198,
+      9.9252
+    ],
+    "startYear": -300,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "dravidian",
+      "indian"
+    ],
+    "labels": {
+      "de": "Madurai",
+      "en": "Madurai"
+    },
+    "description": {
+      "de": "Über 2500 Jahre alte Hauptstadt des Pandya-Reiches und Sitz der legendären Tamil-Sangams (Gelehrtenversammlungen). Eines der ältesten und bedeutendsten kulturellen Zentren Südindiens.",
+      "en": "Over 2,500-year-old capital of the Pandya kingdom and seat of the legendary Tamil Sangams (literary academies). One of the oldest and most important cultural centers of South India."
+    }
+  },
+  {
+    "id": "multan",
+    "coordinates": [
+      71.4753,
+      30.1575
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "mughal"
+    ],
+    "labels": {
+      "de": "Multan",
+      "en": "Multan"
+    },
+    "description": {
+      "de": "Eine der ältesten Städte Südasiens, bekannt als Stadt der Heiligen und Suffis. Strategisch wichtiger Handelsposten an der Route zwischen Indien und Zentralasien seit der Antike.",
+      "en": "One of the oldest cities in South Asia, known as the City of Saints and Sufis. A strategically important trading post on the route between India and Central Asia since antiquity."
+    }
+  },
+  {
+    "id": "adulis",
+    "coordinates": [
+      39.66,
+      15.27
+    ],
+    "startYear": -500,
+    "endYear": 640,
+    "importance": 2,
+    "culturalSphere": [
+      "axumite",
+      "african",
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Adulis",
+      "en": "Adulis"
+    },
+    "description": {
+      "de": "Wichtigster Hafen des Königreichs Aksum am Roten Meer. Drehscheibe des Handels zwischen dem Römischen Reich, Indien und dem Inneren Afrikas.",
+      "en": "Most important port of the Kingdom of Aksum on the Red Sea. Hub of trade between the Roman Empire, India, and the African interior."
+    }
+  },
+  {
+    "id": "jenne-jeno",
+    "coordinates": [
+      -4.5533,
+      13.9069
+    ],
+    "startYear": -250,
+    "endYear": 1400,
+    "importance": 2,
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Djenné-Djenno",
+      "en": "Jenne-Jeno"
+    },
+    "description": {
+      "de": "Eine der ältesten Städte Subsahara-Afrikas, gegründet um 250 v. Chr. am Niger-Binnendelta. Bedeutendes Handels- und Handwerkszentrum mit Eisen- und Kupferverarbeitung.",
+      "en": "One of the oldest cities in sub-Saharan Africa, founded around 250 BC in the Niger Inland Delta. A major center of trade and craftsmanship with iron and copper working."
+    }
+  },
+  {
+    "id": "kumbi-saleh",
+    "coordinates": [
+      -7.9833,
+      15.7667
+    ],
+    "startYear": 500,
+    "endYear": 1240,
+    "importance": 2,
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Kumbi Saleh",
+      "en": "Kumbi Saleh"
+    },
+    "description": {
+      "de": "Wahrscheinliche Hauptstadt des Ghana-Reiches, des ersten großen westafrikanischen Imperiums. Im 11. Jh. mit bis zu 30.000 Einwohnern einer der größten Orte Westafrikas.",
+      "en": "Probable capital of the Ghana Empire, the first great West African empire. In the 11th century, with up to 30,000 inhabitants, one of the largest settlements in West Africa."
+    }
+  },
+  {
+    "id": "monte-alban",
+    "coordinates": [
+      -96.767,
+      17.043
+    ],
+    "startYear": -500,
+    "endYear": 750,
+    "importance": 2,
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Monte Albán",
+      "en": "Monte Albán"
+    },
+    "description": {
+      "de": "Hauptstadt der Zapoteken im Tal von Oaxaca und eine der frühesten Städte Mesoamerikas. Über 1000 Jahre lang das bedeutendste politische und wirtschaftliche Zentrum der Region.",
+      "en": "Capital of the Zapotecs in the Valley of Oaxaca and one of the earliest cities of Mesoamerica. For over 1,000 years the most important political and economic center of the region."
+    }
+  },
+  {
+    "id": "tikal",
+    "coordinates": [
+      -89.6263,
+      17.222
+    ],
+    "startYear": -400,
+    "endYear": 900,
+    "importance": 1,
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Tikal",
+      "en": "Tikal"
+    },
+    "description": {
+      "de": "Mächtigste Maya-Stadt der Klassischen Periode mit bis zu 100.000 Einwohnern. Dominierte weite Teile der Maya-Tiefländer politisch und militärisch über Jahrhunderte.",
+      "en": "Most powerful Maya city of the Classic Period with up to 100,000 inhabitants. Dominated large parts of the Maya lowlands politically and militarily for centuries."
+    }
+  },
+  {
+    "id": "calakmul",
+    "coordinates": [
+      -89.8108,
+      18.1053
+    ],
+    "startYear": -400,
+    "endYear": 900,
+    "importance": 2,
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Calakmul",
+      "en": "Calakmul"
+    },
+    "description": {
+      "de": "Größte Rivalin Tikals im Maya-Tiefland und Hauptstadt des mächtigen Kaan-Königreiches. Die Stadt mit über 6.000 Gebäuden war eines der größten Maya-Zentren.",
+      "en": "Greatest rival of Tikal in the Maya lowlands and capital of the powerful Kaan kingdom. The city with over 6,000 structures was one of the largest Maya centers."
+    }
+  },
+  {
+    "id": "copan",
+    "coordinates": [
+      -89.1408,
+      14.8401
+    ],
+    "startYear": -400,
+    "endYear": 900,
+    "importance": 2,
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Copán",
+      "en": "Copán"
+    },
+    "description": {
+      "de": "Bedeutende Maya-Stadt im Südosten des Maya-Gebiets, berühmt für ihre außergewöhnlich feinen Skulpturen und die längste hieroglyphische Treppe der Maya-Welt.",
+      "en": "Major Maya city in the southeastern Maya region, famous for its exceptionally fine sculptures and the longest hieroglyphic stairway in the Maya world."
+    }
+  },
+  {
+    "id": "palenque",
+    "coordinates": [
+      -92.0461,
+      17.4838
+    ],
+    "startYear": 226,
+    "endYear": 799,
+    "importance": 2,
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Palenque (Lakamha)",
+      "en": "Palenque (Lakamha)"
+    },
+    "description": {
+      "de": "Maya-Stadt mit einigen der feinsten Skulpturen und Architektur der Maya-Zivilisation. Berühmt für das Grab von K'inich Janaab Pakal im Tempel der Inschriften.",
+      "en": "Maya city with some of the finest sculpture and architecture of Maya civilization. Famous for the tomb of K'inich Janaab Pakal in the Temple of the Inscriptions."
+    }
+  },
+  {
+    "id": "chichen-itza",
+    "coordinates": [
+      -88.5686,
+      20.6843
+    ],
+    "startYear": 600,
+    "endYear": 1200,
+    "importance": 2,
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Chichén Itzá",
+      "en": "Chichén Itzá"
+    },
+    "description": {
+      "de": "Größte und mächtigste Maya-Stadt der Terminal-Klassik und Postklassik auf Yucatán. Die Kukulkán-Pyramide ist eines der bekanntesten Bauwerke der vorkolumbischen Welt.",
+      "en": "Largest and most powerful Maya city of the Terminal Classic and Postclassic on Yucatan. The Kukulkan Pyramid is one of the most famous structures of the pre-Columbian world."
+    }
+  },
+  {
+    "id": "uxmal",
+    "coordinates": [
+      -89.7717,
+      20.3594
+    ],
+    "startYear": 600,
+    "endYear": 1000,
+    "importance": 2,
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Uxmal",
+      "en": "Uxmal"
+    },
+    "description": {
+      "de": "Bedeutende Maya-Stadt im Puuc-Stil auf Yucatán. Bekannt für den aufwendig verzierten Gouverneurspalast, der als eines der Meisterwerke mesoamerikanischer Architektur gilt.",
+      "en": "Major Maya city in the Puuc style on Yucatan. Known for the elaborately decorated Governor's Palace, considered one of the masterpieces of Mesoamerican architecture."
+    }
+  },
+  {
+    "id": "moche",
+    "coordinates": [
+      -79.1244,
+      -8.1591
+    ],
+    "startYear": 100,
+    "endYear": 700,
+    "importance": 2,
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Moche (Huacas del Sol y de la Luna)",
+      "en": "Moche (Huacas del Sol y de la Luna)"
+    },
+    "description": {
+      "de": "Hauptstadt der Moche-Kultur mit der gewaltigen Sonnenpyramide (Huaca del Sol), der größten Adobestruktur der Neuen Welt. Zentrum einer hochentwickelten Keramik- und Goldschmiedekultur.",
+      "en": "Capital of the Moche culture with the massive Pyramid of the Sun (Huaca del Sol), the largest adobe structure in the New World. Center of a highly developed ceramic and goldsmithing culture."
+    }
+  },
+  {
+    "id": "tiwanaku",
+    "coordinates": [
+      -68.6735,
+      -16.5544
+    ],
+    "startYear": -200,
+    "endYear": 1000,
+    "importance": 2,
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Tiwanaku (Tiahuanaco)",
+      "en": "Tiwanaku"
+    },
+    "description": {
+      "de": "Zeremonielles und politisches Zentrum am Titicacasee auf über 3800 m Höhe. Hauptstadt eines Reiches, das Teile Boliviens, Perus und Chiles kontrollierte, mit bis zu 20.000 Einwohnern.",
+      "en": "Ceremonial and political center on Lake Titicaca at over 3,800m elevation. Capital of an empire controlling parts of Bolivia, Peru, and Chile, with up to 20,000 inhabitants."
+    }
+  },
+  {
+    "id": "wari",
+    "coordinates": [
+      -74.22,
+      -13.163
+    ],
+    "startYear": 600,
+    "endYear": 1000,
+    "importance": 2,
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Wari (Huari)",
+      "en": "Wari (Huari)"
+    },
+    "description": {
+      "de": "Hauptstadt des Wari-Reiches, des ersten echten Imperiums der Anden vor den Inka. Die Stadt beherbergte bis zu 40.000 Einwohner und setzte Maßstäbe für andine Stadtplanung und Verwaltung.",
+      "en": "Capital of the Wari Empire, the first true empire of the Andes before the Inca. The city housed up to 40,000 inhabitants and set standards for Andean urban planning and administration."
     }
   }
 ]
