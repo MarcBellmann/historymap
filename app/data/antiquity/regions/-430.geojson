@@ -3,865 +3,277 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              25,
-              18
-            ],
-            [
-              80,
-              18
-            ],
-            [
-              80,
-              44
-            ],
-            [
-              25,
-              44
-            ],
-            [
-              25,
-              18
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "achaemenid-empire",
-        "startYear": -550,
-        "endYear": -330,
-        "culturalSphere": "persian",
+        "id": "celtic-europe",
+        "parentId": null,
+        "startYear": -800,
+        "endYear": -50,
+        "peakStartYear": -450,
+        "peakEndYear": -150,
+        "culturalSphere": "celtic",
+        "color": "#339933",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Keltisches Europa",
+          "en": "Celtic Europe"
+        },
+        "description": {
+          "de": "Weiträumige keltische Kultur der La-Tène-Zeit, die sich von Britannien bis Anatolien erstreckte. Keine zentrale politische Einheit, aber gemeinsame Kultur und Sprache.",
+          "en": "Extensive Celtic La Tene culture spanning from Britain to Anatolia. Not a centralized political entity, but sharing common culture and language."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "scythia",
+        "parentId": null,
+        "startYear": -700,
+        "endYear": -200,
+        "peakStartYear": -500,
+        "peakEndYear": -300,
+        "culturalSphere": "steppe",
+        "color": "#996633",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Skythien",
+          "en": "Scythia"
+        },
+        "description": {
+          "de": "Reich der iranischen Reiternomaden nördlich des Schwarzen Meeres. Berühmt für ihre Goldkunst und Reiterkampftechnik.",
+          "en": "Realm of the Iranian equestrian nomads north of the Black Sea. Renowned for their gold artwork and mounted warfare."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "classical-athens",
+        "parentId": null,
+        "startYear": -508,
+        "endYear": -322,
+        "peakStartYear": -480,
+        "peakEndYear": -404,
+        "culturalSphere": "greek",
         "color": "#3366CC",
         "opacity": 0.25,
         "labels": {
-          "de": "Achämenidenreich",
-          "en": "Achaemenid Empire"
+          "de": "Klassisches Athen",
+          "en": "Classical Athens"
         },
         "description": {
-          "de": "Das erste persische Weltreich unter Kyros dem Großen. Mit über 5 Millionen km² das größte Reich der damaligen Zeit.",
-          "en": "The first Persian world empire under Cyrus the Great. With over 5 million km², the largest empire of its time."
+          "de": "Wiege der Demokratie und führende Seemacht im klassischen Griechenland. Kulturelles Zentrum mit Philosophie, Theater und Architektur von Weltbedeutung.",
+          "en": "Cradle of democracy and leading naval power in Classical Greece. Cultural center of world-historic significance in philosophy, theater, and architecture."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              15,
-              22
-            ],
-            [
-              40,
-              22
-            ],
-            [
-              40,
-              32
-            ],
-            [
-              15,
-              32
-            ],
-            [
-              15,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "kingdom-of-kush",
-        "startYear": -750,
-        "endYear": 350,
-        "culturalSphere": "nubian",
-        "color": "#664400",
+        "id": "sparta",
+        "parentId": null,
+        "startYear": -900,
+        "endYear": -192,
+        "peakStartYear": -650,
+        "peakEndYear": -371,
+        "culturalSphere": "greek",
+        "color": "#3366CC",
         "opacity": 0.25,
         "labels": {
-          "de": "Königreich Kusch",
-          "en": "Kingdom of Kush"
+          "de": "Sparta",
+          "en": "Sparta"
         },
         "description": {
-          "de": "Das Königreich Kusch (Nubien) war eine eigenständige Zivilisation südlich Ägyptens mit eigener Schrift und Pyramidentradition.",
-          "en": "The Kingdom of Kush (Nubia) was an independent civilization south of Egypt with its own script and pyramid tradition."
+          "de": "Führende Militärmacht im antiken Griechenland mit einzigartiger Gesellschaftsordnung. Siegte im Peloponnesischen Krieg über Athen.",
+          "en": "Leading military power in ancient Greece with a unique social order. Defeated Athens in the Peloponnesian War."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              25,
-              22
-            ],
-            [
-              37,
-              22
-            ],
-            [
-              37,
-              32
-            ],
-            [
-              33,
-              31.5
-            ],
-            [
-              32,
-              30
-            ],
-            [
-              25,
-              30
-            ],
-            [
-              25,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "ancient-egypt-late",
-        "startYear": -1070,
-        "endYear": -332,
-        "culturalSphere": "egyptian",
-        "color": "#C8A000",
+        "id": "odrysian-kingdom",
+        "parentId": null,
+        "startYear": -480,
+        "endYear": -46,
+        "peakStartYear": -450,
+        "peakEndYear": -340,
+        "culturalSphere": "thracian",
+        "color": "#886644",
         "opacity": 0.25,
         "labels": {
-          "de": "Altes Ägypten (Spätzeit)",
-          "en": "Ancient Egypt (Late Period)"
+          "de": "Odrysisches Königreich",
+          "en": "Odrysian Kingdom"
         },
         "description": {
-          "de": "Ägypten in der Dritten Zwischenzeit und Spätzeit war trotz politischer Fragmentierung und fremder Herrschaft — durch Libyer, Nubier, Assyrer und schließlich Perser — eine lebendige Zivilisation. Die ägyptische Sprache, Religion und Kunst blieben lebendig und prägend. Erst mit Alexander dem Großen endete die Pharaonentradition, die über dreitausend Jahre gedauert hatte.",
-          "en": "Egypt in the Third Intermediate and Late Periods, despite political fragmentation and foreign rule — by Libyans, Nubians, Assyrians, and finally Persians — remained a vibrant civilization. The Egyptian language, religion, and art endured and remained influential. Only with Alexander the Great did the Pharaonic tradition come to an end after more than three thousand years."
+          "de": "Erstes großes thrakisches Königreich auf dem Balkan, gegründet nach dem Rückzug der Perser. Zeitweise eines der mächtigsten Reiche Südosteuropas.",
+          "en": "First major Thracian kingdom in the Balkans, founded after the Persian withdrawal. At times one of the most powerful realms in southeastern Europe."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              105,
-              25
-            ],
-            [
-              122,
-              25
-            ],
-            [
-              122,
-              40
-            ],
-            [
-              115,
-              42
-            ],
-            [
-              105,
-              40
-            ],
-            [
-              100,
-              35
-            ],
-            [
-              100,
-              30
-            ],
-            [
-              105,
-              25
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "zhou-dynasty",
-        "startYear": -1046,
-        "endYear": -256,
+        "id": "carthage",
+        "parentId": null,
+        "startYear": -814,
+        "endYear": -146,
+        "peakStartYear": -500,
+        "peakEndYear": -241,
+        "culturalSphere": "carthaginian",
+        "color": "#CC6633",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Karthago",
+          "en": "Carthage"
+        },
+        "description": {
+          "de": "Phönizische Kolonie in Nordafrika, die zur mächtigsten Seemacht des westlichen Mittelmeerraums aufstieg, bis sie 146 v. Chr. von Rom zerstört wurde.",
+          "en": "Phoenician colony in North Africa that rose to become the dominant naval power in the western Mediterranean until its destruction by Rome in 146 BC."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "state-of-chu",
+        "parentId": "eastern-zhou",
+        "startYear": -1000,
+        "endYear": -223,
+        "peakStartYear": -700,
+        "peakEndYear": -300,
         "culturalSphere": "chinese",
-        "color": "#B8860B",
-        "opacity": 0.25,
+        "color": "#CC6633",
+        "opacity": 0.2,
         "labels": {
-          "de": "Zhou-Dynastie",
-          "en": "Zhou Dynasty"
+          "de": "Staat Chu",
+          "en": "State of Chu"
         },
         "description": {
-          "de": "Die Zhou-Dynastie war die längste Herrscherdynastie der chinesischen Geschichte. Sie prägte das klassische China durch die Entstehung des Konfuzianismus, Taoismus und Legalismus — philosophische Strömungen, die das chinesische Denken bis in die Gegenwart prägen. Die Östliche Zhou-Periode mit ihrer Epoche der Streitenden Reiche brachte trotz politischer Wirren eine außerordentliche kulturelle und philosophische Blüte hervor.",
-          "en": "The Zhou Dynasty was the longest-ruling dynasty in Chinese history. It shaped classical China through the birth of Confucianism, Taoism, and Legalism — philosophical traditions that have influenced Chinese thought to the present day. The Eastern Zhou period with its Warring States era produced an extraordinary cultural and philosophical flowering despite political turmoil."
+          "de": "Mächtiger südlicher Staat der Zhou-Zeit, der das mittlere und untere Jangtse-Gebiet beherrschte. Bekannt für seine eigenständige Kultur und Dichtung.",
+          "en": "Powerful southern state of the Zhou era controlling the middle and lower Yangtze region. Known for its distinctive culture and poetry."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              24.5,
-              22
-            ],
-            [
-              37,
-              22
-            ],
-            [
-              37,
-              31.5
-            ],
-            [
-              34.5,
-              31.5
-            ],
-            [
-              34.5,
-              32.5
-            ],
-            [
-              32.5,
-              31
-            ],
-            [
-              29.5,
-              30
-            ],
-            [
-              25,
-              30.5
-            ],
-            [
-              24.5,
-              28
-            ],
-            [
-              24.5,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "achaemenid-egypt",
-        "parentId": "achaemenid-empire",
-        "startYear": -525,
-        "endYear": -332,
-        "peakStartYear": -525,
-        "peakEndYear": -332,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
-        "opacity": 0.25,
+        "id": "state-of-qi",
+        "parentId": "eastern-zhou",
+        "startYear": -1000,
+        "endYear": -221,
+        "peakStartYear": -685,
+        "peakEndYear": -320,
+        "culturalSphere": "chinese",
+        "color": "#CC6633",
+        "opacity": 0.2,
         "labels": {
-          "de": "Satrapie Ägypten (Mudraya)",
-          "en": "Satrapy of Egypt (Mudraya)"
+          "de": "Staat Qi",
+          "en": "State of Qi"
         },
         "description": {
-          "de": "Die Satrapie Mudraya war das persische Ägypten unter achämenidischer Herrschaft. Gegründet von Kambyses II. nach der Eroberung Ägyptens 525 v. Chr., behielt sie pharaonische Traditionen bei und war eine der reichsten Provinzen des Reiches.",
-          "en": "The satrapy of Mudraya was Persian Egypt under Achaemenid rule. Founded by Cambyses II after conquering Egypt in 525 BC, it preserved pharaonic traditions and was one of the wealthiest provinces of the empire."
+          "de": "Östlicher Zhou-Vasallenstaat auf der Shandong-Halbinsel. Unter Herzog Huan der erste der Fünf Hegemonien.",
+          "en": "Eastern Zhou vassal state on the Shandong Peninsula. Under Duke Huan, the first of the Five Hegemons."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              38,
-              29.5
-            ],
-            [
-              48.5,
-              29.5
-            ],
-            [
-              48.5,
-              37.5
-            ],
-            [
-              44,
-              37.5
-            ],
-            [
-              41,
-              34.5
-            ],
-            [
-              38,
-              33
-            ],
-            [
-              38,
-              29.5
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "achaemenid-babylonia",
-        "parentId": "achaemenid-empire",
-        "startYear": -539,
-        "endYear": -330,
-        "peakStartYear": -539,
-        "peakEndYear": -330,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
+        "id": "magadha-kingdom",
+        "parentId": null,
+        "startYear": -700,
+        "endYear": -322,
+        "peakStartYear": -500,
+        "peakEndYear": -350,
+        "culturalSphere": "indian",
+        "color": "#33CC99",
         "opacity": 0.25,
         "labels": {
-          "de": "Satrapie Babylonien (Babirus)",
-          "en": "Satrapy of Babylonia (Babirus)"
+          "de": "Magadha",
+          "en": "Magadha"
         },
         "description": {
-          "de": "Die Satrapie Babirus umfasste das fruchtbare Zweistromland zwischen Tigris und Euphrat. Babylon, die prächtige Hauptstadt, blieb unter persischer Herrschaft ein bedeutendes Kulturzentrum und wirtschaftliches Herz des Reiches.",
-          "en": "The satrapy of Babirus encompassed the fertile land between the Tigris and Euphrates. Babylon, the magnificent capital, remained a major cultural center and the economic heart of the empire under Persian rule."
+          "de": "Altindisches Koenigreich in der oestlichen Gangesebene und eines der sechzehn Mahajanapadas. Keimzelle des Maurya-Reiches und bedeutendes Zentrum fuer die Entstehung von Buddhismus und Jainismus.",
+          "en": "Ancient Indian kingdom in the eastern Ganges plain and one of the sixteen Mahajanapadas. Cradle of the Maurya Empire and a major center for the emergence of Buddhism and Jainism."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              44,
-              33
-            ],
-            [
-              54,
-              33
-            ],
-            [
-              54,
-              39
-            ],
-            [
-              48,
-              40
-            ],
-            [
-              44,
-              38.5
-            ],
-            [
-              44,
-              33
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "achaemenid-media",
-        "parentId": "achaemenid-empire",
-        "startYear": -550,
-        "endYear": -330,
+        "id": "gandhara-kingdom",
+        "parentId": null,
+        "startYear": -600,
+        "endYear": -327,
         "peakStartYear": -550,
-        "peakEndYear": -330,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
+        "peakEndYear": -400,
+        "culturalSphere": "indian",
+        "color": "#33CC99",
         "opacity": 0.25,
         "labels": {
-          "de": "Satrapie Medien",
-          "en": "Satrapy of Media"
+          "de": "Gandhara",
+          "en": "Gandhara"
         },
         "description": {
-          "de": "Medien war das Kernland des medischen Reiches, das von Kyros dem Großen 550 v. Chr. erobert wurde. Die Region blieb eine wichtige Satrapie des Achämenidenreichs mit Ekbatana (Hamadan) als bedeutender Residenzstadt.",
-          "en": "Media was the heartland of the Median Empire, conquered by Cyrus the Great in 550 BC. The region remained an important satrapy of the Achaemenid Empire with Ecbatana (Hamadan) as a major royal residence."
+          "de": "Altindische Zivilisation im heutigen Nordwestpakistan und Ostafghanistan. Bekannt als Zentrum des Greco-Buddhismus und wichtige Station an der Seidenstrasse.",
+          "en": "Ancient Indian civilization in present-day northwestern Pakistan and eastern Afghanistan. Known as a center of Greco-Buddhism and an important station on the Silk Road."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              26,
-              37
-            ],
-            [
-              34,
-              37
-            ],
-            [
-              34,
-              42
-            ],
-            [
-              30,
-              42
-            ],
-            [
-              26,
-              40.5
-            ],
-            [
-              26,
-              37
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "achaemenid-lydia",
-        "parentId": "achaemenid-empire",
-        "startYear": -547,
-        "endYear": -334,
-        "peakStartYear": -547,
-        "peakEndYear": -334,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
+        "id": "nok-culture",
+        "parentId": null,
+        "startYear": -1000,
+        "endYear": -1,
+        "peakStartYear": -500,
+        "peakEndYear": -200,
+        "culturalSphere": "west-african",
+        "color": "#CC9933",
         "opacity": 0.25,
         "labels": {
-          "de": "Satrapie Lydien (Sparda)",
-          "en": "Satrapy of Lydia (Sparda)"
+          "de": "Nok-Kultur",
+          "en": "Nok Culture"
         },
         "description": {
-          "de": "Die Satrapie Sparda (Lydien) erstreckte sich über Westanatolien mit der Hauptstadt Sardes. Nach der Niederlage des lydischen Königs Krösus 547 v. Chr. bildete sie die westliche Schatzkammer des Achämenidenreiches.",
-          "en": "The satrapy of Sparda (Lydia) covered western Anatolia with its capital at Sardis. After the defeat of the Lydian king Croesus in 547 BC, it formed the western treasury of the Achaemenid Empire."
+          "de": "Fruehe westafrikanische Zivilisation im heutigen Nigeria, bekannt fuer ihre Terrakotta-Skulpturen und fruehe Eisenverarbeitung.",
+          "en": "Early West African civilization in present-day Nigeria, known for its terracotta sculptures and early iron smelting."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              25.5,
-              36.5
-            ],
-            [
-              30,
-              36.5
-            ],
-            [
-              30,
-              39.5
-            ],
-            [
-              26.5,
-              39.5
-            ],
-            [
-              24.5,
-              38
-            ],
-            [
-              25.5,
-              36.5
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "achaemenid-ionia",
-        "parentId": "achaemenid-empire",
-        "startYear": -547,
-        "endYear": -334,
-        "peakStartYear": -547,
-        "peakEndYear": -334,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
+        "id": "chavin-culture",
+        "parentId": null,
+        "startYear": -900,
+        "endYear": -250,
+        "peakStartYear": -500,
+        "peakEndYear": -300,
+        "culturalSphere": "andean",
+        "color": "#CC6699",
         "opacity": 0.25,
         "labels": {
-          "de": "Satrapie Ionien",
-          "en": "Satrapy of Ionia"
+          "de": "Chavin-Kultur",
+          "en": "Chavin Culture"
         },
         "description": {
-          "de": "Die griechischen Städte Ioniens an der Westküste Anatoliens standen unter persischer Herrschaft. Der Ionische Aufstand (499–493 v. Chr.) gegen die Perser wurde zum Funken, der die Perserkriege entfachte.",
-          "en": "The Greek cities of Ionia on the western coast of Anatolia were under Persian rule. The Ionian Revolt (499–493 BC) against the Persians became the spark that ignited the Greco-Persian Wars."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              63,
-              33
-            ],
-            [
-              73,
-              33
-            ],
-            [
-              73,
-              39
-            ],
-            [
-              67,
-              39.5
-            ],
-            [
-              63,
-              37.5
-            ],
-            [
-              63,
-              33
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "achaemenid-bactria",
-        "parentId": "achaemenid-empire",
-        "startYear": -550,
-        "endYear": -330,
-        "peakStartYear": -550,
-        "peakEndYear": -330,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Satrapie Baktrien (Bakhtri)",
-          "en": "Satrapy of Bactria (Bakhtri)"
-        },
-        "description": {
-          "de": "Baktrien im heutigen Nordafghanistan und Tadschikistan war eine strategisch wichtige Satrapie an der Kreuzung iranischer und zentralasiatischer Kulturen. Die reiche, fruchtbare Region mit der Hauptstadt Baktra war für Luxusgüter bekannt.",
-          "en": "Bactria in modern northern Afghanistan and Tajikistan was a strategically vital satrapy at the crossroads of Iranian and Central Asian cultures. The rich, fertile region with its capital Bactra was renowned for luxury goods."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              58.5,
-              37.5
-            ],
-            [
-              68,
-              37.5
-            ],
-            [
-              68,
-              42.5
-            ],
-            [
-              63,
-              43
-            ],
-            [
-              58.5,
-              41.5
-            ],
-            [
-              58.5,
-              37.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "achaemenid-sogdiana",
-        "parentId": "achaemenid-empire",
-        "startYear": -550,
-        "endYear": -330,
-        "peakStartYear": -550,
-        "peakEndYear": -330,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Satrapie Sogdien",
-          "en": "Satrapy of Sogdiana"
-        },
-        "description": {
-          "de": "Sogdien umfasste das Gebiet um Samarkand und Buchara im heutigen Usbekistan und Tadschikistan. Die sogdischen Händler spielten eine Schlüsselrolle im Handel entlang der späteren Seidenstraße.",
-          "en": "Sogdiana encompassed the region around Samarkand and Bukhara in modern Uzbekistan and Tajikistan. Sogdian merchants played a key role in trade along what would become the Silk Road."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              68,
-              31
-            ],
-            [
-              76,
-              31
-            ],
-            [
-              76,
-              36.5
-            ],
-            [
-              71,
-              36.5
-            ],
-            [
-              68,
-              34.5
-            ],
-            [
-              68,
-              31
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "achaemenid-gandhara",
-        "parentId": "achaemenid-empire",
-        "startYear": -517,
-        "endYear": -330,
-        "peakStartYear": -517,
-        "peakEndYear": -330,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Satrapie Gandhara / Indien (Gadara)",
-          "en": "Satrapy of Gandhara / India (Gadara)"
-        },
-        "description": {
-          "de": "Gandhara im heutigen Pakistan und östlichen Afghanistan war die östlichste Satrapie des Achämenidenreiches. Die Region wurde von Darius I. um 517 v. Chr. eingegliedert und zahlte Tribut in Form von Gold und Elefanten.",
-          "en": "Gandhara in modern Pakistan and eastern Afghanistan was the easternmost satrapy of the Achaemenid Empire. The region was incorporated by Darius I around 517 BC and paid tribute in gold and elephants."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              54,
-              34
-            ],
-            [
-              62,
-              34
-            ],
-            [
-              62,
-              40
-            ],
-            [
-              57,
-              40.5
-            ],
-            [
-              54,
-              38
-            ],
-            [
-              54,
-              34
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "achaemenid-parthia",
-        "parentId": "achaemenid-empire",
-        "startYear": -550,
-        "endYear": -330,
-        "peakStartYear": -550,
-        "peakEndYear": -330,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Satrapie Parthien",
-          "en": "Satrapy of Parthia"
-        },
-        "description": {
-          "de": "Parthien im heutigen Nordostiran und Turkmenistan war eine achämenidische Satrapie, aus der später das mächtige Partherreich hervorging. Die Parther übernahmen 247 v. Chr. die Unabhängigkeit und gründeten ihr eigenes Imperium.",
-          "en": "Parthia in modern northeastern Iran and Turkmenistan was an Achaemenid satrapy from which the powerful Parthian Empire later emerged. The Parthians seized independence in 247 BC and founded their own empire."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              36,
-              37.5
-            ],
-            [
-              48,
-              37.5
-            ],
-            [
-              48,
-              42.5
-            ],
-            [
-              43,
-              43.5
-            ],
-            [
-              38,
-              43
-            ],
-            [
-              36,
-              40
-            ],
-            [
-              36,
-              37.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "achaemenid-armenia",
-        "parentId": "achaemenid-empire",
-        "startYear": -550,
-        "endYear": -330,
-        "peakStartYear": -550,
-        "peakEndYear": -330,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Satrapie Armenien",
-          "en": "Satrapy of Armenia"
-        },
-        "description": {
-          "de": "Armenien als persische Satrapie umfasste das armenische Hochland zwischen Schwarzem Meer und Kaspischem Meer. Die armenische Kultur entwickelte sich unter persischem Einfluss und die Region lieferte wertvolle Pferde und Tribute an den Perserkönig.",
-          "en": "Armenia as a Persian satrapy encompassed the Armenian highlands between the Black Sea and the Caspian Sea. Armenian culture developed under Persian influence, and the region supplied valuable horses and tributes to the Persian king."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              28.5,
-              37.5
-            ],
-            [
-              35.5,
-              37.5
-            ],
-            [
-              35.5,
-              42.5
-            ],
-            [
-              30,
-              42.5
-            ],
-            [
-              28.5,
-              41
-            ],
-            [
-              28.5,
-              37.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "achaemenid-phrygia",
-        "parentId": "achaemenid-empire",
-        "startYear": -547,
-        "endYear": -334,
-        "peakStartYear": -547,
-        "peakEndYear": -334,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Satrapie Phrygien (Hellespontisches Phrygien)",
-          "en": "Satrapy of Phrygia (Hellespontine Phrygia)"
-        },
-        "description": {
-          "de": "Die Satrapie Hellespontisches Phrygien kontrollierte die Meerengen zwischen Europa und Asien und den nordwestlichen Teil Anatoliens. Daskyleion am Marmarameer war die Satrapieshauptstadt dieser strategisch bedeutenden Region.",
-          "en": "The satrapy of Hellespontine Phrygia controlled the straits between Europe and Asia and the northwestern part of Anatolia. Dascylium on the Sea of Marmara was the satrapal capital of this strategically vital region."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              34.5,
-              31.5
-            ],
-            [
-              42.5,
-              31.5
-            ],
-            [
-              42.5,
-              37.5
-            ],
-            [
-              36,
-              37.5
-            ],
-            [
-              34.5,
-              35.5
-            ],
-            [
-              34.5,
-              31.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "achaemenid-eber-nari",
-        "parentId": "achaemenid-empire",
-        "startYear": -539,
-        "endYear": -332,
-        "peakStartYear": -539,
-        "peakEndYear": -332,
-        "culturalSphere": "persian",
-        "color": "#6644AA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Satrapie Syrien (Eber-Nari / Jenseits des Flusses)",
-          "en": "Satrapy of Syria (Eber-Nari / Beyond the River)"
-        },
-        "description": {
-          "de": "Eber-Nari ('Jenseits des Flusses') war die achämenidische Satrapie der Levante westlich des Euphrats, die das heutige Syrien, Libanon, Israel und Palästina umfasste. Die Region war ein wichtiges Handelszentrum und Durchgangsgebiet.",
-          "en": "Eber-Nari ('Beyond the River') was the Achaemenid satrapy of the Levant west of the Euphrates, encompassing modern Syria, Lebanon, Israel and Palestine. The region was an important trading center and transit zone."
+          "de": "Fruehe andine Zivilisation in Peru mit dem zeremoniellen Zentrum Chavin de Huantar. Praegte Kunst und Religion der Andenregion.",
+          "en": "Early Andean civilization in Peru centered at Chavin de Huantar. Shaped art and religion throughout the Andean region."
         }
       }
     }

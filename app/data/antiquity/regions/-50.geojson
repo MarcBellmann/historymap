@@ -3,1237 +3,208 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              30,
-              18
-            ],
-            [
-              80,
-              18
-            ],
-            [
-              80,
-              44
-            ],
-            [
-              30,
-              44
-            ],
-            [
-              30,
-              18
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
+      "properties": {
+        "id": "roman-republic",
+        "parentId": null,
+        "startYear": -509,
+        "endYear": -27,
+        "peakStartYear": -264,
+        "peakEndYear": -44,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Römische Republik",
+          "en": "Roman Republic"
+        },
+        "description": {
+          "de": "Nach Vertreibung der etruskischen Könige gegründete Republik, die das gesamte Mittelmeer eroberte. Grundlage des römischen Rechts und der republikanischen Staatsform.",
+          "en": "Republic founded after the expulsion of the Etruscan kings, which conquered the entire Mediterranean. Foundation of Roman law and republican governance."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "dacian-kingdom",
+        "parentId": null,
+        "startYear": -82,
+        "endYear": 106,
+        "peakStartYear": -60,
+        "peakEndYear": -44,
+        "culturalSphere": "thracian",
+        "color": "#886644",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Dakisches Königreich",
+          "en": "Dacian Kingdom"
+        },
+        "description": {
+          "de": "Vereinigtes Königreich der Daker unter Burebista und später Decebalus in Transsilvanien. Von Rom unter Kaiser Trajan erobert.",
+          "en": "United kingdom of the Dacians under Burebista and later Decebalus in Transylvania. Conquered by Rome under Emperor Trajan."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "nabataean-kingdom",
+        "parentId": null,
+        "startYear": -300,
+        "endYear": 106,
+        "peakStartYear": -85,
+        "peakEndYear": 50,
+        "culturalSphere": "arabian",
+        "color": "#66AA99",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Nabatäerreich",
+          "en": "Nabataean Kingdom"
+        },
+        "description": {
+          "de": "Arabisches Königreich mit der Felsenstadt Petra als Hauptstadt, kontrollierte wichtige Handelsrouten zwischen Arabien und dem Mittelmeer.",
+          "en": "Arabian kingdom with the rock-cut city of Petra as its capital, controlling key trade routes between Arabia and the Mediterranean."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "commagene",
+        "parentId": null,
+        "startYear": -163,
+        "endYear": 72,
+        "peakStartYear": -80,
+        "peakEndYear": 17,
+        "culturalSphere": "persian",
+        "color": "#9933CC",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Kommagene",
+          "en": "Commagene"
+        },
+        "description": {
+          "de": "Griechisch-iranisches Kleinkönigreich in Südostanatolien, bekannt für das Heiligtum auf dem Berg Nemrut mit seinen synkretistischen Götterfiguren.",
+          "en": "Greco-Iranian petty kingdom in southeastern Anatolia, known for the sanctuary on Mount Nemrut with its syncretistic deity sculptures."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
       "properties": {
         "id": "parthian-empire",
+        "parentId": null,
         "startYear": -247,
         "endYear": 224,
-        "culturalSphere": "parthian",
-        "color": "#6644AA",
+        "peakStartYear": -140,
+        "peakEndYear": 50,
+        "culturalSphere": "persian",
+        "color": "#9933CC",
         "opacity": 0.25,
         "labels": {
           "de": "Partherreich",
           "en": "Parthian Empire"
         },
         "description": {
-          "de": "Das Partherreich kontrollierte die Seidenstraße zwischen Rom und China und war Jahrhunderte lang Roms mächtigster Rivale im Osten.",
-          "en": "The Parthian Empire controlled the Silk Road between Rome and China and was Rome's most powerful eastern rival for centuries."
+          "de": "Iranisches Reich der Arsakiden-Dynastie, Rivale Roms im Osten. Beherrschte den Seidenstraßenhandel zwischen Rom und China.",
+          "en": "Iranian empire of the Arsacid dynasty, Rome's rival in the East. Controlled Silk Road trade between Rome and China."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              100,
-              18
-            ],
-            [
-              135,
-              18
-            ],
-            [
-              135,
-              45
-            ],
-            [
-              100,
-              45
-            ],
-            [
-              100,
-              18
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "han-china",
-        "startYear": -206,
+        "id": "parthian-mesopotamia",
+        "parentId": "parthian-empire",
+        "startYear": -141,
+        "endYear": 224,
+        "peakStartYear": -130,
+        "peakEndYear": 50,
+        "culturalSphere": "persian",
+        "color": "#9933CC",
+        "opacity": 0.2,
+        "labels": {
+          "de": "Parthisches Mesopotamien",
+          "en": "Parthian Mesopotamia"
+        },
+        "description": {
+          "de": "Mesopotamische Provinz des Partherreiches mit der Hauptstadt Ktesiphon am Tigris.",
+          "en": "Mesopotamian province of the Parthian Empire with the capital Ctesiphon on the Tigris."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "han-dynasty",
+        "parentId": null,
+        "startYear": -202,
         "endYear": 220,
+        "peakStartYear": -141,
+        "peakEndYear": 87,
         "culturalSphere": "chinese",
-        "color": "#CC9900",
+        "color": "#CC6633",
         "opacity": 0.25,
         "labels": {
           "de": "Han-Dynastie",
           "en": "Han Dynasty"
         },
         "description": {
-          "de": "Die Han-Dynastie prägte chinesische Kultur und Gesellschaft so nachhaltig, dass sich die Mehrheitsbevölkerung Chinas bis heute als 'Han-Chinesen' bezeichnet.",
-          "en": "The Han Dynasty shaped Chinese culture and society so profoundly that the majority population of China still calls itself 'Han Chinese' today."
+          "de": "Goldenes Zeitalter Chinas, bestehend aus Westlicher Han (202 v. Chr. – 9 n. Chr.) und Östlicher Han (25–220 n. Chr.). Prägend für die chinesische Identität.",
+          "en": "Golden age of China, comprising Western Han (202 BC – 9 AD) and Eastern Han (25–220 AD). Foundational for Chinese cultural identity."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              15,
-              8
-            ],
-            [
-              50,
-              8
-            ],
-            [
-              50,
-              22
-            ],
-            [
-              15,
-              22
-            ],
-            [
-              15,
-              8
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "kingdom-of-axum",
-        "startYear": -400,
-        "endYear": 940,
-        "culturalSphere": "axumite",
-        "color": "#996600",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Aksum",
-          "en": "Kingdom of Axum"
-        },
-        "description": {
-          "de": "Das Königreich Aksum war eine der mächtigsten Handelsnationen der Antike und kontrollierte den Handel am Roten Meer. Es war eines der ersten Reiche, das das Christentum als Staatsreligion annahm.",
-          "en": "The Kingdom of Axum was one of the most powerful trading nations of antiquity, controlling Red Sea trade. It was one of the first empires to adopt Christianity as a state religion."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              15,
-              22
-            ],
-            [
-              40,
-              22
-            ],
-            [
-              40,
-              32
-            ],
-            [
-              15,
-              32
-            ],
-            [
-              15,
-              22
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-kush",
-        "startYear": -750,
+        "id": "kush-meroe",
+        "parentId": "kingdom-of-kush",
+        "startYear": -300,
         "endYear": 350,
-        "culturalSphere": "nubian",
-        "color": "#664400",
+        "peakStartYear": -200,
+        "peakEndYear": 100,
+        "culturalSphere": "ethiopian",
+        "color": "#CC6633",
+        "opacity": 0.2,
+        "labels": {
+          "de": "Meroe (Kusch)",
+          "en": "Meroe (Kush)"
+        },
+        "description": {
+          "de": "Spaetere Hauptstadt des Kusch-Reiches, bekannt fuer eigene Schrift und Eisenverhuttung.",
+          "en": "Later capital of the Kush kingdom, known for its own script and iron smelting."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "zapotec-civilization",
+        "parentId": null,
+        "startYear": -700,
+        "endYear": 1521,
+        "peakStartYear": -300,
+        "peakEndYear": 700,
+        "culturalSphere": "mesoamerican",
+        "color": "#CC3399",
         "opacity": 0.25,
         "labels": {
-          "de": "Königreich Kusch",
-          "en": "Kingdom of Kush"
+          "de": "Zapoteken",
+          "en": "Zapotec Civilization"
         },
         "description": {
-          "de": "Das Königreich Kusch (Nubien) war eine eigenständige Zivilisation südlich Ägyptens mit eigener Schrift und Pyramidentradition.",
-          "en": "The Kingdom of Kush (Nubia) was an independent civilization south of Egypt with its own script and pyramid tradition."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              15,
-              25
-            ],
-            [
-              37,
-              25
-            ],
-            [
-              37,
-              32
-            ],
-            [
-              15,
-              32
-            ],
-            [
-              15,
-              25
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "ptolemaic-egypt",
-        "startYear": -305,
-        "endYear": -30,
-        "culturalSphere": "egyptian",
-        "color": "#AA8800",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Ptolemäisches Ägypten",
-          "en": "Ptolemaic Egypt"
-        },
-        "description": {
-          "de": "Das Königreich der Ptolemäer in Ägypten, gegründet nach dem Tod Alexanders des Großen. Endete mit Kleopatra VII.",
-          "en": "The Ptolemaic Kingdom in Egypt, founded after the death of Alexander the Great. Ended with Cleopatra VII."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              36,
-              37.5
-            ],
-            [
-              44,
-              37.5
-            ],
-            [
-              47,
-              39
-            ],
-            [
-              49,
-              41
-            ],
-            [
-              46,
-              42.5
-            ],
-            [
-              43,
-              42
-            ],
-            [
-              38,
-              40
-            ],
-            [
-              36,
-              39
-            ],
-            [
-              36,
-              37.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-armenia",
-        "startYear": -190,
-        "endYear": 428,
-        "culturalSphere": "armenian",
-        "color": "#7B5EA7",
-        "opacity": 0.35,
-        "labels": {
-          "de": "Königreich Armenien",
-          "en": "Kingdom of Armenia"
-        },
-        "description": {
-          "de": "Das Königreich Armenien unter der Arsakiden-Dynastie war ein kulturell eigenständiges Reich zwischen den Großmächten Rom und den Sassaniden. Im Jahr 301 n. Chr. nahm König Tiridates III. das Christentum als erste Staatsmacht der Welt offiziell an — ein Schritt von welthistorischer Bedeutung. Armenien entwickelte eine reiche eigene Literatur, Architektur und kirchliche Tradition, die trotz jahrhundertelanger politischer Kämpfe lebendig blieb.",
-          "en": "The Kingdom of Armenia under the Arsacid dynasty was a culturally distinct realm caught between the great powers of Rome and the Sassanids. In 301 AD King Tiridates III officially adopted Christianity — the first state in world history to do so. Armenia developed a rich tradition of its own literature, architecture, and church culture that endured despite centuries of political struggle."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              41.5,
-              41
-            ],
-            [
-              46.5,
-              41
-            ],
-            [
-              47,
-              42.5
-            ],
-            [
-              45.5,
-              43.5
-            ],
-            [
-              43,
-              43
-            ],
-            [
-              41,
-              42
-            ],
-            [
-              41.5,
-              41
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-iberia-caucasus",
-        "startYear": -302,
-        "endYear": 580,
-        "culturalSphere": "caucasian",
-        "color": "#6B8E5A",
-        "opacity": 0.35,
-        "labels": {
-          "de": "Königreich Iberien (Kaukasus)",
-          "en": "Kingdom of Iberia (Caucasus)"
-        },
-        "description": {
-          "de": "Das kaukasische Königreich Iberien — nicht zu verwechseln mit der Iberischen Halbinsel — lag im Herzen des heutigen Georgiens und kontrollierte wichtige Gebirgspässe wie die Darialpforte. Als Vasallenstaat Roms nach dem Friedensvertrag von 298 n. Chr. spielte Iberien eine strategisch entscheidende Rolle als Puffer zwischen Rom und den Sassaniden. Um 319 n. Chr. nahm König Mirian III. das Christentum an und machte Iberien zu einem der ältesten christlichen Königreiche der Welt.",
-          "en": "The Caucasian Kingdom of Iberia — not to be confused with the Iberian Peninsula — lay at the heart of modern Georgia and controlled vital mountain passes including the Daryal Pass. As a Roman vassal state following the Peace of 298 AD, Iberia played a strategically pivotal role as a buffer between Rome and the Sassanids. Around 319 AD King Mirian III adopted Christianity, making Iberia one of the oldest Christian kingdoms in the world."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.5,
-              35.9
-            ],
-            [
-              -9,
-              38.8
-            ],
-            [
-              -7,
-              42
-            ],
-            [
-              -2,
-              43.5
-            ],
-            [
-              3,
-              43.5
-            ],
-            [
-              3,
-              40.5
-            ],
-            [
-              0,
-              38.5
-            ],
-            [
-              -1.5,
-              36
-            ],
-            [
-              -5.5,
-              36
-            ],
-            [
-              -9.5,
-              35.9
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "hispania-baetica",
-        "parentId": "roman-empire",
-        "startYear": -146,
-        "endYear": 429,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Hispania Baetica",
-          "en": "Hispania Baetica"
-        },
-        "description": {
-          "de": "Hispania Baetica, benannt nach dem Fluss Baetis (dem heutigen Guadalquivir), war die wohlhabendste und am stärksten romanisierte Provinz der Iberischen Halbinsel. Die fruchtbaren Täler des Baetis-Beckens lieferten riesige Mengen an Olivenöl, Wein und Weizen in die gesamte römische Welt. Städte wie Hispalis (Sevilla), Corduba (Córdoba) und Gades (Cádiz) blühten als bedeutende Handelszentren. Kaiser Traianus und Hadrianus stammten beide aus dieser Provinz, was ihren kulturellen Einfluss auf das Gesamtreich unterstreicht.",
-          "en": "Hispania Baetica, named after the river Baetis (the modern Guadalquivir), was the wealthiest and most thoroughly Romanized province of the Iberian Peninsula. The fertile valleys of the Baetis basin supplied vast quantities of olive oil, wine, and grain to the entire Roman world. Cities such as Hispalis (Seville), Corduba (Córdoba), and Gades (Cádiz) flourished as major commercial centers. Emperors Trajan and Hadrian both originated from this province, underlining its cultural influence on the empire as a whole."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9,
-              38.5
-            ],
-            [
-              -5,
-              36
-            ],
-            [
-              3.5,
-              37.5
-            ],
-            [
-              4,
-              40.5
-            ],
-            [
-              3,
-              43.5
-            ],
-            [
-              -2,
-              43.5
-            ],
-            [
-              -4,
-              44
-            ],
-            [
-              -8.5,
-              43.5
-            ],
-            [
-              -9,
-              42
-            ],
-            [
-              -7.5,
-              42
-            ],
-            [
-              -6.5,
-              39.5
-            ],
-            [
-              -7,
-              37
-            ],
-            [
-              -9,
-              38.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "hispania-tarraconensis",
-        "parentId": "roman-empire",
-        "startYear": -197,
-        "endYear": 472,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Hispania Tarraconensis",
-          "en": "Hispania Tarraconensis"
-        },
-        "description": {
-          "de": "Hispania Tarraconensis war die größte der römischen Provinzen auf der Iberischen Halbinsel und erstreckte sich von den Pyrenäen bis zur Südküste. Ihre Hauptstadt Tarraco (Tarragona) war der bedeutendste Hafen und Verwaltungssitz des nördlichen Hispaniens. Die Provinz umfasste die wichtigen Bergbaugebiete der Sierra Morena sowie die fruchtbaren Küstenebenen Kataloniens. Das dichte Straßennetz verband Tarraco mit den nördlichen Alpenpässen und dem fernen Mesopotamien und machte Tarraconensis zu einem Knotenpunkt des imperialen Kommunikationssystems.",
-          "en": "Hispania Tarraconensis was the largest of the Roman provinces on the Iberian Peninsula, stretching from the Pyrenees to the southern coast. Its capital Tarraco (Tarragona) was the most important port and administrative center of northern Hispania. The province encompassed the major mining districts of the Sierra Morena as well as the fertile coastal plains of Catalonia. An extensive road network connected Tarraco with the northern Alpine passes and distant Mesopotamia, making Tarraconensis a key node in the imperial communications system."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3,
-              43.5
-            ],
-            [
-              8,
-              43.5
-            ],
-            [
-              8,
-              44.5
-            ],
-            [
-              7,
-              45
-            ],
-            [
-              5,
-              46
-            ],
-            [
-              3,
-              43.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "gallia-narbonensis",
-        "parentId": "roman-empire",
-        "startYear": -121,
-        "endYear": 476,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Gallia Narbonensis",
-          "en": "Gallia Narbonensis"
-        },
-        "description": {
-          "de": "Gallia Narbonensis war die älteste und am stärksten romanisierte gallische Provinz, oft schlicht als 'Provincia' bezeichnet — ein Name, der im heutigen Wort 'Provence' weiterlebt. Gegründet 121 v. Chr. nach dem Sieg über keltische und ligurische Stämme, war sie Roms Landbrücke nach Hispanien. Narbó Martius (Narbonne) und Massilia (Marseille) waren blühende Handelsstädte. Die Region war für ihre Wein- und Ölproduktion berühmt und galt als die reichste Provinz Galliens.",
-          "en": "Gallia Narbonensis was the oldest and most thoroughly Romanized Gallic province, often simply called 'Provincia' — a name that lives on in the modern word 'Provence'. Founded in 121 BC after the defeat of Celtic and Ligurian tribes, it served as Rome's land bridge to Hispania. Narbó Martius (Narbonne) and Massilia (Marseille) were thriving commercial cities. The region was famous for its wine and oil production and was considered the wealthiest province of Gaul."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12,
-              37.5
-            ],
-            [
-              16,
-              37.5
-            ],
-            [
-              18.5,
-              40.5
-            ],
-            [
-              16,
-              41.5
-            ],
-            [
-              13.5,
-              42.5
-            ],
-            [
-              12.5,
-              41.5
-            ],
-            [
-              12,
-              40
-            ],
-            [
-              12,
-              37.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "italia",
-        "parentId": "roman-empire",
-        "startYear": -264,
-        "endYear": 476,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Italia (Kernland)",
-          "en": "Italia (Heartland)"
-        },
-        "description": {
-          "de": "Italia war das Kernland des Römischen Reiches, von Steuern befreit und politisch privilegiert. Die Halbinsel war dicht besiedelt und urbanisiert — von der Kapitale Roma über Mediolanum (Mailand), Capua bis Neapolis. Der Reichtum Italiens gründete sich auf Handwerk, Weinbau, Olivenöl und Getreide. Die Po-Ebene im Norden war die Kornkammer; Kampanien im Süden erzeugte berühmte Weine. In der Kaiserzeit wurden viele provinzielle Familien in den Senat aufgenommen, und die kulturelle Hegemonie Italiens wurde zunehmend durch die vitalen Provinzkulturen ergänzt.",
-          "en": "Italia was the heartland of the Roman Empire, exempt from taxes and politically privileged. The peninsula was densely populated and urbanized — from the capital Roma to Mediolanum (Milan), Capua, and Neapolis. Italy's wealth rested on crafts, viticulture, olive oil, and grain. The Po plain in the north was the breadbasket; Campania in the south produced famous wines. In the imperial period many provincial families entered the Senate, and Italy's cultural hegemony was increasingly supplemented by the vibrant provincial cultures."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              20,
-              39.5
-            ],
-            [
-              24.5,
-              39
-            ],
-            [
-              26.5,
-              40
-            ],
-            [
-              26.5,
-              41
-            ],
-            [
-              24,
-              41.5
-            ],
-            [
-              20.5,
-              41.5
-            ],
-            [
-              20,
-              40.5
-            ],
-            [
-              20,
-              39.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "macedonia",
-        "parentId": "roman-empire",
-        "startYear": -146,
-        "endYear": 476,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Macedonia",
-          "en": "Macedonia"
-        },
-        "description": {
-          "de": "Macedonia wurde 146 v. Chr. nach der Niederlage des Andriskos in der Vierten Makedonischen Kriege zur ersten regulären römischen Provinz im griechischen Osten. Die Provinz umfasste das Kernland des ehemaligen makedonischen Königreichs sowie Epirus, Thessalien und Teile Illyricums. Thessalonike (Thessaloniki) war die wichtigste Hafenstadt und zeitweise Residenz der tetrarchischen Kaiser. Die Via Egnatia — die wichtigste Ost-West-Verbindung des Reiches — querte die gesamte Provinz vom Adriatischen Meer bis zum Hellespont.",
-          "en": "Macedonia became the first regular Roman province in the Greek east in 146 BC following the defeat of Andriscus in the Fourth Macedonian War. The province encompassed the heartland of the former Macedonian kingdom as well as Epirus, Thessaly, and parts of Illyricum. Thessalonica (Thessaloniki) was the most important port city and occasionally the residence of tetrarchic emperors. The Via Egnatia — the most important east-west connection of the empire — traversed the entire province from the Adriatic Sea to the Hellespont."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              26,
-              39.5
-            ],
-            [
-              32,
-              38
-            ],
-            [
-              36.5,
-              38.5
-            ],
-            [
-              36.5,
-              41.5
-            ],
-            [
-              32,
-              42.5
-            ],
-            [
-              28,
-              42
-            ],
-            [
-              26.5,
-              41.5
-            ],
-            [
-              26,
-              40.5
-            ],
-            [
-              26,
-              39.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "asia-province",
-        "parentId": "roman-empire",
-        "startYear": -133,
-        "endYear": 476,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Provincia Asia",
-          "en": "Provincia Asia"
-        },
-        "description": {
-          "de": "Die Provinz Asia, das ehemalige Reich der Attaliden in Westanatolien, wurde 133 v. Chr. durch Testament des letzten Königs Attalos III. an Rom vererbt. Mit Städten wie Ephesos, Pergamon, Smyrna und Milet war Asia die reichste Provinz des Reiches. Ephesos mit seinem berühmten Artemistempel war die Hauptstadt und nach Rom und Alexandria die drittgrößte Stadt der antiken Welt. Die Provinz war das Zentrum des hellenistischen Handels, der griechischen Philosophie und — ab dem 1. Jh. n. Chr. — des aufkommenden Christentums.",
-          "en": "The province of Asia, the former realm of the Attalids in western Anatolia, was bequeathed to Rome by testament in 133 BC by the last king Attalus III. With cities such as Ephesus, Pergamon, Smyrna, and Miletus, Asia was the wealthiest province of the empire. Ephesus with its famous Temple of Artemis was the capital and, after Rome and Alexandria, the third largest city of the ancient world. The province was the center of Hellenistic trade, Greek philosophy, and — from the 1st century AD — of nascent Christianity."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              28,
-              40.5
-            ],
-            [
-              32,
-              40
-            ],
-            [
-              36.5,
-              41
-            ],
-            [
-              36.5,
-              42.5
-            ],
-            [
-              32,
-              43
-            ],
-            [
-              28,
-              43
-            ],
-            [
-              26.5,
-              42.5
-            ],
-            [
-              26.5,
-              41.5
-            ],
-            [
-              28,
-              40.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "bithynia-pontus",
-        "parentId": "roman-empire",
-        "startYear": -74,
-        "endYear": 476,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Bithynia et Pontus",
-          "en": "Bithynia et Pontus"
-        },
-        "description": {
-          "de": "Bithynia et Pontus, die kombinierte Schwarzmeerküstenprovinz, entstand aus Bithynien (74 v. Chr. durch Testament von König Nikomedes IV. an Rom gefallen) und Pontus (63 v. Chr. nach der Niederlage des Mithridates VI.). Die Küstenprovinz kontrollierte die strategisch wichtigen Meerengen des Bosporus und des Hellespont. Nicaea und Nikomedeia (Izmit) waren die bedeutendsten Städte. Plinius der Jüngere verwaltete die Provinz unter Traianus und schrieb von dort seine berühmten Berichte über die Christen.",
-          "en": "Bithynia et Pontus, the combined Black Sea coastal province, emerged from Bithynia (bequeathed to Rome by testament in 74 BC by King Nicomedes IV) and Pontus (63 BC after the defeat of Mithridates VI). The coastal province controlled the strategically important straits of the Bosphorus and Hellespont. Nicaea and Nicomedia (Izmit) were the most important cities. Pliny the Younger governed the province under Trajan and wrote from there his famous reports about the Christians."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              35.5,
-              33.5
-            ],
-            [
-              42.5,
-              33.5
-            ],
-            [
-              44,
-              35
-            ],
-            [
-              44,
-              37.5
-            ],
-            [
-              40,
-              38
-            ],
-            [
-              36.5,
-              37.5
-            ],
-            [
-              35.5,
-              36.5
-            ],
-            [
-              34.5,
-              35.5
-            ],
-            [
-              35.5,
-              33.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "syria",
-        "parentId": "roman-empire",
-        "startYear": -64,
-        "endYear": 476,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Syria",
-          "en": "Syria"
-        },
-        "description": {
-          "de": "Syria, die reiche Levantprovinz zwischen Euphrat und Mittelmeer, wurde 64 v. Chr. von Pompeius Magnus nach dem Sturz des Seleukidenreiches zur römischen Provinz gemacht. Antiochia am Orontes war die Hauptstadt und nach Rom und Alexandria die drittgrößte Stadt des Reiches — ein kosmopolitisches Handelszentrum, in dem Griechen, Römer, Syrer, Juden und Nabatäer zusammenlebten. In Antiochia wurden die Anhänger Jesu erstmals 'Christen' genannt. Die Provinz war wirtschaftlich enorm bedeutend dank Seidenhandel, Glas- und Textilproduktion sowie Landwirtschaft.",
-          "en": "Syria, the rich Levantine province between the Euphrates and the Mediterranean, was made a Roman province in 64 BC by Pompey the Great after the overthrow of the Seleucid realm. Antioch on the Orontes was the capital and, after Rome and Alexandria, the third largest city of the empire — a cosmopolitan trading center where Greeks, Romans, Syrians, Jews, and Nabataeans lived together. In Antioch the followers of Jesus were first called 'Christians'. The province was enormously economically significant due to its silk trade, glass and textile production, and agriculture."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              7.5,
-              30.5
-            ],
-            [
-              14,
-              30
-            ],
-            [
-              17,
-              31.5
-            ],
-            [
-              15,
-              35
-            ],
-            [
-              10,
-              37.5
-            ],
-            [
-              7,
-              37.5
-            ],
-            [
-              5,
-              36.5
-            ],
-            [
-              5,
-              34
-            ],
-            [
-              7.5,
-              30.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "africa-proconsularis",
-        "parentId": "roman-empire",
-        "startYear": -146,
-        "endYear": 429,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Africa Proconsularis",
-          "en": "Africa Proconsularis"
-        },
-        "description": {
-          "de": "Africa Proconsularis, entstanden aus den Trümmern des karthagischen Reiches nach 146 v. Chr., war die wirtschaftlich bedeutendste Provinz Nordafrikas. Carthago Nova (Karthago) wurde als römische Kolonie neu gegründet und zur viertgrößten Stadt des Reiches. Die Provinz war nach Aegyptus die wichtigste Getreidekammer und lieferte auch Olivenöl in großen Mengen. Bedeutende Denker des frühen Christentums stammten von hier: Tertullian, Cyprian und vor allem Augustinus von Hippo, der Kirchenvater und Philosoph, der die abendländische Theologie prägte wie kein anderer.",
-          "en": "Africa Proconsularis, formed from the ruins of the Carthaginian realm after 146 BC, was the most economically important province of North Africa. Carthago Nova (Carthage) was refounded as a Roman colony and became the fourth largest city of the empire. The province was after Aegyptus the most important granary and also supplied large quantities of olive oil. Major thinkers of early Christianity came from here: Tertullian, Cyprian, and above all Augustine of Hippo, the Church Father and philosopher who shaped western theology more than any other."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              17,
-              28
-            ],
-            [
-              24,
-              28
-            ],
-            [
-              24.5,
-              31
-            ],
-            [
-              22,
-              33
-            ],
-            [
-              18,
-              33.5
-            ],
-            [
-              15.5,
-              32.5
-            ],
-            [
-              15,
-              30
-            ],
-            [
-              17,
-              28
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "cyrenaica",
-        "parentId": "roman-empire",
-        "startYear": -74,
-        "endYear": 395,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Cyrenaica",
-          "en": "Cyrenaica"
-        },
-        "description": {
-          "de": "Cyrenaica, das nordlibysche Küstenland, wurde 74 v. Chr. durch das Testament des letzten ptolemäischen Königs Apion an Rom übergeben und zunächst mit Kreta zur Doppelprovinz Creta et Cyrenaica verbunden. Kyrene, eine der bedeutendsten griechischen Kolonien, war ein Zentrum der hellenistischen Kultur und Heimat des Philosophen Aristippos und des Mathematikers Eratosthenes. Die Provinz hatte eine bedeutende jüdische Diasporabevölkerung. Pentapolis, eine Allianz von fünf Küstenstädten, war das wirtschaftliche Rückgrat der Region.",
-          "en": "Cyrenaica, the north Libyan coastal territory, was handed to Rome in 74 BC by the testament of the last Ptolemaic king Apion and was initially combined with Crete to form the double province Creta et Cyrenaica. Cyrene, one of the most important Greek colonies, was a center of Hellenistic culture and the home of the philosopher Aristippus and the mathematician Eratosthenes. The province had a significant Jewish diaspora population. The Pentapolis, an alliance of five coastal cities, was the economic backbone of the region."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              100,
-              32
-            ],
-            [
-              122,
-              32
-            ],
-            [
-              122,
-              42
-            ],
-            [
-              110,
-              43
-            ],
-            [
-              100,
-              40
-            ],
-            [
-              100,
-              32
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "han-north-china",
-        "parentId": "han-china",
-        "startYear": -206,
-        "endYear": 9,
-        "peakStartYear": -206,
-        "peakEndYear": 9,
-        "culturalSphere": "chinese",
-        "color": "#CC9900",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Westliche Han-Kommandantschaften / Nordchina",
-          "en": "Western Han Commanderies / North China"
-        },
-        "description": {
-          "de": "Das nördliche Kernland der Westlichen Han-Dynastie erstreckte sich über die Nordchinesische Tiefebene und umfasste die Hauptstadt Chang'an. Diese dicht besiedelten Kommandantschaften bildeten das politische und wirtschaftliche Zentrum des frühen Han-Reiches.",
-          "en": "The northern heartland of the Western Han dynasty spread across the North China Plain and included the capital Chang'an. These densely populated commanderies formed the political and economic center of the early Han Empire."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              104,
-              22
-            ],
-            [
-              122,
-              22
-            ],
-            [
-              122,
-              32
-            ],
-            [
-              104,
-              32
-            ],
-            [
-              104,
-              22
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "han-south-china",
-        "parentId": "han-china",
-        "startYear": -206,
-        "endYear": 9,
-        "peakStartYear": -111,
-        "peakEndYear": 9,
-        "culturalSphere": "chinese",
-        "color": "#CC9900",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Westliche Han / Südchina",
-          "en": "Western Han / South China"
-        },
-        "description": {
-          "de": "Südchina wurde von der Han-Dynastie schrittweise integriert. Die Regionen südlich des Yangzi umfassten das Königreich Nanyue (Südviet) und wurden ab 111 v. Chr. direkte Han-Kommandantschaften, wobei lokale Kulturen erhalten blieben.",
-          "en": "South China was gradually integrated by the Han dynasty. The regions south of the Yangtze included the Kingdom of Nanyue and became direct Han commanderies from 111 BC onward, while preserving local cultures."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72,
-              37
-            ],
-            [
-              100,
-              37
-            ],
-            [
-              100,
-              43
-            ],
-            [
-              85,
-              45
-            ],
-            [
-              72,
-              42
-            ],
-            [
-              72,
-              37
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "han-western-regions",
-        "parentId": "han-china",
-        "startYear": -60,
-        "endYear": 220,
-        "peakStartYear": -60,
-        "peakEndYear": 150,
-        "culturalSphere": "chinese",
-        "color": "#CC9900",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Han-Protektorat der Westlichen Regionen (Seidenstraße)",
-          "en": "Han Protectorate of the Western Regions (Silk Road)"
-        },
-        "description": {
-          "de": "Das Protektorat der Westlichen Regionen sicherte die Seidenstraße durch das Tarimbecken (heutiges Xinjiang). Unter Han-Kontrolle ab 60 v. Chr. übte es Suzeränität über Dutzende Oasenstaaten aus und ermöglichte den direkten Handel mit dem Westen.",
-          "en": "The Protectorate of the Western Regions secured the Silk Road through the Tarim Basin (modern Xinjiang). Under Han control from 60 BC, it exercised suzerainty over dozens of oasis states and enabled direct trade with the West."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              124,
-              36
-            ],
-            [
-              130,
-              36
-            ],
-            [
-              130,
-              42
-            ],
-            [
-              125.5,
-              42.5
-            ],
-            [
-              124,
-              40.5
-            ],
-            [
-              124,
-              36
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "han-lelang-korea",
-        "parentId": "han-china",
-        "startYear": -108,
-        "endYear": 313,
-        "peakStartYear": -108,
-        "peakEndYear": 220,
-        "culturalSphere": "chinese",
-        "color": "#CC9900",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Lelang-Kommandantschaft (Han-Korea)",
-          "en": "Lelang Commandery (Han Korea)"
-        },
-        "description": {
-          "de": "Lelang war die bedeutendste der Vier Han-Kommandantschaften auf der koreanischen Halbinsel, gegründet 108 v. Chr. nach dem Sturz des Königreichs Gojoseon. Das Zentrum chinesischer Verwaltung und Kultur in Korea bestand über vier Jahrhunderte.",
-          "en": "Lelang was the most significant of the Four Han Commanderies on the Korean Peninsula, founded in 108 BC after the overthrow of the kingdom of Gojoseon. The center of Chinese administration and culture in Korea lasted over four centuries."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              34.5,
-              29
-            ],
-            [
-              39.5,
-              29
-            ],
-            [
-              39.5,
-              32.5
-            ],
-            [
-              37.5,
-              34
-            ],
-            [
-              34.5,
-              33
-            ],
-            [
-              33.5,
-              31
-            ],
-            [
-              34.5,
-              29
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "nabataean-kingdom",
-        "startYear": -168,
-        "endYear": 106,
-        "peakStartYear": -100,
-        "peakEndYear": 50,
-        "culturalSphere": "arab",
-        "color": "#AA8800",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Nabatäisches Königreich",
-          "en": "Nabataean Kingdom"
-        },
-        "description": {
-          "de": "Das Nabatäische Königreich mit der Felsenhauptstadt Petra beherrschte die Handelsrouten von Arabien in die Mittelmeerregion. Als Meister des Fernhandels und der Wasserversorgung in der Wüste schufen die Nabatäer eine eigenständige Schrift und eine reiche Zivilisation.",
-          "en": "The Nabataean Kingdom with its rock-hewn capital Petra controlled the trade routes from Arabia into the Mediterranean region. Masters of long-distance trade and desert water management, the Nabataeans created their own script and a rich civilization."
+          "de": "Indigene mesoamerikanische Zivilisation im Tal von Oaxaca mit der fruehen Grossstadt Monte Alban.",
+          "en": "Indigenous Mesoamerican civilization in the Valley of Oaxaca with the early major city of Monte Alban."
         }
       }
     }

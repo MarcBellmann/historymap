@@ -3,1364 +3,323 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              15,
-              8
-            ],
-            [
-              50,
-              8
-            ],
-            [
-              50,
-              22
-            ],
-            [
-              15,
-              22
-            ],
-            [
-              15,
-              8
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-axum",
-        "startYear": -400,
-        "endYear": 940,
-        "culturalSphere": "axumite",
-        "color": "#996600",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Aksum",
-          "en": "Kingdom of Axum"
-        },
-        "description": {
-          "de": "Das Königreich Aksum war eine der mächtigsten Handelsnationen der Antike und kontrollierte den Handel am Roten Meer. Es war eines der ersten Reiche, das das Christentum als Staatsreligion annahm.",
-          "en": "The Kingdom of Axum was one of the most powerful trading nations of antiquity, controlling Red Sea trade. It was one of the first empires to adopt Christianity as a state religion."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              22,
-              30
-            ],
-            [
-              42,
-              30
-            ],
-            [
-              45,
-              37
-            ],
-            [
-              38,
-              42
-            ],
-            [
-              28,
-              42
-            ],
-            [
-              22,
-              42
-            ],
-            [
-              18,
-              40
-            ],
-            [
-              15,
-              38
-            ],
-            [
-              15,
-              33
-            ],
-            [
-              18,
-              30
-            ],
-            [
-              22,
-              30
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
         "id": "byzantine-empire",
+        "parentId": null,
         "startYear": 330,
         "endYear": 1453,
-        "peakStartYear": 476,
-        "peakEndYear": 1453,
+        "peakStartYear": 527,
+        "peakEndYear": 1025,
         "culturalSphere": "byzantine",
-        "color": "#AA2222",
+        "color": "#9966CC",
         "opacity": 0.25,
         "labels": {
           "de": "Byzantinisches Reich",
           "en": "Byzantine Empire"
         },
         "description": {
-          "de": "Das Byzantinische Reich war die Fortsetzung des Oströmischen Reiches und bewahrte über tausend Jahre lang die Tradition griechischer Bildung, römischen Rechts und christlichen Glaubens. Konstantinopel war Jahrhunderte lang die größte und reichste Stadt der christlichen Welt und ein unubertroffenes Zentrum von Kunst, Theologie und Diplomatie. Das Reich prägte die Kulturen Osteuropas, der Balkanhalbinsel und des Nahen Ostens und hinterließ ein Erbe, das weit über seinen Fall 1453 hinauswirkt.",
-          "en": "The Byzantine Empire was the continuation of the Eastern Roman Empire and preserved for over a thousand years the tradition of Greek learning, Roman law, and Christian faith. Constantinople was for centuries the largest and wealthiest city in the Christian world and an unrivaled center of art, theology, and diplomacy. The empire shaped the cultures of Eastern Europe, the Balkans, and the Near East and left a legacy that extends far beyond its fall in 1453."
+          "de": "Oströmisches Reich mit Hauptstadt Konstantinopel, Fortführung des Römischen Reiches im Osten. Bewahrte antikes Wissen und prägte die orthodoxe Christenheit.",
+          "en": "Eastern Roman Empire with its capital at Constantinople, continuation of the Roman Empire in the East. Preserved ancient knowledge and shaped Orthodox Christianity."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              36,
-              22
-            ],
-            [
-              72,
-              22
-            ],
-            [
-              78,
-              30
-            ],
-            [
-              72,
-              42
-            ],
-            [
-              56,
-              44
-            ],
-            [
-              44,
-              44
-            ],
-            [
-              36,
-              38
-            ],
-            [
-              34,
-              32
-            ],
-            [
-              36,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "abbasid-caliphate",
-        "startYear": 750,
-        "endYear": 1258,
-        "peakStartYear": 800,
-        "peakEndYear": 900,
-        "culturalSphere": "islamic",
-        "color": "#1E5C1E",
-        "opacity": 0.25,
+        "id": "byzantine-greece",
+        "parentId": "byzantine-empire",
+        "startYear": 330,
+        "endYear": 1453,
+        "peakStartYear": 527,
+        "peakEndYear": 1204,
+        "culturalSphere": "byzantine",
+        "color": "#9966CC",
+        "opacity": 0.2,
         "labels": {
-          "de": "Abbasidenkalifat",
-          "en": "Abbasid Caliphate"
+          "de": "Byzantinisches Griechenland",
+          "en": "Byzantine Greece"
         },
         "description": {
-          "de": "Das Abbasidenkalifat mit seiner Hauptstadt Bagdad erlebte das islamische Goldene Zeitalter. Bagdad war zeitweise die größte Stadt der Welt und ein unubertroffenes Zentrum von Philosophie, Mathematik, Medizin, Astronomie und Literatur. Das Haus der Weisheit (Bayt al-Hikmah) übersetzte das Wissen der Griechen, Perser und Inder und bewahrte es für die Menschheit. Die abbasidische Zivilisation prägte Wissenschaft, Kunst und Verwaltung der islamischen Welt dauerhaft.",
-          "en": "The Abbasid Caliphate, with its capital Baghdad, witnessed the Islamic Golden Age. Baghdad was at times the largest city in the world and an unrivaled center of philosophy, mathematics, medicine, astronomy, and literature. The House of Wisdom (Bayt al-Hikmah) translated the knowledge of the Greeks, Persians, and Indians and preserved it for humanity. Abbasid civilization permanently shaped the science, art, and administration of the Islamic world."
+          "de": "Griechische Kernprovinzen des Byzantinischen Reiches, kulturelles und wirtschaftliches Herzland.",
+          "en": "Greek core provinces of the Byzantine Empire, its cultural and economic heartland."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              22,
-              41.5
-            ],
-            [
-              28.5,
-              41.5
-            ],
-            [
-              30,
-              43.5
-            ],
-            [
-              28,
-              46
-            ],
-            [
-              24,
-              45.5
-            ],
-            [
-              22.5,
-              44
-            ],
-            [
-              22,
-              41.5
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
         "id": "first-bulgarian-empire",
+        "parentId": null,
         "startYear": 681,
         "endYear": 1018,
+        "peakStartYear": 852,
+        "peakEndYear": 927,
         "culturalSphere": "slavic",
-        "color": "#446688",
+        "color": "#6699CC",
         "opacity": 0.25,
         "labels": {
           "de": "Erstes Bulgarisches Reich",
           "en": "First Bulgarian Empire"
         },
         "description": {
-          "de": "Das Erste Bulgarische Reich, gegründet 681 durch Asparuh, war der erste dauerhaft anerkannte Staat auf dem Balkan und erlangte früh internationale Anerkennung durch Byzanz. Unter Boris I. wurde das Christentum zur Staatsreligion, und das Kyrillische Alphabet wurde hier entwickelt, was einen nachhaltigen kulturellen Einfluss auf alle slawischen Völker hatte. Simeon I. der Große führte das Reich zu seinem Höhepunkt und nannte sich Zar aller Bulgaren und Griechen. Die bulgarische Zivilisation dieser Zeit war eine der fortgeschrittensten in Europa.",
-          "en": "The First Bulgarian Empire, founded in 681 by Asparuh, was the first permanently recognized state on the Balkans and gained early international recognition from Byzantium. Under Boris I Christianity became the state religion, and the Cyrillic alphabet was developed here, creating lasting cultural influence on all Slavic peoples. Simeon I the Great led the empire to its zenith and called himself Tsar of all Bulgarians and Greeks. Bulgarian civilization of this period was among the most advanced in Europe."
+          "de": "Mittelalterliches Reich auf dem Balkan, gegründet von turkstämmigen Bulgaren und slawischen Stämmen. Unter Simeon I. kulturelle Blütezeit.",
+          "en": "Medieval realm in the Balkans, founded by Turkic Bulgars and Slavic tribes. Cultural golden age under Simeon I."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              26,
-              37.5
-            ],
-            [
-              36.5,
-              37
-            ],
-            [
-              38,
-              40
-            ],
-            [
-              36.5,
-              42.5
-            ],
-            [
-              30,
-              42.5
-            ],
-            [
-              26,
-              40
-            ],
-            [
-              26,
-              37.5
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "theme-of-anatolia",
-        "parentId": "byzantine-empire",
-        "startYear": 660,
-        "endYear": 1080,
-        "culturalSphere": "byzantine",
-        "color": "#AA2222",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Thema Anatolikon",
-          "en": "Theme of Anatolia"
-        },
-        "description": {
-          "de": "Das Thema Anatolikon war eines der ursprünglichsten und militärisch bedeutsamsten Themen des Byzantinischen Reiches, entstanden im 7. Jahrhundert als Antwort auf arabische Invasionen. Es bildete die zentrale Verteidigungszone Anatoliens und stellte die größten Kontingente der byzantinischen Feldarmee. Die stratiotischen Grundbesitzer des Themas bildeten den Kern der byzantinischen Kavallerie. Als wirtschaftlich fruchtbare Region war das Anatolikon zugleich Kornkammer und Rekrutierungsgebiet und für über vier Jahrhunderte der Rückgrat byzantinischer Militärmacht.",
-          "en": "The Theme of Anatolikon was one of the oldest and most militarily significant themes of the Byzantine Empire, created in the 7th century in response to Arab invasions. It formed the central defense zone of Anatolia and supplied the largest contingents of the Byzantine field army. The stratiotai landowners of the theme formed the core of Byzantine cavalry. As an economically fertile region, the Anatolikon was simultaneously granary and recruitment pool, and for over four centuries the backbone of Byzantine military power."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              26,
-              40
-            ],
-            [
-              32,
-              40
-            ],
-            [
-              32,
-              42.5
-            ],
-            [
-              26,
-              42.5
-            ],
-            [
-              25.5,
-              41.5
-            ],
-            [
-              26,
-              40
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "theme-of-thrace",
-        "parentId": "byzantine-empire",
-        "startYear": 680,
-        "endYear": 1204,
-        "culturalSphere": "byzantine",
-        "color": "#AA2222",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Thema Thrakien",
-          "en": "Theme of Thrace"
-        },
-        "description": {
-          "de": "Das Thema Thrakien, eines der ältesten byzantinischen Themen, umfasste das unmittelbare Hinterland Konstantinopels und war damit die strategisch wichtigste Provinz des Reiches. Hier trafen die Landwege von Westeuropa und dem Balkan auf die Hauptstadt. Das Thema wurde wiederholt von Bulgaren, Hunnen und anderen Völkern bedroht und war Schauplatz zahlreicher entscheidender Schlachten der byzantinischen Geschichte. Seine Bevölkerung war multiethnisch und verband griechische, thrakische und slawische Einflüsse.",
-          "en": "The Theme of Thrace, one of the oldest Byzantine themes, encompassed the immediate hinterland of Constantinople and was thus the most strategically vital province of the empire. Here the land routes from Western Europe and the Balkans converged on the capital. The theme was repeatedly threatened by Bulgarians, Huns, and other peoples and was the scene of numerous decisive battles in Byzantine history. Its population was multiethnic, combining Greek, Thracian, and Slavic influences."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              22.5,
-              40.5
-            ],
-            [
-              27,
-              40.5
-            ],
-            [
-              26.5,
-              43.5
-            ],
-            [
-              23.5,
-              43.5
-            ],
-            [
-              21,
-              42
-            ],
-            [
-              22.5,
-              40.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "theme-of-macedonia",
-        "parentId": "byzantine-empire",
-        "startYear": 789,
-        "endYear": 1204,
-        "culturalSphere": "byzantine",
-        "color": "#AA2222",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Thema Makedonien",
-          "en": "Theme of Macedonia"
-        },
-        "description": {
-          "de": "Das Thema Makedonien war ein bedeutendes byzantinisches Verwaltungsgebiet auf dem Balkan, das trotz seines Namens nicht dem antiken Makedonien entsprach, sondern weiter westlich lag. Es grenzte an Bulgarien und Serbien und war ein wichtiger Puffer gegen Angriffe aus dem Norden. Die Städte Thessaloniki und Serres waren bedeutende kulturelle und wirtschaftliche Zentren. Das Thema spielte eine wichtige Rolle bei der Christianisierung der Slawen durch die byzantinischen Missionare Kyrill und Method.",
-          "en": "The Theme of Macedonia was an important Byzantine administrative district in the Balkans, which despite its name did not correspond to ancient Macedonia but lay further to the west. It bordered Bulgaria and Serbia and was an important buffer against attacks from the north. The cities of Thessaloniki and Serres were significant cultural and economic centers. The theme played an important role in the Christianization of the Slavs through the Byzantine missionaries Cyril and Methodius."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              20,
-              37.5
-            ],
-            [
-              24.5,
-              37.5
-            ],
-            [
-              23.5,
-              41.5
-            ],
-            [
-              21,
-              42
-            ],
-            [
-              19.5,
-              40
-            ],
-            [
-              20,
-              37.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "theme-of-hellas",
-        "parentId": "byzantine-empire",
-        "startYear": 695,
-        "endYear": 1204,
-        "culturalSphere": "byzantine",
-        "color": "#AA2222",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Thema Hellas",
-          "en": "Theme of Hellas (Greece)"
-        },
-        "description": {
-          "de": "Das Thema Hellas umfasste den größten Teil des griechischen Festlandes und der Inseln und war das Kerngebiet griechischer Sprache und Kultur innerhalb des Byzantinischen Reiches. Athen, das in dieser Zeit nur eine mittlere Provinzstadt war, und Korinth, ein bedeutender Handelshafen, lagen in diesem Thema. Die Region bewahrte trotz slawischer Einwanderung ihre griechische Identität. Das Thema war ein wichtiges Rekrutierungsgebiet für die byzantinische Marine und spielte eine bedeutende Rolle im Mittelmeerhandel.",
-          "en": "The Theme of Hellas encompassed most of the Greek mainland and islands and was the heartland of Greek language and culture within the Byzantine Empire. Athens, which was only a mid-sized provincial town at this time, and Corinth, a major trading port, lay within this theme. The region preserved its Greek identity despite Slavic immigration. The theme was an important recruitment area for the Byzantine navy and played a significant role in Mediterranean trade."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8,
-              51.5
-            ],
-            [
-              14.5,
-              51
-            ],
-            [
-              15,
-              53.5
-            ],
-            [
-              11,
-              54.5
-            ],
-            [
-              8.5,
-              54
-            ],
-            [
-              8,
-              53
-            ],
-            [
-              8,
-              51.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "duchy-of-saxony",
-        "parentId": "holy-roman-empire",
-        "startYear": 850,
-        "endYear": 1180,
-        "culturalSphere": "germanic",
-        "color": "#8B0000",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Herzogtum Sachsen",
-          "en": "Duchy of Saxony"
-        },
-        "description": {
-          "de": "Das Herzogtum Sachsen war eines der ursprünglichen Stammesherzogtümer des Ostfränkischen Reiches und erlangte unter den Ludolfingern (Ottonen) besondere Bedeutung: Aus ihm gingen die ersten deutschen Kaiser hervor. Die sächsischen Kaiser Otto I., II. und III. prägten das mittelalterliche Kaiserreich nachhaltig. Sachsen war bekannt für seinen Bergbau, seine Handelsstädte und die bedeutenden Klöster, die das kulturelle und religiöse Leben prägten. 1180 wurde das Herzogtum nach dem Sturz Heinrichs des Löwen zerschlagen und in kleinere Fürstentümer aufgeteilt.",
-          "en": "The Duchy of Saxony was one of the original tribal duchies of the East Frankish Kingdom and gained particular significance under the Liudolfings (Ottonians): from it emerged the first German emperors. The Saxon emperors Otto I, II, and III shaped the medieval empire profoundly. Saxony was known for its mining, trading cities, and the significant monasteries that shaped cultural and religious life. In 1180 the duchy was broken up following the downfall of Henry the Lion and divided into smaller principalities."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -5,
-              42
-            ],
-            [
-              4.5,
-              43.5
-            ],
-            [
-              5,
-              46.5
-            ],
-            [
-              2,
-              51
-            ],
-            [
-              -2,
-              51
-            ],
-            [
-              -5,
-              47.5
-            ],
-            [
-              -5,
-              42
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "francia-occidentalis",
-        "parentId": "carolingian-empire",
-        "startYear": 843,
-        "endYear": 987,
-        "culturalSphere": "frankish",
-        "color": "#4A6FA5",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Westfränkisches Reich",
-          "en": "Kingdom of the West Franks (Francia Occidentalis)"
-        },
-        "description": {
-          "de": "Das Westfränkische Reich entstand 843 durch den Vertrag von Verdun, der das Karolingerreich in drei Teile aufteilte. Es umfasste das Gebiet des heutigen Frankreich und wurde unter Karl dem Kahlen begründet. Obwohl formal noch ein karolingisches Reich, entwickelte es rasch eigene politische und kulturelle Züge, die das spätere Frankreich prägten. Die lokalen Aristokraten gewannen gegenüber dem König immer mehr Macht, und die Dezentralisierung legte paradoxerweise die Grundlage für eine eigenständige französische Nationalidentität. 987 endete das westfränkische Karolongerreich mit der Wahl Hugos Capet.",
-          "en": "The Kingdom of the West Franks emerged in 843 through the Treaty of Verdun, which divided the Carolingian Empire into three parts. It encompassed the territory of modern France and was established under Charles the Bald. Although formally still a Carolingian kingdom, it rapidly developed its own political and cultural character that shaped later France. Local aristocrats increasingly gained power over the king, and paradoxically the decentralization laid the foundation for a distinctive French national identity. In 987 the West Frankish Carolingian line ended with the election of Hugh Capet."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5,
-              46.5
-            ],
-            [
-              18.5,
-              46.5
-            ],
-            [
-              20,
-              48
-            ],
-            [
-              18,
-              55
-            ],
-            [
-              14,
-              54.5
-            ],
-            [
-              8,
-              54.5
-            ],
-            [
-              6,
-              51.5
-            ],
-            [
-              5.5,
-              46.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "francia-orientalis",
-        "parentId": "carolingian-empire",
-        "startYear": 843,
-        "endYear": 911,
-        "culturalSphere": "frankish",
-        "color": "#4A6FA5",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Ostfränkisches Reich",
-          "en": "Kingdom of the East Franks (Francia Orientalis)"
-        },
-        "description": {
-          "de": "Das Ostfränkische Reich entstand 843 aus dem Vertrag von Verdun als östlicher Teil des geteilten Karolingerreiches und wurde Ludwig dem Deutschen zugesprochen. Es umfasste das Gebiet des heutigen Deutschland und war der direkte Vorläufer des Heiligen Römischen Reiches. Die Stammesherzogtümer Bayern, Sachsen, Franken, Schwaben und Thüringen bildeten seinen Kern. Die Auseinandersetzungen zwischen dem König und den mächtigen Stammesherzögen prägten das politische Leben. Mit dem Tod des letzten Karolingers Ludwig des Kindes 911 endete das ostfränkische Karolingerreich und der erste nichtkarolingische König wurde gewählt.",
-          "en": "The Kingdom of the East Franks emerged in 843 from the Treaty of Verdun as the eastern part of the divided Carolingian Empire and was assigned to Louis the German. It encompassed the territory of modern Germany and was the direct predecessor of the Holy Roman Empire. The tribal duchies of Bavaria, Saxony, Franconia, Swabia, and Thuringia formed its core. The conflicts between the king and the powerful tribal dukes shaped political life. With the death of the last Carolingian Louis the Child in 911, the East Frankish Carolingian line ended and the first non-Carolingian king was elected."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              44,
-              32
-            ],
-            [
-              70,
-              32
-            ],
-            [
-              70,
-              40
-            ],
-            [
-              55,
-              42
-            ],
-            [
-              44,
-              40
-            ],
-            [
-              44,
-              32
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "abbasid-khorasan",
-        "parentId": "abbasid-caliphate",
+        "id": "abbasid-caliphate",
+        "parentId": null,
         "startYear": 750,
-        "endYear": 1000,
+        "endYear": 1258,
+        "peakStartYear": 780,
+        "peakEndYear": 860,
         "culturalSphere": "islamic",
-        "color": "#6644AA",
+        "color": "#33CCAA",
         "opacity": 0.25,
         "labels": {
-          "de": "Khorasan (Abbasidisch)",
-          "en": "Khorasan (Abbasid)"
+          "de": "Abbasidenkalifat",
+          "en": "Abbasid Caliphate"
         },
         "description": {
-          "de": "Khorasan war die östliche Kernprovinz des Abbasidischen Kalifats und die Ursprungsregion der Abbasidischen Revolution. Die Region umfasste Teile des heutigen Iran, Afghanistans, Turkmenistans und Usbekistans und war ein Zentrum persischer Kultur, islamischer Wissenschaft und des Handels auf der Seidenstraße. Städte wie Nishapur, Merv und Balkh blühten als Metropolen auf. Khorasan bewahrte die persische Sprache und Kultur unter arabischer Herrschaft und trug wesentlich zur islamischen Klassik bei.",
-          "en": "Khorasan was the eastern core province of the Abbasid Caliphate and the birthplace region of the Abbasid Revolution. The region encompassed parts of modern Iran, Afghanistan, Turkmenistan, and Uzbekistan and was a center of Persian culture, Islamic scholarship, and Silk Road trade. Cities like Nishapur, Merv, and Balkh flourished as metropolises. Khorasan preserved the Persian language and culture under Arab rule and made essential contributions to the Islamic classical period."
+          "de": "Drittes islamisches Kalifat mit Bagdad als Hauptstadt. Blütezeit der islamischen Wissenschaft und Kultur im Goldenen Zeitalter des Islam.",
+          "en": "Third Islamic caliphate based in Baghdad. Heyday of Islamic science and culture during the Golden Age of Islam."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              38,
-              29
-            ],
-            [
-              50,
-              29
-            ],
-            [
-              50,
-              38
-            ],
-            [
-              38,
-              38
-            ],
-            [
-              38,
-              29
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "abbasid-mesopotamia",
+        "id": "abbasid-iraq",
         "parentId": "abbasid-caliphate",
         "startYear": 750,
         "endYear": 1258,
+        "peakStartYear": 762,
+        "peakEndYear": 860,
         "culturalSphere": "islamic",
-        "color": "#6644AA",
-        "opacity": 0.25,
+        "color": "#33CCAA",
+        "opacity": 0.2,
         "labels": {
-          "de": "Mesopotamien (Abbasidisch)",
-          "en": "Mesopotamia/Iraq (Abbasid)"
+          "de": "Irak (Abbasiden)",
+          "en": "Iraq (Abbasid)"
         },
         "description": {
-          "de": "Mesopotamien war das Herzland des Abbasidischen Kalifats mit Bagdad als Hauptstadt, der größten und blühendsten Stadt der mittelalterlichen Welt. Gegründet 762 von Kalif al-Mansur als 'Madinat as-Salam' (Stadt des Friedens), wurde Bagdad zum Zentrum des islamischen Goldenen Zeitalters. Das Haus der Weisheit (Bayt al-Hikma) sammelte Gelehrte aus der gesamten bekannten Welt, übersetzte griechisches Wissen und entwickelte Mathematik, Astronomie, Medizin und Philosophie weiter. Die Region blieb das intellektuelle Herz der islamischen Welt bis zur mongolischen Zerstörung 1258.",
-          "en": "Mesopotamia was the heartland of the Abbasid Caliphate with Baghdad as its capital, the largest and most flourishing city in the medieval world. Founded in 762 by Caliph al-Mansur as 'Madinat as-Salam' (City of Peace), Baghdad became the center of the Islamic Golden Age. The House of Wisdom (Bayt al-Hikma) gathered scholars from across the known world, translated Greek knowledge, and advanced mathematics, astronomy, medicine, and philosophy. The region remained the intellectual heart of the Islamic world until the Mongol destruction in 1258."
+          "de": "Kernprovinz des Abbasidenkalifats mit Bagdad und seinem berühmten Haus der Weisheit.",
+          "en": "Core province of the Abbasid Caliphate, home to Baghdad and its famous House of Wisdom."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              24,
-              22
-            ],
-            [
-              37,
-              22
-            ],
-            [
-              37,
-              32
-            ],
-            [
-              24,
-              32
-            ],
-            [
-              24,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "abbasid-egypt",
-        "parentId": "abbasid-caliphate",
-        "startYear": 750,
-        "endYear": 868,
-        "culturalSphere": "islamic",
-        "color": "#6644AA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Ägypten (Abbasidisch)",
-          "en": "Egypt (Abbasid)"
-        },
-        "description": {
-          "de": "Ägypten unter abbasidischer Herrschaft war eine der reichsten Provinzen des Kalifats, dank seiner landwirtschaftlichen Produktivität am Nil und seiner Bedeutung als Handelsroute. Die Hauptstadt al-Fustat (nahe dem heutigen Kairo) entwickelte sich zu einer kosmopolitischen Stadt. Ägypten wurde in der abbasidischen Periode zu einem wichtigen Zentrum islamischer Gelehrsamkeit und bewahrte gleichzeitig eine reiche koptisch-christliche Tradition. 868 begann mit Ahmad ibn Tulun eine Phase praktischer Autonomie, die zur späteren unabhängigen Herrschaft führte.",
-          "en": "Egypt under Abbasid rule was one of the wealthiest provinces of the caliphate, thanks to its agricultural productivity along the Nile and its importance as a trade route. The capital al-Fustat (near modern Cairo) developed into a cosmopolitan city. Egypt became an important center of Islamic scholarship during the Abbasid period while preserving a rich Coptic Christian tradition. In 868, Ahmad ibn Tulun began a period of practical autonomy that led to later independent rule."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9,
-              36
-            ],
-            [
-              0,
-              36
-            ],
-            [
-              4,
-              39.5
-            ],
-            [
-              -2,
-              43.5
-            ],
-            [
-              -9,
-              43.5
-            ],
-            [
-              -9,
-              36
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "umayyad-al-andalus",
-        "parentId": "umayyad-caliphate",
-        "startYear": 711,
-        "endYear": 1492,
-        "culturalSphere": "islamic",
-        "color": "#AA4400",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Al-Andalus",
-          "en": "Al-Andalus"
-        },
-        "description": {
-          "de": "Al-Andalus war das islamisch beherrschte Gebiet auf der Iberischen Halbinsel und entwickelte sich zur bedeutendsten Schnittstelle zwischen islamischer, jüdischer und christlicher Zivilisation im mittelalterlichen Europa. Córdoba unter Abd ar-Rahman III. wurde zu einer der größten Städte Europas, einem Zentrum von Bibliotheken, Universitäten und einem intellektuellen Leben, das seinesgleichen suchte. Die 'Convivencia' - das Zusammenleben der drei Religionen - brachte bedeutende Leistungen in Philosophie, Medizin, Mathematik und Dichtung hervor. Al-Andalus übermittelte antikes griechisches Wissen und islamische Wissenschaften an das lateinische Europa.",
-          "en": "Al-Andalus was the Muslim-ruled territory on the Iberian Peninsula and became the most important intersection between Islamic, Jewish, and Christian civilization in medieval Europe. Córdoba under Abd ar-Rahman III became one of the largest cities in Europe, a center of libraries, universities, and an intellectual life without parallel. The 'Convivencia' - the coexistence of three religions - produced major achievements in philosophy, medicine, mathematics, and poetry. Al-Andalus transmitted ancient Greek knowledge and Islamic sciences to Latin Europe."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              99,
-              0
-            ],
-            [
-              116,
-              0
-            ],
-            [
-              116,
-              6
-            ],
-            [
-              104,
-              6.5
-            ],
-            [
-              102.5,
-              4
-            ],
-            [
-              99.5,
-              4.5
-            ],
-            [
-              99,
-              2
-            ],
-            [
-              99,
-              0
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "srivijaya-empire",
-        "startYear": 650,
-        "endYear": 1377,
-        "peakStartYear": 700,
-        "peakEndYear": 1100,
-        "culturalSphere": "southeast-asian",
-        "color": "#AA6622",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Srivijaya-Reich",
-          "en": "Srivijaya Empire"
-        },
-        "description": {
-          "de": "Srivijaya war eine maritime Handelsmacht mit Zentrum auf Sumatra, die über sechs Jahrhunderte die Meerenge von Malakka und den Seehandel zwischen Indien, China und dem Nahen Osten kontrollierte. Als bedeutendes Zentrum des Mahayana-Buddhismus lockte seine Hauptstadt Palembang buddhistische Pilger und Gelehrte aus ganz Asien an. Die Seemacht Srivijayas beruhte weniger auf Territorialherrschaft als auf dem Netzwerk von Häfen und Handelsposten, das den Gewürzhandel und die Schifffahrtsrouten prägte.",
-          "en": "Srivijaya was a maritime trading power centered on Sumatra that controlled the Strait of Malacca and the sea trade between India, China, and the Middle East for over six centuries. As a major center of Mahayana Buddhism, its capital Palembang attracted Buddhist pilgrims and scholars from across Asia. Srivijaya's sea power rested less on territorial dominion than on a network of ports and trading posts that shaped the spice trade and maritime routes."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              129.5,
-              31
-            ],
-            [
-              141.5,
-              31
-            ],
-            [
-              145,
-              33
-            ],
-            [
-              145.5,
-              36
-            ],
-            [
-              141,
-              38
-            ],
-            [
-              141.5,
-              40.5
-            ],
-            [
-              141,
-              41.5
-            ],
-            [
-              140,
-              42.5
-            ],
-            [
-              141,
-              44.5
-            ],
-            [
-              142,
-              45.5
-            ],
-            [
-              141.5,
-              47
-            ],
-            [
-              138,
-              48
-            ],
-            [
-              135.5,
-              46
-            ],
-            [
-              133,
-              44
-            ],
-            [
-              132,
-              41.5
-            ],
-            [
-              130.5,
-              40
-            ],
-            [
-              130,
-              37.5
-            ],
-            [
-              129.5,
-              34
-            ],
-            [
-              129.5,
-              31
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "heian-japan",
-        "startYear": 794,
-        "endYear": 1185,
-        "culturalSphere": "japanese",
-        "color": "#CC8899",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Heian-Japan",
-          "en": "Heian Japan"
-        },
-        "description": {
-          "de": "Die Heian-Periode gilt als Goldenes Zeitalter der klassischen japanischen Kultur. Am Kaiserhof in Heian-kyō (dem heutigen Kyoto) entstanden die ersten großen Werke japanischer Literatur — Murasaki Shikibus 'Genji Monogatari', das älteste Vollroman der Weltliteratur, und Sei Shōnagons 'Kopfkissenbuch'. Die höfische Ästhetik mono no aware — das Bewusstsein der flüchtigen Schönheit der Dinge — prägte Kunst, Kalligraphie und Poesie und wirkt bis in die gegenwärtige japanische Kultur fort.",
-          "en": "The Heian Period is regarded as the golden age of classical Japanese culture. At the imperial court in Heian-kyō (present-day Kyoto), the first great works of Japanese literature were created — Murasaki Shikibu's Tale of Genji, the world's oldest surviving full novel, and Sei Shōnagon's Pillow Book. The courtly aesthetic of mono no aware — an awareness of the transient beauty of things — permeated art, calligraphy, and poetry, and continues to resonate in contemporary Japanese culture."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              107.5,
-              11
-            ],
-            [
-              110,
-              11
-            ],
-            [
-              110.5,
-              12.5
-            ],
-            [
-              109.5,
-              14.5
-            ],
-            [
-              108.5,
-              16.5
-            ],
-            [
-              107.5,
-              18
-            ],
-            [
-              106.5,
-              18
-            ],
-            [
-              106,
-              16
-            ],
-            [
-              107,
-              14
-            ],
-            [
-              107.5,
-              11
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "champa-kingdom",
+        "id": "champa",
+        "parentId": null,
         "startYear": 192,
         "endYear": 1832,
-        "peakStartYear": 800,
-        "peakEndYear": 1200,
-        "culturalSphere": "southeast-asian",
-        "color": "#AA6622",
+        "peakStartYear": 400,
+        "peakEndYear": 1000,
+        "culturalSphere": "vietnamese",
+        "color": "#66AA66",
         "opacity": 0.25,
         "labels": {
-          "de": "Königreich Champa",
-          "en": "Champa Kingdom"
+          "de": "Champa",
+          "en": "Champa"
         },
         "description": {
-          "de": "Das Königreich Champa war eine der dauerhaftesten Zivilisationen Südostasiens und bestand über 1600 Jahre entlang der Küste des heutigen Zentralvietnam. Als seefahrendes Handelsvolk kontrollierten die Cham wichtige Handelswege und entwickelten eine einzigartige Kultur, die hinduistische und buddhistische Einflüsse aus Indien mit lokalen austronesischen Traditionen vereinte. Die Cham-Türme (Tháp Chàm) — ziegelgebaute Heiligtümer, die der Gottheit Shiva gewidmet sind — zählen zu den bedeutendsten architektonischen Denkmälern Südostasiens.",
-          "en": "The Champa Kingdom was one of the most enduring civilizations of Southeast Asia, existing for over 1,600 years along the coast of modern central Vietnam. As a seafaring trading people, the Cham controlled important trade routes and developed a unique culture that merged Hindu and Buddhist influences from India with local Austronesian traditions. The Cham towers (Tháp Chàm) — brick sanctuaries dedicated to the deity Shiva — rank among the most significant architectural monuments of Southeast Asia."
+          "de": "Hinduistisch-malaiische Seehandelsmacht an der Küste des heutigen Zentral- und Südvietnam. Blühte vom 4. bis 10. Jahrhundert.",
+          "en": "Hindu-Malayan maritime trading power along the coast of present-day central and southern Vietnam. Flourished from the 4th to 10th century."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              26,
-              15
-            ],
-            [
-              34,
-              15
-            ],
-            [
-              34,
-              24
-            ],
-            [
-              26,
-              24
-            ],
-            [
-              26,
-              15
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "kingdom-of-makuria",
+        "id": "dvaravati",
+        "parentId": null,
+        "startYear": 550,
+        "endYear": 1050,
+        "peakStartYear": 650,
+        "peakEndYear": 900,
+        "culturalSphere": "thai",
+        "color": "#CCAA66",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Dvaravati",
+          "en": "Dvaravati"
+        },
+        "description": {
+          "de": "Buddhistisches Mon-Königreich im heutigen Zentralthailand. Älteste bedeutende Zivilisation auf dem Gebiet des heutigen Thailand.",
+          "en": "Buddhist Mon kingdom in present-day central Thailand. Oldest major civilization in the territory of modern Thailand."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "srivijaya",
+        "parentId": null,
         "startYear": 650,
-        "endYear": 1317,
-        "culturalSphere": "nubian",
-        "color": "#664400",
+        "endYear": 1275,
+        "peakStartYear": 700,
+        "peakEndYear": 1025,
+        "culturalSphere": "malay",
+        "color": "#33AA99",
         "opacity": 0.25,
         "labels": {
-          "de": "Königreich Makuria",
-          "en": "Kingdom of Makuria"
+          "de": "Srivijaya",
+          "en": "Srivijaya"
         },
         "description": {
-          "de": "Makuria war ein mächtiges christliches Königreich im heutigen nördlichen Sudan, dessen Herrschaftsgebiet das Niltal zwischen dem 3. und 6. Katarakt umfasste. Mit der Hauptstadt Dongola widerstand es dem arabischen Vormarsch durch den berühmten Baqt-Vertrag von 652 – eines der langlebigsten Friedensabkommen der Geschichte. Makuria pflegte regen Handel, produzierte bedeutende christliche Kunst und bewahrte die nubische Zivilisation über mehr als sechs Jahrhunderte.",
-          "en": "Makuria was a powerful Christian kingdom in present-day northern Sudan, controlling the Nile Valley between the 3rd and 6th cataracts. Based at its capital Dongola, it resisted Arab expansion through the famous Baqt treaty of 652 — one of the longest-lasting peace agreements in history. Makuria maintained vibrant trade, produced significant Christian art, and preserved Nubian civilization for over six centuries."
+          "de": "Malaiische Seehandelsherrschaft auf Sumatra, die die Meerenge von Malakka kontrollierte. Bedeutendes Zentrum des Buddhismus in Südostasien.",
+          "en": "Malay thalassocratic empire based on Sumatra controlling the Strait of Malacca. Major center of Buddhism in Southeast Asia."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10,
-              8
-            ],
-            [
-              24,
-              8
-            ],
-            [
-              24,
-              20
-            ],
-            [
-              10,
-              20
-            ],
-            [
-              10,
-              8
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "kanem-bornu",
-        "startYear": 700,
-        "endYear": 1380,
-        "culturalSphere": "african",
-        "color": "#664400",
+        "id": "nanzhao",
+        "parentId": null,
+        "startYear": 738,
+        "endYear": 902,
+        "peakStartYear": 750,
+        "peakEndYear": 860,
+        "culturalSphere": "chinese",
+        "color": "#CC6633",
         "opacity": 0.25,
         "labels": {
-          "de": "Kanem-Bornu-Reich",
-          "en": "Kanem-Bornu Empire"
+          "de": "Nanzhao",
+          "en": "Nanzhao"
         },
         "description": {
-          "de": "Das Kanem-Bornu-Reich entstand um 700 n. Chr. nordöstlich des Tschadsees und entwickelte sich zu einer der bedeutendsten Mächte des zentralen Sudan. Von ihrem Zentrum im Kanem aus kontrollierten die Herrscher der Duguwa- und später der Sayfawa-Dynastie wichtige Sahara-Handelsrouten zwischen Nordafrika und subsaharischen Gebieten. Das Reich pflegte diplomatische Beziehungen bis nach Nordafrika und leistete als frühes islamisches Königreich bedeutende Beiträge zu Bildung und Verwaltung.",
-          "en": "The Kanem-Bornu Empire arose around 700 CE northeast of Lake Chad and grew into one of the most significant powers of the central Sudan. From their heartland in Kanem, the Duguwa and later Sayfawa dynasty rulers controlled vital Saharan trade routes linking North Africa to sub-Saharan regions. The empire maintained diplomatic relations as far as North Africa and, as an early Islamic kingdom, made significant contributions to education and governance."
+          "de": "Königreich im heutigen Yunnan, das zwischen Tang-China und dem Tibetischen Reich lavierte. Beherrschte den Südwesten Chinas und Teile Südostasiens.",
+          "en": "Kingdom in present-day Yunnan that balanced between Tang China and the Tibetan Empire. Controlled southwestern China and parts of Southeast Asia."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -5,
-              12
-            ],
-            [
-              4,
-              12
-            ],
-            [
-              4,
-              18
-            ],
-            [
-              -5,
-              18
-            ],
-            [
-              -5,
-              12
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "songhai-early",
-        "startYear": 800,
-        "endYear": 1375,
-        "culturalSphere": "african",
-        "color": "#664400",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Songhai-Königreich (Frühphase)",
-          "en": "Songhai Kingdom (Early Period)"
-        },
-        "description": {
-          "de": "Das frühe Songhai-Königreich entstand um 800 n. Chr. am mittleren Niger-Fluss, wo die Sorko-, Gao- und Do-Völker Siedlungen am Fluss gründeten. Ihr Zentrum Gao entwickelte sich zu einem bedeutenden Handels- und Kulturknoten. Trotz zeitweiliger Abhängigkeit vom Mali-Reich bewahrten die Songhai ihre eigene Herrschaftsstruktur und erlangten 1375 unter Suleiman-Mar ihre Unabhängigkeit – die Grundlage für ihr späteres Reich.",
-          "en": "The early Songhai kingdom emerged around 800 CE along the middle Niger River, where the Sorko, Gao, and Do peoples established riverine settlements. Their center Gao grew into an important commercial and cultural hub. Despite periods of vassalage to the Mali Empire, the Songhai maintained their own ruling structure and regained independence under Suleiman-Mar in 1375 — the foundation for their later empire."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              76,
-              8
-            ],
-            [
-              82,
-              8
-            ],
-            [
-              82,
-              17
-            ],
-            [
-              76,
-              17
-            ],
-            [
-              76,
-              8
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "chola-empire",
-        "startYear": 300,
-        "endYear": 1279,
-        "peakStartYear": 850,
-        "peakEndYear": 1279,
+        "id": "rashtrakuta-dynasty",
+        "parentId": null,
+        "startYear": 753,
+        "endYear": 982,
+        "peakStartYear": 814,
+        "peakEndYear": 878,
         "culturalSphere": "indian",
-        "color": "#228844",
+        "color": "#33CC99",
         "opacity": 0.25,
         "labels": {
-          "de": "Chola-Reich",
-          "en": "Chola Empire"
+          "de": "Rashtrakuta-Reich",
+          "en": "Rashtrakuta Dynasty"
         },
         "description": {
-          "de": "Das Chola-Reich war eines der langlebigsten Dynastien der Weltgeschichte und beherrschte Teile Südindiens über fast zwei Jahrtausende. Auf ihrem Höhepunkt im 10.–12. Jahrhundert kontrollierten die Chola den gesamten tamilischen Süden, Sri Lanka und den Malediven und sandten sogar Kriegsflotten nach Südostasien. Sie schufen eine blühende Tempel-Baukunst, perfektionierten das Bronzegießen (die berühmten Nataraja-Statuen) und entwickelten ein ausgeklügeltes System der kommunalen Selbstverwaltung.",
-          "en": "The Chola Empire was one of the longest-lasting dynasties in world history, ruling parts of South India for nearly two millennia. At their peak in the 10th–12th centuries, the Cholas controlled all of Tamil South India, Sri Lanka, and the Maldives and even dispatched naval expeditions to Southeast Asia. They created a flourishing tradition of temple architecture, perfected bronze casting (the famous Nataraja statues), and developed a sophisticated system of communal self-governance."
+          "de": "Eines der vier grossen Reiche der Welt laut arabischen Quellen des 9. Jahrhunderts. Erbauer des Kailasanatha-Tempels in Ellora.",
+          "en": "One of the four great empires of the world according to 9th-century Arabic sources. Builders of the Kailasanatha Temple at Ellora."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              85,
-              22
-            ],
-            [
-              92,
-              22
-            ],
-            [
-              92,
-              27
-            ],
-            [
-              85,
-              27
-            ],
-            [
-              85,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
         "id": "pala-empire",
+        "parentId": null,
         "startYear": 750,
-        "endYear": 1174,
-        "culturalSphere": "indian",
-        "color": "#228844",
+        "endYear": 1161,
+        "peakStartYear": 800,
+        "peakEndYear": 860,
+        "culturalSphere": "bengali",
+        "color": "#66AA66",
         "opacity": 0.25,
         "labels": {
           "de": "Pala-Reich",
           "en": "Pala Empire"
         },
         "description": {
-          "de": "Das Pala-Reich, gegründet 750 n. Chr. in Bengalen und Bihar, war die letzte große buddhistische Kaisermacht des indischen Subkontinents. Unter Dharmapala und Devapala erlangte das Reich Vorherrschaft über weite Teile Nordindiens. Die Pala-Herrscher förderten die großen buddhistischen Universitäten Nalanda und Vikramashila und trieben durch Handels- und diplomatische Beziehungen die Verbreitung des tantrischen Buddhismus bis nach Tibet und Südostasien voran.",
-          "en": "The Pala Empire, founded in 750 CE in Bengal and Bihar, was the last great Buddhist imperial power of the Indian subcontinent. Under Dharmapala and Devapala, the empire achieved dominance over large parts of northern India. Pala rulers patronized the great Buddhist universities of Nalanda and Vikramashila and, through trade and diplomatic relations, drove the spread of Tantric Buddhism as far as Tibet and Southeast Asia."
+          "de": "Bengalisches buddhistisches Reich und letzte grosse buddhistische Imperialmacht des indischen Subkontinents. Gruender der Universitaeten Nalanda und Vikramashila.",
+          "en": "Bengali Buddhist empire and the last major Buddhist imperial power of the Indian subcontinent. Patrons of Nalanda and Vikramashila universities."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              74,
-              14
-            ],
-            [
-              82,
-              14
-            ],
-            [
-              82,
-              22
-            ],
-            [
-              74,
-              22
-            ],
-            [
-              74,
-              14
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "chalukya-dynasty",
-        "startYear": 543,
-        "endYear": 1189,
-        "culturalSphere": "indian",
-        "color": "#228844",
+        "id": "ghana-empire",
+        "parentId": null,
+        "startYear": 300,
+        "endYear": 1235,
+        "peakStartYear": 800,
+        "peakEndYear": 1050,
+        "culturalSphere": "west-african",
+        "color": "#CC9933",
         "opacity": 0.25,
         "labels": {
-          "de": "Chalukya-Dynastie",
-          "en": "Chalukya Dynasty"
+          "de": "Ghana-Reich",
+          "en": "Ghana Empire"
         },
         "description": {
-          "de": "Die Chalukya-Dynastie herrschte in drei Zweigen über das Dekkan-Plateau und prägte über sechs Jahrhunderte die Geschichte Südindiens. Die Badami-Chalukyas (543–753) vereinten weite Teile des Dekkan, die Eastern Chalukyas (624–1070) dominierten das östliche Andhra Pradesh, und die Western Chalukyas (973–1189) kämpften auf Augenhöhe mit den Chola. Architektonische Meisterwerke in Badami, Aihole und Pattadakal bezeugen ihre herausragende Tempelbaukunst.",
-          "en": "The Chalukya dynasty ruled the Deccan plateau across three branches, shaping South Indian history for over six centuries. The Badami Chalukyas (543–753) unified large parts of the Deccan, the Eastern Chalukyas (624–1070) dominated eastern Andhra Pradesh, and the Western Chalukyas (973–1189) contended as equals with the Cholas. Architectural masterworks at Badami, Aihole, and Pattadakal attest to their outstanding tradition of temple construction."
+          "de": "Erstes grosses westafrikanisches Sahelreich, auch Wagadu genannt. Kontrollierte den Trans-Sahara-Goldhandel.",
+          "en": "First major West African Sahelian empire, also known as Wagadu. Controlled the trans-Saharan gold trade."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              69,
-              22
-            ],
-            [
-              80,
-              22
-            ],
-            [
-              80,
-              30
-            ],
-            [
-              69,
-              30
-            ],
-            [
-              69,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "rajput-kingdoms",
-        "startYear": 700,
-        "endYear": 1200,
-        "culturalSphere": "indian",
-        "color": "#228844",
+        "id": "tiwanaku-state",
+        "parentId": null,
+        "startYear": 300,
+        "endYear": 1000,
+        "peakStartYear": 600,
+        "peakEndYear": 900,
+        "culturalSphere": "andean",
+        "color": "#CC6699",
         "opacity": 0.25,
         "labels": {
-          "de": "Rajputen-Königreiche",
-          "en": "Rajput Kingdoms"
+          "de": "Tiwanaku",
+          "en": "Tiwanaku"
         },
         "description": {
-          "de": "Die Rajputen-Königreiche dominierten von etwa 700 bis 1200 n. Chr. den nordwestlichen indischen Subkontinent, insbesondere die Region des heutigen Rajasthan, Gujarat, Haryana und Madhya Pradesh. Als kriegerischer Adel mit starkem Ehrenkodex schufen die Pratihara, Paramara, Chauhan und andere Dynastien bedeutende Tempel, Festungen und Literaturtradition. Ihr Widerstand gegen arabische und turkische Invasoren prägte Jahrhunderte des indischen Mittelalters.",
-          "en": "The Rajput Kingdoms dominated the northwestern Indian subcontinent from around 700 to 1200 CE, particularly the region of present-day Rajasthan, Gujarat, Haryana, and Madhya Pradesh. As a martial aristocracy with a strong honor code, the Pratihara, Paramara, Chauhan, and other dynasties created significant temples, fortresses, and literary traditions. Their resistance against Arab and Turkic invaders shaped centuries of Indian medieval history."
+          "de": "Bedeutende praekolumbische Zivilisation am Titicacasee im heutigen Bolivien mit monumentaler Megalith-Architektur.",
+          "en": "Major pre-Columbian civilization at Lake Titicaca in present-day Bolivia with monumental megalithic architecture."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "wari-empire",
+        "parentId": null,
+        "startYear": 600,
+        "endYear": 1100,
+        "peakStartYear": 700,
+        "peakEndYear": 900,
+        "culturalSphere": "andean",
+        "color": "#CC6699",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Wari-Reich",
+          "en": "Wari Empire"
+        },
+        "description": {
+          "de": "Andines Reich mit Zentrum im Ayacucho-Becken, das weite Teile Perus kontrollierte und bedeutende Verwaltungsstrukturen entwickelte.",
+          "en": "Andean empire centered in the Ayacucho Basin that controlled much of Peru and developed significant administrative structures."
         }
       }
     }

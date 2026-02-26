@@ -3,231 +3,231 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              15,
-              22
-            ],
-            [
-              40,
-              22
-            ],
-            [
-              40,
-              32
-            ],
-            [
-              15,
-              32
-            ],
-            [
-              15,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "kingdom-of-kush",
-        "startYear": -750,
-        "endYear": 350,
-        "culturalSphere": "nubian",
-        "color": "#664400",
+        "id": "etruscan-civilization",
+        "parentId": null,
+        "startYear": -900,
+        "endYear": -264,
+        "peakStartYear": -700,
+        "peakEndYear": -500,
+        "culturalSphere": "italian",
+        "color": "#CC9966",
         "opacity": 0.25,
         "labels": {
-          "de": "Königreich Kusch",
-          "en": "Kingdom of Kush"
+          "de": "Etruskische Zivilisation",
+          "en": "Etruscan Civilization"
         },
         "description": {
-          "de": "Das Königreich Kusch (Nubien) war eine eigenständige Zivilisation südlich Ägyptens mit eigener Schrift und Pyramidentradition.",
-          "en": "The Kingdom of Kush (Nubia) was an independent civilization south of Egypt with its own script and pyramid tradition."
+          "de": "Bedeutende vorrömische Zivilisation in Mittelitalien, organisiert als Bund von Stadtstaaten. Kulturell einflussreich für die Entwicklung Roms.",
+          "en": "Major pre-Roman civilization in central Italy, organized as a federation of city-states. Culturally influential in the development of Rome."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              26,
-              22
-            ],
-            [
-              38,
-              22
-            ],
-            [
-              42,
-              26
-            ],
-            [
-              48,
-              30
-            ],
-            [
-              48,
-              37
-            ],
-            [
-              44,
-              38
-            ],
-            [
-              36,
-              37
-            ],
-            [
-              27,
-              34
-            ],
-            [
-              25,
-              31
-            ],
-            [
-              25,
-              26
-            ],
-            [
-              26,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
         "id": "neo-assyrian-empire",
-        "startYear": -934,
-        "endYear": -610,
+        "parentId": null,
+        "startYear": -911,
+        "endYear": -609,
         "peakStartYear": -745,
-        "peakEndYear": -650,
-        "culturalSphere": "assyrian",
-        "color": "#8B4513",
+        "peakEndYear": -631,
+        "culturalSphere": "mesopotamian",
+        "color": "#999933",
         "opacity": 0.25,
         "labels": {
           "de": "Neuassyrisches Reich",
           "en": "Neo-Assyrian Empire"
         },
         "description": {
-          "de": "Das Neuassyrische Reich war das erste Weltreich der Geschichte, das ein professionelles stehendes Heer, systematische Verwaltung und ein Netz von Straßen und Boten einsetzte, um ein riesiges Territorium zu kontrollieren. Auf seinem Höhepunkt unter Assurbanipal erstreckte es sich von Ägypten bis Persien und umfasste Mesopotamien, die Levante und Teile Anatoliens. Die assyrische Kunst und Architektur — besonders die Reliefs der Palaststädte Ninive und Nimrud — zählen zu den eindrucksvollsten Hinterlassenschaften der antiken Welt.",
-          "en": "The Neo-Assyrian Empire was the first world empire in history to deploy a professional standing army, systematic administration, and a network of roads and messengers to control a vast territory. At its height under Ashurbanipal it stretched from Egypt to Persia, encompassing Mesopotamia, the Levant, and parts of Anatolia. Assyrian art and architecture — especially the palace reliefs of Nineveh and Nimrud — rank among the most impressive achievements of the ancient world."
+          "de": "Das erste Weltreich der Geschichte beherrschte Mesopotamien, die Levante und zeitweise Ägypten. Bekannt für sein hochentwickeltes Verwaltungssystem und seine militärischen Innovationen.",
+          "en": "The first world empire in history dominated Mesopotamia, the Levant, and briefly Egypt. Known for its advanced administrative system and military innovations."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              25,
-              22
-            ],
-            [
-              37,
-              22
-            ],
-            [
-              37,
-              32
-            ],
-            [
-              33,
-              31.5
-            ],
-            [
-              32,
-              30
-            ],
-            [
-              25,
-              30
-            ],
-            [
-              25,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "ancient-egypt-late",
-        "startYear": -1070,
-        "endYear": -332,
-        "culturalSphere": "egyptian",
-        "color": "#C8A000",
-        "opacity": 0.25,
+        "id": "neo-assyrian-heartland",
+        "parentId": "neo-assyrian-empire",
+        "startYear": -911,
+        "endYear": -609,
+        "peakStartYear": -745,
+        "peakEndYear": -631,
+        "culturalSphere": "mesopotamian",
+        "color": "#999933",
+        "opacity": 0.2,
         "labels": {
-          "de": "Altes Ägypten (Spätzeit)",
-          "en": "Ancient Egypt (Late Period)"
+          "de": "Assyrien (Kernland)",
+          "en": "Assyria (Heartland)"
         },
         "description": {
-          "de": "Ägypten in der Dritten Zwischenzeit und Spätzeit war trotz politischer Fragmentierung und fremder Herrschaft — durch Libyer, Nubier, Assyrer und schließlich Perser — eine lebendige Zivilisation. Die ägyptische Sprache, Religion und Kunst blieben lebendig und prägend. Erst mit Alexander dem Großen endete die Pharaonentradition, die über dreitausend Jahre gedauert hatte.",
-          "en": "Egypt in the Third Intermediate and Late Periods, despite political fragmentation and foreign rule — by Libyans, Nubians, Assyrians, and finally Persians — remained a vibrant civilization. The Egyptian language, religion, and art endured and remained influential. Only with Alexander the Great did the Pharaonic tradition come to an end after more than three thousand years."
+          "de": "Das Kernland Assyriens um die Städte Assur, Ninive und Kalhu im nördlichen Mesopotamien.",
+          "en": "The Assyrian heartland around the cities of Assur, Nineveh, and Kalhu in northern Mesopotamia."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              105,
-              25
-            ],
-            [
-              122,
-              25
-            ],
-            [
-              122,
-              40
-            ],
-            [
-              115,
-              42
-            ],
-            [
-              105,
-              40
-            ],
-            [
-              100,
-              35
-            ],
-            [
-              100,
-              30
-            ],
-            [
-              105,
-              25
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "zhou-dynasty",
-        "startYear": -1046,
+        "id": "neo-assyrian-levant",
+        "parentId": "neo-assyrian-empire",
+        "startYear": -740,
+        "endYear": -609,
+        "peakStartYear": -720,
+        "peakEndYear": -640,
+        "culturalSphere": "mesopotamian",
+        "color": "#999933",
+        "opacity": 0.2,
+        "labels": {
+          "de": "Assyrische Levante",
+          "en": "Assyrian Levant"
+        },
+        "description": {
+          "de": "Die assyrischen Provinzen in der Levante, einschließlich der eroberten Königreiche Israel und der phönizischen Stadtstaaten.",
+          "en": "Assyrian provinces in the Levant, including the conquered Kingdom of Israel and Phoenician city-states."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "eastern-zhou",
+        "parentId": null,
+        "startYear": -770,
         "endYear": -256,
+        "peakStartYear": -770,
+        "peakEndYear": -475,
         "culturalSphere": "chinese",
-        "color": "#B8860B",
+        "color": "#CC6633",
         "opacity": 0.25,
         "labels": {
-          "de": "Zhou-Dynastie",
-          "en": "Zhou Dynasty"
+          "de": "Östliche Zhou-Dynastie",
+          "en": "Eastern Zhou Dynasty"
         },
         "description": {
-          "de": "Die Zhou-Dynastie war die längste Herrscherdynastie der chinesischen Geschichte. Sie prägte das klassische China durch die Entstehung des Konfuzianismus, Taoismus und Legalismus — philosophische Strömungen, die das chinesische Denken bis in die Gegenwart prägen. Die Östliche Zhou-Periode mit ihrer Epoche der Streitenden Reiche brachte trotz politischer Wirren eine außerordentliche kulturelle und philosophische Blüte hervor.",
-          "en": "The Zhou Dynasty was the longest-ruling dynasty in Chinese history. It shaped classical China through the birth of Confucianism, Taoism, and Legalism — philosophical traditions that have influenced Chinese thought to the present day. The Eastern Zhou period with its Warring States era produced an extraordinary cultural and philosophical flowering despite political turmoil."
+          "de": "Zweite Phase der Zhou-Dynastie nach Verlegung der Hauptstadt nach Luoyang. Umfasst die Frühlings- und Herbstannalen sowie die Zeit der Streitenden Reiche.",
+          "en": "Second phase of the Zhou dynasty after relocating the capital to Luoyang. Encompasses the Spring and Autumn and Warring States periods."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "state-of-chu",
+        "parentId": "eastern-zhou",
+        "startYear": -1000,
+        "endYear": -223,
+        "peakStartYear": -700,
+        "peakEndYear": -300,
+        "culturalSphere": "chinese",
+        "color": "#CC6633",
+        "opacity": 0.2,
+        "labels": {
+          "de": "Staat Chu",
+          "en": "State of Chu"
+        },
+        "description": {
+          "de": "Mächtiger südlicher Staat der Zhou-Zeit, der das mittlere und untere Jangtse-Gebiet beherrschte. Bekannt für seine eigenständige Kultur und Dichtung.",
+          "en": "Powerful southern state of the Zhou era controlling the middle and lower Yangtze region. Known for its distinctive culture and poetry."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "kingdom-of-kush",
+        "parentId": null,
+        "startYear": -1000,
+        "endYear": 350,
+        "peakStartYear": -750,
+        "peakEndYear": -656,
+        "culturalSphere": "ethiopian",
+        "color": "#CC6633",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Koenigreich Kusch",
+          "en": "Kingdom of Kush"
+        },
+        "description": {
+          "de": "Antikes nubisches Koenigreich am Nil im heutigen Sudan. Herrschte als 25. Dynastie zeitweise ueber ganz Aegypten und war bekannt fuer seine Pyramiden in Meroe.",
+          "en": "Ancient Nubian kingdom along the Nile in present-day Sudan. Ruled all of Egypt as the 25th Dynasty and was known for its pyramids at Meroe."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "kush-napata",
+        "parentId": "kingdom-of-kush",
+        "startYear": -750,
+        "endYear": -300,
+        "peakStartYear": -750,
+        "peakEndYear": -656,
+        "culturalSphere": "ethiopian",
+        "color": "#CC6633",
+        "opacity": 0.2,
+        "labels": {
+          "de": "Napata (Kusch)",
+          "en": "Napata (Kush)"
+        },
+        "description": {
+          "de": "Erste Hauptstadt des Kusch-Koenigreiches, von der aus die Eroberung Aegyptens ausging.",
+          "en": "First capital of the Kingdom of Kush, from which the conquest of Egypt was launched."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "kingdom-of-dmt",
+        "parentId": null,
+        "startYear": -800,
+        "endYear": -400,
+        "peakStartYear": -700,
+        "peakEndYear": -500,
+        "culturalSphere": "ethiopian",
+        "color": "#CC6633",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Koenigreich D'mt",
+          "en": "Kingdom of D'mt"
+        },
+        "description": {
+          "de": "Fruehes Koenigreich im heutigen Eritrea und Nordaethiopien, moeglicherweise Vorgaenger des Aksumitischen Reiches.",
+          "en": "Early kingdom in present-day Eritrea and northern Ethiopia, possibly a predecessor of the Aksumite Empire."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "olmec-civilization",
+        "parentId": null,
+        "startYear": -1000,
+        "endYear": -400,
+        "peakStartYear": -900,
+        "peakEndYear": -600,
+        "culturalSphere": "mesoamerican",
+        "color": "#CC3399",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Olmeken",
+          "en": "Olmec Civilization"
+        },
+        "description": {
+          "de": "Erste grosse mesoamerikanische Zivilisation, bekannt fuer Kolossalkopfe und die Entwicklung grundlegender kultureller Traditionen der Region.",
+          "en": "First major Mesoamerican civilization, known for colossal heads and establishing foundational cultural traditions of the region."
         }
       }
     }

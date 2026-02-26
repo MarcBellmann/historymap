@@ -3,923 +3,116 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              30,
-              18
-            ],
-            [
-              80,
-              18
-            ],
-            [
-              80,
-              44
-            ],
-            [
-              30,
-              44
-            ],
-            [
-              30,
-              18
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "parthian-empire",
-        "startYear": -247,
-        "endYear": 224,
-        "culturalSphere": "parthian",
-        "color": "#6644AA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Partherreich",
-          "en": "Parthian Empire"
-        },
-        "description": {
-          "de": "Das Partherreich kontrollierte die Seidenstraße zwischen Rom und China und war Jahrhunderte lang Roms mächtigster Rivale im Osten.",
-          "en": "The Parthian Empire controlled the Silk Road between Rome and China and was Rome's most powerful eastern rival for centuries."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              100,
-              18
-            ],
-            [
-              135,
-              18
-            ],
-            [
-              135,
-              45
-            ],
-            [
-              100,
-              45
-            ],
-            [
-              100,
-              18
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "han-china",
-        "startYear": -206,
-        "endYear": 220,
-        "culturalSphere": "chinese",
-        "color": "#CC9900",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Han-Dynastie",
-          "en": "Han Dynasty"
-        },
-        "description": {
-          "de": "Die Han-Dynastie prägte chinesische Kultur und Gesellschaft so nachhaltig, dass sich die Mehrheitsbevölkerung Chinas bis heute als 'Han-Chinesen' bezeichnet.",
-          "en": "The Han Dynasty shaped Chinese culture and society so profoundly that the majority population of China still calls itself 'Han Chinese' today."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              65,
-              18
-            ],
-            [
-              95,
-              18
-            ],
-            [
-              95,
-              38
-            ],
-            [
-              65,
-              38
-            ],
-            [
-              65,
-              18
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "mauryan-empire",
-        "startYear": -322,
-        "endYear": -185,
-        "culturalSphere": "indian",
-        "color": "#228844",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Maurya-Reich",
-          "en": "Mauryan Empire"
-        },
-        "description": {
-          "de": "Das Maurya-Reich einte fast den gesamten indischen Subkontinent. Kaiser Ashoka verbreitete den Buddhismus und gilt als einer der größten Herrscher der Geschichte.",
-          "en": "The Mauryan Empire united almost the entire Indian subcontinent. Emperor Ashoka spread Buddhism and is considered one of history's greatest rulers."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              15,
-              8
-            ],
-            [
-              50,
-              8
-            ],
-            [
-              50,
-              22
-            ],
-            [
-              15,
-              22
-            ],
-            [
-              15,
-              8
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-axum",
-        "startYear": -400,
-        "endYear": 940,
-        "culturalSphere": "axumite",
-        "color": "#996600",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Aksum",
-          "en": "Kingdom of Axum"
-        },
-        "description": {
-          "de": "Das Königreich Aksum war eine der mächtigsten Handelsnationen der Antike und kontrollierte den Handel am Roten Meer. Es war eines der ersten Reiche, das das Christentum als Staatsreligion annahm.",
-          "en": "The Kingdom of Axum was one of the most powerful trading nations of antiquity, controlling Red Sea trade. It was one of the first empires to adopt Christianity as a state religion."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              15,
-              22
-            ],
-            [
-              40,
-              22
-            ],
-            [
-              40,
-              32
-            ],
-            [
-              15,
-              32
-            ],
-            [
-              15,
-              22
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-kush",
-        "startYear": -750,
-        "endYear": 350,
-        "culturalSphere": "nubian",
-        "color": "#664400",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Kusch",
-          "en": "Kingdom of Kush"
-        },
-        "description": {
-          "de": "Das Königreich Kusch (Nubien) war eine eigenständige Zivilisation südlich Ägyptens mit eigener Schrift und Pyramidentradition.",
-          "en": "The Kingdom of Kush (Nubia) was an independent civilization south of Egypt with its own script and pyramid tradition."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              15,
-              25
-            ],
-            [
-              37,
-              25
-            ],
-            [
-              37,
-              32
-            ],
-            [
-              15,
-              32
-            ],
-            [
-              15,
-              25
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "ptolemaic-egypt",
-        "startYear": -305,
-        "endYear": -30,
-        "culturalSphere": "egyptian",
-        "color": "#AA8800",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Ptolemäisches Ägypten",
-          "en": "Ptolemaic Egypt"
-        },
-        "description": {
-          "de": "Das Königreich der Ptolemäer in Ägypten, gegründet nach dem Tod Alexanders des Großen. Endete mit Kleopatra VII.",
-          "en": "The Ptolemaic Kingdom in Egypt, founded after the death of Alexander the Great. Ended with Cleopatra VII."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              36,
-              37.5
-            ],
-            [
-              44,
-              37.5
-            ],
-            [
-              47,
-              39
-            ],
-            [
-              49,
-              41
-            ],
-            [
-              46,
-              42.5
-            ],
-            [
-              43,
-              42
-            ],
-            [
-              38,
-              40
-            ],
-            [
-              36,
-              39
-            ],
-            [
-              36,
-              37.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-armenia",
-        "startYear": -190,
-        "endYear": 428,
-        "culturalSphere": "armenian",
-        "color": "#7B5EA7",
-        "opacity": 0.35,
-        "labels": {
-          "de": "Königreich Armenien",
-          "en": "Kingdom of Armenia"
-        },
-        "description": {
-          "de": "Das Königreich Armenien unter der Arsakiden-Dynastie war ein kulturell eigenständiges Reich zwischen den Großmächten Rom und den Sassaniden. Im Jahr 301 n. Chr. nahm König Tiridates III. das Christentum als erste Staatsmacht der Welt offiziell an — ein Schritt von welthistorischer Bedeutung. Armenien entwickelte eine reiche eigene Literatur, Architektur und kirchliche Tradition, die trotz jahrhundertelanger politischer Kämpfe lebendig blieb.",
-          "en": "The Kingdom of Armenia under the Arsacid dynasty was a culturally distinct realm caught between the great powers of Rome and the Sassanids. In 301 AD King Tiridates III officially adopted Christianity — the first state in world history to do so. Armenia developed a rich tradition of its own literature, architecture, and church culture that endured despite centuries of political struggle."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              41.5,
-              41
-            ],
-            [
-              46.5,
-              41
-            ],
-            [
-              47,
-              42.5
-            ],
-            [
-              45.5,
-              43.5
-            ],
-            [
-              43,
-              43
-            ],
-            [
-              41,
-              42
-            ],
-            [
-              41.5,
-              41
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-iberia-caucasus",
-        "startYear": -302,
-        "endYear": 580,
-        "culturalSphere": "caucasian",
-        "color": "#6B8E5A",
-        "opacity": 0.35,
-        "labels": {
-          "de": "Königreich Iberien (Kaukasus)",
-          "en": "Kingdom of Iberia (Caucasus)"
-        },
-        "description": {
-          "de": "Das kaukasische Königreich Iberien — nicht zu verwechseln mit der Iberischen Halbinsel — lag im Herzen des heutigen Georgiens und kontrollierte wichtige Gebirgspässe wie die Darialpforte. Als Vasallenstaat Roms nach dem Friedensvertrag von 298 n. Chr. spielte Iberien eine strategisch entscheidende Rolle als Puffer zwischen Rom und den Sassaniden. Um 319 n. Chr. nahm König Mirian III. das Christentum an und machte Iberien zu einem der ältesten christlichen Königreiche der Welt.",
-          "en": "The Caucasian Kingdom of Iberia — not to be confused with the Iberian Peninsula — lay at the heart of modern Georgia and controlled vital mountain passes including the Daryal Pass. As a Roman vassal state following the Peace of 298 AD, Iberia played a strategically pivotal role as a buffer between Rome and the Sassanids. Around 319 AD King Mirian III adopted Christianity, making Iberia one of the oldest Christian kingdoms in the world."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              26,
-              30
-            ],
-            [
-              75,
-              25
-            ],
-            [
-              76,
-              34
-            ],
-            [
-              70,
-              38
-            ],
-            [
-              60,
-              42
-            ],
-            [
-              50,
-              42
-            ],
-            [
-              40,
-              40
-            ],
-            [
-              36,
-              38
-            ],
-            [
-              28,
-              36
-            ],
-            [
-              26,
-              32
-            ],
-            [
-              26,
-              30
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "seleucid-empire",
-        "startYear": -312,
-        "endYear": -63,
-        "peakStartYear": -280,
-        "peakEndYear": -190,
-        "culturalSphere": "greek",
-        "color": "#2288AA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Seleukidenreich",
-          "en": "Seleucid Empire"
-        },
-        "description": {
-          "de": "Das Seleukidenreich war das größte der hellenistischen Nachfolgestaaten Alexanders des Großen. Es erstreckte sich von der Ägäis bis zum Indus und verband persische, babylonische und griechische Traditionen zu einer einzigartigen Hochkultur. Mit Städten wie Antiochia am Orontes und Seleukia am Tigris schufen die Seleukiden blühende kosmopolitische Zentren, die griechische Bildung und orientalische Weisheit vereinten.",
-          "en": "The Seleucid Empire was the largest of the Hellenistic successor states of Alexander the Great. Stretching from the Aegean to the Indus, it blended Persian, Babylonian, and Greek traditions into a unique high civilization. With cities such as Antioch on the Orontes and Seleucia on the Tigris, the Seleucids created flourishing cosmopolitan centers that united Greek learning with Eastern wisdom."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9,
-              38.5
-            ],
-            [
-              -5,
-              36
-            ],
-            [
-              3.5,
-              37.5
-            ],
-            [
-              4,
-              40.5
-            ],
-            [
-              3,
-              43.5
-            ],
-            [
-              -2,
-              43.5
-            ],
-            [
-              -4,
-              44
-            ],
-            [
-              -8.5,
-              43.5
-            ],
-            [
-              -9,
-              42
-            ],
-            [
-              -7.5,
-              42
-            ],
-            [
-              -6.5,
-              39.5
-            ],
-            [
-              -7,
-              37
-            ],
-            [
-              -9,
-              38.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "hispania-tarraconensis",
-        "parentId": "roman-empire",
-        "startYear": -197,
-        "endYear": 472,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Hispania Tarraconensis",
-          "en": "Hispania Tarraconensis"
-        },
-        "description": {
-          "de": "Hispania Tarraconensis war die größte der römischen Provinzen auf der Iberischen Halbinsel und erstreckte sich von den Pyrenäen bis zur Südküste. Ihre Hauptstadt Tarraco (Tarragona) war der bedeutendste Hafen und Verwaltungssitz des nördlichen Hispaniens. Die Provinz umfasste die wichtigen Bergbaugebiete der Sierra Morena sowie die fruchtbaren Küstenebenen Kataloniens. Das dichte Straßennetz verband Tarraco mit den nördlichen Alpenpässen und dem fernen Mesopotamien und machte Tarraconensis zu einem Knotenpunkt des imperialen Kommunikationssystems.",
-          "en": "Hispania Tarraconensis was the largest of the Roman provinces on the Iberian Peninsula, stretching from the Pyrenees to the southern coast. Its capital Tarraco (Tarragona) was the most important port and administrative center of northern Hispania. The province encompassed the major mining districts of the Sierra Morena as well as the fertile coastal plains of Catalonia. An extensive road network connected Tarraco with the northern Alpine passes and distant Mesopotamia, making Tarraconensis a key node in the imperial communications system."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12,
-              37.5
-            ],
-            [
-              16,
-              37.5
-            ],
-            [
-              18.5,
-              40.5
-            ],
-            [
-              16,
-              41.5
-            ],
-            [
-              13.5,
-              42.5
-            ],
-            [
-              12.5,
-              41.5
-            ],
-            [
-              12,
-              40
-            ],
-            [
-              12,
-              37.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "italia",
-        "parentId": "roman-empire",
-        "startYear": -264,
-        "endYear": 476,
-        "culturalSphere": "roman",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Italia (Kernland)",
-          "en": "Italia (Heartland)"
-        },
-        "description": {
-          "de": "Italia war das Kernland des Römischen Reiches, von Steuern befreit und politisch privilegiert. Die Halbinsel war dicht besiedelt und urbanisiert — von der Kapitale Roma über Mediolanum (Mailand), Capua bis Neapolis. Der Reichtum Italiens gründete sich auf Handwerk, Weinbau, Olivenöl und Getreide. Die Po-Ebene im Norden war die Kornkammer; Kampanien im Süden erzeugte berühmte Weine. In der Kaiserzeit wurden viele provinzielle Familien in den Senat aufgenommen, und die kulturelle Hegemonie Italiens wurde zunehmend durch die vitalen Provinzkulturen ergänzt.",
-          "en": "Italia was the heartland of the Roman Empire, exempt from taxes and politically privileged. The peninsula was densely populated and urbanized — from the capital Roma to Mediolanum (Milan), Capua, and Neapolis. Italy's wealth rested on crafts, viticulture, olive oil, and grain. The Po plain in the north was the breadbasket; Campania in the south produced famous wines. In the imperial period many provincial families entered the Senate, and Italy's cultural hegemony was increasingly supplemented by the vibrant provincial cultures."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              36,
-              31.5
-            ],
-            [
-              49,
-              31.5
-            ],
-            [
-              49,
-              38
-            ],
-            [
-              42.5,
-              38
-            ],
-            [
-              38,
-              37.5
-            ],
-            [
-              36,
-              35
-            ],
-            [
-              36,
-              31.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "seleucid-mesopotamia",
-        "parentId": "seleucid-empire",
-        "startYear": -312,
-        "endYear": -141,
-        "peakStartYear": -312,
-        "peakEndYear": -141,
-        "culturalSphere": "greek",
-        "color": "#3366CC",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Seleukidisches Mesopotamien",
-          "en": "Seleucid Mesopotamia"
-        },
-        "description": {
-          "de": "Mesopotamien war das Herzstück des Seleukidenreiches. Die neue Hauptstadt Seleukia am Tigris ersetzte das alte Babylon als das wirtschaftliche und administrative Zentrum und entwickelte sich zu einer der größten Städte der hellenistischen Welt.",
-          "en": "Mesopotamia was the heartland of the Seleucid Empire. The new capital Seleucia on the Tigris replaced old Babylon as the economic and administrative center, growing into one of the largest cities of the Hellenistic world."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              35.5,
-              31.5
-            ],
-            [
-              42.5,
-              31.5
-            ],
-            [
-              42.5,
-              38
-            ],
-            [
-              36.5,
-              38
-            ],
-            [
-              35,
-              35.5
-            ],
-            [
-              35.5,
-              31.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "seleucid-coele-syria",
-        "parentId": "seleucid-empire",
-        "startYear": -312,
-        "endYear": -83,
-        "peakStartYear": -312,
-        "peakEndYear": -83,
-        "culturalSphere": "greek",
-        "color": "#3366CC",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Koilesyrien / Seleukidisches Syrien",
-          "en": "Coele-Syria / Seleucid Syria"
-        },
-        "description": {
-          "de": "Koilesyrien ('Hohles Syrien') war die reiche Westprovinz des Seleukidenreiches mit der prächtigen Hauptstadt Antiocheia am Orontes. Die Region war wiederholt Streitobjekt zwischen den Seleukiden und den Ptolemäern Ägyptens.",
-          "en": "Coele-Syria ('Hollow Syria') was the wealthy western province of the Seleucid Empire with the magnificent capital Antioch on the Orontes. The region was repeatedly contested between the Seleucids and the Ptolemies of Egypt."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              44,
-              33
-            ],
-            [
-              56,
-              33
-            ],
-            [
-              56,
-              40
-            ],
-            [
-              48,
-              40.5
-            ],
-            [
-              44,
-              38.5
-            ],
-            [
-              44,
-              33
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "seleucid-media",
-        "parentId": "seleucid-empire",
-        "startYear": -312,
-        "endYear": -150,
-        "peakStartYear": -312,
+        "id": "celtic-europe",
+        "parentId": null,
+        "startYear": -800,
+        "endYear": -50,
+        "peakStartYear": -450,
         "peakEndYear": -150,
-        "culturalSphere": "greek",
-        "color": "#3366CC",
+        "culturalSphere": "celtic",
+        "color": "#339933",
         "opacity": 0.25,
         "labels": {
-          "de": "Seleukidisches Medien",
-          "en": "Seleucid Media"
+          "de": "Keltisches Europa",
+          "en": "Celtic Europe"
         },
         "description": {
-          "de": "Medien unter seleukidischer Herrschaft war eine wichtige östliche Provinz des hellenistischen Reiches. Die reiche Region mit Ekbatana als königlicher Schatzkammer wurde Mitte des 2. Jh. v. Chr. von den aufstrebenden Parthern übernommen.",
-          "en": "Media under Seleucid rule was an important eastern province of the Hellenistic empire. The wealthy region with Ecbatana as a royal treasury was taken over by the rising Parthians in the mid-2nd century BC."
+          "de": "Weiträumige keltische Kultur der La-Tène-Zeit, die sich von Britannien bis Anatolien erstreckte. Keine zentrale politische Einheit, aber gemeinsame Kultur und Sprache.",
+          "en": "Extensive Celtic La Tene culture spanning from Britain to Anatolia. Not a centralized political entity, but sharing common culture and language."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              100,
-              32
-            ],
-            [
-              122,
-              32
-            ],
-            [
-              122,
-              42
-            ],
-            [
-              110,
-              43
-            ],
-            [
-              100,
-              40
-            ],
-            [
-              100,
-              32
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "han-north-china",
-        "parentId": "han-china",
-        "startYear": -206,
-        "endYear": 9,
-        "peakStartYear": -206,
-        "peakEndYear": 9,
-        "culturalSphere": "chinese",
-        "color": "#CC9900",
+        "id": "roman-republic",
+        "parentId": null,
+        "startYear": -509,
+        "endYear": -27,
+        "peakStartYear": -264,
+        "peakEndYear": -44,
+        "culturalSphere": "roman",
+        "color": "#CC3333",
         "opacity": 0.25,
         "labels": {
-          "de": "Westliche Han-Kommandantschaften / Nordchina",
-          "en": "Western Han Commanderies / North China"
+          "de": "Römische Republik",
+          "en": "Roman Republic"
         },
         "description": {
-          "de": "Das nördliche Kernland der Westlichen Han-Dynastie erstreckte sich über die Nordchinesische Tiefebene und umfasste die Hauptstadt Chang'an. Diese dicht besiedelten Kommandantschaften bildeten das politische und wirtschaftliche Zentrum des frühen Han-Reiches.",
-          "en": "The northern heartland of the Western Han dynasty spread across the North China Plain and included the capital Chang'an. These densely populated commanderies formed the political and economic center of the early Han Empire."
+          "de": "Nach Vertreibung der etruskischen Könige gegründete Republik, die das gesamte Mittelmeer eroberte. Grundlage des römischen Rechts und der republikanischen Staatsform.",
+          "en": "Republic founded after the expulsion of the Etruscan kings, which conquered the entire Mediterranean. Foundation of Roman law and republican governance."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              63,
-              33
-            ],
-            [
-              75,
-              33
-            ],
-            [
-              75,
-              39.5
-            ],
-            [
-              68.5,
-              40.5
-            ],
-            [
-              63,
-              38
-            ],
-            [
-              63,
-              33
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "greco-bactrian-kingdom",
-        "startYear": -256,
-        "endYear": -125,
-        "peakStartYear": -230,
-        "peakEndYear": -145,
-        "culturalSphere": "greek",
-        "color": "#3399AA",
+        "id": "xiongnu",
+        "parentId": null,
+        "startYear": -209,
+        "endYear": 93,
+        "peakStartYear": -200,
+        "peakEndYear": -60,
+        "culturalSphere": "steppe",
+        "color": "#AA8844",
         "opacity": 0.25,
         "labels": {
-          "de": "Griechisch-Baktrisches Königreich",
-          "en": "Greco-Bactrian Kingdom"
+          "de": "Xiongnu-Reich",
+          "en": "Xiongnu Empire"
         },
         "description": {
-          "de": "Das Griechisch-Baktrische Königreich entstand um 256 v. Chr., als sich der Satrap Diodotos I. vom Seleukidenreich loslöste. Es entwickelte eine einzigartige griechisch-iranische Mischkultur im Herzen Zentralasiens und war für seine hohe Münzkunst bekannt.",
-          "en": "The Greco-Bactrian Kingdom emerged around 256 BC when the satrap Diodotus I broke away from the Seleucid Empire. It developed a unique Greek-Iranian mixed culture at the heart of Central Asia and was renowned for its exquisite coinage."
+          "de": "Mächtiger Nomadenbund der eurasischen Steppe unter Modu Chanyu. Rivale der Han-Dynastie und Beherrscher der mongolischen Hochebene.",
+          "en": "Powerful nomadic confederation of the Eurasian steppe under Modu Chanyu. Rival of the Han dynasty and dominant power on the Mongolian Plateau."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              25.5,
-              37.5
-            ],
-            [
-              30.5,
-              37.5
-            ],
-            [
-              30.5,
-              40.5
-            ],
-            [
-              27.5,
-              40.5
-            ],
-            [
-              25.5,
-              39.5
-            ],
-            [
-              25.5,
-              37.5
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "kingdom-of-pergamon",
-        "startYear": -282,
-        "endYear": -133,
-        "peakStartYear": -230,
-        "peakEndYear": -133,
-        "culturalSphere": "greek",
-        "color": "#3399AA",
-        "opacity": 0.25,
+        "id": "kush-meroe",
+        "parentId": "kingdom-of-kush",
+        "startYear": -300,
+        "endYear": 350,
+        "peakStartYear": -200,
+        "peakEndYear": 100,
+        "culturalSphere": "ethiopian",
+        "color": "#CC6633",
+        "opacity": 0.2,
         "labels": {
-          "de": "Königreich Pergamon",
-          "en": "Kingdom of Pergamon"
+          "de": "Meroe (Kusch)",
+          "en": "Meroe (Kush)"
         },
         "description": {
-          "de": "Das Königreich Pergamon in Westanatolien war ein bedeutendes hellenistisches Kulturzentrum. Die Attaliden-Könige förderten Kunst und Wissenschaft; die Bibliothek von Pergamon war neben Alexandria eine der bedeutendsten der antiken Welt. Das Reich wurde 133 v. Chr. an Rom vermacht.",
-          "en": "The Kingdom of Pergamon in western Anatolia was an important Hellenistic cultural center. The Attalid kings patronized arts and sciences; the Library of Pergamon was alongside Alexandria one of the greatest of the ancient world. The realm was bequeathed to Rome in 133 BC."
+          "de": "Spaetere Hauptstadt des Kusch-Reiches, bekannt fuer eigene Schrift und Eisenverhuttung.",
+          "en": "Later capital of the Kush kingdom, known for its own script and iron smelting."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "zapotec-civilization",
+        "parentId": null,
+        "startYear": -700,
+        "endYear": 1521,
+        "peakStartYear": -300,
+        "peakEndYear": 700,
+        "culturalSphere": "mesoamerican",
+        "color": "#CC3399",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Zapoteken",
+          "en": "Zapotec Civilization"
+        },
+        "description": {
+          "de": "Indigene mesoamerikanische Zivilisation im Tal von Oaxaca mit der fruehen Grossstadt Monte Alban.",
+          "en": "Indigenous Mesoamerican civilization in the Valley of Oaxaca with the early major city of Monte Alban."
         }
       }
     }

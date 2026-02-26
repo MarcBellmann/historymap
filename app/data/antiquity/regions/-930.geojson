@@ -3,113 +3,116 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              25,
-              22
-            ],
-            [
-              37,
-              22
-            ],
-            [
-              37,
-              32
-            ],
-            [
-              33,
-              31.5
-            ],
-            [
-              32,
-              30
-            ],
-            [
-              25,
-              30
-            ],
-            [
-              25,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "ancient-egypt-late",
-        "startYear": -1070,
-        "endYear": -332,
+        "id": "ancient-egypt-third-intermediate",
+        "parentId": null,
+        "startYear": -1077,
+        "endYear": -664,
+        "peakStartYear": -1000,
+        "peakEndYear": -730,
         "culturalSphere": "egyptian",
-        "color": "#C8A000",
+        "color": "#CCAA33",
         "opacity": 0.25,
         "labels": {
-          "de": "Altes Ägypten (Spätzeit)",
-          "en": "Ancient Egypt (Late Period)"
+          "de": "Ägypten (Dritte Zwischenzeit)",
+          "en": "Egypt (Third Intermediate Period)"
         },
         "description": {
-          "de": "Ägypten in der Dritten Zwischenzeit und Spätzeit war trotz politischer Fragmentierung und fremder Herrschaft — durch Libyer, Nubier, Assyrer und schließlich Perser — eine lebendige Zivilisation. Die ägyptische Sprache, Religion und Kunst blieben lebendig und prägend. Erst mit Alexander dem Großen endete die Pharaonentradition, die über dreitausend Jahre gedauert hatte.",
-          "en": "Egypt in the Third Intermediate and Late Periods, despite political fragmentation and foreign rule — by Libyans, Nubians, Assyrians, and finally Persians — remained a vibrant civilization. The Egyptian language, religion, and art endured and remained influential. Only with Alexander the Great did the Pharaonic tradition come to an end after more than three thousand years."
+          "de": "Periode politischer Zersplitterung in Ägypten nach dem Neuen Reich, geprägt von libyschen und nubischen Dynastien.",
+          "en": "Period of political fragmentation in Egypt following the New Kingdom, marked by Libyan and Nubian dynasties."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              105,
-              25
-            ],
-            [
-              122,
-              25
-            ],
-            [
-              122,
-              40
-            ],
-            [
-              115,
-              42
-            ],
-            [
-              105,
-              40
-            ],
-            [
-              100,
-              35
-            ],
-            [
-              100,
-              30
-            ],
-            [
-              105,
-              25
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "zhou-dynasty",
-        "startYear": -1046,
-        "endYear": -256,
-        "culturalSphere": "chinese",
-        "color": "#B8860B",
+        "id": "kingdom-of-israel",
+        "parentId": null,
+        "startYear": -1000,
+        "endYear": -720,
+        "peakStartYear": -1000,
+        "peakEndYear": -850,
+        "culturalSphere": "jewish",
+        "color": "#3366AA",
         "opacity": 0.25,
         "labels": {
-          "de": "Zhou-Dynastie",
-          "en": "Zhou Dynasty"
+          "de": "Königreich Israel",
+          "en": "Kingdom of Israel"
         },
         "description": {
-          "de": "Die Zhou-Dynastie war die längste Herrscherdynastie der chinesischen Geschichte. Sie prägte das klassische China durch die Entstehung des Konfuzianismus, Taoismus und Legalismus — philosophische Strömungen, die das chinesische Denken bis in die Gegenwart prägen. Die Östliche Zhou-Periode mit ihrer Epoche der Streitenden Reiche brachte trotz politischer Wirren eine außerordentliche kulturelle und philosophische Blüte hervor.",
-          "en": "The Zhou Dynasty was the longest-ruling dynasty in Chinese history. It shaped classical China through the birth of Confucianism, Taoism, and Legalism — philosophical traditions that have influenced Chinese thought to the present day. The Eastern Zhou period with its Warring States era produced an extraordinary cultural and philosophical flowering despite political turmoil."
+          "de": "Israelitisches Königreich im nördlichen Teil der Levante mit Samaria als Hauptstadt, 720 v. Chr. von den Assyrern erobert.",
+          "en": "Israelite kingdom in the northern Levant with Samaria as its capital, conquered by the Assyrians in 720 BC."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "kingdom-of-judah",
+        "parentId": null,
+        "startYear": -930,
+        "endYear": -586,
+        "peakStartYear": -930,
+        "peakEndYear": -700,
+        "culturalSphere": "jewish",
+        "color": "#3366AA",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Königreich Juda",
+          "en": "Kingdom of Judah"
+        },
+        "description": {
+          "de": "Israelitisches Königreich mit Jerusalem als Hauptstadt. Wurde 586 v. Chr. von den Babyloniern zerstört, was zur babylonischen Gefangenschaft führte.",
+          "en": "Israelite kingdom with Jerusalem as its capital. Destroyed by the Babylonians in 586 BC, leading to the Babylonian captivity."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "phoenicia",
+        "parentId": null,
+        "startYear": -1050,
+        "endYear": -332,
+        "peakStartYear": -1000,
+        "peakEndYear": -700,
+        "culturalSphere": "phoenician",
+        "color": "#CC6600",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Phönizien",
+          "en": "Phoenicia"
+        },
+        "description": {
+          "de": "Verband kanaanitischer Stadtstaaten an der Levanteküste (Tyros, Sidon, Byblos), berühmt als Seefahrer, Händler und Erfinder des Alphabets.",
+          "en": "Confederation of Canaanite city-states on the Levantine coast (Tyre, Sidon, Byblos), renowned as seafarers, traders, and inventors of the alphabet."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "western-zhou",
+        "parentId": null,
+        "startYear": -1000,
+        "endYear": -771,
+        "peakStartYear": -1000,
+        "peakEndYear": -850,
+        "culturalSphere": "chinese",
+        "color": "#CC6633",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Westliche Zhou-Dynastie",
+          "en": "Western Zhou Dynasty"
+        },
+        "description": {
+          "de": "Erste Phase der Zhou-Dynastie mit Hauptstadt im Wei-Tal. Begründete das Mandat des Himmels als Legitimationsgrundlage chinesischer Herrschaft.",
+          "en": "First phase of the Zhou dynasty based in the Wei River valley. Established the Mandate of Heaven as the legitimizing principle of Chinese rule."
         }
       }
     }

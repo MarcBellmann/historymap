@@ -3,2557 +3,415 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -120,
-              14
-            ],
-            [
-              -36,
-              -4
-            ],
-            [
-              -36,
-              -58
-            ],
-            [
-              -70,
-              -55
-            ],
-            [
-              -82,
-              -36
-            ],
-            [
-              -82,
-              12
-            ],
-            [
-              -90,
-              18
-            ],
-            [
-              -100,
-              22
-            ],
-            [
-              -110,
-              22
-            ],
-            [
-              -120,
-              14
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "spanish-empire-americas",
-        "startYear": 1492,
-        "endYear": 1898,
-        "peakStartYear": 1600,
-        "peakEndYear": 1800,
-        "culturalSphere": "colonial",
-        "color": "#B03060",
+        "id": "habsburg-monarchy",
+        "parentId": null,
+        "startYear": 1526,
+        "endYear": 1804,
+        "peakStartYear": 1683,
+        "peakEndYear": 1790,
+        "culturalSphere": "habsburg",
+        "color": "#CCAA33",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Habsburgermonarchie",
+          "en": "Habsburg Monarchy"
+        },
+        "description": {
+          "de": "Zusammenfassung der habsburgischen Erbländer in Mitteleuropa, einschließlich Österreich, Ungarn und Böhmen.",
+          "en": "Composite of Habsburg hereditary lands in Central Europe, including Austria, Hungary, and Bohemia."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "habsburg-austria",
+        "parentId": "habsburg-monarchy",
+        "startYear": 1526,
+        "endYear": 1804,
+        "peakStartYear": 1683,
+        "peakEndYear": 1790,
+        "culturalSphere": "habsburg",
+        "color": "#CCAA33",
         "opacity": 0.2,
         "labels": {
-          "de": "Spanisches Kolonialreich (Amerika)",
-          "en": "Spanish Colonial Empire (Americas)"
+          "de": "Erzherzogtum Österreich",
+          "en": "Archduchy of Austria"
         },
         "description": {
-          "de": "Das Spanische Kolonialreich in Amerika war das erste globale Kolonialreich der Geschichte und umfasste auf seinem Höhepunkt fast ganz Mittel- und Südamerika. Die spanische Kolonisation veränderte die Welt grundlegend: Silber aus den Minen Potosis und Mexikos floss in die europäische Wirtschaft und finanzierte die Mächte der frühen Neuzeit. Gleichzeitig entstanden neue Kulturen der Vermischung — Mestizen-Zivilisationen, die spanische, indigene und afrikanische Elemente zu etwas Eigenständigem verbanden.",
-          "en": "The Spanish Colonial Empire in the Americas was the first global colonial empire in history and at its height encompassed almost all of Central and South America. Spanish colonization fundamentally transformed the world: silver from the mines of Potosi and Mexico flowed into the European economy and financed the powers of the early modern period. At the same time, new cultures of blending emerged — mestizo civilizations that combined Spanish, indigenous, and African elements into something distinctive."
+          "de": "Kernland der Habsburger, Sitz der Kaiserwürde und Zentrum der Gegenreformation.",
+          "en": "Habsburg heartland, seat of the imperial dignity and center of the Counter-Reformation."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              130,
-              30
-            ],
-            [
-              145,
-              30
-            ],
-            [
-              145,
-              42
-            ],
-            [
-              142,
-              45
-            ],
-            [
-              130,
-              45
-            ],
-            [
-              128,
-              42
-            ],
-            [
-              130,
-              34
-            ],
-            [
-              130,
-              30
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "tokugawa-japan",
-        "startYear": 1603,
-        "endYear": 1868,
-        "culturalSphere": "japanese",
-        "color": "#C23B22",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Tokugawa-Japan (Edo-Zeit)",
-          "en": "Tokugawa Japan (Edo Period)"
-        },
-        "description": {
-          "de": "Das Tokugawa-Shogunat schuf durch die bewusste Abschließung Japans von der Außenwelt (Sakoku) eine einzigartige Blüte der japanischen Binnenkultur. Theater, Holzschnittkunst (Ukiyo-e), Haiku-Dichtung und Teezeremonie erreichten ihre klassische Vollendung. Die Edo-Zeit war eine Epoche bemerkenswerter politischer Stabilität, wirtschaftlichen Wachstums und urbaner Zivilisation — Edo (Tokyo) wurde zur größten Stadt der Welt.",
-          "en": "The Tokugawa Shogunate, through the deliberate isolation of Japan from the outside world (Sakoku), created a unique flourishing of Japanese domestic culture. Theater, woodblock printing (Ukiyo-e), haiku poetry, and the tea ceremony reached their classical perfection. The Edo period was an era of remarkable political stability, economic growth, and urban civilization — Edo (Tokyo) grew into the largest city in the world."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8,
-              54.5
-            ],
-            [
-              15,
-              54.5
-            ],
-            [
-              15.5,
-              57.5
-            ],
-            [
-              12.5,
-              57.5
-            ],
-            [
-              10.5,
-              58
-            ],
-            [
-              8.5,
-              57
-            ],
-            [
-              8,
-              55.5
-            ],
-            [
-              8,
-              54.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-denmark",
-        "startYear": 936,
-        "endYear": 1814,
-        "culturalSphere": "norse",
-        "color": "#446688",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Dänemark",
-          "en": "Kingdom of Denmark"
-        },
-        "description": {
-          "de": "Das Königreich Dänemark gehört zu den ältesten Monarchien Europas und entstand im 10. Jahrhundert unter Harald Blauzahn, der das Land auch christianisierte. Als Herzstück des Nordseeraums kontrollierte Dänemark wichtige Handelswege und bildete zeitweise ein Nordisches Großreich. Die Wikingertradition lebte in dänischer Seefahrt, Handel und Staatsgründungen fort. Im Mittelalter war Dänemark eine der mächtigsten Mächte Nordeuropas, mit Einfluss über Teile Englands, Norwegens und des Ostseeraums.",
-          "en": "The Kingdom of Denmark is one of Europe's oldest monarchies, emerging in the 10th century under Harald Bluetooth, who also Christianized the country. As the heart of the North Sea region, Denmark controlled important trade routes and at times formed a Nordic great empire. The Viking tradition lived on in Danish seafaring, trade, and state formation. In the medieval period Denmark was one of the most powerful forces in Northern Europe, with influence over parts of England, Norway, and the Baltic region."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              4.5,
-              57.5
-            ],
-            [
-              14,
-              58
-            ],
-            [
-              16,
-              61
-            ],
-            [
-              14,
-              65
-            ],
-            [
-              10,
-              63.5
-            ],
-            [
-              5,
-              62
-            ],
-            [
-              4.5,
-              59
-            ],
-            [
-              4.5,
-              57.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-norway",
-        "startYear": 872,
-        "endYear": 1814,
-        "culturalSphere": "norse",
-        "color": "#446688",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Norwegen",
-          "en": "Kingdom of Norway"
-        },
-        "description": {
-          "de": "Das Königreich Norwegen wurde 872 von Harald Schönhaar nach der Schlacht im Hafrsfjord als erstes vereintes norwegisches Königreich gegründet. Die Norweger waren führend in der wikingerzeitlichen Expansion und gründeten Siedlungen auf Island, Grönland und in Nordamerika. Unter Olav II. (dem Heiligen) wurde die Christianisierung abgeschlossen. Norwegen entwickelte eine eigenständige Rechts- und Verwaltungstradition, die im Lagting, einer frühen Form der Volksversammlung, ihren Ausdruck fand.",
-          "en": "The Kingdom of Norway was founded in 872 by Harald Fairhair after the Battle of Hafrsfjord as the first united Norwegian kingdom. The Norwegians were leaders in Viking-age expansion, founding settlements in Iceland, Greenland, and North America. Under Olav II (the Holy), Christianization was completed. Norway developed a distinctive legal and administrative tradition expressed in the Lagting, an early form of popular assembly."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              11,
-              55.5
-            ],
-            [
-              19,
-              55.5
-            ],
-            [
-              24,
-              57.5
-            ],
-            [
-              24,
-              62
-            ],
-            [
-              20,
-              65
-            ],
-            [
-              15,
-              65.5
-            ],
-            [
-              12,
-              63
-            ],
-            [
-              11,
-              59.5
-            ],
-            [
-              11,
-              55.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-sweden",
-        "startYear": 970,
-        "endYear": 1905,
-        "culturalSphere": "norse",
-        "color": "#446688",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Schweden",
-          "en": "Kingdom of Sweden"
-        },
-        "description": {
-          "de": "Das Königreich Schweden entwickelte sich im späten 10. Jahrhundert unter dem Einfluss der Christianisierung zu einer stabilen Monarchie. Die Schweden, auch als Waräger bekannt, spielten eine entscheidende Rolle beim Aufbau der Handelswege entlang der osteuropäischen Flüsse bis nach Konstantinopel und Bagdad. Im Hochmittelalter bauten schwedische Herrscher eine effiziente Zentralverwaltung auf, die Schweden zu einem starken Königreich Nordeuropas formte. Die reiche Bergbau- und Handelstradition legte den Grundstein für spätere Großmachtstellung.",
-          "en": "The Kingdom of Sweden developed into a stable monarchy in the late 10th century under the influence of Christianization. The Swedes, also known as Varangians, played a decisive role in establishing trade routes along the rivers of Eastern Europe to Constantinople and Baghdad. In the high medieval period Swedish rulers built an efficient central administration that formed Sweden into a strong kingdom of Northern Europe. The rich mining and trading tradition laid the groundwork for later great power status."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              14,
-              49
-            ],
-            [
-              24.5,
-              49.5
-            ],
-            [
-              24,
-              54.5
-            ],
-            [
-              18.5,
-              55.5
-            ],
-            [
-              14,
-              54
-            ],
-            [
-              13.5,
-              51.5
-            ],
-            [
-              14,
-              49
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-poland",
-        "startYear": 1025,
-        "endYear": 1795,
-        "culturalSphere": "slavic",
-        "color": "#446688",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Polen",
-          "en": "Kingdom of Poland"
-        },
-        "description": {
-          "de": "Das Königreich Polen entstand 1025 mit der Krönung Bolesławs I. des Tapferen und wurde eines der bedeutendsten Reiche Ostmitteleuropas. Die Piasten-Dynastie schuf einen einheitlichen Staat, der Christentum, slawische Kultur und westeuropäische Einflüsse verband. Im Hochmittelalter war Polen ein wichtiger Vermittler zwischen der lateinischen Westkirche und den östlichen Slawen. Krakau entwickelte sich zu einem bedeutenden kulturellen und wirtschaftlichen Zentrum. Die polnische Ritterkultur und das frühe Rechtswesen legten Grundlagen für ein dauerhaftes nationales Bewusstsein.",
-          "en": "The Kingdom of Poland emerged in 1025 with the coronation of Bolesław I the Brave and became one of the most significant realms of East-Central Europe. The Piast dynasty created a unified state combining Christianity, Slavic culture, and Western European influences. In the high medieval period Poland was an important mediator between the Latin Western Church and the Eastern Slavs. Krakow developed into a significant cultural and economic center. Polish chivalric culture and early legal systems laid foundations for a lasting national consciousness."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              16,
-              45.5
-            ],
-            [
-              22.5,
-              44.5
-            ],
-            [
-              26,
-              46
-            ],
-            [
-              25.5,
-              48.5
-            ],
-            [
-              22,
-              49.5
-            ],
-            [
-              18,
-              49.5
-            ],
-            [
-              16.5,
-              48
-            ],
-            [
-              16,
-              45.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-hungary",
-        "startYear": 1000,
-        "endYear": 1918,
+        "id": "habsburg-hungary",
+        "parentId": "habsburg-monarchy",
+        "startYear": 1526,
+        "endYear": 1804,
+        "peakStartYear": 1699,
+        "peakEndYear": 1790,
         "culturalSphere": "hungarian",
-        "color": "#446688",
-        "opacity": 0.25,
+        "color": "#669966",
+        "opacity": 0.2,
         "labels": {
-          "de": "Königreich Ungarn",
-          "en": "Kingdom of Hungary"
+          "de": "Königliches Ungarn",
+          "en": "Royal Hungary"
         },
         "description": {
-          "de": "Das Königreich Ungarn wurde 1000/1001 durch die Krönung Stephans I. (des Heiligen) gegründet und integrierte das magyarische Volk vollständig in die lateinisch-christliche Welt Europas. Stephan schuf ein einheitliches Verwaltungssystem mit Grafschaften, förderte das Christentum und begründete eine Reihe von Klöstern und Bistümern. Ungarn entwickelte sich zu einem der mächtigsten Königreiche Mitteleuropas und bildete über Jahrhunderte hinweg eine wichtige Schutzwall gegen östliche Invasionen. Die Goldene Bulle von 1222 sicherte Adelsrechte und gilt als ungarisches Pendant zur Magna Carta.",
-          "en": "The Kingdom of Hungary was founded in 1000/1001 with the coronation of Stephen I (the Holy) and fully integrated the Magyar people into the Latin-Christian world of Europe. Stephen created a unified administrative system of counties, promoted Christianity, and established a series of monasteries and bishoprics. Hungary developed into one of the most powerful kingdoms of Central Europe and for centuries formed an important bulwark against eastern invasions. The Golden Bull of 1222 secured noble rights and is considered Hungary's equivalent of Magna Carta."
+          "de": "Nicht von den Osmanen besetzter Teil Ungarns unter habsburgischer Herrschaft.",
+          "en": "Part of Hungary not occupied by the Ottomans, under Habsburg rule."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              9,
-              47.5
-            ],
-            [
-              13.5,
-              47
-            ],
-            [
-              16.5,
-              47.5
-            ],
-            [
-              16,
-              49.5
-            ],
-            [
-              13,
-              50.5
-            ],
-            [
-              9.5,
-              50
-            ],
-            [
-              9,
-              47.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "duchy-of-bavaria",
-        "parentId": "holy-roman-empire",
-        "startYear": 907,
-        "endYear": 1806,
-        "culturalSphere": "germanic",
-        "color": "#8B0000",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Herzogtum Bayern",
-          "en": "Duchy of Bavaria"
-        },
-        "description": {
-          "de": "Das Herzogtum Bayern war eines der mächtigsten und ältesten Herzogtümer im Heiligen Römischen Reich. Die Bayern, ein germanisches Volk, hatten schon früh eine eigenständige Stammesidentität entwickelt. Unter den Agilolfingern und später den Wittelsbachern wurde Bayern zu einem kulturellen und wirtschaftlichen Zentrum Süddeutschlands. Die Kirche spielte eine besondere Rolle: Regensburg, Salzburg und Freising waren bedeutende Bischofssitze, die Bildung und Kunst förderten. Bayern bildete die Brücke zwischen dem deutschen Norden und dem romanisierten Alpenraum.",
-          "en": "The Duchy of Bavaria was one of the most powerful and oldest duchies in the Holy Roman Empire. The Bavarians, a Germanic people, had developed a distinctive tribal identity early on. Under the Agilolfings and later the Wittelsbachs, Bavaria became a cultural and economic center of southern Germany. The Church played a special role: Regensburg, Salzburg, and Freising were important episcopal sees that promoted learning and arts. Bavaria formed the bridge between the German north and the Romanized Alpine region."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12,
-              49.5
-            ],
-            [
-              18.5,
-              49.5
-            ],
-            [
-              18.5,
-              51.5
-            ],
-            [
-              15.5,
-              52
-            ],
-            [
-              13,
-              51.5
-            ],
-            [
-              12,
-              50.5
-            ],
-            [
-              12,
-              49.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-bohemia",
-        "parentId": "holy-roman-empire",
-        "startYear": 1198,
-        "endYear": 1806,
-        "culturalSphere": "slavic",
-        "color": "#8B0000",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Böhmen",
-          "en": "Kingdom of Bohemia"
-        },
-        "description": {
-          "de": "Das Königreich Böhmen, 1198 offiziell erhoben, war das einzige slawische Königreich im Heiligen Römischen Reich und nahm darin eine besondere verfassungsrechtliche Stellung ein. Die Přemysliden- und später die Luxemburger-Dynastie machten Prag zu einem der bedeutendsten Kulturzentren Mitteleuropas. Karl IV., der 1348 die Universität Prag (die erste in Mitteleuropa) gründete und als Kaiser das Reich zu neuer Blüte führte, stammt aus diesem Königreich. Böhmen war bekannt für Bergbau, Handwerk und eine hohe städtische Kultur.",
-          "en": "The Kingdom of Bohemia, officially elevated in 1198, was the only Slavic kingdom in the Holy Roman Empire and held a special constitutional position within it. The Přemyslid and later Luxembourg dynasties made Prague one of the most important cultural centers in Central Europe. Charles IV, who founded the University of Prague in 1348 (the first in Central Europe) and as Emperor led the empire to new heights, came from this kingdom. Bohemia was known for mining, craftsmanship, and a sophisticated urban culture."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              11.5,
-              52
-            ],
-            [
-              15.5,
-              52
-            ],
-            [
-              15.5,
-              54
-            ],
-            [
-              13.5,
-              54.5
-            ],
-            [
-              11.5,
-              54
-            ],
-            [
-              11.5,
-              52
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "march-of-brandenburg",
-        "parentId": "holy-roman-empire",
-        "startYear": 1157,
-        "endYear": 1806,
-        "culturalSphere": "germanic",
-        "color": "#8B0000",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Markgrafschaft Brandenburg",
-          "en": "March of Brandenburg"
-        },
-        "description": {
-          "de": "Die Markgrafschaft Brandenburg wurde 1157 durch Albrecht den Bären als Grenzmark gegen die slawischen Stämme östlich der Elbe gegründet und wurde zum Ursprung des späteren Preußen und Deutschen Kaiserreichs. Die askanische Herrschaft förderte systematisch die Kolonisierung und Urbanisierung der Region durch deutschen Einwanderer, verdrängten die slawische Urbevölkerung und verwandelten die Region. Als Kurfürstentum spielte Brandenburg eine zentrale Rolle im Heiligen Römischen Reich und trug entscheidend zur deutschen Ostexpansion bei.",
-          "en": "The March of Brandenburg was founded in 1157 by Albert the Bear as a border march against the Slavic tribes east of the Elbe and became the origin of later Prussia and the German Empire. Ascanian rule systematically promoted the colonization and urbanization of the region by German immigrants, displaced the Slavic indigenous population, and transformed the region. As an electorate, Brandenburg played a central role in the Holy Roman Empire and decisively contributed to the German eastern expansion."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3,
-              4.5
-            ],
-            [
-              7,
-              4.5
-            ],
-            [
-              7,
-              8
-            ],
-            [
-              3,
-              8
-            ],
-            [
-              3,
-              4.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-benin",
-        "startYear": 1180,
-        "endYear": 1897,
-        "culturalSphere": "african",
-        "color": "#664400",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Benin",
-          "en": "Kingdom of Benin"
-        },
-        "description": {
-          "de": "Das Königreich Benin, auch Edo-Königreich genannt, entstand im heutigen Süd-Nigeria und wurde von den Oba (Königen) der Benin-Dynastie regiert. Berühmt für seine außergewöhnlichen Bronzegüsse und Elfenbeinschnitzereien, pflegte Benin ein hochentwickeltes Hofleben, weitreichende Handelskontakte bis nach Portugal und einen komplexen Verwaltungsapparat. Die Kunst der Benin-Bronzen gilt als Höhepunkt westafrikanischer Metallbearbeitung und bezeugt die kulturelle Raffinesse dieses Reiches.",
-          "en": "The Kingdom of Benin, also known as the Edo Kingdom, emerged in present-day southern Nigeria and was ruled by the Oba (kings) of the Benin dynasty. Famous for its extraordinary bronze castings and ivory carvings, Benin maintained a sophisticated court life, wide-ranging trade contacts as far as Portugal, and a complex administrative apparatus. The art of the Benin bronzes stands as a pinnacle of West African metalwork and testifies to the kingdom's cultural refinement."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -82,
-              25
-            ],
-            [
-              -52,
-              25
-            ],
-            [
-              -52,
-              50
-            ],
-            [
-              -60,
-              52
-            ],
-            [
-              -70,
-              55
-            ],
-            [
-              -82,
-              50
-            ],
-            [
-              -90,
-              45
-            ],
-            [
-              -82,
-              25
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "british-empire-north-america",
-        "startYear": 1607,
-        "endYear": 1783,
-        "peakStartYear": 1700,
-        "peakEndYear": 1783,
-        "culturalSphere": "british",
-        "color": "#CC3333",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Britisches Nordamerika",
-          "en": "British Empire - North America"
-        },
-        "description": {
-          "de": "Die britischen Kolonien an der Ostküste Nordamerikas entstanden ab 1607 mit der Gründung Jamestowns in Virginia. Auf Kosten der indigenen Bevölkerung — der Powhatan, Wampanoag und vieler weiterer Nationen — wuchs das Siedlungsgebiet bis zur Atlantikküste Kanadas. Die dreizehn Kolonien erklärten 1776 ihre Unabhängigkeit und gründeten die Vereinigten Staaten von Amerika.",
-          "en": "British colonies on North America's Atlantic seaboard began with Jamestown in 1607 and expanded at the expense of indigenous peoples — the Powhatan, Wampanoag, and many other nations. The thirteen colonies declared independence in 1776, forming the United States of America. Britain retained Canada and Caribbean territories after the 1783 Treaty of Paris."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -100,
-              26
-            ],
-            [
-              -52,
-              26
-            ],
-            [
-              -52,
-              50
-            ],
-            [
-              -68,
-              52
-            ],
-            [
-              -90,
-              49
-            ],
-            [
-              -100,
-              45
-            ],
-            [
-              -97,
-              30
-            ],
-            [
-              -100,
-              26
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "french-colonial-americas",
-        "startYear": 1534,
-        "endYear": 1803,
-        "peakStartYear": 1680,
-        "peakEndYear": 1763,
-        "culturalSphere": "french",
-        "color": "#557744",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Französisches Kolonialreich – Amerika",
-          "en": "French Colonial Empire - Americas"
-        },
-        "description": {
-          "de": "Neufrankreich erstreckte sich in seiner Blütezeit von Neufundland bis zum Golf von Mexiko entlang der Flüsse Saint Lawrence und Mississippi. Jacques Cartier erkundete das Gebiet ab 1534; erfolgreiche Siedlungen entstanden in Quebec und Acadia im 17. Jahrhundert. Die indigenen Völker — Huron-Wendat, Algonquin und andere — waren zunächst Handelspartner, wurden jedoch zunehmend von Krankheiten und Landvertreibung getroffen. 1763 verlor Frankreich Neufrankreich im Siebenjährigen Krieg.",
-          "en": "New France at its height extended from Newfoundland to the Gulf of Mexico along the St. Lawrence and Mississippi rivers. Jacques Cartier explored from 1534; successful settlements grew in Quebec and Acadia. Indigenous nations — the Huron-Wendat, Algonquin, and others — were initially trading partners but increasingly faced disease and displacement. France lost New France in the Seven Years' War in 1763, and Napoleon sold Louisiana to the United States in 1803."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -74,
-              -34
-            ],
-            [
-              -34,
-              -34
-            ],
-            [
-              -34,
-              -3
-            ],
-            [
-              -44,
-              5
-            ],
-            [
-              -52,
-              5
-            ],
-            [
-              -74,
-              -2
-            ],
-            [
-              -74,
-              -34
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "portuguese-empire-brazil",
-        "startYear": 1500,
-        "endYear": 1822,
-        "peakStartYear": 1650,
-        "peakEndYear": 1800,
-        "culturalSphere": "portuguese",
-        "color": "#228844",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Portugiesisch-Brasilien",
-          "en": "Portuguese Empire - Brazil"
-        },
-        "description": {
-          "de": "Pedro Álvares Cabral erreichte 1500 das heutige Brasilien. Die portugiesische Kolonialisierung stützte sich auf die Ausbeutung indigener Völker und den transatlantischen Sklavenhandel aus Afrika. Millionen versklavter Afrikaner wurden in die Zuckerrohr- und Goldminen deportiert. Die Unabhängigkeit wurde 1822 unter Kaiser Dom Pedro I. ausgerufen. Brasilien blieb das einzige portugiesischsprachige Land Lateinamerikas.",
-          "en": "Pedro Álvares Cabral reached Brazil in 1500. Portuguese colonization relied on indigenous labor and then on transatlantic African slavery — millions of enslaved Africans were transported to work sugar plantations and gold mines. Brazil's economy went through cycles of brazilwood, sugar, and gold. Independence was declared in 1822 under Emperor Dom Pedro I, forming a single state — uniquely, Brazil did not fragment as Spanish America did."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10,
-              -18
-            ],
-            [
-              24,
-              -18
-            ],
-            [
-              26,
-              -10
-            ],
-            [
-              22,
-              -4
-            ],
-            [
-              18,
-              -2
-            ],
-            [
-              12,
-              -2
-            ],
-            [
-              10,
-              -8
-            ],
-            [
-              10,
-              -18
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "portuguese-empire-africa-west",
-        "startYear": 1575,
-        "endYear": 1975,
-        "peakStartYear": 1650,
-        "peakEndYear": 1900,
-        "culturalSphere": "portuguese",
-        "color": "#228844",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Portugiesisches Afrika – Angola",
-          "en": "Portuguese Empire - Angola"
-        },
-        "description": {
-          "de": "Portugal errichtete ab 1575 Handelsstützpunkte an der angolanischen Küste. Angola war eines der zentralen Zentren des transatlantischen Sklavenhandels — Millionen von Menschen des Königreichs Kongo, Ndongo und anderer Reiche wurden nach Brasilien und in die Karibik verschleppt. Die vollständige Kontrolle über das Innere wurde erst Anfang des 20. Jahrhunderts durchgesetzt. Die Unabhängigkeit kam 1975 nach dem Nelkenrevolution in Portugal.",
-          "en": "Portugal established coastal trading posts in Angola from 1575. The region became a central hub of the transatlantic slave trade — millions from the Kingdom of Kongo, Ndongo, and other polities were transported to Brazil and the Caribbean. Full interior control was only achieved in the early 20th century. Independence came in 1975 following Portugal's Carnation Revolution, ending nearly 400 years of colonial presence."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              32,
-              -26
-            ],
-            [
-              42,
-              -26
-            ],
-            [
-              40,
-              -10
-            ],
-            [
-              36,
-              -4
-            ],
-            [
-              34,
-              -8
-            ],
-            [
-              34,
-              -16
-            ],
-            [
-              32,
-              -22
-            ],
-            [
-              32,
-              -26
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "portuguese-empire-africa-east",
-        "startYear": 1498,
-        "endYear": 1975,
-        "peakStartYear": 1600,
-        "peakEndYear": 1900,
-        "culturalSphere": "portuguese",
-        "color": "#228844",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Portugiesisches Afrika – Mosambik",
-          "en": "Portuguese Empire - Mozambique"
-        },
-        "description": {
-          "de": "Vasco da Gama erreichte 1498 die mosambikanische Küste auf dem Weg nach Indien. Portugal nutzte die ostafrikanische Küste als Stützpunkt auf dem Seeweg nach Asien und gründete Handelsstationen an der Küste und im Sambesi-Becken. Die volle Kontrolle des Innenlandes wurde erst 1918 gesichert. Mozambique erlangte seine Unabhängigkeit 1975 nach einem jahrelangen Befreiungskrieg der FRELIMO.",
-          "en": "Vasco da Gama reached the Mozambican coast in 1498 en route to India. Portugal used East Africa as a waystation on the sea route to Asia, establishing coastal trading posts and penetrating the Zambezi basin. Full interior control was only secured in 1918. Mozambique gained independence in 1975 after years of armed struggle by FRELIMO, ending nearly five centuries of Portuguese presence."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              95,
-              -8
-            ],
-            [
-              140,
-              -8
-            ],
-            [
-              140,
-              6
-            ],
-            [
-              120,
-              8
-            ],
-            [
-              104,
-              4
-            ],
-            [
-              96,
-              2
-            ],
-            [
-              95,
-              -8
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "dutch-east-indies",
-        "startYear": 1602,
-        "endYear": 1949,
-        "peakStartYear": 1700,
-        "peakEndYear": 1900,
-        "culturalSphere": "dutch",
-        "color": "#CC9900",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Niederländisch-Ostindien (VOC)",
-          "en": "Dutch East Indies / VOC"
-        },
-        "description": {
-          "de": "Die Vereinigte Ostindische Compagnie (VOC) errichtete ab 1602 ein Handelsnetz im Indischen Ozean mit Batavia (Jakarta) als Zentrum. Der Gewürzhandel, insbesondere Muskat, Nelken und Pfeffer von den Molukken, war die Grundlage eines enormen Reichtums. Die VOC übte quasi-staatliche Gewalt aus und unterwarf die lokalen Sultanate gewaltsam. Das niederländische Kolonialregime beruhte auf erzwungener Arbeit (Kultursystem), die die javanische Landbevölkerung verarmte. Indonesia erklärte 1945 die Unabhängigkeit.",
-          "en": "The VOC (Dutch East India Company) established a trading network across the Indian Ocean from 1602 with Batavia (Jakarta) as its hub. The spice trade — nutmeg, cloves, and pepper from the Moluccas — generated enormous wealth. The VOC exercised quasi-governmental powers, subjugating local sultanates by force. The Dutch colonial regime relied on forced cultivation (cultuurstelsel) that impoverished Javanese peasants. Indonesia declared independence in 1945."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -9.5,
-              36.9
-            ],
-            [
-              -6.2,
-              36.9
-            ],
-            [
-              -6.2,
-              37.8
-            ],
-            [
-              -7,
-              37.8
-            ],
-            [
-              -7,
-              38.5
-            ],
-            [
-              -6.5,
-              38.5
-            ],
-            [
-              -6.8,
-              39.5
-            ],
-            [
-              -6.2,
-              40
-            ],
-            [
-              -6.8,
-              40.2
-            ],
-            [
-              -6.8,
-              41.5
-            ],
-            [
-              -8,
-              41.8
-            ],
-            [
-              -8.5,
-              42
-            ],
-            [
-              -9.5,
-              41.5
-            ],
-            [
-              -9.5,
-              36.9
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-portugal",
-        "startYear": 1139,
-        "endYear": 1910,
-        "peakStartYear": 1400,
-        "peakEndYear": 1800,
-        "culturalSphere": "portuguese",
-        "color": "#557744",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Portugal",
-          "en": "Kingdom of Portugal"
-        },
-        "description": {
-          "de": "Das Königreich Portugal entstand im 12. Jahrhundert aus der Reconquista und entwickelte sich zu einer der führenden Seemächte der Welt. Portugiesische Seefahrer erschlossen im 15. und 16. Jahrhundert Handelswege nach Afrika, Indien und Brasilien und begründeten das erste globale Kolonialreich.",
-          "en": "The Kingdom of Portugal emerged in the 12th century from the Reconquista and developed into one of the world's leading maritime powers. Portuguese navigators in the 15th and 16th centuries opened trade routes to Africa, India, and Brazil, establishing the first global colonial empire."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -4.5,
-              43.8
-            ],
-            [
-              3.2,
-              42.5
-            ],
-            [
-              7.5,
-              43.5
-            ],
-            [
-              7.7,
-              44.2
-            ],
-            [
-              6.5,
-              46
-            ],
-            [
-              8,
-              47.5
-            ],
-            [
-              7.5,
-              48.5
-            ],
-            [
-              6,
-              49.5
-            ],
-            [
-              4.5,
-              50.5
-            ],
-            [
-              2.5,
-              51
-            ],
-            [
-              -1.5,
-              48.5
-            ],
-            [
-              -2,
-              47.5
-            ],
-            [
-              -1.8,
-              46.5
-            ],
-            [
-              -2,
-              43.5
-            ],
-            [
-              -4.5,
-              43.8
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "kingdom-of-france",
-        "startYear": 987,
-        "endYear": 1792,
-        "peakStartYear": 1589,
-        "peakEndYear": 1792,
-        "culturalSphere": "french",
-        "color": "#557744",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Königreich Frankreich (Bourbonen)",
-          "en": "Kingdom of France (Bourbon)"
-        },
-        "description": {
-          "de": "Das Königreich Frankreich unter den Bourbonen war eine der mächtigsten Monarchien Europas. Unter Ludwig XIV. erreichte es seinen Höhepunkt und war die dominierende kontinentale Großmacht. Die Französische Revolution beendete 1792 die Monarchie.",
-          "en": "The Kingdom of France under the Bourbons was one of Europe's most powerful monarchies. Under Louis XIV it reached its zenith as the dominant continental great power. The French Revolution ended the monarchy in 1792."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              13.5,
-              51
-            ],
-            [
-              18.5,
-              51
-            ],
-            [
-              22,
-              52.5
-            ],
-            [
-              20.5,
-              54.5
-            ],
-            [
-              19.5,
-              54.5
-            ],
-            [
-              16,
-              54.5
-            ],
-            [
-              14,
-              54
-            ],
-            [
-              12,
-              54.5
-            ],
-            [
-              10.5,
-              54
-            ],
-            [
-              10,
-              52.5
-            ],
-            [
-              11.5,
-              51.5
-            ],
-            [
-              13.5,
-              51
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
         "id": "kingdom-of-prussia",
+        "parentId": null,
         "startYear": 1701,
-        "endYear": 1918,
+        "endYear": 1871,
         "peakStartYear": 1740,
-        "peakEndYear": 1866,
-        "culturalSphere": "german",
-        "color": "#446688",
+        "peakEndYear": 1871,
+        "culturalSphere": "germanic",
+        "color": "#666699",
         "opacity": 0.25,
         "labels": {
           "de": "Königreich Preußen",
           "en": "Kingdom of Prussia"
         },
         "description": {
-          "de": "Das Königreich Preußen entstand 1701 und entwickelte sich unter Friedrich dem Großen zur führenden deutschen Militärmacht. Preußen trieb die Einigung Deutschlands voran und war treibende Kraft bei der Gründung des Deutschen Kaiserreichs 1871.",
-          "en": "The Kingdom of Prussia was established in 1701 and developed under Frederick the Great into the leading German military power. Prussia drove German unification and was the driving force behind the founding of the German Empire in 1871."
+          "de": "Aufstrebende Militärmacht in Norddeutschland, unter Friedrich dem Großen zur europäischen Großmacht aufgestiegen. Triebkraft der deutschen Einigung.",
+          "en": "Rising military power in northern Germany, elevated to European great power under Frederick the Great. Driving force of German unification."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              9.5,
-              46.5
-            ],
-            [
-              12,
-              46.5
-            ],
-            [
-              17,
-              46
-            ],
-            [
-              18.5,
-              47
-            ],
-            [
-              22.5,
-              47.5
-            ],
-            [
-              23.5,
-              47
-            ],
-            [
-              26,
-              48
-            ],
-            [
-              24.5,
-              49.5
-            ],
-            [
-              22,
-              50.5
-            ],
-            [
-              18.5,
-              51
-            ],
-            [
-              13.5,
-              51
-            ],
-            [
-              11.5,
-              51.5
-            ],
-            [
-              10,
-              50.5
-            ],
-            [
-              8.5,
-              48
-            ],
-            [
-              9.5,
-              46.5
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "habsburg-empire",
-        "startYear": 1282,
-        "endYear": 1918,
-        "peakStartYear": 1550,
-        "peakEndYear": 1750,
-        "culturalSphere": "austrian",
-        "color": "#446688",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Habsburgerreich / Österreichisches Kaiserreich",
-          "en": "Habsburg / Austrian Empire"
-        },
-        "description": {
-          "de": "Das Habsburgerreich war über Jahrhunderte die dominierende Macht Mitteleuropas. Von Wien aus regierten die Habsburger ein multinationales Reich, das Österreich, Böhmen, Ungarn und zeitweise Spanien sowie seine Kolonien umfasste.",
-          "en": "The Habsburg Empire was for centuries the dominant power in Central Europe. From Vienna, the Habsburgs ruled a multinational realm encompassing Austria, Bohemia, Hungary, and at times Spain with its colonies."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12,
-              41.5
-            ],
-            [
-              13.5,
-              41.5
-            ],
-            [
-              14.5,
-              41
-            ],
-            [
-              15.5,
-              41.5
-            ],
-            [
-              16.5,
-              41.5
-            ],
-            [
-              15.5,
-              43.5
-            ],
-            [
-              14.5,
-              44
-            ],
-            [
-              13.5,
-              44.5
-            ],
-            [
-              12.5,
-              44.5
-            ],
-            [
-              12,
-              44
-            ],
-            [
-              11.5,
-              43.5
-            ],
-            [
-              12,
-              43
-            ],
-            [
-              11,
-              42.5
-            ],
-            [
-              11.5,
-              42
-            ],
-            [
-              12,
-              41.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "papal-states",
-        "startYear": 754,
-        "endYear": 1870,
-        "peakStartYear": 1500,
-        "peakEndYear": 1800,
-        "culturalSphere": "latin",
-        "color": "#AAAAAA",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Kirchenstaat",
-          "en": "Papal States"
-        },
-        "description": {
-          "de": "Der Kirchenstaat war über mehr als tausend Jahre ein souveränes Territorium unter direkter Herrschaft des Papstes. Er umfasste die heutigen Regionen Latium, Marken, Umbrien und Romagna und war ein zentrales Machtinstrument der Päpste in den politischen Auseinandersetzungen Italiens und Europas.",
-          "en": "The Papal States were for more than a thousand years a sovereign territory under the direct rule of the pope. They encompassed the modern regions of Lazio, Marche, Umbria, and Romagna and were a central power instrument of the popes in the political conflicts of Italy and Europe."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              9.5,
-              46.5
-            ],
-            [
-              12,
-              46.5
-            ],
-            [
-              17,
-              46
-            ],
-            [
-              18.5,
-              47
-            ],
-            [
-              17.5,
-              48
-            ],
-            [
-              16.5,
-              48.5
-            ],
-            [
-              15,
-              48.5
-            ],
-            [
-              14,
-              48.5
-            ],
-            [
-              12,
-              47.5
-            ],
-            [
-              10,
-              47.5
-            ],
-            [
-              9.5,
-              46.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "archduchy-of-austria",
-        "parentId": "holy-roman-empire",
-        "startYear": 1453,
-        "endYear": 1806,
-        "peakStartYear": 1500,
-        "peakEndYear": 1750,
-        "culturalSphere": "austrian",
-        "color": "#557744",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Erzherzogtum Österreich",
-          "en": "Archduchy of Austria"
-        },
-        "description": {
-          "de": "Das Erzherzogtum Österreich war der Kernstaat der Habsburgischen Länder und das Zentrum des Heiligen Römischen Reiches. Von Wien aus lenkten die Habsburger ihr weit verzweigtes Reich und stellten fast ununterbrochen den Kaiser.",
-          "en": "The Archduchy of Austria was the core state of the Habsburg lands and the center of the Holy Roman Empire. From Vienna, the Habsburgs directed their far-flung empire and almost continuously supplied the emperor."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.5,
-              47.5
-            ],
-            [
-              10.5,
-              47.5
-            ],
-            [
-              10.5,
-              49
-            ],
-            [
-              9.5,
-              49.5
-            ],
-            [
-              8.5,
-              49
-            ],
-            [
-              8,
-              48.5
-            ],
-            [
-              8.5,
-              47.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "duchy-of-wurttemberg",
-        "parentId": "holy-roman-empire",
-        "startYear": 1495,
-        "endYear": 1806,
-        "peakStartYear": 1600,
-        "peakEndYear": 1800,
-        "culturalSphere": "german",
-        "color": "#557744",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Herzogtum Württemberg",
-          "en": "Duchy of Württemberg"
-        },
-        "description": {
-          "de": "Das Herzogtum Württemberg war eines der bedeutenderen Territorien im Südwesten des Heiligen Römischen Reiches. Als protestantisches Territorium widerstand es dem Druck der Habsburger und der wiederholten Bedrohung durch Frankreich. 1806 wurde das Herzogtum zum Königreich Württemberg erhoben.",
-          "en": "The Duchy of Württemberg was one of the more significant territories in the southwest of the Holy Roman Empire. As a Protestant territory it resisted Habsburg pressure and repeated French threats. In 1806 the duchy was elevated to the Kingdom of Württemberg."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              7.5,
-              47.5
-            ],
-            [
-              8.5,
-              47.5
-            ],
-            [
-              8,
-              48.5
-            ],
-            [
-              8.5,
-              49
-            ],
-            [
-              7.5,
-              49.5
-            ],
-            [
-              7,
-              49
-            ],
-            [
-              7.5,
-              48
-            ],
-            [
-              7.5,
-              47.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "margraviate-of-baden",
-        "parentId": "holy-roman-empire",
-        "startYear": 1112,
-        "endYear": 1806,
-        "peakStartYear": 1500,
-        "peakEndYear": 1800,
-        "culturalSphere": "german",
-        "color": "#557744",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Markgrafschaft Baden",
-          "en": "Margraviate of Baden"
-        },
-        "description": {
-          "de": "Die Markgrafschaft Baden lag am Oberrhein im Südwesten des Heiligen Römischen Reiches. Strategisch zwischen Frankreich und den Habsburgern gelegen, war das Territorium oft Schauplatz militärischer Auseinandersetzungen. 1806 wurde es zum Großherzogtum Baden erhoben.",
-          "en": "The Margraviate of Baden lay on the Upper Rhine in the southwest of the Holy Roman Empire. Strategically situated between France and the Habsburgs, the territory was often a theater of military conflicts. In 1806 it was elevated to the Grand Duchy of Baden."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              25,
-              22
-            ],
-            [
-              36.5,
-              22
-            ],
-            [
-              36.5,
-              31.5
-            ],
-            [
-              32.5,
-              31.5
-            ],
-            [
-              29.5,
-              30.5
-            ],
-            [
-              25,
-              30.5
-            ],
-            [
-              25,
-              22
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "ottoman-eyalet-egypt",
+        "id": "ottoman-hejaz",
         "parentId": "ottoman-empire",
         "startYear": 1517,
-        "endYear": 1867,
-        "peakStartYear": 1550,
+        "endYear": 1900,
+        "peakStartYear": 1520,
         "peakEndYear": 1800,
         "culturalSphere": "ottoman",
-        "color": "#CC6600",
-        "opacity": 0.25,
+        "color": "#CC3333",
+        "opacity": 0.2,
         "labels": {
-          "de": "Eyalet Ägypten",
-          "en": "Eyalet of Egypt"
+          "de": "Osmanischer Hedschas",
+          "en": "Ottoman Hejaz"
         },
         "description": {
-          "de": "Das osmanische Ägypten wurde 1517 nach dem Sieg über die Mamluken eingerichtet und blieb ein schwierig zu kontrollierender Landstrich. Die mächtige Mamlukenkaste behielt erheblichen Einfluss. Muhammad Ali Paschas Staatsstreich 1805 begründete eine quasi-unabhängige Herrscherlinie.",
-          "en": "Ottoman Egypt was established in 1517 after the victory over the Mamluks and remained a difficult province to control. The powerful Mamluk caste retained considerable influence. Muhammad Ali Pasha's coup in 1805 established a quasi-independent ruling dynasty."
+          "de": "Die heiligen Städte Mekka und Medina unter osmanischer Oberhoheit, Grundlage des Kalifats-Anspruchs.",
+          "en": "The holy cities of Mecca and Medina under Ottoman suzerainty, basis of the caliphate claim."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              35.5,
-              29.5
-            ],
-            [
-              42.5,
-              29.5
-            ],
-            [
-              42.5,
-              37.5
-            ],
-            [
-              40,
-              37.5
-            ],
-            [
-              37.5,
-              37
-            ],
-            [
-              36.5,
-              36
-            ],
-            [
-              35.5,
-              36
-            ],
-            [
-              34.5,
-              33.5
-            ],
-            [
-              35.5,
-              31.5
-            ],
-            [
-              35.5,
-              29.5
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "ottoman-eyalet-syria",
+        "id": "ottoman-tripolitania",
         "parentId": "ottoman-empire",
-        "startYear": 1516,
-        "endYear": 1865,
-        "peakStartYear": 1550,
+        "startYear": 1551,
+        "endYear": 1900,
+        "peakStartYear": 1560,
         "peakEndYear": 1800,
         "culturalSphere": "ottoman",
-        "color": "#CC6600",
-        "opacity": 0.25,
+        "color": "#CC3333",
+        "opacity": 0.2,
         "labels": {
-          "de": "Eyalet Syrien / Damaskus",
-          "en": "Eyalet of Syria / Damascus"
+          "de": "Osmanisches Tripolitanien",
+          "en": "Ottoman Tripolitania"
         },
         "description": {
-          "de": "Das Eyalet Damaskus war eine der ersten osmanischen Provinzen in der Levante. Damaskus, eine der ältesten Städte der Welt, war ein wichtiges Zentrum für Handel, Gelehrsamkeit und die Pilgerrouten nach Mekka. Die Provinz wurde 1865 zu einem modernen Vilayet umstrukturiert.",
-          "en": "The Eyalet of Damascus was one of the first Ottoman provinces in the Levant. Damascus, one of the world's oldest cities, was an important center for trade, scholarship, and pilgrimage routes to Mecca. The province was restructured into a modern vilayet in 1865."
+          "de": "Osmanische Provinz im heutigen Libyen, wichtiger Stützpunkt der Barbareskenstaaten.",
+          "en": "Ottoman province in modern-day Libya, an important base of the Barbary States."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              39.5,
-              29.5
-            ],
-            [
-              48.5,
-              29.5
-            ],
-            [
-              48.5,
-              37.5
-            ],
-            [
-              45.5,
-              38
-            ],
-            [
-              44.5,
-              37.5
-            ],
-            [
-              42.5,
-              37.5
-            ],
-            [
-              42.5,
-              29.5
-            ],
-            [
-              39.5,
-              29.5
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "ottoman-eyalet-iraq",
-        "parentId": "ottoman-empire",
-        "startYear": 1535,
-        "endYear": 1831,
-        "peakStartYear": 1550,
-        "peakEndYear": 1800,
-        "culturalSphere": "ottoman",
-        "color": "#CC6600",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Eyalet Bagdad / Irak",
-          "en": "Eyalet of Baghdad / Iraq"
-        },
-        "description": {
-          "de": "Das Eyalet Bagdad umfasste das historische Mesopotamien und war strategisch zwischen dem Osmanischen Reich und dem safawidischen Persien gelegen. Bagdad, einst Hauptstadt des Abbasidischen Kalifats, war ein wichtiges Handelszentrum. Die Provinz wechselte mehrfach zwischen osmanischer und persischer Kontrolle.",
-          "en": "The Eyalet of Baghdad encompassed historic Mesopotamia and was strategically situated between the Ottoman Empire and Safavid Persia. Baghdad, once the capital of the Abbasid Caliphate, was an important trading center. The province changed hands multiple times between Ottoman and Persian control."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              20.5,
-              39.5
-            ],
-            [
-              28.5,
-              39.5
-            ],
-            [
-              30,
-              41
-            ],
-            [
-              28.5,
-              43
-            ],
-            [
-              26.5,
-              44.5
-            ],
-            [
-              24,
-              44.5
-            ],
-            [
-              22,
-              44
-            ],
-            [
-              20,
-              43
-            ],
-            [
-              19,
-              42
-            ],
-            [
-              20.5,
-              39.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "ottoman-eyalet-rumelia",
-        "parentId": "ottoman-empire",
-        "startYear": 1365,
-        "endYear": 1864,
-        "peakStartYear": 1450,
-        "peakEndYear": 1750,
-        "culturalSphere": "ottoman",
-        "color": "#CC6600",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Eyalet Rumelien / Balkan",
-          "en": "Eyalet of Rumelia / Balkans"
-        },
-        "description": {
-          "de": "Das Eyalet Rumelien war die bedeutendste und älteste osmanische Provinz auf dem Balkan. Es war das erste Gouverneursamt (Beylerbeylik) im europäischen Teil des Reiches und umfasste wichtige Städte wie Edirne, Sofia, Thessaloniki und Bitola.",
-          "en": "The Eyalet of Rumelia was the most significant and oldest Ottoman province in the Balkans. It was the first governorate (beylerbeylik) in the European part of the empire and encompassed important cities such as Edirne, Sofia, Thessaloniki, and Bitola."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              28,
-              36
-            ],
-            [
-              37,
-              36
-            ],
-            [
-              37,
-              42
-            ],
-            [
-              35.5,
-              42.5
-            ],
-            [
-              34,
-              42
-            ],
-            [
-              31,
-              41
-            ],
-            [
-              29,
-              41.5
-            ],
-            [
-              28,
-              41
-            ],
-            [
-              28,
-              36
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "ottoman-eyalet-anatolia",
-        "parentId": "ottoman-empire",
-        "startYear": 1393,
-        "endYear": 1867,
-        "peakStartYear": 1450,
-        "peakEndYear": 1800,
-        "culturalSphere": "ottoman",
-        "color": "#CC6600",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Eyalet Anatolien",
-          "en": "Eyalet of Anatolia"
-        },
-        "description": {
-          "de": "Das Eyalet Anatolien war eine der ersten und wichtigsten Kernprovinzen des Osmanischen Reiches in Kleinasien. Mit seiner Hauptstadt zunächst in Ankara, dann in Kütahya, umfasste es das Herz des anatolischen Hochlandes und war entscheidend für die osmanische Machtentfaltung.",
-          "en": "The Eyalet of Anatolia was one of the first and most important core provinces of the Ottoman Empire in Asia Minor. With its capital first in Ankara, then in Kütahya, it encompassed the heart of the Anatolian plateau and was crucial for Ottoman power projection."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -2,
-              32.5
-            ],
-            [
-              9,
-              32.5
-            ],
-            [
-              9,
-              37.5
-            ],
-            [
-              5,
-              37.5
-            ],
-            [
-              2,
-              37
-            ],
-            [
-              -2,
-              35
-            ],
-            [
-              -2,
-              32.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "ottoman-eyalet-algiers",
-        "parentId": "ottoman-empire",
-        "startYear": 1516,
-        "endYear": 1830,
-        "peakStartYear": 1580,
-        "peakEndYear": 1750,
-        "culturalSphere": "ottoman",
-        "color": "#CC6600",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Regentschaft Algier / Eyalet Maghreb",
-          "en": "Regency of Algiers / Eyalet of the Maghreb"
-        },
-        "description": {
-          "de": "Die Regentschaft Algier war eine semi-autonome osmanische Provinz in Nordafrika, gegründet durch die Barbarossa-Brüder. Als wichtige Seemacht im Mittelmeer kontrollierte sie den Seehandel und betrieb Korsarenaktivitäten. Sie entwickelte sich zunehmend zu einem de-facto-unabhängigen Staat.",
-          "en": "The Regency of Algiers was a semi-autonomous Ottoman province in North Africa, founded by the Barbarossa brothers. As an important maritime power in the Mediterranean, it controlled sea trade and conducted corsair activities. It increasingly developed into a de facto independent state."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              7.5,
-              30
-            ],
-            [
-              12,
-              30
-            ],
-            [
-              12,
-              37.5
-            ],
-            [
-              9,
-              37.5
-            ],
-            [
-              9,
-              32.5
-            ],
-            [
-              7.5,
-              32.5
-            ],
-            [
-              7.5,
-              30
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "ottoman-eyalet-tunis",
+        "id": "ottoman-tunisia",
         "parentId": "ottoman-empire",
         "startYear": 1574,
         "endYear": 1881,
-        "peakStartYear": 1600,
+        "peakStartYear": 1580,
         "peakEndYear": 1800,
         "culturalSphere": "ottoman",
-        "color": "#CC6600",
-        "opacity": 0.25,
+        "color": "#CC3333",
+        "opacity": 0.2,
         "labels": {
-          "de": "Eyalet Tunis / Regentschaft Tunis",
-          "en": "Eyalet of Tunis / Regency of Tunis"
+          "de": "Osmanisches Tunesien",
+          "en": "Ottoman Tunisia"
         },
         "description": {
-          "de": "Die Regentschaft Tunis war eine osmanische Provinz in Nordafrika, die nach der endgültigen osmanischen Rückeroberung von Spanien 1574 gegründet wurde. Tunis entwickelte sich zu einem halbautonomen Staat unter lokalen Beys. 1881 wurde das Gebiet durch Frankreich als Protektorat annektiert.",
-          "en": "The Regency of Tunis was an Ottoman province in North Africa, established after the final Ottoman reconquest from Spain in 1574. Tunis developed into a semi-autonomous state under local Beys. In 1881 the territory was annexed by France as a protectorate."
+          "de": "Osmanische Provinz Tunesien, nach dem Sieg über die Hafsiden 1574 eingerichtet.",
+          "en": "Ottoman province of Tunisia, established after the defeat of the Hafsids in 1574."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              11.5,
-              27
-            ],
-            [
-              15.5,
-              27
-            ],
-            [
-              15.5,
-              33
-            ],
-            [
-              13.5,
-              33
-            ],
-            [
-              12,
-              32.5
-            ],
-            [
-              11.5,
-              32
-            ],
-            [
-              11.5,
-              27
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "ottoman-eyalet-tripolitania",
-        "parentId": "ottoman-empire",
-        "startYear": 1551,
-        "endYear": 1912,
-        "peakStartYear": 1600,
-        "peakEndYear": 1835,
-        "culturalSphere": "ottoman",
-        "color": "#CC6600",
+        "id": "afsharid-dynasty",
+        "parentId": null,
+        "startYear": 1736,
+        "endYear": 1796,
+        "peakStartYear": 1736,
+        "peakEndYear": 1747,
+        "culturalSphere": "persian",
+        "color": "#9933CC",
         "opacity": 0.25,
         "labels": {
-          "de": "Eyalet Tripolitanien",
-          "en": "Eyalet of Tripolitania"
+          "de": "Afschariden",
+          "en": "Afsharid Dynasty"
         },
         "description": {
-          "de": "Das osmanische Tripolitanien umfasste das heutige Nordlibyen und war als Teil der Barbareskenküste ein bedeutendes Zentrum der nordafrikanischen Korsarenaktivitäten. Von 1711 bis 1835 regierte die Karamanli-Dynastie die Provinz faktisch als erbliche Monarchie.",
-          "en": "Ottoman Tripolitania encompassed modern northern Libya and was as part of the Barbary Coast a significant center of North African corsair activities. From 1711 to 1835 the Karamanli dynasty ruled the province de facto as a hereditary monarchy."
+          "de": "Kurzlebiges iranisches Reich unter dem Eroberer Nader Schah, der bis nach Indien und Zentralasien vordrang.",
+          "en": "Short-lived Iranian empire under the conqueror Nader Shah, who campaigned as far as India and Central Asia."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              36,
-              13.5
-            ],
-            [
-              43.5,
-              13.5
-            ],
-            [
-              45.5,
-              16
-            ],
-            [
-              43.5,
-              18.5
-            ],
-            [
-              43.5,
-              22
-            ],
-            [
-              39.5,
-              22
-            ],
-            [
-              37,
-              22
-            ],
-            [
-              37,
-              18.5
-            ],
-            [
-              36,
-              13.5
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "ottoman-eyalet-hejaz",
-        "parentId": "ottoman-empire",
-        "startYear": 1517,
-        "endYear": 1918,
-        "peakStartYear": 1550,
-        "peakEndYear": 1800,
-        "culturalSphere": "ottoman",
-        "color": "#CC6600",
+        "id": "imamate-of-oman",
+        "parentId": null,
+        "startYear": 1624,
+        "endYear": 1900,
+        "peakStartYear": 1698,
+        "peakEndYear": 1856,
+        "culturalSphere": "arabian",
+        "color": "#66AA99",
         "opacity": 0.25,
         "labels": {
-          "de": "Eyalet Hejaz / Arabien",
-          "en": "Eyalet of Arabia / Hejaz"
+          "de": "Imamat/Sultanat Oman",
+          "en": "Imamate/Sultanate of Oman"
         },
         "description": {
-          "de": "Das Eyalet Hejaz umfasste die heiligsten Städte des Islam, Mekka und Medina, und hatte damit eine überragende religiöse Bedeutung für das Osmanische Reich. Der osmanische Sultan beanspruchte den Titel des Beschützers der heiligen Stätten und damit eine religiöse Vorrangstellung in der islamischen Welt.",
-          "en": "The Eyalet of Hejaz encompassed Islam's holiest cities, Mecca and Medina, giving it supreme religious significance for the Ottoman Empire. The Ottoman sultan claimed the title of protector of the holy places, thereby asserting religious preeminence in the Islamic world."
+          "de": "Omanisches Seereich, das die Portugiesen aus dem Indischen Ozean verdrängte und zeitweise Sansibar kontrollierte.",
+          "en": "Omani maritime empire that expelled the Portuguese from the Indian Ocean and controlled Zanzibar."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              72,
-              8
-            ],
-            [
-              88,
-              8
-            ],
-            [
-              88,
-              28
-            ],
-            [
-              80,
-              30
-            ],
-            [
-              77,
-              34
-            ],
-            [
-              72,
-              30
-            ],
-            [
-              66,
-              24
-            ],
-            [
-              68,
-              15
-            ],
-            [
-              72,
-              8
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "maratha-empire",
-        "startYear": 1674,
-        "endYear": 1818,
-        "peakStartYear": 1720,
-        "peakEndYear": 1760,
-        "culturalSphere": "indian",
-        "color": "#228844",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Marathen-Reich",
-          "en": "Maratha Empire"
-        },
-        "description": {
-          "de": "Das Marathen-Reich, auch Marathen-Konföderation, war eine der letzten großen einheimischen Mächte des indischen Subkontinents vor der britischen Kolonisierung. Unter Shivaji 1674 gegründet, erstreckte es sich im 18. Jahrhundert über weite Teile Indiens und setzte dem Mughal-Reich entscheidend zu. Die Konföderation der großen Marathen-Dynastien – Scindia, Holkar, Bhonsle und Gaekwad – verkörperte das Ideal des Hindavi Swarajya (Selbstverwaltung).",
-          "en": "The Maratha Empire, also known as the Maratha Confederacy, was one of the last great indigenous powers of the Indian subcontinent before British colonization. Founded by Shivaji in 1674, it expanded across much of India in the 18th century and significantly undermined Mughal authority. The confederacy of great Maratha houses — Scindia, Holkar, Bhonsle, and Gaekwad — embodied the ideal of Hindavi Swarajya (self-rule)."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              124.5,
-              34
-            ],
-            [
-              130,
-              34
-            ],
-            [
-              130.5,
-              37
-            ],
-            [
-              129.5,
-              40
-            ],
-            [
-              128.5,
-              42.5
-            ],
-            [
-              126,
-              42
-            ],
-            [
-              124,
-              40
-            ],
-            [
-              124,
-              37
-            ],
-            [
-              124.5,
-              34
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "joseon-dynasty",
-        "startYear": 1392,
-        "endYear": 1897,
-        "peakStartYear": 1392,
-        "peakEndYear": 1897,
-        "culturalSphere": "korean",
-        "color": "#CC8899",
-        "opacity": 0.25,
-        "labels": {
-          "de": "Joseon-Dynastie",
-          "en": "Joseon Dynasty"
-        },
-        "description": {
-          "de": "Die Joseon-Dynastie herrschte 505 Jahre über Korea und prägte die koreanische Identität bis heute. Gegründet 1392 von Taejo Yi Seonggye, führte sie den Neokonfuzianismus als Staatsideologie ein und erlebte eine Blütezeit der koreanischen Kultur, Wissenschaft und Literatur, darunter die Schaffung des Hangul-Alphabets. Obwohl durch japanische und mandschurische Invasionen geschwächt, blieb Korea als ‚Einsiedlerkönigreich' von außen größtenteils isoliert.",
-          "en": "The Joseon dynasty ruled Korea for 505 years and profoundly shaped Korean identity to this day. Founded in 1392 by Taejo Yi Seonggye, it instituted Neo-Confucianism as the state ideology and experienced a flourishing of Korean culture, science, and literature, including the creation of the Hangul alphabet. Although weakened by Japanese and Manchu invasions, Korea remained largely isolated as the 'Hermit Kingdom'."
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              119.5,
-              21.5
-            ],
-            [
-              122,
-              21.5
-            ],
-            [
-              122.5,
-              25.5
-            ],
-            [
-              121.5,
-              25.5
-            ],
-            [
-              119.5,
-              24
-            ],
-            [
-              119.5,
-              21.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "qing-taiwan",
-        "parentId": "qing-dynasty",
-        "startYear": 1683,
-        "endYear": 1895,
+        "id": "qing-dynasty",
+        "parentId": null,
+        "startYear": 1636,
+        "endYear": 1900,
         "peakStartYear": 1683,
-        "peakEndYear": 1895,
-        "culturalSphere": "chinese",
-        "color": "#CC9900",
+        "peakEndYear": 1796,
+        "culturalSphere": "manchu",
+        "color": "#CC9933",
         "opacity": 0.25,
         "labels": {
-          "de": "Taiwan unter der Qing-Dynastie",
-          "en": "Taiwan under Qing Dynasty"
+          "de": "Qing-Dynastie",
+          "en": "Qing Dynasty"
         },
         "description": {
-          "de": "Taiwan kam 1683 nach dem Sieg der Qing-Flotte über das Ming-treue Königreich Tungning unter die Herrschaft der Qing-Dynastie. Über zwei Jahrhunderte als Präfektur der Provinz Fujian verwaltet, wurde Taiwan 1887 zur eigenständigen Provinz erhoben. Die Insel erlebte eine starke chinesische Einwanderung und wirtschaftliche Entwicklung. 1895 trat die Qing-Dynasty Taiwan nach der Niederlage im Ersten Japanisch-Chinesischen Krieg an Japan ab.",
-          "en": "Taiwan came under Qing dynasty rule in 1683 after the Qing fleet defeated the Ming-loyalist Kingdom of Tungning. Administered for two centuries as a prefecture of Fujian Province, Taiwan was elevated to its own province in 1887. The island saw significant Chinese immigration and economic development. In 1895, the Qing dynasty ceded Taiwan to Japan after defeat in the First Sino-Japanese War."
+          "de": "Letzte Kaiserdynastie Chinas, von den Mandschu gegründet. Erreichte unter den Kaisern Kangxi, Yongzheng und Qianlong ihre größte Ausdehnung.",
+          "en": "Last imperial dynasty of China, founded by the Manchu. Reached its greatest extent under the Kangxi, Yongzheng, and Qianlong emperors."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              119,
-              38
-            ],
-            [
-              135,
-              38
-            ],
-            [
-              135.5,
-              48
-            ],
-            [
-              130,
-              53
-            ],
-            [
-              122,
-              53
-            ],
-            [
-              115,
-              48
-            ],
-            [
-              119,
-              38
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
         "id": "qing-manchuria",
         "parentId": "qing-dynasty",
-        "startYear": 1644,
-        "endYear": 1912,
+        "startYear": 1636,
+        "endYear": 1900,
         "peakStartYear": 1644,
-        "peakEndYear": 1912,
-        "culturalSphere": "chinese",
-        "color": "#CC9900",
-        "opacity": 0.25,
+        "peakEndYear": 1800,
+        "culturalSphere": "manchu",
+        "color": "#CC9933",
+        "opacity": 0.2,
         "labels": {
-          "de": "Mandschurei (Qing-Heimat)",
-          "en": "Manchuria (Qing Homeland)"
+          "de": "Mandschurei (Qing)",
+          "en": "Manchuria (Qing)"
         },
         "description": {
-          "de": "Die Mandschurei war die ancestrale Heimat der Mandschu, der Gründer der Qing-Dynastie. Aus dieser Region brach 1644 die Qing-Armee auf und eroberte China. Als heiliges Stammland war die Mandschurei lange Zeit für Han-Chinesen gesperrt. Die Region umfasst das heutige Nordostchina und bildete die Basis der kaiserlichen Legitimität und militärischen Macht der Qing.",
-          "en": "Manchuria was the ancestral homeland of the Manchu people, founders of the Qing dynasty. From this region, the Qing army launched its conquest of China in 1644. As a sacred ancestral land, Manchuria was long closed to Han Chinese settlement. The region encompasses modern northeast China and formed the basis of Qing imperial legitimacy and military power."
+          "de": "Heimat der mandschurischen Herrscherdynastie im Nordosten Chinas. Für Han-Chinesen lange Zeit gesperrt.",
+          "en": "Homeland of the Manchu ruling dynasty in northeast China. Long closed to Han Chinese settlement."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              87,
-              42
-            ],
-            [
-              120,
-              42
-            ],
-            [
-              120,
-              50
-            ],
-            [
-              106,
-              52
-            ],
-            [
-              87,
-              50
-            ],
-            [
-              87,
-              42
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "qing-mongolia",
+        "id": "qing-outer-mongolia",
         "parentId": "qing-dynasty",
         "startYear": 1691,
-        "endYear": 1912,
+        "endYear": 1900,
         "peakStartYear": 1691,
-        "peakEndYear": 1912,
-        "culturalSphere": "chinese",
-        "color": "#CC9900",
-        "opacity": 0.25,
+        "peakEndYear": 1860,
+        "culturalSphere": "mongol",
+        "color": "#996633",
+        "opacity": 0.2,
         "labels": {
-          "de": "Mongolei unter der Qing-Dynastie",
-          "en": "Mongolia under Qing Dynasty"
+          "de": "Äußere Mongolei (Qing)",
+          "en": "Outer Mongolia (Qing)"
         },
         "description": {
-          "de": "Die Mongolei wurde 1691 vollständig in die Qing-Dynastie eingegliedert, nachdem die Khalkha-Fürsten Schutz vor den Dsungar-Invasionen gesucht hatten. Als Äußere Mongolei bildete sie über zwei Jahrhunderte eine Kernregion des Qing-Imperiums. Die Qing-Kaiser nutzten ihre mongolische Abstammungslegitimität, um die Kontrolle über die Steppenvölker zu wahren. Mit der Xinhai-Revolution 1911 erklärte die Mongolei ihre Unabhängigkeit.",
-          "en": "Mongolia was fully incorporated into the Qing dynasty in 1691 after the Khalkha princes sought protection from the Dzungar invasions. As Outer Mongolia it formed a core region of the Qing empire for over two centuries. Qing emperors utilized their Mongol descent legitimacy to maintain control over the steppe peoples. With the Xinhai Revolution of 1911, Mongolia declared its independence."
+          "de": "Qing-Protektorat über die mongolische Hochebene nach Unterwerfung der Khalkha-Mongolen.",
+          "en": "Qing protectorate over the Mongolian Plateau following the submission of the Khalkha Mongols."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              78,
-              26
-            ],
-            [
-              97,
-              26
-            ],
-            [
-              97,
-              36
-            ],
-            [
-              92,
-              37
-            ],
-            [
-              84,
-              36
-            ],
-            [
-              78,
-              32
-            ],
-            [
-              78,
-              26
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
         "id": "qing-tibet",
         "parentId": "qing-dynasty",
         "startYear": 1720,
-        "endYear": 1912,
+        "endYear": 1900,
         "peakStartYear": 1720,
-        "peakEndYear": 1912,
-        "culturalSphere": "chinese",
-        "color": "#CC9900",
-        "opacity": 0.25,
+        "peakEndYear": 1860,
+        "culturalSphere": "tibetan",
+        "color": "#9966CC",
+        "opacity": 0.2,
         "labels": {
-          "de": "Tibet unter der Qing-Dynastie",
-          "en": "Tibet under Qing Dynasty"
+          "de": "Tibet (Qing-Protektorat)",
+          "en": "Tibet (Qing Protectorate)"
         },
         "description": {
-          "de": "Tibet kam 1720 unter Qing-Herrschaft, als die Qing-Armee die invasierenden Dsungaren vertrieb. Als Protektorat bewahrte Tibet eine erhebliche innere Autonomie unter dem Dalai Lama, während die Qing-Kaiser ihre Beziehung als religiöse Schirmherrschaft (Patron-Priester-Verhältnis) definierten. Die Ammans (Qing-Residenten) überwachten die tibetische Verwaltung. Tibet blieb ein wichtiger spiritueller und strategischer Puffer für das Qing-Imperium.",
-          "en": "Tibet came under Qing rule in 1720 when Qing forces expelled the invading Dzungars. As a protectorate, Tibet retained considerable internal autonomy under the Dalai Lama, while Qing emperors defined their relationship as religious patronage (patron-priest relationship). Ambans (Qing residents) supervised Tibetan administration. Tibet remained an important spiritual and strategic buffer for the Qing empire."
+          "de": "Tibet unter Qing-Oberhoheit mit mandschurischen Ambanen als Residenten in Lhasa. Theokratie unter dem Dalai Lama.",
+          "en": "Tibet under Qing suzerainty with Manchu ambans as residents in Lhasa. Theocracy under the Dalai Lama."
         }
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              87,
-              22
-            ],
-            [
-              97,
-              22
-            ],
-            [
-              97,
-              28
-            ],
-            [
-              90,
-              28
-            ],
-            [
-              83,
-              27.5
-            ],
-            [
-              80,
-              26
-            ],
-            [
-              80,
-              24
-            ],
-            [
-              87,
-              22
-            ]
-          ]
-        ]
-      },
+      "geometry": null,
       "properties": {
-        "id": "mughal-bengal",
-        "parentId": "mughal-empire",
-        "startYear": 1576,
-        "endYear": 1765,
-        "peakStartYear": 1576,
-        "peakEndYear": 1757,
+        "id": "maratha-empire",
+        "parentId": null,
+        "startYear": 1674,
+        "endYear": 1818,
+        "peakStartYear": 1720,
+        "peakEndYear": 1761,
         "culturalSphere": "indian",
-        "color": "#228844",
+        "color": "#33CC99",
         "opacity": 0.25,
         "labels": {
-          "de": "Subah Bengalen",
-          "en": "Subah of Bengal"
+          "de": "Maratha-Reich",
+          "en": "Maratha Empire"
         },
         "description": {
-          "de": "Bengalen war die reichste Provinz des Mughal-Reiches und wurde von Kaiser Aurangzeb als ‚Paradies der Nationen' beschrieben. Eingegliedert nach der Niederlage des Bengalen-Sultanats 1576, bildete die Subah ein blühendes Zentrum für Textilindustrie, Schiffbau und internationalen Handel. Im 18. Jahrhundert erlangte sie unter den Nawabs von Bengalen de-facto-Unabhängigkeit, bevor die Britische Ostindien-Kompanie nach der Schlacht von Plassey 1757 die Kontrolle übernahm.",
-          "en": "Bengal was the wealthiest province of the Mughal empire, described by Emperor Aurangzeb as 'the paradise of nations'. Incorporated after the defeat of the Bengal Sultanate in 1576, the subah was a flourishing center of textile manufacturing, shipbuilding, and international trade. In the 18th century it achieved de facto independence under the Nawabs of Bengal before the British East India Company took control after the Battle of Plassey in 1757."
+          "de": "Hinduistisches Reich, gegruendet von Shivaji im westlichen Dekkan. Wurde zur dominierenden Macht auf dem Subkontinent nach dem Verfall der Moguln.",
+          "en": "Hindu empire founded by Shivaji in the western Deccan. Became the dominant power on the subcontinent after Mughal decline."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "nizam-of-hyderabad",
+        "parentId": null,
+        "startYear": 1724,
+        "endYear": 1900,
+        "peakStartYear": 1724,
+        "peakEndYear": 1798,
+        "culturalSphere": "mughal",
+        "color": "#CC9933",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Nizam von Hyderabad",
+          "en": "Nizam of Hyderabad"
+        },
+        "description": {
+          "de": "Nachfolgestaat des Mogulreiches im Dekkan, regiert von der Asaf-Jahi-Dynastie. Eines der groessten und reichsten Fuerstentuemer Indiens.",
+          "en": "Successor state of the Mughal Empire in the Deccan, ruled by the Asaf Jahi dynasty. One of the largest and richest princely states of India."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "luba-kingdom",
+        "parentId": null,
+        "startYear": 1585,
+        "endYear": 1889,
+        "peakStartYear": 1700,
+        "peakEndYear": 1800,
+        "culturalSphere": "bantu",
+        "color": "#996633",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Luba-Koenigreich",
+          "en": "Luba Kingdom"
+        },
+        "description": {
+          "de": "Zentralafrikanisches Koenigreich im heutigen suedlichen Kongo, bekannt fuer seine ausgefeilte politische Organisation und Kunst.",
+          "en": "Central African kingdom in present-day southern Congo, known for its sophisticated political organization and art."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "rozvi-empire",
+        "parentId": null,
+        "startYear": 1660,
+        "endYear": 1866,
+        "peakStartYear": 1690,
+        "peakEndYear": 1800,
+        "culturalSphere": "southern-african",
+        "color": "#669933",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Rozvi-Reich",
+          "en": "Rozvi Empire"
+        },
+        "description": {
+          "de": "Shona-Staat auf dem Simbabwe-Hochplateau, Nachfolger von Gross-Simbabwe. Bekannt als maechtigste Kriegermacht der Region.",
+          "en": "Shona state on the Zimbabwean Plateau, successor to Great Zimbabwe. Known as the most powerful warrior force in the region."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "kingdom-of-dahomey",
+        "parentId": null,
+        "startYear": 1600,
+        "endYear": 1894,
+        "peakStartYear": 1740,
+        "peakEndYear": 1840,
+        "culturalSphere": "west-african",
+        "color": "#CC9933",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Koenigreich Dahomey",
+          "en": "Kingdom of Dahomey"
+        },
+        "description": {
+          "de": "Westafrikanisches Koenigreich im heutigen Benin, bekannt fuer seine Amazonenarmee und den Vodun-Kult.",
+          "en": "West African kingdom in present-day Benin, known for its all-female military unit (the Amazons) and Vodun religious practices."
         }
       }
     }
