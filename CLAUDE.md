@@ -40,7 +40,7 @@ app/
     antiquity/
       cities.json          # source data — edit this
       events.json          # source data — edit this
-      regions.geojson      # source data — edit this
+      regions.json         # source data — edit this
       cities/              # pre-generated per-decade files (do not edit)
       events/              # pre-generated per-decade files (do not edit)
       regions/             # pre-generated per-decade files (do not edit)
@@ -114,8 +114,8 @@ loader: async ({ deps: { decade } }) => {
 { id, coordinates, year, type, culturalSphere[], labels, description }
 ```
 
-### regions.geojson
-GeoJSON FeatureCollection. Feature properties:
+### regions.json
+JSON array (same flat style as cities/events). Each entry:
 ```
 {
   id,
@@ -128,7 +128,8 @@ GeoJSON FeatureCollection. Feature properties:
   color,
   opacity,
   labels,
-  description
+  description,
+  geometry            # GeoJSON Polygon/MultiPolygon geometry
 }
 ```
 
@@ -147,7 +148,7 @@ visible when: displayStart <= decade && (displayEnd === null || displayEnd >= de
 
 **Always edit source files, then regenerate:**
 
-1. Edit source data in `app/data/antiquity/` (`cities.json`, `events.json`, `regions.geojson`)
+1. Edit source data in `app/data/antiquity/` (`cities.json`, `events.json`, `regions.json`)
 2. Regenerate pre-built decade files:
    ```sh
    PATH="/home/marc/.nvm/versions/node/v22.20.0/bin:/home/marc/.bun/bin:$PATH" bunx tsx scripts/generate-decades.ts

@@ -10,7 +10,7 @@ const dataDir = join(__dirname, "../app/data/antiquity");
 // Read existing data
 const cities = JSON.parse(readFileSync(join(dataDir, "cities.json"), "utf-8"));
 const events = JSON.parse(readFileSync(join(dataDir, "events.json"), "utf-8"));
-const regions = JSON.parse(readFileSync(join(dataDir, "regions.geojson"), "utf-8"));
+const regions = JSON.parse(readFileSync(join(dataDir, "regions.json"), "utf-8"));
 
 // Create directories
 mkdirSync(join(dataDir, "regions"), { recursive: true });
@@ -20,14 +20,17 @@ mkdirSync(join(dataDir, "events"), { recursive: true });
 let regionFiles = 0, cityFiles = 0, eventFiles = 0;
 
 for (let decade = -1000; decade <= 1900; decade += 10) {
-  // Regions: features where startYear <= decade && (endYear === null || endYear >= decade)
+  // Regions: filter by visibility window, then wrap back into GeoJSON FeatureCollection
+  const filtered = regions.filter((r: any) => {
+    const displayStart = r.peakStartYear ?? r.startYear;
+    const displayEnd = r.peakEndYear !== undefined ? r.peakEndYear : r.endYear;
+    return displayStart <= decade && (displayEnd === null || displayEnd >= decade);
+  });
   const filteredRegions = {
     type: "FeatureCollection",
-    features: regions.features.filter((f: any) => {
-      const props = f.properties;
-      const displayStart = props.peakStartYear ?? props.startYear;
-      const displayEnd = props.peakEndYear !== undefined ? props.peakEndYear : props.endYear;
-      return displayStart <= decade && (displayEnd === null || displayEnd >= decade);
+    features: filtered.map((r: any) => {
+      const { geometry, ...properties } = r;
+      return { type: "Feature", geometry, properties };
     }),
   };
   writeFileSync(

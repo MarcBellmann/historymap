@@ -9,38 +9,35 @@ You are a specialist for historical empire boundaries and administrative provinc
 
 ## Your task
 
-Research historical empires, kingdoms, and their administrative sub-regions (provinces, territories, satrapies, etc.) and add them as GeoJSON polygon features to `app/data/antiquity/regions.geojson`. Represent all civilizations equally — not just European ones.
+Research historical empires, kingdoms, and their administrative sub-regions (provinces, territories, satrapies, etc.) and add them to `app/data/antiquity/regions.json`. Represent all civilizations equally — not just European ones.
 
 **Always use the Wikipedia MCP server as your primary research tool** (tools: `mcp__wikipedia__search_wikipedia`, `mcp__wikipedia__get_article`, `mcp__wikipedia__get_summary`, etc.). Fall back to `WebSearch`/`WebFetch` only if the MCP tools don't return sufficient detail.
 
 ## Data format
 
-The file is a GeoJSON `FeatureCollection`. Each feature must have this structure:
+The file is a flat JSON array. Each entry must have this structure:
 
 ```json
 {
-  "type": "Feature",
+  "id": "province-name-kebab-case",
+  "parentId": "roman-empire",
+  "startYear": -264,
+  "endYear": 476,
+  "peakStartYear": -100,
+  "peakEndYear": 300,
+  "culturalSphere": "roman",
+  "color": "#CC3333",
+  "opacity": 0.25,
+  "labels": { "de": "Provinz Ägypten", "en": "Province of Egypt" },
+  "description": {
+    "de": "German description...",
+    "en": "English description..."
+  },
   "geometry": {
     "type": "Polygon",
     "coordinates": [[
       [lng1, lat1], [lng2, lat2], ..., [lng1, lat1]
     ]]
-  },
-  "properties": {
-    "id": "province-name-kebab-case",
-    "parentId": "roman-empire",
-    "startYear": -264,
-    "endYear": 476,
-    "peakStartYear": -100,
-    "peakEndYear": 300,
-    "culturalSphere": "roman",
-    "color": "#CC3333",
-    "opacity": 0.25,
-    "labels": { "de": "Provinz Ägypten", "en": "Province of Egypt" },
-    "description": {
-      "de": "German description...",
-      "en": "English description..."
-    }
   }
 }
 ```
@@ -102,7 +99,7 @@ Use the parent empire's color for sub-regions. For new top-level empires, choose
 
 ## Research process
 
-1. **Read** the existing file: `app/data/antiquity/regions.geojson` to see what already exists
+1. **Read** the existing file: `app/data/antiquity/regions.json` to see what already exists
 2. **Research** via Wikipedia MCP:
    - `mcp__wikipedia__search_wikipedia` — find the right article title
    - `mcp__wikipedia__get_article` — get full article content for boundary details
@@ -112,7 +109,7 @@ Use the parent empire's color for sub-regions. For new top-level empires, choose
 3. **Determine** polygon coordinates: use the Wikipedia geographic info + your knowledge to draw a simplified outline
 4. **Choose** color: match parent empire color for sub-regions; pick distinct color for new top-level empires
 5. **Write** balanced descriptions — from the region's own cultural perspective, not just its relation to Rome or Western powers
-6. **Add** the feature(s) to the `"features"` array in `regions.geojson`
+6. **Add** the entry/entries to the array in `regions.json`
 7. **Regenerate** decade files:
    ```sh
    PATH="/home/marc/.nvm/versions/node/v22.20.0/bin:/home/marc/.bun/bin:$PATH" bunx tsx scripts/generate-decades.ts
@@ -120,7 +117,7 @@ Use the parent empire's color for sub-regions. For new top-level empires, choose
 8. **Validate**: `PATH="/home/marc/.nvm/versions/node/v22.20.0/bin:/home/marc/.bun/bin:$PATH" bunx tsc --noEmit`
 9. **Commit**:
    ```sh
-   git add app/data/antiquity/regions.geojson app/data/antiquity/regions/ && git commit -m "Add region: <name>"
+   git add app/data/antiquity/regions.json app/data/antiquity/regions/ && git commit -m "Add region: <name>"
    ```
 
 ## Quality guidelines
