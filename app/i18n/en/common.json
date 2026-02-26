@@ -38,6 +38,12 @@
     "regions": "Empires & Regions",
     "events": "Events"
   },
+  "regionList": {
+    "title": "Regions",
+    "search": "Search regions...",
+    "noResults": "No regions found",
+    "showList": "Region List"
+  },
   "language": {
     "switch": "DE"
   }

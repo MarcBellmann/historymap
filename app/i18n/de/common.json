@@ -38,6 +38,12 @@
     "regions": "Reiche & Regionen",
     "events": "Ereignisse"
   },
+  "regionList": {
+    "title": "Regionen",
+    "search": "Regionen suchen...",
+    "noResults": "Keine Regionen gefunden",
+    "showList": "Regionenliste"
+  },
   "language": {
     "switch": "EN"
   }

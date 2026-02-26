@@ -5,9 +5,10 @@ import { Globe, Languages } from "lucide-react";
 import { MapView } from "~/components/Map/MapView";
 import { TimelineSlider } from "~/components/Timeline/TimelineSlider";
 import { DetailPanel } from "~/components/Detail/DetailPanel";
+import { RegionListPanel } from "~/components/RegionList/RegionListPanel";
 import { epochs, defaultEpoch } from "~/data/config";
 import { yearToDecade } from "~/lib/decadeUtils";
-import type { SelectedItem, City, HistoricalEvent } from "~/types/history";
+import type { SelectedItem, City, HistoricalEvent, RegionProperties } from "~/types/history";
 import type { FeatureCollection } from "geojson";
 
 const regionGlob = import.meta.glob<{ default: FeatureCollection }>(
@@ -78,6 +79,14 @@ function HomePage() {
     [navigate]
   );
 
+  const handleRegionFromList = useCallback(
+    (region: RegionProperties, year: number) => {
+      navigate({ search: { year }, replace: true });
+      setSelectedItem({ type: "region", data: region });
+    },
+    [navigate]
+  );
+
   const toggleLanguage = useCallback(() => {
     i18n.changeLanguage(lang === "de" ? "en" : "de");
   }, [lang, i18n]);
@@ -122,6 +131,13 @@ function HomePage() {
           lang={lang}
         />
       </div>
+
+      {/* Region List Panel (bottom-left, hidden when DetailPanel is open) */}
+      <RegionListPanel
+        lang={lang}
+        onSelectRegion={handleRegionFromList}
+        visible={selectedItem === null}
+      />
 
       {/* Detail Panel (bottom-left) */}
       {selectedItem && (

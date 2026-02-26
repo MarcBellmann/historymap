@@ -60,4 +60,14 @@ for (let decade = -1000; decade <= 1900; decade += 10) {
   eventFiles++;
 }
 
-console.log(`Done! Generated ${regionFiles} region files, ${cityFiles} city files, ${eventFiles} event files.`);
+// Generate region-index.json (all regions, no geometry — for the region list panel)
+const regionIndex = regions.map((r: any) => {
+  const { geometry, ...properties } = r;
+  return properties;
+});
+writeFileSync(
+  join(dataDir, "region-index.json"),
+  JSON.stringify(regionIndex, null, 2)
+);
+
+console.log(`Done! Generated ${regionFiles} region files, ${cityFiles} city files, ${eventFiles} event files, plus region-index.json (${regionIndex.length} regions).`);
