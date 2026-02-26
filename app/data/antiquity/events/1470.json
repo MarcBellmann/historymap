@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "portuguese-reach-west-africa",
+    "coordinates": [
+      -1.61,
+      6.69
+    ],
+    "year": 1471,
+    "type": "political",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Portugiesen erreichen die Goldküste",
+      "en": "Portuguese Reach the Gold Coast"
+    },
+    "description": {
+      "de": "Portugiesische Seefahrer erreichen die Goldküste (heutiges Ghana) und errichten den Handelsposten Elmina.",
+      "en": "Portuguese navigators reach the Gold Coast (modern Ghana) and establish the trading post of Elmina."
+    }
+  }
+]

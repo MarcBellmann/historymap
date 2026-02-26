@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "kingdom-of-israel-splits",
+    "coordinates": [
+      35.235,
+      31.778
+    ],
+    "year": -930,
+    "type": "political",
+    "culturalSphere": [
+      "jewish"
+    ],
+    "labels": {
+      "de": "Teilung des Königreichs Israel",
+      "en": "Division of the Kingdom of Israel"
+    },
+    "description": {
+      "de": "Nach Salomos Tod zerfällt das vereinigte Königreich Israel in das Nordreich Israel und das Südreich Juda — eine Spaltung mit weitreichenden Folgen.",
+      "en": "After Solomon's death, the united Kingdom of Israel splits into the northern Kingdom of Israel and the southern Kingdom of Judah — a division with far-reaching consequences."
+    }
+  }
+]

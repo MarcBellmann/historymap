@@ -1,1 +1,165 @@
-[]
+[
+  {
+    "id": "battle-of-mohacs",
+    "coordinates": [
+      18.68,
+      45.99
+    ],
+    "year": 1526,
+    "type": "battle",
+    "culturalSphere": [
+      "ottoman",
+      "hungarian"
+    ],
+    "labels": {
+      "de": "Schlacht bei Mohács",
+      "en": "Battle of Mohács"
+    },
+    "description": {
+      "de": "Sultan Süleiman der Prächtige vernichtete das ungarische Heer und König Ludwig II. fiel in der Schlacht. Die Niederlage führte zur Teilung Ungarns zwischen Osmanen und Habsburgern.",
+      "en": "Sultan Suleiman the Magnificent destroyed the Hungarian army and King Louis II died in battle. The defeat led to the partition of Hungary between the Ottomans and Habsburgs."
+    }
+  },
+  {
+    "id": "sack-of-rome-1527",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 1527,
+    "type": "battle",
+    "culturalSphere": [
+      "spanish",
+      "italian"
+    ],
+    "labels": {
+      "de": "Plünderung Roms (Sacco di Roma)",
+      "en": "Sack of Rome (1527)"
+    },
+    "description": {
+      "de": "Meuternde kaiserliche Truppen Karls V. plünderten Rom. Das Ereignis beendete die Hochrenaissance in Rom und erschütterte die politische Ordnung Italiens.",
+      "en": "Mutinous imperial troops of Charles V sacked Rome. The event ended the High Renaissance in Rome and shook the political order of Italy."
+    }
+  },
+  {
+    "id": "ottoman-siege-of-vienna-1529",
+    "coordinates": [
+      16.373,
+      48.209
+    ],
+    "year": 1529,
+    "type": "battle",
+    "culturalSphere": [
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Osmanische Belagerung Wiens",
+      "en": "Ottoman Siege of Vienna"
+    },
+    "description": {
+      "de": "Sultan Süleyman der Prächtige belagert Wien, den Höhepunkt der osmanischen Expansion in Europa. Die gescheiterte Belagerung markiert die Westgrenze osmanischer Macht.",
+      "en": "Sultan Suleiman the Magnificent besieges Vienna, the high point of Ottoman expansion in Europe. The failed siege marks the western limit of Ottoman power."
+    }
+  },
+  {
+    "id": "fall-of-majapahit",
+    "coordinates": [
+      112.75,
+      -7.25
+    ],
+    "year": 1527,
+    "type": "political",
+    "culturalSphere": [
+      "indonesian"
+    ],
+    "labels": {
+      "de": "Fall von Majapahit",
+      "en": "Fall of Majapahit"
+    },
+    "description": {
+      "de": "Das Sultanat Demak eroberte die letzte Majapahit-Hauptstadt. Der Fall des letzten großen Hindu-buddhistischen Reiches markierte den Aufstieg des Islam auf Java.",
+      "en": "The Sultanate of Demak conquered the last Majapahit capital. The fall of the last great Hindu-Buddhist empire marked the rise of Islam on Java."
+    }
+  },
+  {
+    "id": "first-battle-of-panipat",
+    "coordinates": [
+      76.97,
+      29.39
+    ],
+    "year": 1526,
+    "type": "battle",
+    "culturalSphere": [
+      "mughal"
+    ],
+    "labels": {
+      "de": "Erste Schlacht von Panipat",
+      "en": "First Battle of Panipat"
+    },
+    "description": {
+      "de": "Babur besiegt Sultan Ibrahim Lodi und gründet das Mogulreich, das Nordindien für über drei Jahrhunderte prägen wird.",
+      "en": "Babur defeats Sultan Ibrahim Lodi at Panipat, founding the Mughal Empire that will dominate northern India for over three centuries."
+    }
+  },
+  {
+    "id": "battle-of-khanwa",
+    "coordinates": [
+      76.6,
+      26.9
+    ],
+    "year": 1527,
+    "type": "battle",
+    "culturalSphere": [
+      "mughal"
+    ],
+    "labels": {
+      "de": "Schlacht von Khanwa",
+      "en": "Battle of Khanwa"
+    },
+    "description": {
+      "de": "Babur besiegt die Rajputen-Konföderation unter Rana Sanga und festigt die Mogulherrschaft über Nordindien.",
+      "en": "Babur defeats the Rajput confederation under Rana Sanga, consolidating Mughal control over northern India."
+    }
+  },
+  {
+    "id": "transatlantic-slave-trade-begins",
+    "coordinates": [
+      -17.44,
+      14.69
+    ],
+    "year": 1526,
+    "type": "political",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Beginn des transatlantischen Sklavenhandels",
+      "en": "Transatlantic Slave Trade Begins"
+    },
+    "description": {
+      "de": "Der systematische transatlantische Sklavenhandel beginnt; König Afonso I. des Kongo protestiert vergeblich gegen die Verschleppung seines Volkes.",
+      "en": "The systematic transatlantic slave trade begins; King Afonso I of Kongo protests in vain against the enslavement of his people."
+    }
+  },
+  {
+    "id": "spanish-conquest-aztecs",
+    "coordinates": [
+      -99.13,
+      19.43
+    ],
+    "year": 1521,
+    "type": "battle",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Fall von Tenochtitlan",
+      "en": "Fall of Tenochtitlan"
+    },
+    "description": {
+      "de": "Hernán Cortés und seine indigenen Verbündeten erobern Tenochtitlan nach monatelanger Belagerung und beenden das Azteken-Reich.",
+      "en": "Hernán Cortés and his indigenous allies capture Tenochtitlan after months of siege, ending the Aztec Empire."
+    }
+  }
+]

@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "magna-carta",
+    "coordinates": [
+      -0.56,
+      51.44
+    ],
+    "year": 1215,
+    "type": "political",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Magna Carta",
+      "en": "Magna Carta"
+    },
+    "description": {
+      "de": "König Johann von England unterzeichnete die Magna Carta in Runnymede. Die Urkunde begrenzte erstmals die königliche Macht und gilt als Grundstein des modernen Verfassungsrechts.",
+      "en": "King John of England signed the Magna Carta at Runnymede. The charter first limited royal power and is considered a cornerstone of modern constitutional law."
+    }
+  },
+  {
+    "id": "mongol-conquest-jin-zhongdu",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "year": 1215,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Mongolen erobern Zhongdu (Peking)",
+      "en": "Mongol Capture of Zhongdu (Beijing)"
+    },
+    "description": {
+      "de": "Die Mongolen unter Dschingis Khan eroberten und plünderten Zhongdu, die Hauptstadt der Jurchen-Jin-Dynastie. Die Stadt wurde weitgehend zerstört.",
+      "en": "The Mongols under Genghis Khan captured and sacked Zhongdu, the capital of the Jurchen Jin dynasty. The city was largely destroyed."
+    }
+  }
+]

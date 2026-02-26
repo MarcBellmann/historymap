@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "chavin-culture-peak",
+    "coordinates": [
+      -77.18,
+      -9.59
+    ],
+    "year": -800,
+    "type": "cultural",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Blütezeit der Chavín-Kultur",
+      "en": "Chavín Culture at Its Peak"
+    },
+    "description": {
+      "de": "Chavín de Huántar wird zum religiösen Zentrum der Zentralanden und beeinflusst die Entwicklung nachfolgender Andenkulturen.",
+      "en": "Chavín de Huántar becomes the religious center of the central Andes, influencing the development of subsequent Andean cultures."
+    }
+  }
+]

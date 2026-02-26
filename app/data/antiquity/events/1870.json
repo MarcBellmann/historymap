@@ -1,1 +1,185 @@
-[]
+[
+  {
+    "id": "battle-of-sedan",
+    "coordinates": [
+      4.95,
+      49.7
+    ],
+    "year": 1870,
+    "type": "battle",
+    "culturalSphere": [
+      "french",
+      "prussian"
+    ],
+    "labels": {
+      "de": "Schlacht von Sedan",
+      "en": "Battle of Sedan"
+    },
+    "description": {
+      "de": "Die preußische Armee umzingelte und vernichtete die französische Armee bei Sedan und nahm Kaiser Napoleon III. gefangen. Die Niederlage beendete das Zweite Kaiserreich und führte zur Gründung der Dritten Republik.",
+      "en": "The Prussian army encircled and destroyed the French army at Sedan, capturing Emperor Napoleon III. The defeat ended the Second Empire and led to the founding of the Third Republic."
+    }
+  },
+  {
+    "id": "unification-of-germany",
+    "coordinates": [
+      2.32,
+      48.87
+    ],
+    "year": 1871,
+    "type": "political",
+    "culturalSphere": [
+      "prussian"
+    ],
+    "labels": {
+      "de": "Gründung des Deutschen Kaiserreichs",
+      "en": "Unification of Germany"
+    },
+    "description": {
+      "de": "Im Spiegelsaal von Versailles wurde das Deutsche Kaiserreich unter Kaiser Wilhelm I. proklamiert. Die Reichsgründung veränderte das europäische Machtgefüge grundlegend.",
+      "en": "The German Empire was proclaimed in the Hall of Mirrors at Versailles under Kaiser Wilhelm I. The unification fundamentally changed the European balance of power."
+    }
+  },
+  {
+    "id": "paris-commune",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "year": 1871,
+    "type": "political",
+    "culturalSphere": [
+      "french"
+    ],
+    "labels": {
+      "de": "Pariser Kommune",
+      "en": "Paris Commune"
+    },
+    "description": {
+      "de": "Nach Frankreichs Niederlage im Deutsch-Französischen Krieg errichteten Arbeiter und Radikale eine revolutionäre Regierung in Paris. Die blutige Niederschlagung nach 72 Tagen wurde zur Ikone der Arbeiterbewegung.",
+      "en": "After France's defeat in the Franco-Prussian War, workers and radicals established a revolutionary government in Paris. Its bloody suppression after 72 days became an icon of the labor movement."
+    }
+  },
+  {
+    "id": "first-ottoman-constitution",
+    "coordinates": [
+      28.978,
+      41.008
+    ],
+    "year": 1876,
+    "type": "political",
+    "culturalSphere": [
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Erste osmanische Verfassung",
+      "en": "First Ottoman Constitution"
+    },
+    "description": {
+      "de": "Sultan Abdülhamid II. verkündet die erste osmanische Verfassung (Kanun-i Esasi) mit einem Zweikammerparlament — ein kurzlebiger Versuch der konstitutionellen Monarchie.",
+      "en": "Sultan Abdulhamid II promulgates the first Ottoman constitution (Kanun-i Esasi) with a bicameral parliament — a short-lived attempt at constitutional monarchy."
+    }
+  },
+  {
+    "id": "ganghwa-island-incident",
+    "coordinates": [
+      126.49,
+      37.73
+    ],
+    "year": 1876,
+    "type": "political",
+    "culturalSphere": [
+      "korean",
+      "japanese"
+    ],
+    "labels": {
+      "de": "Vertrag von Ganghwa – Erzwungene Öffnung Koreas",
+      "en": "Treaty of Ganghwa – Forced Opening of Korea"
+    },
+    "description": {
+      "de": "Japan erzwang die Öffnung Koreas durch den Vertrag von Ganghwa, ähnlich wie die USA Japan 1854 geöffnet hatten. Korea wurde in den internationalen Handel integriert.",
+      "en": "Japan forced the opening of Korea through the Treaty of Ganghwa, mirroring how the US had opened Japan in 1854. Korea was brought into international trade."
+    }
+  },
+  {
+    "id": "satsuma-rebellion",
+    "coordinates": [
+      130.56,
+      32.8
+    ],
+    "year": 1877,
+    "type": "battle",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Satsuma-Aufstand",
+      "en": "Satsuma Rebellion"
+    },
+    "description": {
+      "de": "Saigō Takamori führte den letzten Samurai-Aufstand gegen die Meiji-Regierung. Die Niederlage markierte das endgültige Ende der Samurai-Klasse in Japan.",
+      "en": "Saigō Takamori led the last samurai rebellion against the Meiji government. The defeat marked the definitive end of the samurai class in Japan."
+    }
+  },
+  {
+    "id": "ashanti-wars",
+    "coordinates": [
+      -1.62,
+      6.69
+    ],
+    "year": 1874,
+    "type": "battle",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Dritter Aschanti-Krieg",
+      "en": "Third Anglo-Ashanti War"
+    },
+    "description": {
+      "de": "Die Briten besiegen das mächtige Aschanti-Reich in Westafrika und plündern die Hauptstadt Kumasi.",
+      "en": "The British defeat the powerful Ashanti Empire in West Africa and sack the capital Kumasi."
+    }
+  },
+  {
+    "id": "anglo-zulu-war",
+    "coordinates": [
+      30.35,
+      -28.35
+    ],
+    "year": 1879,
+    "type": "battle",
+    "culturalSphere": [
+      "bantu"
+    ],
+    "labels": {
+      "de": "Anglo-Zulu-Krieg",
+      "en": "Anglo-Zulu War"
+    },
+    "description": {
+      "de": "Die Zulu besiegen die Briten zunächst bei Isandlwana, werden aber schließlich bei Ulundi geschlagen und ihr Reich aufgelöst.",
+      "en": "The Zulu initially defeat the British at Isandlwana but are eventually defeated at Ulundi and their kingdom dissolved."
+    }
+  },
+  {
+    "id": "war-of-the-pacific",
+    "coordinates": [
+      -70.14,
+      -20.21
+    ],
+    "year": 1879,
+    "type": "battle",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Salpeterkrieg",
+      "en": "War of the Pacific"
+    },
+    "description": {
+      "de": "Chile besiegt Peru und Bolivien im Salpeterkrieg und gewinnt die rohstoffreiche Atacama-Wüste.",
+      "en": "Chile defeats Peru and Bolivia in the War of the Pacific, gaining the resource-rich Atacama Desert."
+    }
+  }
+]

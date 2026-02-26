@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "tiwanaku-peak",
+    "coordinates": [
+      -68.67,
+      -16.55
+    ],
+    "year": 700,
+    "type": "cultural",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Blütezeit von Tiwanaku",
+      "en": "Tiwanaku at Its Peak"
+    },
+    "description": {
+      "de": "Die Stadt Tiwanaku am Titicacasee erreicht ihren Höhepunkt als religiöses und politisches Zentrum der Anden.",
+      "en": "The city of Tiwanaku on Lake Titicaca reaches its peak as a religious and political center of the Andes."
+    }
+  }
+]

@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "founding-of-kievan-rus",
+    "coordinates": [
+      30.52,
+      50.45
+    ],
+    "year": 882,
+    "type": "foundation",
+    "culturalSphere": [
+      "norse",
+      "slavic"
+    ],
+    "labels": {
+      "de": "Gründung der Kiewer Rus",
+      "en": "Founding of Kievan Rus'"
+    },
+    "description": {
+      "de": "Der Warägerfürst Oleg vereinigte Nowgorod und Kiew und begründete die Kiewer Rus. Dieses Reich wurde zur Keimzelle der späteren ostslawischen Staaten Russland, Ukraine und Belarus.",
+      "en": "The Varangian prince Oleg united Novgorod and Kiev, founding Kievan Rus'. This state became the nucleus of the later East Slavic states of Russia, Ukraine, and Belarus."
+    }
+  }
+]

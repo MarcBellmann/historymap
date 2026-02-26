@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "roman-republic-established",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": -509,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Gründung der Römischen Republik",
+      "en": "Establishment of the Roman Republic"
+    },
+    "description": {
+      "de": "Nach der Vertreibung des letzten etruskischen Königs Tarquinius Superbus wurde die Römische Republik mit gewählten Konsuln errichtet — ein System, das fast 500 Jahre Bestand hatte.",
+      "en": "After the expulsion of the last Etruscan king Tarquinius Superbus, the Roman Republic was established with elected consuls — a system that endured for nearly 500 years."
+    }
+  },
+  {
+    "id": "athenian-democracy",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": -508,
+    "type": "political",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Einführung der Demokratie in Athen",
+      "en": "Establishment of Athenian Democracy"
+    },
+    "description": {
+      "de": "Kleisthenes führte in Athen die Demokratie ein, mit der Volksversammlung als oberstem Entscheidungsorgan. Diese Reform gilt als Geburtsstunde der westlichen Demokratie.",
+      "en": "Cleisthenes introduced democracy in Athens, with the popular assembly as the supreme decision-making body. This reform is considered the birth of Western democracy."
+    }
+  }
+]

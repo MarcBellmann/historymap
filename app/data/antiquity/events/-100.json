@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "nazca-lines-peak",
+    "coordinates": [
+      -75.13,
+      -14.74
+    ],
+    "year": -100,
+    "type": "cultural",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Entstehung der Nazca-Linien",
+      "en": "Creation of the Nazca Lines"
+    },
+    "description": {
+      "de": "Die Nazca-Kultur in Südperu schafft riesige Geoglyphen in der Wüste, deren Zweck bis heute rätselhaft ist.",
+      "en": "The Nazca culture in southern Peru creates enormous geoglyphs in the desert, whose purpose remains enigmatic to this day."
+    }
+  }
+]

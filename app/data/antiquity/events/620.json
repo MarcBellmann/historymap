@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "hijra-muhammad",
+    "coordinates": [
+      39.611,
+      24.467
+    ],
+    "year": 622,
+    "type": "cultural",
+    "culturalSphere": [
+      "islamic",
+      "arab"
+    ],
+    "labels": {
+      "de": "Hidschra Mohammeds",
+      "en": "Hijra of Muhammad"
+    },
+    "description": {
+      "de": "Mohammed wandert mit seinen Anhängern von Mekka nach Medina aus und gründet die erste islamische Gemeinschaft. Das Jahr Null des islamischen Kalenders.",
+      "en": "Muhammad migrates with his followers from Mecca to Medina and establishes the first Islamic community. Year zero of the Islamic calendar."
+    }
+  },
+  {
+    "id": "battle-of-badr",
+    "coordinates": [
+      38.779,
+      23.744
+    ],
+    "year": 624,
+    "type": "battle",
+    "culturalSphere": [
+      "islamic",
+      "arab"
+    ],
+    "labels": {
+      "de": "Schlacht von Badr",
+      "en": "Battle of Badr"
+    },
+    "description": {
+      "de": "Die erste große Schlacht des Islam: Mohammed besiegt mit rund 300 Anhängern eine überlegene mekkanische Armee. Ein entscheidender Moment für die junge muslimische Gemeinschaft.",
+      "en": "The first major battle of Islam: Muhammad defeats a superior Meccan army with around 300 followers. A decisive moment for the young Muslim community."
+    }
+  }
+]

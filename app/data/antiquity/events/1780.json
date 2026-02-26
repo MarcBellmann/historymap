@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "storming-of-the-bastille",
+    "coordinates": [
+      2.37,
+      48.85
+    ],
+    "year": 1789,
+    "type": "political",
+    "culturalSphere": [
+      "french"
+    ],
+    "labels": {
+      "de": "Sturm auf die Bastille",
+      "en": "Storming of the Bastille"
+    },
+    "description": {
+      "de": "Revolutionäre stürmten die Bastille in Paris, Symbol der königlichen Willkür. Das Ereignis wurde zum Startschuss der Französischen Revolution, die die politische Ordnung Europas umwälzte.",
+      "en": "Revolutionaries stormed the Bastille in Paris, a symbol of royal tyranny. The event became the starting signal of the French Revolution, which transformed the political order of Europe."
+    }
+  },
+  {
+    "id": "declaration-rights-of-man",
+    "coordinates": [
+      2.32,
+      48.86
+    ],
+    "year": 1789,
+    "type": "political",
+    "culturalSphere": [
+      "french"
+    ],
+    "labels": {
+      "de": "Erklärung der Menschen- und Bürgerrechte",
+      "en": "Declaration of the Rights of Man"
+    },
+    "description": {
+      "de": "Die französische Nationalversammlung verabschiedete die Erklärung der Menschen- und Bürgerrechte. Das Dokument wurde zur Grundlage moderner Menschenrechte und demokratischer Verfassungen weltweit.",
+      "en": "The French National Assembly adopted the Declaration of the Rights of Man and of the Citizen. The document became the foundation for modern human rights and democratic constitutions worldwide."
+    }
+  },
+  {
+    "id": "founding-of-bangkok",
+    "coordinates": [
+      100.5,
+      13.76
+    ],
+    "year": 1782,
+    "type": "foundation",
+    "culturalSphere": [
+      "thai"
+    ],
+    "labels": {
+      "de": "Gründung von Bangkok – Chakri-Dynastie",
+      "en": "Founding of Bangkok – Chakri Dynasty"
+    },
+    "description": {
+      "de": "König Rama I. gründete die Chakri-Dynastie und verlegte die Hauptstadt nach Bangkok. Die neue Dynastie regiert Thailand bis heute.",
+      "en": "King Rama I founded the Chakri dynasty and moved the capital to Bangkok. The new dynasty rules Thailand to this day."
+    }
+  },
+  {
+    "id": "tupac-amaru-rebellion",
+    "coordinates": [
+      -71.97,
+      -13.52
+    ],
+    "year": 1780,
+    "type": "battle",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Aufstand von Túpac Amaru II.",
+      "en": "Túpac Amaru II Rebellion"
+    },
+    "description": {
+      "de": "Túpac Amaru II. führt den größten Aufstand gegen die spanische Kolonialherrschaft in Südamerika an.",
+      "en": "Túpac Amaru II leads the largest rebellion against Spanish colonial rule in South America."
+    }
+  }
+]

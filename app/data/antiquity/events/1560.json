@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "oda-nobunaga-unification",
+    "coordinates": [
+      136.91,
+      35.18
+    ],
+    "year": 1568,
+    "type": "political",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Oda Nobunagas Marsch auf Kyoto",
+      "en": "Oda Nobunaga's March on Kyoto"
+    },
+    "description": {
+      "de": "Oda Nobunaga marschierte in Kyoto ein und begann die Wiedervereinigung Japans nach über einem Jahrhundert Bürgerkrieg in der Sengoku-Zeit.",
+      "en": "Oda Nobunaga marched into Kyoto and began the reunification of Japan after over a century of civil war in the Sengoku period."
+    }
+  },
+  {
+    "id": "spanish-colonization-philippines",
+    "coordinates": [
+      120.98,
+      14.6
+    ],
+    "year": 1565,
+    "type": "political",
+    "culturalSphere": [
+      "malay"
+    ],
+    "labels": {
+      "de": "Spanische Kolonisierung der Philippinen",
+      "en": "Spanish Colonization of the Philippines"
+    },
+    "description": {
+      "de": "Miguel López de Legazpi begründete die spanische Kolonialherrschaft über die Philippinen von Cebu aus, die über 300 Jahre andauern sollte.",
+      "en": "Miguel López de Legazpi established Spanish colonial rule over the Philippines from Cebu, which would last over 300 years."
+    }
+  },
+  {
+    "id": "battle-of-talikota",
+    "coordinates": [
+      76.04,
+      15.96
+    ],
+    "year": 1565,
+    "type": "battle",
+    "culturalSphere": [
+      "dravidian"
+    ],
+    "labels": {
+      "de": "Schlacht von Talikota",
+      "en": "Battle of Talikota"
+    },
+    "description": {
+      "de": "Eine Koalition der Dekkan-Sultanate besiegt das Vijayanagara-Reich vernichtend; die prächtige Hauptstadt wird zerstört.",
+      "en": "A coalition of Deccan sultanates decisively defeats the Vijayanagara Empire; its magnificent capital is destroyed."
+    }
+  },
+  {
+    "id": "akbar-conquers-rajputana",
+    "coordinates": [
+      75.86,
+      26.45
+    ],
+    "year": 1568,
+    "type": "battle",
+    "culturalSphere": [
+      "mughal"
+    ],
+    "labels": {
+      "de": "Akbar erobert Rajputana",
+      "en": "Akbar Conquers Rajputana"
+    },
+    "description": {
+      "de": "Mogulkaiser Akbar erobert die Festung Chittorgarh und unterwirft die meisten Rajputen-Staaten durch Diplomatie und Krieg.",
+      "en": "Mughal emperor Akbar captures the fortress of Chittorgarh, subjugating most Rajput states through diplomacy and warfare."
+    }
+  }
+]

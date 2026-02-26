@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "battle-of-changping",
+    "coordinates": [
+      112.92,
+      35.8
+    ],
+    "year": -260,
+    "type": "battle",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Schlacht von Changping",
+      "en": "Battle of Changping"
+    },
+    "description": {
+      "de": "In der blutigsten Schlacht der Antike besiegte Qin den Staat Zhao und tötete nach Überlieferung 400.000 Kriegsgefangene. Zhao erholte sich nie davon, was Qins Aufstieg zur Dominanz ebnete.",
+      "en": "In antiquity's bloodiest battle, Qin defeated the state of Zhao and reportedly killed 400,000 prisoners of war. Zhao never recovered, paving the way for Qin's rise to dominance."
+    }
+  }
+]

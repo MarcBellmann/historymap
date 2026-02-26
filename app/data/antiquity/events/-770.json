@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "spring-autumn-period-begins",
+    "coordinates": [
+      112.45,
+      34.62
+    ],
+    "year": -770,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Beginn der Frühlings- und Herbstperiode",
+      "en": "Spring and Autumn Period Begins"
+    },
+    "description": {
+      "de": "Nach der Verlegung der Zhou-Hauptstadt nach Luoyang begann eine Ära rivalisierender Feudalstaaten, in der die Macht des Zhou-Königs zunehmend zeremoniell wurde.",
+      "en": "After the relocation of the Zhou capital to Luoyang, an era of rival feudal states began in which the Zhou king's power became increasingly ceremonial."
+    }
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "birth-of-confucius",
+    "coordinates": [
+      116.99,
+      35.6
+    ],
+    "year": -551,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Geburt des Konfuzius",
+      "en": "Birth of Confucius"
+    },
+    "description": {
+      "de": "Konfuzius wurde in Qufu im Staat Lu geboren. Seine Lehren über Moral, Regierung und soziale Harmonie prägten die ostasiatische Zivilisation über zwei Jahrtausende.",
+      "en": "Confucius was born in Qufu in the state of Lu. His teachings on morality, governance, and social harmony shaped East Asian civilization for over two millennia."
+    }
+  }
+]

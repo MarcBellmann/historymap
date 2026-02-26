@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "vijayanagara-founded",
+    "coordinates": [
+      76.46,
+      15.33
+    ],
+    "year": 1336,
+    "type": "foundation",
+    "culturalSphere": [
+      "dravidian"
+    ],
+    "labels": {
+      "de": "Gründung des Vijayanagara-Reiches",
+      "en": "Vijayanagara Empire Founded"
+    },
+    "description": {
+      "de": "Harihara I. und Bukka Raya gründen das Vijayanagara-Reich im Dekkan als Bollwerk gegen die islamische Expansion nach Südindien.",
+      "en": "Harihara I and Bukka Raya found the Vijayanagara Empire in the Deccan as a bulwark against Islamic expansion into southern India."
+    }
+  },
+  {
+    "id": "ibn-battuta-visits-delhi",
+    "coordinates": [
+      77.23,
+      28.61
+    ],
+    "year": 1334,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Ibn Battuta besucht Delhi",
+      "en": "Ibn Battuta Visits Delhi"
+    },
+    "description": {
+      "de": "Der Reisende Ibn Battuta erreicht Delhi und dient Sultan Muhammad bin Tughluq acht Jahre lang als Richter.",
+      "en": "The traveler Ibn Battuta reaches Delhi and serves Sultan Muhammad bin Tughluq as a judge for eight years."
+    }
+  }
+]

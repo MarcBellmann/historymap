@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "bar-kokhba-revolt",
+    "coordinates": [
+      35.235,
+      31.778
+    ],
+    "year": 132,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "jewish"
+    ],
+    "labels": {
+      "de": "Bar-Kochba-Aufstand",
+      "en": "Bar Kokhba Revolt"
+    },
+    "description": {
+      "de": "Simon bar Kochba führt den letzten großen jüdischen Aufstand gegen Rom. Nach seiner Niederschlagung wird Judäa in Syria Palaestina umbenannt und Juden der Zutritt zu Jerusalem verboten.",
+      "en": "Simon bar Kokhba leads the last major Jewish revolt against Rome. After its suppression, Judea is renamed Syria Palaestina and Jews are banned from Jerusalem."
+    }
+  }
+]

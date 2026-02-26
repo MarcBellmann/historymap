@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "samudragupta-conquests",
+    "coordinates": [
+      81.85,
+      25.43
+    ],
+    "year": 350,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Samudraguptas Eroberungen",
+      "en": "Samudragupta's Conquests"
+    },
+    "description": {
+      "de": "Samudragupta unterwirft zahlreiche Königreiche und dehnt das Gupta-Reich über fast den gesamten indischen Subkontinent aus.",
+      "en": "Samudragupta subjugates numerous kingdoms, extending the Gupta Empire across nearly the entire Indian subcontinent."
+    }
+  },
+  {
+    "id": "aksum-destroys-meroe",
+    "coordinates": [
+      33.75,
+      16.94
+    ],
+    "year": 350,
+    "type": "battle",
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Aksum zerstört Meroë",
+      "en": "Aksum Destroys Meroë"
+    },
+    "description": {
+      "de": "König Ezana von Aksum führt einen Feldzug gegen das geschwächte Königreich Kusch und zerstört dessen Hauptstadt Meroë.",
+      "en": "King Ezana of Aksum campaigns against the weakened Kingdom of Kush and destroys its capital of Meroë."
+    }
+  }
+]

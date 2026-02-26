@@ -1,1 +1,129 @@
-[]
+[
+  {
+    "id": "battle-of-chaeronea",
+    "coordinates": [
+      22.9,
+      38.5
+    ],
+    "year": -338,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "macedonian"
+    ],
+    "labels": {
+      "de": "Schlacht von Chaironeia",
+      "en": "Battle of Chaeronea"
+    },
+    "description": {
+      "de": "Philipp II. von Makedonien besiegte die vereinten Streitkräfte Athens und Thebens. Der Sieg machte Makedonien zur Vormacht Griechenlands und ebnete den Weg für Alexanders Feldzug gegen Persien.",
+      "en": "Philip II of Macedon defeated the combined forces of Athens and Thebes. The victory made Macedon the dominant power in Greece and paved the way for Alexander's campaign against Persia."
+    }
+  },
+  {
+    "id": "alexander-crosses-hellespont",
+    "coordinates": [
+      26.41,
+      40.2
+    ],
+    "year": -334,
+    "type": "political",
+    "culturalSphere": [
+      "macedonian",
+      "persian"
+    ],
+    "labels": {
+      "de": "Alexander überquert den Hellespont",
+      "en": "Alexander Crosses the Hellespont"
+    },
+    "description": {
+      "de": "Alexander der Große überquerte mit seinem Heer den Hellespont und begann seinen Feldzug gegen das Persische Reich — einer der folgenreichsten Kriegszüge der Geschichte.",
+      "en": "Alexander the Great crossed the Hellespont with his army and began his campaign against the Persian Empire — one of the most consequential military campaigns in history."
+    }
+  },
+  {
+    "id": "battle-of-issus",
+    "coordinates": [
+      36.178,
+      36.852
+    ],
+    "year": -333,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "persian"
+    ],
+    "labels": {
+      "de": "Schlacht von Issos",
+      "en": "Battle of Issus"
+    },
+    "description": {
+      "de": "Alexander der Große besiegt Dareios III. bei Issos in Kilikien. Der persische Großkönig flieht und hinterlässt Familie und Schatz — ein Wendepunkt in Alexanders Eroberungszug.",
+      "en": "Alexander the Great defeats Darius III at Issus in Cilicia. The Persian Great King flees, leaving behind his family and treasury — a turning point in Alexander's conquest."
+    }
+  },
+  {
+    "id": "siege-of-tyre-by-alexander",
+    "coordinates": [
+      35.196,
+      33.271
+    ],
+    "year": -332,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "phoenician"
+    ],
+    "labels": {
+      "de": "Belagerung von Tyros durch Alexander",
+      "en": "Siege of Tyre by Alexander"
+    },
+    "description": {
+      "de": "Alexander der Große belagert sieben Monate die Inselfestung Tyros und baut einen Damm zum Festland. Die Eroberung zerstört die letzte phönizische Großmacht.",
+      "en": "Alexander the Great besieges the island fortress of Tyre for seven months, building a causeway to the mainland. The conquest destroys the last great Phoenician power."
+    }
+  },
+  {
+    "id": "battle-of-gaugamela",
+    "coordinates": [
+      43.444,
+      36.363
+    ],
+    "year": -331,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "persian"
+    ],
+    "labels": {
+      "de": "Schlacht von Gaugamela",
+      "en": "Battle of Gaugamela"
+    },
+    "description": {
+      "de": "Alexander besiegt Dareios III. endgültig bei Gaugamela nahe Arbela im heutigen Irak. Das Achämenidenreich geht unter, und die hellenistische Ära beginnt.",
+      "en": "Alexander decisively defeats Darius III at Gaugamela near Arbela in modern Iraq. The Achaemenid Empire falls, and the Hellenistic era begins."
+    }
+  },
+  {
+    "id": "founding-of-alexandria",
+    "coordinates": [
+      29.919,
+      31.2
+    ],
+    "year": -331,
+    "type": "foundation",
+    "culturalSphere": [
+      "greek",
+      "egyptian",
+      "hellenistic"
+    ],
+    "labels": {
+      "de": "Gründung Alexandrias",
+      "en": "Founding of Alexandria"
+    },
+    "description": {
+      "de": "Alexander der Große gründet Alexandria an der ägyptischen Mittelmeerküste. Die Stadt wird zum intellektuellen Zentrum der antiken Welt mit der berühmten Bibliothek und dem Leuchtturm.",
+      "en": "Alexander the Great founds Alexandria on Egypt's Mediterranean coast. The city becomes the intellectual center of the ancient world, home to the famous Library and Lighthouse."
+    }
+  }
+]

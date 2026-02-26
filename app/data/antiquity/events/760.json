@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "founding-of-baghdad",
+    "coordinates": [
+      44.366,
+      33.315
+    ],
+    "year": 762,
+    "type": "foundation",
+    "culturalSphere": [
+      "islamic",
+      "arab",
+      "persian"
+    ],
+    "labels": {
+      "de": "Gründung Bagdads",
+      "en": "Founding of Baghdad"
+    },
+    "description": {
+      "de": "Kalif al-Mansur gründet die Rundstadt Bagdad als neue Hauptstadt des Abbasiden-Kalifats. Bagdad wird zum größten und gelehrtesten Zentrum der mittelalterlichen Welt.",
+      "en": "Caliph al-Mansur founds the Round City of Baghdad as the new Abbasid capital. Baghdad becomes the largest and most learned center of the medieval world."
+    }
+  }
+]

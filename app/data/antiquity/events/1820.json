@@ -1,1 +1,144 @@
-[]
+[
+  {
+    "id": "greek-independence",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": 1821,
+    "type": "political",
+    "culturalSphere": [
+      "greek",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Griechischer Unabhängigkeitskrieg",
+      "en": "Greek War of Independence"
+    },
+    "description": {
+      "de": "Der griechische Unabhängigkeitskrieg gegen das Osmanische Reich begann. Nach jahrelangem Kampf und internationaler Unterstützung wurde Griechenland 1830 als unabhängiger Staat anerkannt.",
+      "en": "The Greek War of Independence against the Ottoman Empire began. After years of fighting and international support, Greece was recognized as an independent state in 1830."
+    }
+  },
+  {
+    "id": "battle-of-navarino",
+    "coordinates": [
+      21.69,
+      36.94
+    ],
+    "year": 1827,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Schlacht von Navarino",
+      "en": "Battle of Navarino"
+    },
+    "description": {
+      "de": "Eine britisch-französisch-russische Flotte vernichtete die osmanisch-ägyptische Flotte bei Navarino. Die letzte große Segelschiff-Schlacht der Geschichte sicherte die griechische Unabhängigkeit.",
+      "en": "A British-French-Russian fleet destroyed the Ottoman-Egyptian fleet at Navarino. The last major sailing ship battle in history secured Greek independence."
+    }
+  },
+  {
+    "id": "greek-independence-from-ottomans",
+    "coordinates": [
+      23.728,
+      37.971
+    ],
+    "year": 1821,
+    "type": "political",
+    "culturalSphere": [
+      "turkic"
+    ],
+    "labels": {
+      "de": "Griechischer Unabhängigkeitskrieg beginnt",
+      "en": "Greek War of Independence Begins"
+    },
+    "description": {
+      "de": "Die Griechen erheben sich gegen die osmanische Herrschaft. Der Unabhängigkeitskrieg wird zum Symbol nationaler Befreiung und schwächt das Osmanische Reich nachhaltig.",
+      "en": "The Greeks rise up against Ottoman rule. The War of Independence becomes a symbol of national liberation and permanently weakens the Ottoman Empire."
+    }
+  },
+  {
+    "id": "first-anglo-burmese-war",
+    "coordinates": [
+      96.17,
+      16.87
+    ],
+    "year": 1824,
+    "type": "battle",
+    "culturalSphere": [
+      "burmese"
+    ],
+    "labels": {
+      "de": "Erster Anglo-Birmanischer Krieg",
+      "en": "First Anglo-Burmese War"
+    },
+    "description": {
+      "de": "Großbritannien besiegte die Konbaung-Dynastie im ersten von drei Kriegen. Burma verlor Küstengebiete und begann seinen Weg in die britische Kolonialherrschaft.",
+      "en": "Britain defeated the Konbaung dynasty in the first of three wars. Burma lost coastal territories and began its path toward British colonial rule."
+    }
+  },
+  {
+    "id": "mexican-independence",
+    "coordinates": [
+      -99.13,
+      19.43
+    ],
+    "year": 1821,
+    "type": "political",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Mexikanische Unabhängigkeit",
+      "en": "Mexican Independence"
+    },
+    "description": {
+      "de": "Mexiko erlangt nach einem elfjährigen Befreiungskrieg die Unabhängigkeit von Spanien.",
+      "en": "Mexico gains independence from Spain after an eleven-year war of liberation."
+    }
+  },
+  {
+    "id": "brazilian-independence",
+    "coordinates": [
+      -43.17,
+      -22.91
+    ],
+    "year": 1822,
+    "type": "political",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Brasilianische Unabhängigkeit",
+      "en": "Brazilian Independence"
+    },
+    "description": {
+      "de": "Prinz Pedro erklärt Brasiliens Unabhängigkeit von Portugal am Ufer des Ipiranga und wird Kaiser Pedro I.",
+      "en": "Prince Pedro declares Brazil's independence from Portugal on the banks of the Ipiranga River and becomes Emperor Pedro I."
+    }
+  },
+  {
+    "id": "peruvian-independence",
+    "coordinates": [
+      -77.04,
+      -12.05
+    ],
+    "year": 1824,
+    "type": "battle",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Schlacht von Ayacucho",
+      "en": "Battle of Ayacucho"
+    },
+    "description": {
+      "de": "Antonio José de Sucre besiegt die spanische Armee bei Ayacucho und besiegelt die Unabhängigkeit Perus und Südamerikas.",
+      "en": "Antonio José de Sucre defeats the Spanish army at Ayacucho, sealing Peruvian and South American independence."
+    }
+  }
+]

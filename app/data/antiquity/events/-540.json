@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "fall-of-babylon",
+    "coordinates": [
+      44.421,
+      32.542
+    ],
+    "year": -539,
+    "type": "political",
+    "culturalSphere": [
+      "persian",
+      "mesopotamian"
+    ],
+    "labels": {
+      "de": "Fall Babylons",
+      "en": "Fall of Babylon"
+    },
+    "description": {
+      "de": "Kyros der Große erobert Babylon kampflos und beendet das neubabylonische Reich. Er erlässt den berühmten Kyros-Zylinder und gestattet den Juden die Rückkehr nach Jerusalem.",
+      "en": "Cyrus the Great captures Babylon without a fight and ends the Neo-Babylonian Empire. He issues the famous Cyrus Cylinder and permits the Jews to return to Jerusalem."
+    }
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "battle-of-qarqar",
+    "coordinates": [
+      36.408,
+      35.458
+    ],
+    "year": -853,
+    "type": "battle",
+    "culturalSphere": [
+      "mesopotamian"
+    ],
+    "labels": {
+      "de": "Schlacht von Qarqar",
+      "en": "Battle of Qarqar"
+    },
+    "description": {
+      "de": "Eine Koalition levantinischer Staaten unter Damaskus stoppt die assyrische Expansion bei Qarqar am Orontes. Eine der größten Schlachten der altorientalischen Geschichte.",
+      "en": "A coalition of Levantine states led by Damascus halts Assyrian expansion at Qarqar on the Orontes. One of the largest battles of ancient Near Eastern history."
+    }
+  }
+]

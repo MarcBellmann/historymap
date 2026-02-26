@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "nadir-shah-sacks-delhi",
+    "coordinates": [
+      51.389,
+      35.689
+    ],
+    "year": 1736,
+    "type": "political",
+    "culturalSphere": [
+      "persian"
+    ],
+    "labels": {
+      "de": "Nadir Schah wird Herrscher Persiens",
+      "en": "Nader Shah Becomes Ruler of Persia"
+    },
+    "description": {
+      "de": "Nadir Schah stürzt die Safawiden und begründet die Afschariden-Dynastie. Er wird zum letzten großen persischen Eroberer und plündert Delhi im Jahr 1739.",
+      "en": "Nader Shah overthrows the Safavids and founds the Afsharid dynasty. He becomes the last great Persian conqueror and sacks Delhi in 1739."
+    }
+  }
+]

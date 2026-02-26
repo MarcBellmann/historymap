@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "battle-of-poitiers-1356",
+    "coordinates": [
+      -0.02,
+      46.5
+    ],
+    "year": 1356,
+    "type": "battle",
+    "culturalSphere": [
+      "english",
+      "french"
+    ],
+    "labels": {
+      "de": "Schlacht von Poitiers",
+      "en": "Battle of Poitiers (1356)"
+    },
+    "description": {
+      "de": "Der Schwarze Prinz besiegte das französische Heer und nahm König Johann II. gefangen. Die Niederlage stürzte Frankreich in eine tiefe politische Krise.",
+      "en": "The Black Prince defeated the French army and captured King John II. The defeat plunged France into a deep political crisis."
+    }
+  },
+  {
+    "id": "founding-of-ayutthaya",
+    "coordinates": [
+      100.59,
+      14.35
+    ],
+    "year": 1351,
+    "type": "foundation",
+    "culturalSphere": [
+      "thai"
+    ],
+    "labels": {
+      "de": "Gründung des Königreichs Ayutthaya",
+      "en": "Founding of the Ayutthaya Kingdom"
+    },
+    "description": {
+      "de": "König Ramathibodi I. gründete Ayutthaya, das zum mächtigsten Königreich Südostasiens aufstieg und über 400 Jahre bestand.",
+      "en": "King Ramathibodi I founded Ayutthaya, which rose to become Southeast Asia's most powerful kingdom and lasted over 400 years."
+    }
+  }
+]

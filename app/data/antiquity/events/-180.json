@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "indo-greek-invasion-northwest",
+    "coordinates": [
+      71.78,
+      34.01
+    ],
+    "year": -180,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Indo-griechische Invasion Nordwestindiens",
+      "en": "Indo-Greek Invasion of Northwest India"
+    },
+    "description": {
+      "de": "König Demetrios I. führt griechisch-baktrische Truppen nach Nordwestindien und begründet das Indo-Griechische Königreich.",
+      "en": "King Demetrius I leads Greco-Bactrian forces into northwest India, establishing the Indo-Greek Kingdom."
+    }
+  }
+]

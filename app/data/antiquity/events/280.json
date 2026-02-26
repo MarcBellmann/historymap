@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "jin-reunification-of-china",
+    "coordinates": [
+      112.45,
+      34.62
+    ],
+    "year": 280,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Wiedervereinigung Chinas unter der Jin-Dynastie",
+      "en": "Jin Dynasty Reunification of China"
+    },
+    "description": {
+      "de": "Die Jin-Dynastie unter Sima Yan eroberte das Königreich Wu und vereinigte China nach der Teilung der Drei Reiche erstmals wieder.",
+      "en": "The Jin dynasty under Sima Yan conquered the kingdom of Wu, reuniting China for the first time after the Three Kingdoms division."
+    }
+  }
+]

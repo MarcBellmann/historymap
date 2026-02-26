@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "fall-of-palmyra",
+    "coordinates": [
+      38.267,
+      34.551
+    ],
+    "year": 272,
+    "type": "battle",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Fall Palmyras",
+      "en": "Fall of Palmyra"
+    },
+    "description": {
+      "de": "Kaiser Aurelian erobert Palmyra und beendet das Sezessionsreich der Königin Zenobia, die kurzzeitig Ägypten und Syrien von Rom losgelöst hatte.",
+      "en": "Emperor Aurelian captures Palmyra and ends the breakaway empire of Queen Zenobia, who had briefly detached Egypt and Syria from Rome."
+    }
+  }
+]

@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "ionian-revolt",
+    "coordinates": [
+      27.151,
+      38.423
+    ],
+    "year": -499,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "persian"
+    ],
+    "labels": {
+      "de": "Ionischer Aufstand",
+      "en": "Ionian Revolt"
+    },
+    "description": {
+      "de": "Die griechischen Städte Ioniens erheben sich gegen die Perserherrschaft. Der Aufstand wird niedergeschlagen, provoziert aber die Perserkriege gegen das griechische Mutterland.",
+      "en": "The Greek cities of Ionia revolt against Persian rule. The revolt is suppressed but provokes the Greco-Persian Wars against mainland Greece."
+    }
+  },
+  {
+    "id": "nok-culture-iron-smelting",
+    "coordinates": [
+      8,
+      9.5
+    ],
+    "year": -500,
+    "type": "cultural",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Nok-Kultur und Eisenverhüttung",
+      "en": "Nok Culture and Iron Smelting"
+    },
+    "description": {
+      "de": "Die Nok-Kultur im heutigen Nigeria produziert die frühesten bekannten Terrakotta-Skulpturen Afrikas und betreibt fortgeschrittene Eisenverhüttung.",
+      "en": "The Nok culture in modern Nigeria produces the earliest known terracotta sculptures in Africa and practices advanced iron smelting."
+    }
+  },
+  {
+    "id": "zapotec-monte-alban",
+    "coordinates": [
+      -96.77,
+      17.04
+    ],
+    "year": -500,
+    "type": "foundation",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Gründung von Monte Albán",
+      "en": "Founding of Monte Albán"
+    },
+    "description": {
+      "de": "Die Zapoteken gründen Monte Albán in Oaxaca, eines der frühesten städtischen Zentren Mesoamerikas.",
+      "en": "The Zapotecs found Monte Albán in Oaxaca, one of the earliest urban centers in Mesoamerica."
+    }
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "norse-reach-vinland",
+    "coordinates": [
+      -55.53,
+      51.59
+    ],
+    "year": 1000,
+    "type": "foundation",
+    "culturalSphere": [
+      "north-american"
+    ],
+    "labels": {
+      "de": "Wikinger erreichen Vinland",
+      "en": "Norse Reach Vinland"
+    },
+    "description": {
+      "de": "Leif Eriksson erreicht Neufundland (L'Anse aux Meadows) und errichtet die erste europäische Siedlung in Nordamerika.",
+      "en": "Leif Eriksson reaches Newfoundland (L'Anse aux Meadows), establishing the first European settlement in North America."
+    }
+  }
+]

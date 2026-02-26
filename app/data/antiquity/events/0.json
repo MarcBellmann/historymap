@@ -1,23 +1,43 @@
 [
   {
+    "id": "battle-of-teutoburg-forest",
+    "coordinates": [
+      8.13,
+      52.41
+    ],
+    "year": 9,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "germanic"
+    ],
+    "labels": {
+      "de": "Schlacht im Teutoburger Wald",
+      "en": "Battle of the Teutoburg Forest"
+    },
+    "description": {
+      "de": "Germanische Stämme unter Arminius vernichteten drei römische Legionen unter Varus in einem Hinterhalt. Die Niederlage beendete Roms Ambitionen, Germanien jenseits des Rheins zu erobern.",
+      "en": "Germanic tribes under Arminius annihilated three Roman legions under Varus in an ambush. The defeat ended Rome's ambitions to conquer Germania beyond the Rhine."
+    }
+  },
+  {
     "id": "wang-mang-usurpation",
     "coordinates": [
-      108.9402,
-      34.2658
+      108.94,
+      34.27
     ],
     "year": 9,
     "type": "political",
     "culturalSphere": [
-      "chinese",
-      "han"
+      "chinese"
     ],
     "labels": {
-      "de": "Wang Mangs Usurpation",
-      "en": "Wang Mang's Usurpation"
+      "de": "Wang Mangs Usurpation – Xin-Dynastie",
+      "en": "Wang Mang's Usurpation – Xin Dynasty"
     },
     "description": {
-      "de": "Wang Mang stürzt die Han-Dynastie und gründet die kurzlebige Xin-Dynastie. Versuch radikaler Landreformen führt zu Aufständen und Wiederherstellung der Han.",
-      "en": "Wang Mang overthrows the Han dynasty and founds the short-lived Xin dynasty. Attempts at radical land reform lead to uprisings and the Han restoration."
+      "de": "Der Beamte Wang Mang stürzte die Han-Dynastie und gründete die kurzlebige Xin-Dynastie. Seine radikalen Reformen wie Landumverteilung und Sklavereiverbot scheiterten und führten zu Aufständen.",
+      "en": "The official Wang Mang overthrew the Han dynasty and founded the short-lived Xin dynasty. His radical reforms including land redistribution and abolition of slavery failed and led to revolts."
     }
   }
 ]

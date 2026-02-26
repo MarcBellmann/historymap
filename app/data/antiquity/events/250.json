@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "yamato-state-japan",
+    "coordinates": [
+      135.8,
+      34.69
+    ],
+    "year": 250,
+    "type": "foundation",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Aufstieg des Yamato-Staates",
+      "en": "Rise of the Yamato State"
+    },
+    "description": {
+      "de": "Der Yamato-Klan etablierte sich als dominante Macht auf Honshu und legte den Grundstein für den japanischen Kaiserstaat.",
+      "en": "The Yamato clan established itself as the dominant power on Honshu, laying the foundation for the Japanese imperial state."
+    }
+  },
+  {
+    "id": "maya-classic-period-begins",
+    "coordinates": [
+      -89.62,
+      17.22
+    ],
+    "year": 250,
+    "type": "cultural",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Beginn der klassischen Maya-Periode",
+      "en": "Maya Classic Period Begins"
+    },
+    "description": {
+      "de": "Die klassische Periode der Maya beginnt mit monumentaler Architektur und Schriftkultur in Städten wie Tikal und Palenque.",
+      "en": "The Maya Classic Period begins with monumental architecture and writing in cities like Tikal and Palenque."
+    }
+  }
+]

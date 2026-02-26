@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "baptism-of-clovis",
+    "coordinates": [
+      3.93,
+      49.25
+    ],
+    "year": 496,
+    "type": "cultural",
+    "culturalSphere": [
+      "frankish"
+    ],
+    "labels": {
+      "de": "Taufe Chlodwigs",
+      "en": "Baptism of Clovis"
+    },
+    "description": {
+      "de": "Der Frankenkönig Chlodwig I. ließ sich in Reims taufen und trat zum Katholizismus über. Die Konversion begründete die enge Verbindung zwischen den Franken und der römischen Kirche.",
+      "en": "Frankish King Clovis I was baptized at Reims, converting to Catholicism. The conversion established the close alliance between the Franks and the Roman Church."
+    }
+  }
+]

@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "battle-of-ain-jalut",
+    "coordinates": [
+      35.396,
+      32.537
+    ],
+    "year": 1260,
+    "type": "battle",
+    "culturalSphere": [
+      "islamic",
+      "mongol"
+    ],
+    "labels": {
+      "de": "Schlacht von Ain Dschalut",
+      "en": "Battle of Ain Jalut"
+    },
+    "description": {
+      "de": "Die ägyptischen Mamluken unter Qutuz und Baibars besiegen die Mongolen bei Ain Dschalut in Galiläa. Die erste dauerhafte Niederlage der Mongolen stoppt ihre Expansion in den Nahen Osten.",
+      "en": "The Egyptian Mamluks under Qutuz and Baibars defeat the Mongols at Ain Jalut in Galilee. The first permanent Mongol defeat halts their expansion into the Middle East."
+    }
+  },
+  {
+    "id": "mongol-sack-of-aleppo",
+    "coordinates": [
+      37.16,
+      36.202
+    ],
+    "year": 1260,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Mongolische Plünderung Aleppos",
+      "en": "Mongol Sack of Aleppo"
+    },
+    "description": {
+      "de": "Hülegüs Mongolen plündern Aleppo und seine berühmte Zitadelle. Die Zerstörung Syriens durch die Mongolen verändert die Machtbalance im Nahen Osten.",
+      "en": "Hulagu's Mongols sack Aleppo and its famous citadel. The Mongol destruction of Syria reshapes the balance of power in the Middle East."
+    }
+  }
+]

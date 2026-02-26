@@ -1,1 +1,84 @@
-[]
+[
+  {
+    "id": "industrial-revolution-britain",
+    "coordinates": [
+      -2.24,
+      53.48
+    ],
+    "year": 1769,
+    "type": "cultural",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Industrielle Revolution",
+      "en": "Industrial Revolution"
+    },
+    "description": {
+      "de": "James Watts verbesserte Dampfmaschine revolutionierte die Produktion in Großbritannien. Die Industrialisierung, ausgehend von Manchester und den Midlands, veränderte Wirtschaft und Gesellschaft weltweit.",
+      "en": "James Watt's improved steam engine revolutionized production in Britain. The industrialization, starting from Manchester and the Midlands, transformed the economy and society worldwide."
+    }
+  },
+  {
+    "id": "fall-of-ayutthaya",
+    "coordinates": [
+      100.59,
+      14.35
+    ],
+    "year": 1767,
+    "type": "battle",
+    "culturalSphere": [
+      "thai",
+      "burmese"
+    ],
+    "labels": {
+      "de": "Zerstörung von Ayutthaya",
+      "en": "Destruction of Ayutthaya"
+    },
+    "description": {
+      "de": "Birmanische Truppen der Konbaung-Dynastie eroberten und zerstörten Ayutthaya nach 14-monatiger Belagerung und beendeten das 417 Jahre alte Königreich.",
+      "en": "Burmese troops of the Konbaung dynasty captured and destroyed Ayutthaya after a 14-month siege, ending the 417-year-old kingdom."
+    }
+  },
+  {
+    "id": "third-battle-of-panipat",
+    "coordinates": [
+      76.97,
+      29.39
+    ],
+    "year": 1761,
+    "type": "battle",
+    "culturalSphere": [
+      "indian",
+      "afghan"
+    ],
+    "labels": {
+      "de": "Dritte Schlacht von Panipat",
+      "en": "Third Battle of Panipat"
+    },
+    "description": {
+      "de": "Ahmad Shah Durrani besiegt die Marathen in einer der größten Schlachten des 18. Jahrhunderts und beendet deren Vorherrschaft in Nordindien.",
+      "en": "Ahmad Shah Durrani defeats the Marathas in one of the 18th century's largest battles, ending their dominance in northern India."
+    }
+  },
+  {
+    "id": "battle-of-buxar",
+    "coordinates": [
+      83.98,
+      25.57
+    ],
+    "year": 1764,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Schlacht von Buxar",
+      "en": "Battle of Buxar"
+    },
+    "description": {
+      "de": "Die Britische Ostindien-Kompanie besiegt die vereinten Kräfte des Mogulkaisers, des Nawab von Oudh und des Nawab von Bengalen.",
+      "en": "The British East India Company defeats the combined forces of the Mughal emperor, Nawab of Oudh, and Nawab of Bengal."
+    }
+  }
+]

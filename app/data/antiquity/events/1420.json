@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "id": "siege-of-orleans",
+    "coordinates": [
+      1.9,
+      47.9
+    ],
+    "year": 1429,
+    "type": "battle",
+    "culturalSphere": [
+      "french",
+      "english"
+    ],
+    "labels": {
+      "de": "Befreiung von Orléans",
+      "en": "Siege of Orléans"
+    },
+    "description": {
+      "de": "Jeanne d'Arc führte die französischen Truppen zur Befreiung von Orléans von der englischen Belagerung. Der Sieg war der Wendepunkt des Hundertjährigen Krieges zugunsten Frankreichs.",
+      "en": "Joan of Arc led French troops to lift the English siege of Orléans. The victory was the turning point of the Hundred Years' War in France's favor."
+    }
+  },
+  {
+    "id": "fall-of-constantinople-impact-east",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "year": 1421,
+    "type": "foundation",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Peking wird Ming-Hauptstadt",
+      "en": "Beijing Becomes Ming Capital"
+    },
+    "description": {
+      "de": "Der Yongle-Kaiser verlegte die Hauptstadt der Ming-Dynastie von Nanjing nach Peking und ließ die Verbotene Stadt als neuen Kaiserpalast errichten.",
+      "en": "The Yongle Emperor moved the Ming dynasty capital from Nanjing to Beijing and had the Forbidden City built as the new imperial palace."
+    }
+  },
+  {
+    "id": "le-loi-independence-vietnam",
+    "coordinates": [
+      105.85,
+      21.03
+    ],
+    "year": 1428,
+    "type": "political",
+    "culturalSphere": [
+      "vietnamese"
+    ],
+    "labels": {
+      "de": "Lê Lợi befreit Vietnam von der Ming-Herrschaft",
+      "en": "Lê Lợi Liberates Vietnam from Ming Rule"
+    },
+    "description": {
+      "de": "Lê Lợi vertrieb nach zehnjährigem Guerillakrieg die chinesische Ming-Besatzung und gründete die Lê-Dynastie, die längste Dynastie Vietnams.",
+      "en": "After a ten-year guerrilla war, Lê Lợi expelled the Chinese Ming occupation and founded the Lê dynasty, Vietnam's longest-ruling dynasty."
+    }
+  },
+  {
+    "id": "aztec-triple-alliance",
+    "coordinates": [
+      -99.13,
+      19.43
+    ],
+    "year": 1428,
+    "type": "political",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Aztekischer Dreibund gegründet",
+      "en": "Aztec Triple Alliance Founded"
+    },
+    "description": {
+      "de": "Tenochtitlan, Texcoco und Tlacopan bilden den Dreibund und beginnen die systematische Expansion des Azteken-Reiches.",
+      "en": "Tenochtitlan, Texcoco, and Tlacopan form the Triple Alliance, beginning the systematic expansion of the Aztec Empire."
+    }
+  }
+]

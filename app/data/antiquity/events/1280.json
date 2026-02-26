@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "mongol-invasion-japan-1281",
+    "coordinates": [
+      130.38,
+      33.6
+    ],
+    "year": 1281,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "japanese"
+    ],
+    "labels": {
+      "de": "Zweite Mongoleninvasion Japans – Kamikaze",
+      "en": "Second Mongol Invasion of Japan – Kamikaze"
+    },
+    "description": {
+      "de": "Die zweite mongolische Invasionsflotte mit 140.000 Mann wurde durch einen Taifun – den legendären 'Kamikaze' (Göttlichen Wind) – vernichtet.",
+      "en": "The second Mongol invasion fleet of 140,000 men was destroyed by a typhoon — the legendary 'Kamikaze' (Divine Wind)."
+    }
+  },
+  {
+    "id": "mongol-invasion-vietnam",
+    "coordinates": [
+      105.85,
+      21.03
+    ],
+    "year": 1288,
+    "type": "battle",
+    "culturalSphere": [
+      "vietnamese",
+      "mongol"
+    ],
+    "labels": {
+      "de": "Trần-Sieg über die Mongolen in Vietnam",
+      "en": "Trần Victory over Mongols in Vietnam"
+    },
+    "description": {
+      "de": "Die Trần-Dynastie unter General Trần Hưng Đạo besiegte die dritte mongolische Invasion am Bạch Đằng. Vietnam bewahrte seine Unabhängigkeit.",
+      "en": "The Trần dynasty under General Trần Hưng Đạo defeated the third Mongol invasion at the Bạch Đằng River. Vietnam preserved its independence."
+    }
+  },
+  {
+    "id": "mongol-invasion-burma",
+    "coordinates": [
+      94.86,
+      21.17
+    ],
+    "year": 1287,
+    "type": "battle",
+    "culturalSphere": [
+      "burmese",
+      "mongol"
+    ],
+    "labels": {
+      "de": "Mongoleninvasion in Burma – Fall von Bagan",
+      "en": "Mongol Invasion of Burma – Fall of Pagan"
+    },
+    "description": {
+      "de": "Die Mongolen fielen in Burma ein und zerstörten das Königreich Bagan. Myanmar zerfiel in mehrere rivalisierende Kleinstaaten.",
+      "en": "The Mongols invaded Burma and destroyed the Pagan Kingdom. Myanmar fragmented into several rival small states."
+    }
+  }
+]

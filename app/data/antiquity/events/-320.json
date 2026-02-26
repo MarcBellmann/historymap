@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "seleucid-empire-founded",
+    "coordinates": [
+      36.516,
+      34.739
+    ],
+    "year": -312,
+    "type": "political",
+    "culturalSphere": [
+      "hellenistic",
+      "persian"
+    ],
+    "labels": {
+      "de": "Gründung des Seleukidenreiches",
+      "en": "Founding of the Seleucid Empire"
+    },
+    "description": {
+      "de": "Seleukos I. Nikator begründet nach den Diadochenkriegen das Seleukidenreich und kontrolliert den größten Teil des ehemaligen Perserreiches von Syrien bis Zentralasien.",
+      "en": "Seleucus I Nicator founds the Seleucid Empire after the Wars of the Diadochi, controlling most of the former Persian Empire from Syria to Central Asia."
+    }
+  }
+]

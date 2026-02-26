@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "umayyad-caliphate-founded",
+    "coordinates": [
+      36.293,
+      33.513
+    ],
+    "year": 661,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "arab"
+    ],
+    "labels": {
+      "de": "Gründung des Umayyaden-Kalifats",
+      "en": "Umayyad Caliphate Founded"
+    },
+    "description": {
+      "de": "Mu'awiya I. begründet das Umayyaden-Kalifat mit Damaskus als Hauptstadt nach dem ersten islamischen Bürgerkrieg. Das Reich erstreckt sich von Spanien bis Zentralasien.",
+      "en": "Muawiya I founds the Umayyad Caliphate with Damascus as capital after the first Islamic civil war. The empire stretches from Spain to Central Asia."
+    }
+  },
+  {
+    "id": "silla-unification-korea",
+    "coordinates": [
+      129.22,
+      35.84
+    ],
+    "year": 668,
+    "type": "political",
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Vereinigung Koreas unter Silla",
+      "en": "Silla Unification of Korea"
+    },
+    "description": {
+      "de": "Das Königreich Silla vereinigte mit Unterstützung der Tang-Dynastie die koreanische Halbinsel, nachdem es Goguryeo und Baekje besiegt hatte.",
+      "en": "The kingdom of Silla, with Tang dynasty support, unified the Korean Peninsula after defeating Goguryeo and Baekje."
+    }
+  }
+]

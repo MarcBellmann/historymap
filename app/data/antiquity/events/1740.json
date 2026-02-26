@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "wahhabi-saudi-alliance",
+    "coordinates": [
+      46.571,
+      24.642
+    ],
+    "year": 1744,
+    "type": "political",
+    "culturalSphere": [
+      "arab",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Wahhabitisch-saudische Allianz",
+      "en": "Wahhabi-Saudi Alliance"
+    },
+    "description": {
+      "de": "Muhammad ibn Abd al-Wahhab und Muhammad ibn Saud schließen ein Bündnis in Diriyya. Die religiös-politische Allianz legt den Grundstein für das spätere Saudi-Arabien.",
+      "en": "Muhammad ibn Abd al-Wahhab and Muhammad ibn Saud forge an alliance in Diriyah. This religious-political alliance lays the foundation for what will become Saudi Arabia."
+    }
+  },
+  {
+    "id": "durrani-empire-founded",
+    "coordinates": [
+      65.71,
+      31.61
+    ],
+    "year": 1747,
+    "type": "political",
+    "culturalSphere": [
+      "afghan"
+    ],
+    "labels": {
+      "de": "Gründung des Durrani-Reiches",
+      "en": "Durrani Empire Founded"
+    },
+    "description": {
+      "de": "Ahmad Shah Durrani gründet in Kandahar das Durrani-Reich, den Vorläufer des modernen Afghanistan.",
+      "en": "Ahmad Shah Durrani founds the Durrani Empire at Kandahar, the precursor of modern Afghanistan."
+    }
+  }
+]

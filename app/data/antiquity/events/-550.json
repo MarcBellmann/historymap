@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "birth-of-sun-tzu",
+    "coordinates": [
+      117.02,
+      36.65
+    ],
+    "year": -544,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Geburt von Sunzi",
+      "en": "Birth of Sun Tzu"
+    },
+    "description": {
+      "de": "Der Militärstratege Sunzi wurde im Staat Qi geboren. Sein Werk 'Die Kunst des Krieges' wurde zum einflussreichsten Militärtraktat der Weltgeschichte.",
+      "en": "The military strategist Sun Tzu was born in the state of Qi. His work 'The Art of War' became the most influential military treatise in world history."
+    }
+  },
+  {
+    "id": "founding-of-magadha-kingdom",
+    "coordinates": [
+      85.42,
+      25
+    ],
+    "year": -544,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Aufstieg von Magadha",
+      "en": "Rise of Magadha"
+    },
+    "description": {
+      "de": "Unter der Haryanka-Dynastie wird Magadha zum mächtigsten der sechzehn Mahajanapadas im nordindischen Tiefland.",
+      "en": "Under the Haryanka dynasty, Magadha becomes the most powerful of the sixteen Mahajanapadas in the north Indian plains."
+    }
+  }
+]

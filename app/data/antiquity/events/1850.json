@@ -1,1 +1,188 @@
-[]
+[
+  {
+    "id": "crimean-war-sevastopol",
+    "coordinates": [
+      33.53,
+      44.62
+    ],
+    "year": 1854,
+    "type": "battle",
+    "culturalSphere": [
+      "russian",
+      "european"
+    ],
+    "labels": {
+      "de": "Belagerung von Sewastopol (Krimkrieg)",
+      "en": "Siege of Sevastopol (Crimean War)"
+    },
+    "description": {
+      "de": "Britische, französische und osmanische Truppen belagerten Sewastopol auf der Krim. Der Krimkrieg war der erste moderne Industriekrieg und erschütterte das Machtgefüge in Europa.",
+      "en": "British, French, and Ottoman forces besieged Sevastopol in Crimea. The Crimean War was the first modern industrialized war and shook the balance of power in Europe."
+    }
+  },
+  {
+    "id": "battle-of-solferino",
+    "coordinates": [
+      10.57,
+      45.37
+    ],
+    "year": 1859,
+    "type": "battle",
+    "culturalSphere": [
+      "italian",
+      "french",
+      "habsburg"
+    ],
+    "labels": {
+      "de": "Schlacht von Solferino",
+      "en": "Battle of Solferino"
+    },
+    "description": {
+      "de": "Die französisch-sardische Armee besiegte Österreich bei Solferino im italienischen Einigungskrieg. Die Schrecken der Schlacht inspirierten Henry Dunant zur Gründung des Roten Kreuzes.",
+      "en": "The Franco-Sardinian army defeated Austria at Solferino in the Italian unification war. The horrors of the battle inspired Henry Dunant to found the Red Cross."
+    }
+  },
+  {
+    "id": "crimean-war",
+    "coordinates": [
+      33.6,
+      44.6
+    ],
+    "year": 1853,
+    "type": "battle",
+    "culturalSphere": [
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Krimkrieg",
+      "en": "Crimean War"
+    },
+    "description": {
+      "de": "Das Osmanische Reich, verbündet mit Frankreich und Großbritannien, kämpft gegen Russland auf der Krim. Der erste moderne Industriekrieg zeigt die Schwächen beider Seiten.",
+      "en": "The Ottoman Empire, allied with France and Britain, fights Russia in Crimea. The first modern industrial war exposes weaknesses on both sides."
+    }
+  },
+  {
+    "id": "ottoman-tanzimat-edict",
+    "coordinates": [
+      28.978,
+      41.008
+    ],
+    "year": 1856,
+    "type": "political",
+    "culturalSphere": [
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Hatt-ı Hümayun (Reformedikt)",
+      "en": "Hatt-i Humayun (Reform Edict)"
+    },
+    "description": {
+      "de": "Das Reformedikt von 1856 garantiert die volle Gleichberechtigung aller osmanischen Untertanen unabhängig von der Religion — ein Meilenstein der Tanzimat-Reformen.",
+      "en": "The Reform Edict of 1856 guarantees full equality for all Ottoman subjects regardless of religion — a milestone of the Tanzimat reforms."
+    }
+  },
+  {
+    "id": "taiping-rebellion",
+    "coordinates": [
+      118.8,
+      32.06
+    ],
+    "year": 1850,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Taiping-Aufstand",
+      "en": "Taiping Rebellion"
+    },
+    "description": {
+      "de": "Hong Xiuquan gründete das Taiping-Himmlische Königreich und besetzte Nanjing. Der Bürgerkrieg (1850–1864) kostete 20–30 Millionen Menschenleben.",
+      "en": "Hong Xiuquan founded the Taiping Heavenly Kingdom and occupied Nanjing. The civil war (1850–1864) cost 20–30 million lives."
+    }
+  },
+  {
+    "id": "perry-expedition-japan",
+    "coordinates": [
+      139.67,
+      35.28
+    ],
+    "year": 1853,
+    "type": "political",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Perrys schwarze Schiffe erzwingen Öffnung Japans",
+      "en": "Perry's Black Ships Force Opening of Japan"
+    },
+    "description": {
+      "de": "Commodore Matthew Perry erschien mit einer US-Flotte in der Bucht von Edo und erzwang das Ende der über 200-jährigen japanischen Isolation.",
+      "en": "Commodore Matthew Perry appeared with a US fleet in Edo Bay and forced the end of Japan's over 200 years of isolation."
+    }
+  },
+  {
+    "id": "second-opium-war",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "year": 1856,
+    "type": "battle",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Zweiter Opiumkrieg",
+      "en": "Second Opium War"
+    },
+    "description": {
+      "de": "Britische und französische Truppen griffen China erneut an und brannten den Alten Sommerpalast in Peking nieder. China wurde zu weiteren Konzessionen gezwungen.",
+      "en": "British and French troops attacked China again and burned the Old Summer Palace in Beijing. China was forced into further concessions."
+    }
+  },
+  {
+    "id": "indian-rebellion-1857",
+    "coordinates": [
+      77.23,
+      28.61
+    ],
+    "year": 1857,
+    "type": "battle",
+    "culturalSphere": [
+      "indian",
+      "mughal"
+    ],
+    "labels": {
+      "de": "Indischer Aufstand von 1857",
+      "en": "Indian Rebellion of 1857"
+    },
+    "description": {
+      "de": "Der Sepoy-Aufstand erschüttert die britische Herrschaft; nach seiner Niederschlagung endet die Moguldynastie und die britische Krone übernimmt die direkte Kontrolle.",
+      "en": "The Sepoy Mutiny shakes British rule; after its suppression, the Mughal dynasty ends and the British Crown assumes direct control."
+    }
+  },
+  {
+    "id": "british-raj-proclaimed",
+    "coordinates": [
+      88.36,
+      22.57
+    ],
+    "year": 1858,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Ausrufung von Britisch-Indien",
+      "en": "British Raj Proclaimed"
+    },
+    "description": {
+      "de": "Königin Victoria wird Kaiserin von Indien; die britische Krone übernimmt die Verwaltung von der Ostindien-Kompanie.",
+      "en": "Queen Victoria is proclaimed Empress of India; the British Crown takes over administration from the East India Company."
+    }
+  }
+]

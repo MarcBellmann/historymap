@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "yellow-turban-rebellion",
+    "coordinates": [
+      115,
+      36.5
+    ],
+    "year": 184,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Aufstand der Gelben Turbane",
+      "en": "Yellow Turban Rebellion"
+    },
+    "description": {
+      "de": "Hunderttausende daoistischer Bauern erhoben sich gegen die korrupte Han-Regierung. Der Aufstand schwächte die Zentralmacht entscheidend und leitete das Zeitalter der Drei Reiche ein.",
+      "en": "Hundreds of thousands of Daoist peasants rose against the corrupt Han government. The rebellion fatally weakened central authority and ushered in the Three Kingdoms era."
+    }
+  }
+]

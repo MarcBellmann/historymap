@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "founding-of-rome",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": -753,
+    "type": "foundation",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Gründung Roms",
+      "en": "Founding of Rome"
+    },
+    "description": {
+      "de": "Der Legende nach gründete Romulus die Stadt Rom am Palatin-Hügel. Archäologisch belegt ist die Besiedlung des Gebiets seit dem 10. Jahrhundert v. Chr.",
+      "en": "According to legend, Romulus founded the city of Rome on the Palatine Hill. Archaeological evidence confirms settlement of the area since the 10th century BC."
+    }
+  }
+]

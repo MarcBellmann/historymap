@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "safavid-empire-founded",
+    "coordinates": [
+      46.3,
+      38.08
+    ],
+    "year": 1501,
+    "type": "political",
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Gründung des Safawidenreiches",
+      "en": "Safavid Empire Founded"
+    },
+    "description": {
+      "de": "Schah Ismail I. begründet das Safawidenreich und macht den schiitischen Islam zur Staatsreligion Persiens — eine Entscheidung, die den Iran bis heute prägt.",
+      "en": "Shah Ismail I founds the Safavid Empire and makes Shia Islam the state religion of Persia — a decision that shapes Iran to this day."
+    }
+  },
+  {
+    "id": "brunei-empire-peak",
+    "coordinates": [
+      114.94,
+      4.94
+    ],
+    "year": 1500,
+    "type": "political",
+    "culturalSphere": [
+      "malay"
+    ],
+    "labels": {
+      "de": "Höhepunkt des Sultanats Brunei",
+      "en": "Peak of the Brunei Sultanate"
+    },
+    "description": {
+      "de": "Das Sultanat Brunei erreichte seine größte Ausdehnung und kontrollierte weite Teile Borneos und der Sulu-Inseln. Es war ein bedeutendes Zentrum des islamischen Handels.",
+      "en": "The Brunei Sultanate reached its greatest extent, controlling much of Borneo and the Sulu Islands. It was a major center of Islamic trade."
+    }
+  }
+]

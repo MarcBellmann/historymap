@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "jewish-revolt-66ad",
+    "coordinates": [
+      35.232,
+      31.778
+    ],
+    "year": 66,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "jewish"
+    ],
+    "labels": {
+      "de": "Großer Jüdischer Aufstand",
+      "en": "Great Jewish Revolt"
+    },
+    "description": {
+      "de": "Judäa erhebt sich gegen die römische Herrschaft. Der Aufstand führt zur Zerstörung Jerusalems und des Zweiten Tempels im Jahr 70 durch Titus.",
+      "en": "Judea rises up against Roman rule. The revolt leads to the destruction of Jerusalem and the Second Temple in 70 AD by Titus."
+    }
+  },
+  {
+    "id": "introduction-of-buddhism-china",
+    "coordinates": [
+      112.45,
+      34.62
+    ],
+    "year": 67,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Einführung des Buddhismus in China",
+      "en": "Introduction of Buddhism to China"
+    },
+    "description": {
+      "de": "Laut Überlieferung sandte Kaiser Ming der Han Gesandte nach Indien, die buddhistische Sutren und Mönche nach Luoyang brachten und den Weißen Pferdetempel gründeten.",
+      "en": "According to tradition, Emperor Ming of Han sent envoys to India who brought Buddhist sutras and monks to Luoyang and founded the White Horse Temple."
+    }
+  }
+]

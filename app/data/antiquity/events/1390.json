@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "founding-of-joseon",
+    "coordinates": [
+      126.98,
+      37.57
+    ],
+    "year": 1392,
+    "type": "foundation",
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Gründung der Joseon-Dynastie",
+      "en": "Founding of the Joseon Dynasty"
+    },
+    "description": {
+      "de": "General Yi Seong-gye stürzte Goryeo und gründete die Joseon-Dynastie mit der Hauptstadt Hanyang (Seoul). Joseon bestand über 500 Jahre.",
+      "en": "General Yi Seong-gye overthrew Goryeo and founded the Joseon dynasty with its capital at Hanyang (Seoul). Joseon lasted over 500 years."
+    }
+  },
+  {
+    "id": "timur-sacks-delhi",
+    "coordinates": [
+      77.23,
+      28.61
+    ],
+    "year": 1398,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Timur plündert Delhi",
+      "en": "Timur Sacks Delhi"
+    },
+    "description": {
+      "de": "Timur Lenk plündert Delhi und richtet ein Massaker an, das das Sultanat von Delhi nachhaltig schwächt.",
+      "en": "Timur sacks Delhi and massacres its inhabitants, fatally weakening the Delhi Sultanate."
+    }
+  }
+]

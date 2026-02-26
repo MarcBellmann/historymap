@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "battle-of-sekigahara",
+    "coordinates": [
+      136.46,
+      35.37
+    ],
+    "year": 1600,
+    "type": "battle",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Schlacht von Sekigahara",
+      "en": "Battle of Sekigahara"
+    },
+    "description": {
+      "de": "Tokugawa Ieyasu besiegte die Koalition der Toyotomi-Loyalisten in der entscheidendsten Schlacht der japanischen Geschichte und legte den Grundstein für das Tokugawa-Shogunat.",
+      "en": "Tokugawa Ieyasu defeated the coalition of Toyotomi loyalists in the most decisive battle in Japanese history, laying the foundation for the Tokugawa Shogunate."
+    }
+  },
+  {
+    "id": "tokugawa-shogunate-established",
+    "coordinates": [
+      139.69,
+      35.69
+    ],
+    "year": 1603,
+    "type": "foundation",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Gründung des Tokugawa-Shogunats",
+      "en": "Establishment of the Tokugawa Shogunate"
+    },
+    "description": {
+      "de": "Tokugawa Ieyasu wurde zum Shōgun ernannt und gründete das Tokugawa-Shogunat in Edo (Tokio). Es folgte über 250 Jahre Frieden und Isolation.",
+      "en": "Tokugawa Ieyasu was appointed Shōgun and established the Tokugawa Shogunate in Edo (Tokyo). Over 250 years of peace and isolation followed."
+    }
+  },
+  {
+    "id": "founding-of-golden-temple",
+    "coordinates": [
+      74.88,
+      31.62
+    ],
+    "year": 1604,
+    "type": "cultural",
+    "culturalSphere": [
+      "sikh"
+    ],
+    "labels": {
+      "de": "Fertigstellung des Goldenen Tempels",
+      "en": "Completion of the Golden Temple"
+    },
+    "description": {
+      "de": "Der Harmandir Sahib (Goldener Tempel) in Amritsar wird unter Guru Arjan fertiggestellt und wird zum heiligsten Ort des Sikhismus.",
+      "en": "The Harmandir Sahib (Golden Temple) in Amritsar is completed under Guru Arjan, becoming the holiest site of Sikhism."
+    }
+  },
+  {
+    "id": "jamestown-founded",
+    "coordinates": [
+      -76.76,
+      37.21
+    ],
+    "year": 1607,
+    "type": "foundation",
+    "culturalSphere": [
+      "north-american"
+    ],
+    "labels": {
+      "de": "Gründung von Jamestown",
+      "en": "Jamestown Founded"
+    },
+    "description": {
+      "de": "Jamestown wird als erste dauerhafte englische Siedlung in Nordamerika gegründet.",
+      "en": "Jamestown is founded as the first permanent English settlement in North America."
+    }
+  }
+]

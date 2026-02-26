@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "huna-invasions-india",
+    "coordinates": [
+      74.8,
+      31.63
+    ],
+    "year": 460,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Hunnen-Invasionen in Indien",
+      "en": "Huna Invasions of India"
+    },
+    "description": {
+      "de": "Die Alchon-Hunnen unter Toramana fallen in Nordindien ein und beschleunigen den Niedergang des Gupta-Reiches.",
+      "en": "The Alchon Huns under Toramana invade northern India, accelerating the decline of the Gupta Empire."
+    }
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "kanishka-kushan-golden-age",
+    "coordinates": [
+      71.5,
+      34.01
+    ],
+    "year": 127,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Kanishkas Förderung des Buddhismus",
+      "en": "Kanishka's Patronage of Buddhism"
+    },
+    "description": {
+      "de": "Kushan-Kaiser Kanishka fördert den Mahayana-Buddhismus und die Gandhara-Kunst, eine Synthese griechischer und indischer Traditionen.",
+      "en": "Kushan emperor Kanishka patronizes Mahayana Buddhism and Gandhara art, a synthesis of Greek and Indian traditions."
+    }
+  }
+]

@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "founding-of-cairo",
+    "coordinates": [
+      31.236,
+      30.044
+    ],
+    "year": 969,
+    "type": "foundation",
+    "culturalSphere": [
+      "islamic",
+      "egyptian",
+      "north-african"
+    ],
+    "labels": {
+      "de": "Gründung Kairos",
+      "en": "Founding of Cairo"
+    },
+    "description": {
+      "de": "Die Fatimiden gründen al-Qahira (Kairo) als neue Hauptstadt ihres Kalifats. Die al-Azhar-Moschee wird zum bedeutendsten Lehr- und Gelehrtenzentrum der islamischen Welt.",
+      "en": "The Fatimids found al-Qahira (Cairo) as the new capital of their caliphate. The al-Azhar Mosque becomes the most important center of learning in the Islamic world."
+    }
+  },
+  {
+    "id": "founding-of-song-dynasty",
+    "coordinates": [
+      114.31,
+      34.8
+    ],
+    "year": 960,
+    "type": "foundation",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Gründung der Song-Dynastie",
+      "en": "Founding of the Song Dynasty"
+    },
+    "description": {
+      "de": "Zhao Kuangyin gründete die Song-Dynastie und vereinigte den Großteil Chinas. Die Song-Ära brachte bedeutende technologische Innovationen wie Buchdruck, Schießpulver und Kompass hervor.",
+      "en": "Zhao Kuangyin founded the Song dynasty and unified most of China. The Song era produced major technological innovations including printing, gunpowder, and the compass."
+    }
+  }
+]

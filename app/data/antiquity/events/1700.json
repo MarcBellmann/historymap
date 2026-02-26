@@ -1,1 +1,84 @@
-[]
+[
+  {
+    "id": "battle-of-blenheim",
+    "coordinates": [
+      10.6,
+      48.63
+    ],
+    "year": 1704,
+    "type": "battle",
+    "culturalSphere": [
+      "english",
+      "french"
+    ],
+    "labels": {
+      "de": "Schlacht von Höchstädt",
+      "en": "Battle of Blenheim"
+    },
+    "description": {
+      "de": "Der Duke of Marlborough und Prinz Eugen von Savoyen besiegten die französisch-bayerische Armee. Der Sieg rettete Wien vor der französischen Bedrohung und wendete den Spanischen Erbfolgekrieg.",
+      "en": "The Duke of Marlborough and Prince Eugene of Savoy defeated the Franco-Bavarian army. The victory saved Vienna from the French threat and turned the War of the Spanish Succession."
+    }
+  },
+  {
+    "id": "battle-of-poltava",
+    "coordinates": [
+      34.55,
+      49.59
+    ],
+    "year": 1709,
+    "type": "battle",
+    "culturalSphere": [
+      "russian",
+      "swedish"
+    ],
+    "labels": {
+      "de": "Schlacht von Poltawa",
+      "en": "Battle of Poltava"
+    },
+    "description": {
+      "de": "Zar Peter I. besiegte die schwedische Armee Karls XII. entscheidend bei Poltawa. Die Schlacht beendete die schwedische Großmachtstellung und machte Russland zur europäischen Großmacht.",
+      "en": "Tsar Peter I decisively defeated the Swedish army of Charles XII at Poltava. The battle ended Sweden's status as a great power and established Russia as a major European power."
+    }
+  },
+  {
+    "id": "act-of-union-great-britain",
+    "coordinates": [
+      -0.12,
+      51.5
+    ],
+    "year": 1707,
+    "type": "political",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Acts of Union (Großbritannien)",
+      "en": "Acts of Union (Great Britain)"
+    },
+    "description": {
+      "de": "England und Schottland vereinigten sich zum Königreich Großbritannien. Die Union schuf eine der mächtigsten politischen Einheiten Europas.",
+      "en": "England and Scotland united to form the Kingdom of Great Britain. The union created one of the most powerful political entities in Europe."
+    }
+  },
+  {
+    "id": "mughal-empire-peak-aurangzeb",
+    "coordinates": [
+      77.23,
+      28.61
+    ],
+    "year": 1700,
+    "type": "political",
+    "culturalSphere": [
+      "mughal"
+    ],
+    "labels": {
+      "de": "Mogulreich auf seinem Höhepunkt",
+      "en": "Mughal Empire at Its Peak"
+    },
+    "description": {
+      "de": "Unter Aurangzeb erreicht das Mogulreich seine größte Ausdehnung, doch innere Spannungen und endlose Kriege leiten den Verfall ein.",
+      "en": "Under Aurangzeb the Mughal Empire reaches its greatest extent, but internal tensions and endless wars begin its decline."
+    }
+  }
+]

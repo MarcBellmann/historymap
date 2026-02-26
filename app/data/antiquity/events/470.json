@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "fall-of-western-rome",
+    "coordinates": [
+      11.35,
+      44.49
+    ],
+    "year": 476,
+    "type": "political",
+    "culturalSphere": [
+      "roman",
+      "germanic"
+    ],
+    "labels": {
+      "de": "Untergang des Weströmischen Reiches",
+      "en": "Fall of the Western Roman Empire"
+    },
+    "description": {
+      "de": "Der germanische Heerführer Odoaker setzte den letzten weströmischen Kaiser Romulus Augustulus in Ravenna ab. Das Ereignis gilt als traditionelles Ende der Antike und Beginn des Mittelalters.",
+      "en": "The Germanic chieftain Odoacer deposed the last Western Roman emperor Romulus Augustulus at Ravenna. The event traditionally marks the end of antiquity and the beginning of the Middle Ages."
+    }
+  }
+]

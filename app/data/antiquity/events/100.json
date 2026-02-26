@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "nabataean-kingdom-annexed",
+    "coordinates": [
+      35.442,
+      30.329
+    ],
+    "year": 106,
+    "type": "political",
+    "culturalSphere": [
+      "roman",
+      "nabataean"
+    ],
+    "labels": {
+      "de": "Annexion des Nabatäerreiches",
+      "en": "Annexation of Nabataean Kingdom"
+    },
+    "description": {
+      "de": "Rom annektiert das Nabatäerreich und macht es zur Provinz Arabia Petraea. Die Handelsstadt Petra verliert an Bedeutung zugunsten römischer Routen.",
+      "en": "Rome annexes the Nabataean Kingdom, making it the province of Arabia Petraea. The trading city of Petra declines in favor of Roman routes."
+    }
+  },
+  {
+    "id": "aksumite-kingdom-rises",
+    "coordinates": [
+      38.72,
+      14.13
+    ],
+    "year": 100,
+    "type": "political",
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Aufstieg des Königreichs Aksum",
+      "en": "Rise of the Kingdom of Aksum"
+    },
+    "description": {
+      "de": "Das Königreich Aksum im heutigen Äthiopien und Eritrea wird zu einer der vier großen Weltmächte der Antike.",
+      "en": "The Kingdom of Aksum in modern Ethiopia and Eritrea rises to become one of the four great powers of the ancient world."
+    }
+  }
+]

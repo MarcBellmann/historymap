@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "founding-of-gojoseon",
+    "coordinates": [
+      125.75,
+      39.02
+    ],
+    "year": -700,
+    "type": "foundation",
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Aufstieg von Go-Joseon",
+      "en": "Rise of Gojoseon"
+    },
+    "description": {
+      "de": "Go-Joseon, das erste koreanische Königreich, entwickelte sich im Nordwesten der koreanischen Halbinsel zu einem bedeutenden Staatswesen mit Zentrum nahe dem heutigen Pjöngjang.",
+      "en": "Gojoseon, the first Korean kingdom, developed into a significant polity in the northwest of the Korean Peninsula, centered near modern Pyongyang."
+    }
+  }
+]

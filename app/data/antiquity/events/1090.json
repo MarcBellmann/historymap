@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "first-crusade-jerusalem",
+    "coordinates": [
+      35.23,
+      31.78
+    ],
+    "year": 1099,
+    "type": "battle",
+    "culturalSphere": [
+      "frankish",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Eroberung Jerusalems (Erster Kreuzzug)",
+      "en": "Capture of Jerusalem (First Crusade)"
+    },
+    "description": {
+      "de": "Kreuzfahrer eroberten Jerusalem nach einer blutigen Belagerung und gründeten das Königreich Jerusalem. Der Erste Kreuzzug veränderte die Beziehungen zwischen christlicher und islamischer Welt tiefgreifend.",
+      "en": "Crusaders captured Jerusalem after a bloody siege and established the Kingdom of Jerusalem. The First Crusade profoundly changed relations between the Christian and Islamic worlds."
+    }
+  },
+  {
+    "id": "crusader-siege-of-jerusalem",
+    "coordinates": [
+      35.232,
+      31.778
+    ],
+    "year": 1099,
+    "type": "battle",
+    "culturalSphere": [
+      "christian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Kreuzfahrer erobern Jerusalem",
+      "en": "Crusaders Capture Jerusalem"
+    },
+    "description": {
+      "de": "Kreuzritter des Ersten Kreuzzugs erobern Jerusalem und richten ein Massaker unter der muslimischen und jüdischen Bevölkerung an. Das Königreich Jerusalem wird gegründet.",
+      "en": "Crusaders of the First Crusade capture Jerusalem and massacre the Muslim and Jewish population. The Kingdom of Jerusalem is established."
+    }
+  }
+]

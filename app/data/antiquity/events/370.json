@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "introduction-of-buddhism-korea",
+    "coordinates": [
+      126.07,
+      40.05
+    ],
+    "year": 372,
+    "type": "cultural",
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Einführung des Buddhismus in Korea",
+      "en": "Introduction of Buddhism to Korea"
+    },
+    "description": {
+      "de": "Der Mönch Sundo brachte den Buddhismus aus dem chinesischen Staat Qian Qin nach Goguryeo und begründete eine der wichtigsten religiösen Traditionen Koreas.",
+      "en": "The monk Sundo brought Buddhism from the Chinese state of Former Qin to Goguryeo, establishing one of Korea's most important religious traditions."
+    }
+  }
+]

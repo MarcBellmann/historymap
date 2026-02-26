@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "destruction-of-corinth",
+    "coordinates": [
+      22.88,
+      37.91
+    ],
+    "year": -146,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "greek"
+    ],
+    "labels": {
+      "de": "Zerstörung von Korinth",
+      "en": "Destruction of Corinth"
+    },
+    "description": {
+      "de": "Die Römer zerstörten Korinth nach einem gescheiterten Aufstand des Achäischen Bundes. Das griechische Festland wurde als Provinz Achaia in das Römische Reich eingegliedert.",
+      "en": "Rome destroyed Corinth after a failed uprising by the Achaean League. The Greek mainland was incorporated into the Roman Empire as the province of Achaea."
+    }
+  },
+  {
+    "id": "destruction-of-carthage",
+    "coordinates": [
+      10.32,
+      36.85
+    ],
+    "year": -146,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "carthaginian"
+    ],
+    "labels": {
+      "de": "Zerstörung Karthagos",
+      "en": "Destruction of Carthage"
+    },
+    "description": {
+      "de": "Nach dreijähriger Belagerung zerstörten die Römer Karthago im Dritten Punischen Krieg vollständig. Die Stadt wurde dem Erdboden gleichgemacht und das Gebiet zur römischen Provinz Africa.",
+      "en": "After a three-year siege, Rome completely destroyed Carthage in the Third Punic War. The city was razed to the ground and the territory became the Roman province of Africa."
+    }
+  },
+  {
+    "id": "roman-destruction-of-carthage",
+    "coordinates": [
+      10.185,
+      36.853
+    ],
+    "year": -146,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "north-african"
+    ],
+    "labels": {
+      "de": "Römische Zerstörung Karthagos",
+      "en": "Roman Destruction of Carthage"
+    },
+    "description": {
+      "de": "Rom zerstört Karthago am Ende des Dritten Punischen Krieges vollständig. Die Stadt wird dem Erdboden gleichgemacht und das Gebiet zur Provinz Africa.",
+      "en": "Rome completely destroys Carthage at the end of the Third Punic War. The city is razed to the ground and the territory becomes the province of Africa."
+    }
+  }
+]

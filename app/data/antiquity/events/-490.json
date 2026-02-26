@@ -1,6 +1,6 @@
 [
   {
-    "id": "battle-marathon",
+    "id": "battle-of-marathon",
     "coordinates": [
       23.97,
       38.15
@@ -16,8 +16,8 @@
       "en": "Battle of Marathon"
     },
     "description": {
-      "de": "Die Athener besiegten die persische Invasionsarmee unter Datis. Aus persischer Sicht ein kleiner Rückschlag; für die Griechen ein Symbol des Widerstands.",
-      "en": "The Athenians defeated the Persian invasion force under Datis. From the Persian perspective, a minor setback; for the Greeks, a symbol of resistance."
+      "de": "Die Athener besiegten ein überlegenes persisches Invasionsheer in der Ebene von Marathon. Der Sieg bewies, dass die Perser geschlagen werden konnten, und stärkte Athens Selbstbewusstsein.",
+      "en": "The Athenians defeated a numerically superior Persian invasion force on the plain of Marathon. The victory proved the Persians could be beaten and boosted Athenian confidence."
     }
   }
 ]

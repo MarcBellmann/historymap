@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "id": "battle-of-megiddo-609bc",
+    "coordinates": [
+      35.184,
+      32.584
+    ],
+    "year": -609,
+    "type": "battle",
+    "culturalSphere": [
+      "egyptian",
+      "jewish"
+    ],
+    "labels": {
+      "de": "Schlacht von Megiddo (609 v. Chr.)",
+      "en": "Battle of Megiddo (609 BC)"
+    },
+    "description": {
+      "de": "Pharao Necho II. besiegt und tötet König Josia von Juda bei Megiddo auf dem Marsch zur Unterstützung der untergehenden Assyrer. Ein Schlüsselmoment der biblischen Geschichte.",
+      "en": "Pharaoh Necho II defeats and kills King Josiah of Judah at Megiddo while marching to support the collapsing Assyrians. A key moment in biblical history."
+    }
+  },
+  {
+    "id": "battle-of-carchemish",
+    "coordinates": [
+      38.018,
+      36.828
+    ],
+    "year": -605,
+    "type": "battle",
+    "culturalSphere": [
+      "mesopotamian",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Schlacht von Karkemisch",
+      "en": "Battle of Carchemish"
+    },
+    "description": {
+      "de": "Nebukadnezar II. besiegt die vereinigten ägyptisch-assyrischen Truppen bei Karkemisch am Euphrat. Babylon wird zur unangefochtenen Großmacht im Nahen Osten.",
+      "en": "Nebuchadnezzar II defeats the combined Egyptian-Assyrian forces at Carchemish on the Euphrates. Babylon becomes the undisputed great power of the Near East."
+    }
+  },
+  {
+    "id": "birth-of-laozi",
+    "coordinates": [
+      115.65,
+      33.87
+    ],
+    "year": -601,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Geburt von Laozi",
+      "en": "Birth of Laozi"
+    },
+    "description": {
+      "de": "Der legendäre Philosoph Laozi, Begründer des Daoismus und Autor des Dao De Jing, soll im Staat Chu geboren worden sein. Seine Lehren beeinflussten die chinesische Kultur zutiefst.",
+      "en": "The legendary philosopher Laozi, founder of Daoism and author of the Dao De Jing, is said to have been born in the state of Chu. His teachings profoundly influenced Chinese culture."
+    }
+  }
+]

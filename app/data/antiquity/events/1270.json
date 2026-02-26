@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "id": "mongol-invasion-japan-1274",
+    "coordinates": [
+      130.38,
+      33.6
+    ],
+    "year": 1274,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "japanese"
+    ],
+    "labels": {
+      "de": "Erste Mongoleninvasion Japans",
+      "en": "First Mongol Invasion of Japan"
+    },
+    "description": {
+      "de": "Kublai Khans Flotte griff Japan in der Bucht von Hakata an. Die Mongolen zogen sich nach heftigen Kämpfen und einem Sturm zurück.",
+      "en": "Kublai Khan's fleet attacked Japan in Hakata Bay. The Mongols withdrew after fierce fighting and a storm."
+    }
+  },
+  {
+    "id": "mongol-conquest-song-1279",
+    "coordinates": [
+      113.08,
+      22.15
+    ],
+    "year": 1279,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Fall der Südlichen Song – Schlacht von Yamen",
+      "en": "Fall of Southern Song – Battle of Yamen"
+    },
+    "description": {
+      "de": "Die mongolische Flotte vernichtete die letzte Song-Flotte in der Schlacht von Yamen. Ganz China fiel unter mongolische Herrschaft der Yuan-Dynastie.",
+      "en": "The Mongol fleet destroyed the last Song fleet at the Battle of Yamen. All of China fell under Mongol rule of the Yuan dynasty."
+    }
+  },
+  {
+    "id": "solomonic-dynasty-restored",
+    "coordinates": [
+      39.47,
+      11.6
+    ],
+    "year": 1270,
+    "type": "political",
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Wiederherstellung der Solomonischen Dynastie",
+      "en": "Solomonic Dynasty Restored"
+    },
+    "description": {
+      "de": "Yekuno Amlak stürzt die Zagwe und begründet die Solomonische Dynastie, die Äthiopien bis 1974 regieren wird.",
+      "en": "Yekuno Amlak overthrows the Zagwe and founds the Solomonic dynasty, which will rule Ethiopia until 1974."
+    }
+  }
+]

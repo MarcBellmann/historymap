@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "kushite-pharaohs-of-egypt",
+    "coordinates": [
+      31.236,
+      30.044
+    ],
+    "year": -747,
+    "type": "political",
+    "culturalSphere": [
+      "egyptian",
+      "african"
+    ],
+    "labels": {
+      "de": "Kuschitische Pharaonen Ägyptens",
+      "en": "Kushite Pharaohs of Egypt"
+    },
+    "description": {
+      "de": "Die 25. Dynastie aus dem Königreich Kusch übernimmt die Herrschaft über Ägypten. König Pianchi vereinigt das Niltal von Nubien bis zum Mittelmeer.",
+      "en": "The 25th Dynasty from the Kingdom of Kush takes control of Egypt. King Piankhi unites the Nile Valley from Nubia to the Mediterranean."
+    }
+  },
+  {
+    "id": "kingdom-of-kush-conquers-egypt",
+    "coordinates": [
+      31.82,
+      18.49
+    ],
+    "year": -750,
+    "type": "political",
+    "culturalSphere": [
+      "east-african"
+    ],
+    "labels": {
+      "de": "Kusch erobert Ägypten",
+      "en": "Kush Conquers Egypt"
+    },
+    "description": {
+      "de": "König Kashta von Kusch erobert Oberägypten und begründet die 25. Dynastie der Pharaonen.",
+      "en": "King Kashta of Kush conquers Upper Egypt, founding the 25th Dynasty of Pharaohs."
+    }
+  }
+]

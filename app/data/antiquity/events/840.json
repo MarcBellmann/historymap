@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "treaty-of-verdun",
+    "coordinates": [
+      5.38,
+      49.16
+    ],
+    "year": 843,
+    "type": "political",
+    "culturalSphere": [
+      "frankish"
+    ],
+    "labels": {
+      "de": "Vertrag von Verdun",
+      "en": "Treaty of Verdun"
+    },
+    "description": {
+      "de": "Die drei Enkel Karls des Großen teilten das Frankenreich in drei Teile. Der Vertrag legte die Grundlage für die spätere Entstehung Frankreichs, Deutschlands und Italiens.",
+      "en": "Charlemagne's three grandsons divided the Frankish Empire into three parts. The treaty laid the groundwork for the later emergence of France, Germany, and Italy."
+    }
+  }
+]

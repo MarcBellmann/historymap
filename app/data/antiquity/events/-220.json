@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "id": "battle-of-cannae",
+    "coordinates": [
+      16.13,
+      41.31
+    ],
+    "year": -216,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "carthaginian"
+    ],
+    "labels": {
+      "de": "Schlacht von Cannae",
+      "en": "Battle of Cannae"
+    },
+    "description": {
+      "de": "Hannibal Barkas vernichtete mit seiner Doppelumfassung ein weit überlegenes römisches Heer. Die Schlacht gilt als einer der größten taktischen Siege der Militärgeschichte.",
+      "en": "Hannibal Barca destroyed a far larger Roman army with his double envelopment. The battle is regarded as one of the greatest tactical victories in military history."
+    }
+  },
+  {
+    "id": "battle-of-raphia",
+    "coordinates": [
+      34.25,
+      31.295
+    ],
+    "year": -217,
+    "type": "battle",
+    "culturalSphere": [
+      "hellenistic",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Schlacht von Raphia",
+      "en": "Battle of Raphia"
+    },
+    "description": {
+      "de": "Ptolemaios IV. besiegt Antiochos III. bei Raphia und sichert Ägyptens Kontrolle über Koilesyrien. Eine der größten Schlachten der hellenistischen Welt.",
+      "en": "Ptolemy IV defeats Antiochus III at Raphia, securing Egypt's control over Coele-Syria. One of the largest battles of the Hellenistic world."
+    }
+  },
+  {
+    "id": "burning-of-books-qin",
+    "coordinates": [
+      108.94,
+      34.27
+    ],
+    "year": -213,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Bücherverbrennung unter Qin",
+      "en": "Burning of Books under Qin"
+    },
+    "description": {
+      "de": "Kaiser Qin Shi Huang ordnete die Verbrennung philosophischer Texte und die Verfolgung von Gelehrten an, um die Ideologie des Legalismus durchzusetzen und abweichende Meinungen zu unterdrücken.",
+      "en": "Emperor Qin Shi Huang ordered the burning of philosophical texts and persecution of scholars to enforce Legalist ideology and suppress dissent."
+    }
+  }
+]

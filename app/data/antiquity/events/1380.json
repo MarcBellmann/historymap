@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "battle-of-kosovo",
+    "coordinates": [
+      21.09,
+      42.66
+    ],
+    "year": 1389,
+    "type": "battle",
+    "culturalSphere": [
+      "slavic",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Schlacht auf dem Amselfeld",
+      "en": "Battle of Kosovo"
+    },
+    "description": {
+      "de": "Serbische Streitkräfte unter Fürst Lazar kämpften gegen die Osmanen unter Sultan Murad I. Beide Anführer fielen, und die Schlacht leitete die osmanische Vorherrschaft auf dem Balkan ein.",
+      "en": "Serbian forces under Prince Lazar fought the Ottomans under Sultan Murad I. Both leaders were killed, and the battle ushered in Ottoman dominance over the Balkans."
+    }
+  }
+]

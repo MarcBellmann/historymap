@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "fall-of-nineveh",
+    "coordinates": [
+      43.153,
+      36.36
+    ],
+    "year": -612,
+    "type": "battle",
+    "culturalSphere": [
+      "mesopotamian",
+      "persian"
+    ],
+    "labels": {
+      "de": "Fall von Ninive",
+      "en": "Fall of Nineveh"
+    },
+    "description": {
+      "de": "Eine Allianz aus Medern und Babyloniern erobert Ninive, die Hauptstadt des neuassyrischen Reiches. Das mächtigste Reich der damaligen Welt bricht zusammen.",
+      "en": "An alliance of Medes and Babylonians conquers Nineveh, capital of the Neo-Assyrian Empire. The most powerful empire of the ancient world collapses."
+    }
+  }
+]

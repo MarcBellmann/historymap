@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "maccabean-revolt",
+    "coordinates": [
+      35.195,
+      31.845
+    ],
+    "year": -167,
+    "type": "battle",
+    "culturalSphere": [
+      "jewish",
+      "hellenistic"
+    ],
+    "labels": {
+      "de": "Makkabäeraufstand",
+      "en": "Maccabean Revolt"
+    },
+    "description": {
+      "de": "Die Makkabäer erheben sich gegen die Seleukidenherrschaft und die erzwungene Hellenisierung Judäas. Der erfolgreiche Aufstand führt zur Hasmonäer-Dynastie und zur Wiedereinweihung des Tempels (Chanukka).",
+      "en": "The Maccabees revolt against Seleucid rule and the forced Hellenization of Judea. The successful uprising leads to the Hasmonean dynasty and the rededication of the Temple (Hanukkah)."
+    }
+  }
+]

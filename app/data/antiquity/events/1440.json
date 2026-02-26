@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "gutenberg-printing-press",
+    "coordinates": [
+      8.27,
+      49.99
+    ],
+    "year": 1440,
+    "type": "cultural",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Gutenbergs Druckerpresse",
+      "en": "Gutenberg's Printing Press"
+    },
+    "description": {
+      "de": "Johannes Gutenberg entwickelte in Mainz den Buchdruck mit beweglichen Lettern. Die Erfindung revolutionierte die Verbreitung von Wissen und war eine Voraussetzung für Reformation und Aufklärung.",
+      "en": "Johannes Gutenberg developed the printing press with movable type in Mainz. The invention revolutionized the spread of knowledge and was a prerequisite for the Reformation and Enlightenment."
+    }
+  },
+  {
+    "id": "invention-of-hangul",
+    "coordinates": [
+      126.98,
+      37.57
+    ],
+    "year": 1443,
+    "type": "cultural",
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Erfindung des Hangul",
+      "en": "Invention of Hangul"
+    },
+    "description": {
+      "de": "König Sejong der Große ließ das koreanische Alphabet Hangul entwickeln, um die Alphabetisierung des Volkes zu fördern. Es gilt als eines der wissenschaftlichsten Schriftsysteme.",
+      "en": "King Sejong the Great had the Korean alphabet Hangul developed to promote literacy among the people. It is considered one of the most scientifically designed writing systems."
+    }
+  }
+]

@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "id": "timur-sacks-baghdad",
+    "coordinates": [
+      44.366,
+      33.315
+    ],
+    "year": 1401,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Timur plündert Bagdad",
+      "en": "Timur Sacks Baghdad"
+    },
+    "description": {
+      "de": "Timur Lenk plündert Bagdad ein zweites Mal und errichtet Schädeltürme aus den Toten. Die bereits verwüstete Stadt wird erneut schwer zerstört.",
+      "en": "Timur sacks Baghdad for a second time and erects skull towers from the dead. The already devastated city is severely destroyed once more."
+    }
+  },
+  {
+    "id": "timur-sacks-damascus",
+    "coordinates": [
+      36.293,
+      33.513
+    ],
+    "year": 1401,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Timur plündert Damaskus",
+      "en": "Timur Sacks Damascus"
+    },
+    "description": {
+      "de": "Timur Lenk erobert und plündert Damaskus, brennt die Umayyaden-Moschee nieder und verschleppt die besten Handwerker der Stadt nach Samarkand.",
+      "en": "Timur captures and sacks Damascus, burns the Umayyad Mosque, and deports the city's finest artisans to Samarkand."
+    }
+  },
+  {
+    "id": "battle-of-ankara",
+    "coordinates": [
+      32.866,
+      39.934
+    ],
+    "year": 1402,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Schlacht von Ankara",
+      "en": "Battle of Ankara"
+    },
+    "description": {
+      "de": "Timur besiegt den osmanischen Sultan Bayezid I. bei Ankara und nimmt ihn gefangen. Das Osmanische Reich gerät in ein Jahrzehnt des Interregnums und Bürgerkriegs.",
+      "en": "Timur defeats Ottoman Sultan Bayezid I at Ankara and takes him captive. The Ottoman Empire enters a decade of interregnum and civil war."
+    }
+  },
+  {
+    "id": "zheng-he-voyages",
+    "coordinates": [
+      118.8,
+      32.06
+    ],
+    "year": 1405,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Zheng Hes Schatzschiff-Expeditionen",
+      "en": "Zheng He's Treasure Voyages"
+    },
+    "description": {
+      "de": "Admiral Zheng He startete von Nanjing aus sieben gewaltige Seeexpeditionen (1405–1433), die bis nach Ostafrika führten und Chinas maritime Macht demonstrierten.",
+      "en": "Admiral Zheng He launched seven massive maritime expeditions (1405–1433) from Nanjing, reaching East Africa and demonstrating China's naval power."
+    }
+  },
+  {
+    "id": "malacca-sultanate-founded",
+    "coordinates": [
+      102.25,
+      2.19
+    ],
+    "year": 1400,
+    "type": "foundation",
+    "culturalSphere": [
+      "malay"
+    ],
+    "labels": {
+      "de": "Gründung des Sultanats Malakka",
+      "en": "Founding of the Malacca Sultanate"
+    },
+    "description": {
+      "de": "Parameswara gründete das Sultanat Malakka, das zum wichtigsten Handelszentrum Südostasiens aufstieg und die Islamisierung der malaiischen Welt vorantrieb.",
+      "en": "Parameswara founded the Malacca Sultanate, which rose to become Southeast Asia's most important trading center and advanced the Islamization of the Malay world."
+    }
+  }
+]

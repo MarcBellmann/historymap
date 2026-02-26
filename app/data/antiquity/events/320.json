@@ -1,23 +1,42 @@
 [
   {
-    "id": "gupta-golden-age",
+    "id": "council-of-nicaea",
     "coordinates": [
-      78.9629,
-      20.5937
+      29.72,
+      40.43
     ],
-    "year": 320,
+    "year": 325,
     "type": "cultural",
     "culturalSphere": [
-      "indian",
-      "gupta"
+      "roman"
     ],
     "labels": {
-      "de": "Goldenes Zeitalter der Gupta",
-      "en": "Gupta Golden Age"
+      "de": "Konzil von Nicäa",
+      "en": "Council of Nicaea"
     },
     "description": {
-      "de": "Die Gründung der Gupta-Dynastie leitet ein goldenes Zeitalter in Indien ein: Blüte der Mathematik, Astronomie, Literatur und Philosophie. Aryabhata und Kalidasa wirken in dieser Zeit.",
-      "en": "The founding of the Gupta dynasty initiates a golden age in India: a flourishing of mathematics, astronomy, literature, and philosophy. Aryabhata and Kalidasa flourished in this era."
+      "de": "Kaiser Konstantin berief das erste ökumenische Konzil ein, das das Nicänische Glaubensbekenntnis formulierte. Das Konzil legte die Grundlagen der christlichen Orthodoxie fest.",
+      "en": "Emperor Constantine convened the first ecumenical council, which formulated the Nicene Creed. The council established the foundations of Christian orthodoxy."
+    }
+  },
+  {
+    "id": "gupta-empire-founded",
+    "coordinates": [
+      85.14,
+      25.61
+    ],
+    "year": 320,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Gründung des Gupta-Reiches",
+      "en": "Gupta Empire Founded"
+    },
+    "description": {
+      "de": "Chandragupta I. gründet das Gupta-Reich in Pataliputra und leitet ein goldenes Zeitalter der indischen Kultur ein.",
+      "en": "Chandragupta I founds the Gupta Empire at Pataliputra, ushering in a golden age of Indian culture."
     }
   }
 ]

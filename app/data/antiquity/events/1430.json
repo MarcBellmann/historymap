@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "fall-of-angkor",
+    "coordinates": [
+      103.87,
+      13.44
+    ],
+    "year": 1431,
+    "type": "battle",
+    "culturalSphere": [
+      "khmer",
+      "thai"
+    ],
+    "labels": {
+      "de": "Fall von Angkor",
+      "en": "Fall of Angkor"
+    },
+    "description": {
+      "de": "Das Königreich Ayutthaya eroberte und plünderte Angkor nach einer siebenmonatigen Belagerung. Der Khmer-Hof verlagerte sich südwärts nach Phnom Penh.",
+      "en": "The Ayutthaya Kingdom captured and sacked Angkor after a seven-month siege. The Khmer court relocated southward to Phnom Penh."
+    }
+  },
+  {
+    "id": "inca-expansion-pachacuti",
+    "coordinates": [
+      -71.97,
+      -13.52
+    ],
+    "year": 1438,
+    "type": "political",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Inka-Expansion unter Pachacuti",
+      "en": "Inca Expansion Under Pachacuti"
+    },
+    "description": {
+      "de": "Sapa Inka Pachacuti beginnt die massive Expansion des Tawantinsuyu und verwandelt das Inka-Reich in das größte Reich der vorkolumbischen Amerikas.",
+      "en": "Sapa Inca Pachacuti begins the massive expansion of Tawantinsuyu, transforming the Inca into the largest empire in pre-Columbian Americas."
+    }
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "bantu-expansion-peak",
+    "coordinates": [
+      29.37,
+      -1.5
+    ],
+    "year": 500,
+    "type": "cultural",
+    "culturalSphere": [
+      "bantu"
+    ],
+    "labels": {
+      "de": "Höhepunkt der Bantu-Expansion",
+      "en": "Peak of the Bantu Expansion"
+    },
+    "description": {
+      "de": "Bantu-sprachige Völker besiedeln das südliche und östliche Afrika und verbreiten Eisenverarbeitung und Landwirtschaft.",
+      "en": "Bantu-speaking peoples settle across southern and eastern Africa, spreading ironworking and agriculture."
+    }
+  }
+]

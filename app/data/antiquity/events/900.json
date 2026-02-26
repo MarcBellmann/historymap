@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "id": "fatimid-caliphate-founded",
+    "coordinates": [
+      10.181,
+      36.806
+    ],
+    "year": 909,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "north-african"
+    ],
+    "labels": {
+      "de": "Gründung des Fatimiden-Kalifats",
+      "en": "Fatimid Caliphate Founded"
+    },
+    "description": {
+      "de": "Die schiitischen Fatimiden gründen ein rivalisierendes Kalifat in Nordafrika. Von dort aus erobern sie Ägypten und werden zu einer der mächtigsten Dynastien der islamischen Welt.",
+      "en": "The Shia Fatimids establish a rival caliphate in North Africa. From there they conquer Egypt and become one of the most powerful dynasties in the Islamic world."
+    }
+  },
+  {
+    "id": "fall-of-tang-dynasty",
+    "coordinates": [
+      108.94,
+      34.27
+    ],
+    "year": 907,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Fall der Tang-Dynastie",
+      "en": "Fall of the Tang Dynasty"
+    },
+    "description": {
+      "de": "Nach der Huang-Chao-Rebellion und Jahrzehnten des Niedergangs endete die Tang-Dynastie. China zerfiel in die Periode der Fünf Dynastien und Zehn Reiche.",
+      "en": "After the Huang Chao Rebellion and decades of decline, the Tang dynasty ended. China fragmented into the Five Dynasties and Ten Kingdoms period."
+    }
+  },
+  {
+    "id": "swahili-coast-trade-flourishes",
+    "coordinates": [
+      39.28,
+      -6.17
+    ],
+    "year": 900,
+    "type": "cultural",
+    "culturalSphere": [
+      "swahili"
+    ],
+    "labels": {
+      "de": "Aufblühen des Swahili-Handels",
+      "en": "Swahili Coast Trade Flourishes"
+    },
+    "description": {
+      "de": "Die Swahili-Handelsstädte an der ostafrikanischen Küste blühen durch den Indischen-Ozean-Handel mit Gold, Elfenbein und Sklaven.",
+      "en": "Swahili trading cities on the East African coast flourish through Indian Ocean trade in gold, ivory, and slaves."
+    }
+  },
+  {
+    "id": "maya-classic-collapse",
+    "coordinates": [
+      -89.62,
+      17.22
+    ],
+    "year": 900,
+    "type": "political",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Kollaps der klassischen Maya",
+      "en": "Classic Maya Collapse"
+    },
+    "description": {
+      "de": "Die großen Maya-Städte im südlichen Tiefland werden innerhalb weniger Jahrzehnte aufgegeben; die Ursachen sind bis heute umstritten.",
+      "en": "The great Maya cities in the southern lowlands are abandoned within a few decades; the causes remain debated."
+    }
+  }
+]

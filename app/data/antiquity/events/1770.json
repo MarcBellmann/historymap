@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "first-partition-of-poland",
+    "coordinates": [
+      21.01,
+      52.23
+    ],
+    "year": 1772,
+    "type": "political",
+    "culturalSphere": [
+      "slavic",
+      "european"
+    ],
+    "labels": {
+      "de": "Erste Teilung Polens",
+      "en": "First Partition of Poland"
+    },
+    "description": {
+      "de": "Russland, Preußen und Österreich teilten große Gebiete Polen-Litauens unter sich auf. Die Erste Teilung leitete die vollständige Auflösung des polnisch-litauischen Staates ein.",
+      "en": "Russia, Prussia, and Austria divided large territories of Poland-Lithuania among themselves. The First Partition initiated the complete dissolution of the Polish-Lithuanian state."
+    }
+  },
+  {
+    "id": "tay-son-rebellion-vietnam",
+    "coordinates": [
+      109,
+      13.77
+    ],
+    "year": 1771,
+    "type": "political",
+    "culturalSphere": [
+      "vietnamese"
+    ],
+    "labels": {
+      "de": "Tây-Sơn-Aufstand",
+      "en": "Tây Sơn Rebellion"
+    },
+    "description": {
+      "de": "Die drei Brüder aus Tây Sơn erhoben sich gegen die herrschenden Familien und vereinigten kurzzeitig Vietnam. Sie besiegten auch chinesische und siamesische Invasionen.",
+      "en": "The three brothers from Tây Sơn rose against the ruling families and briefly unified Vietnam. They also defeated Chinese and Siamese invasions."
+    }
+  },
+  {
+    "id": "bengal-famine-1770",
+    "coordinates": [
+      88.36,
+      22.57
+    ],
+    "year": 1770,
+    "type": "natural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Große Hungersnot in Bengalen",
+      "en": "Great Bengal Famine"
+    },
+    "description": {
+      "de": "Eine verheerende Hungersnot tötet etwa 10 Millionen Menschen in Bengalen unter der Verwaltung der Britischen Ostindien-Kompanie.",
+      "en": "A devastating famine kills approximately 10 million people in Bengal under British East India Company administration."
+    }
+  }
+]

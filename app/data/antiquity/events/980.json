@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "christianization-of-kievan-rus",
+    "coordinates": [
+      30.52,
+      50.45
+    ],
+    "year": 988,
+    "type": "cultural",
+    "culturalSphere": [
+      "slavic",
+      "byzantine"
+    ],
+    "labels": {
+      "de": "Christianisierung der Kiewer Rus",
+      "en": "Christianization of Kievan Rus'"
+    },
+    "description": {
+      "de": "Großfürst Wladimir I. ließ sich taufen und führte das orthodoxe Christentum in der Kiewer Rus ein. Die Christianisierung band die ostslawische Welt kulturell an Byzanz.",
+      "en": "Grand Prince Vladimir I was baptized and introduced Orthodox Christianity to Kievan Rus'. The Christianization culturally tied the East Slavic world to Byzantium."
+    }
+  }
+]

@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "angkor-wat-construction",
+    "coordinates": [
+      103.87,
+      13.44
+    ],
+    "year": 1130,
+    "type": "cultural",
+    "culturalSphere": [
+      "khmer"
+    ],
+    "labels": {
+      "de": "Bau von Angkor Wat",
+      "en": "Construction of Angkor Wat"
+    },
+    "description": {
+      "de": "König Suryavarman II. ließ Angkor Wat errichten, den größten religiösen Komplex der Welt. Der Tempel ist heute Nationalsymbol Kambodschas.",
+      "en": "King Suryavarman II built Angkor Wat, the largest religious complex in the world. The temple is now Cambodia's national symbol."
+    }
+  },
+  {
+    "id": "ethiopian-zagwe-dynasty",
+    "coordinates": [
+      39.04,
+      12.03
+    ],
+    "year": 1137,
+    "type": "political",
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Zagwe-Dynastie in Äthiopien",
+      "en": "Zagwe Dynasty in Ethiopia"
+    },
+    "description": {
+      "de": "Die Zagwe-Dynastie übernimmt die Macht in Äthiopien und baut die berühmten Felsenkirchen von Lalibela.",
+      "en": "The Zagwe dynasty takes power in Ethiopia and builds the famous rock-hewn churches of Lalibela."
+    }
+  }
+]

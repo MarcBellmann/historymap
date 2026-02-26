@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "siege-of-lachish",
+    "coordinates": [
+      34.849,
+      31.565
+    ],
+    "year": -701,
+    "type": "battle",
+    "culturalSphere": [
+      "mesopotamian",
+      "jewish"
+    ],
+    "labels": {
+      "de": "Belagerung von Lachisch",
+      "en": "Siege of Lachish"
+    },
+    "description": {
+      "de": "Sanherib belagert und erobert die befestigte judäische Stadt Lachisch während seines Feldzugs gegen König Hiskija. Die berühmten Reliefs in Ninive dokumentieren die Belagerung.",
+      "en": "Sennacherib besieges and captures the fortified Judean city of Lachish during his campaign against King Hezekiah. The famous reliefs at Nineveh document the siege."
+    }
+  }
+]

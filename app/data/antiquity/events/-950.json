@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "egyptian-conquest-of-nubia",
+    "coordinates": [
+      31.62,
+      22.8
+    ],
+    "year": -950,
+    "type": "political",
+    "culturalSphere": [
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Ägyptische Schwäche in Nubien",
+      "en": "Egyptian Retreat from Nubia"
+    },
+    "description": {
+      "de": "Ägyptens Macht schwindet in Nubien, wo das Königreich Kusch erstarkt. Innerhalb weniger Jahrhunderte werden die Kuschiten selbst Ägypten regieren.",
+      "en": "Egypt's power wanes in Nubia, where the Kingdom of Kush grows stronger. Within a few centuries, the Kushites will rule Egypt themselves."
+    }
+  }
+]

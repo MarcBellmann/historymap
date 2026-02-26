@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "nanda-dynasty-magadha",
+    "coordinates": [
+      85.14,
+      25.61
+    ],
+    "year": -345,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Nanda-Dynastie ergreift Macht in Magadha",
+      "en": "Nanda Dynasty Seizes Power in Magadha"
+    },
+    "description": {
+      "de": "Mahapadma Nanda stürzt die Shishunaga-Dynastie und errichtet das erste große Reich, das weite Teile Nordindiens vereint.",
+      "en": "Mahapadma Nanda overthrows the Shishunaga dynasty, establishing the first great empire uniting much of northern India."
+    }
+  }
+]

@@ -1,1 +1,147 @@
-[]
+[
+  {
+    "id": "battle-of-austerlitz",
+    "coordinates": [
+      16.76,
+      49.13
+    ],
+    "year": 1805,
+    "type": "battle",
+    "culturalSphere": [
+      "french",
+      "habsburg",
+      "russian"
+    ],
+    "labels": {
+      "de": "Schlacht von Austerlitz",
+      "en": "Battle of Austerlitz"
+    },
+    "description": {
+      "de": "Napoleon besiegte die vereinten österreichisch-russischen Armeen in der Dreikaiserschlacht bei Austerlitz. Der Sieg gilt als Napoleons größter taktischer Triumph und beendete die Dritte Koalition.",
+      "en": "Napoleon defeated the combined Austrian-Russian armies in the 'Battle of the Three Emperors' at Austerlitz. The victory is considered Napoleon's greatest tactical triumph and ended the Third Coalition."
+    }
+  },
+  {
+    "id": "battle-of-trafalgar",
+    "coordinates": [
+      -6.24,
+      36.18
+    ],
+    "year": 1805,
+    "type": "battle",
+    "culturalSphere": [
+      "english",
+      "french",
+      "spanish"
+    ],
+    "labels": {
+      "de": "Schlacht von Trafalgar",
+      "en": "Battle of Trafalgar"
+    },
+    "description": {
+      "de": "Die Royal Navy unter Admiral Nelson besiegte die französisch-spanische Flotte am Kap Trafalgar. Der Sieg sicherte Britanniens Seeherrschaft für ein Jahrhundert, kostete aber Nelson das Leben.",
+      "en": "The Royal Navy under Admiral Nelson defeated the Franco-Spanish fleet off Cape Trafalgar. The victory secured British naval supremacy for a century but cost Nelson his life."
+    }
+  },
+  {
+    "id": "dissolution-holy-roman-empire",
+    "coordinates": [
+      16.37,
+      48.21
+    ],
+    "year": 1806,
+    "type": "political",
+    "culturalSphere": [
+      "habsburg"
+    ],
+    "labels": {
+      "de": "Auflösung des Heiligen Römischen Reiches",
+      "en": "Dissolution of the Holy Roman Empire"
+    },
+    "description": {
+      "de": "Kaiser Franz II. legte die Krone des Heiligen Römischen Reiches nieder, nachdem Napoleon den Rheinbund gegründet hatte. Das über 800 Jahre bestehende Reich hörte auf zu existieren.",
+      "en": "Emperor Francis II abdicated the crown of the Holy Roman Empire after Napoleon founded the Confederation of the Rhine. The empire that had existed for over 800 years ceased to exist."
+    }
+  },
+  {
+    "id": "muhammad-ali-seizes-power",
+    "coordinates": [
+      31.236,
+      30.044
+    ],
+    "year": 1805,
+    "type": "political",
+    "culturalSphere": [
+      "egyptian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Muhammad Ali ergreift die Macht in Ägypten",
+      "en": "Muhammad Ali Seizes Power in Egypt"
+    },
+    "description": {
+      "de": "Muhammad Ali wird Vizekönig Ägyptens und beginnt ein radikales Modernisierungsprogramm: Industrialisierung, Militärreform und moderne Verwaltung.",
+      "en": "Muhammad Ali becomes viceroy of Egypt and begins a radical modernization program: industrialization, military reform, and modern administration."
+    }
+  },
+  {
+    "id": "nguyen-dynasty-founded",
+    "coordinates": [
+      107.6,
+      16.46
+    ],
+    "year": 1802,
+    "type": "foundation",
+    "culturalSphere": [
+      "vietnamese"
+    ],
+    "labels": {
+      "de": "Gründung der Nguyễn-Dynastie",
+      "en": "Founding of the Nguyễn Dynasty"
+    },
+    "description": {
+      "de": "Gia Long vereinigte Vietnam und gründete die Nguyễn-Dynastie mit der Hauptstadt Huế. Es war die letzte Dynastie Vietnams.",
+      "en": "Gia Long unified Vietnam and founded the Nguyễn dynasty with its capital at Huế. It was Vietnam's last dynasty."
+    }
+  },
+  {
+    "id": "sikh-empire-ranjit-singh",
+    "coordinates": [
+      74.35,
+      31.55
+    ],
+    "year": 1801,
+    "type": "political",
+    "culturalSphere": [
+      "sikh"
+    ],
+    "labels": {
+      "de": "Ranjit Singh gründet das Sikh-Reich",
+      "en": "Ranjit Singh Founds the Sikh Empire"
+    },
+    "description": {
+      "de": "Maharaja Ranjit Singh vereint die Sikh-Misls und gründet in Lahore ein mächtiges Reich im Punjab.",
+      "en": "Maharaja Ranjit Singh unites the Sikh Misls and establishes a powerful empire in Punjab with its capital at Lahore."
+    }
+  },
+  {
+    "id": "sokoto-caliphate-founded",
+    "coordinates": [
+      5.24,
+      13.06
+    ],
+    "year": 1804,
+    "type": "political",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Gründung des Kalifats von Sokoto",
+      "en": "Sokoto Caliphate Founded"
+    },
+    "description": {
+      "de": "Usman dan Fodio gründet nach einem Dschihad das Kalifat von Sokoto, den größten Staat im vorkolonialen Westafrika.",
+      "en": "Usman dan Fodio founds the Sokoto Caliphate after a jihad, creating the largest state in pre-colonial West Africa."
+    }
+  }
+]

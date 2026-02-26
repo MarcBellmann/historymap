@@ -1,1 +1,185 @@
-[]
+[
+  {
+    "id": "dreyfus-affair",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "year": 1894,
+    "type": "political",
+    "culturalSphere": [
+      "french"
+    ],
+    "labels": {
+      "de": "Dreyfus-Affäre",
+      "en": "Dreyfus Affair"
+    },
+    "description": {
+      "de": "Der jüdische Offizier Alfred Dreyfus wurde zu Unrecht des Hochverrats verurteilt. Die Affäre spaltete die französische Gesellschaft und wurde zum Wendepunkt im Kampf gegen Antisemitismus und für Bürgerrechte.",
+      "en": "Jewish officer Alfred Dreyfus was unjustly convicted of treason. The affair divided French society and became a turning point in the fight against antisemitism and for civil rights."
+    }
+  },
+  {
+    "id": "battle-of-omdurman",
+    "coordinates": [
+      32.487,
+      15.645
+    ],
+    "year": 1898,
+    "type": "battle",
+    "culturalSphere": [
+      "north-african",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Schlacht von Omdurman",
+      "en": "Battle of Omdurman"
+    },
+    "description": {
+      "de": "Britische und ägyptische Truppen unter Kitchener vernichten das Heer des Mahdisten-Staates bei Omdurman. Der Sudan kommt unter anglo-ägyptische Kontrolle.",
+      "en": "British and Egyptian forces under Kitchener destroy the Mahdist army at Omdurman. Sudan comes under Anglo-Egyptian control."
+    }
+  },
+  {
+    "id": "first-sino-japanese-war",
+    "coordinates": [
+      124.38,
+      39.83
+    ],
+    "year": 1894,
+    "type": "battle",
+    "culturalSphere": [
+      "japanese",
+      "chinese",
+      "korean"
+    ],
+    "labels": {
+      "de": "Erster Japanisch-Chinesischer Krieg",
+      "en": "First Sino-Japanese War"
+    },
+    "description": {
+      "de": "Japan besiegte China in einem Krieg um Einfluss in Korea. Der Vertrag von Shimonoseki zwang China zur Abtretung Taiwans und beendete die chinesische Dominanz in Ostasien.",
+      "en": "Japan defeated China in a war over influence in Korea. The Treaty of Shimonoseki forced China to cede Taiwan and ended Chinese dominance in East Asia."
+    }
+  },
+  {
+    "id": "hundred-days-reform",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "year": 1898,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Hundert-Tage-Reform",
+      "en": "Hundred Days' Reform"
+    },
+    "description": {
+      "de": "Kaiser Guangxu versuchte umfassende Modernisierungsreformen, die jedoch von der konservativen Kaiserinwitwe Cixi nach nur 103 Tagen durch einen Staatsstreich beendet wurden.",
+      "en": "Emperor Guangxu attempted comprehensive modernization reforms, which were ended after only 103 days by a coup led by the conservative Empress Dowager Cixi."
+    }
+  },
+  {
+    "id": "tonghak-peasant-revolution",
+    "coordinates": [
+      127.15,
+      35.82
+    ],
+    "year": 1894,
+    "type": "political",
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Donghak-Bauernrevolution",
+      "en": "Donghak Peasant Revolution"
+    },
+    "description": {
+      "de": "Koreanische Bauern erhoben sich gegen die korrupte Joseon-Regierung und ausländische Einflüsse. Die Revolte gab Japan und China den Vorwand zur militärischen Intervention in Korea.",
+      "en": "Korean peasants rose against the corrupt Joseon government and foreign influences. The revolt gave Japan and China a pretext for military intervention in Korea."
+    }
+  },
+  {
+    "id": "philippines-revolution-1896",
+    "coordinates": [
+      120.98,
+      14.6
+    ],
+    "year": 1896,
+    "type": "political",
+    "culturalSphere": [
+      "malay"
+    ],
+    "labels": {
+      "de": "Philippinische Revolution",
+      "en": "Philippine Revolution"
+    },
+    "description": {
+      "de": "Andrés Bonifacio und der Katipunan führten den Aufstand gegen die spanische Kolonialherrschaft. Die Revolution (1896–1898) mündete in die philippinische Unabhängigkeitserklärung.",
+      "en": "Andrés Bonifacio and the Katipunan led the revolt against Spanish colonial rule. The revolution (1896–1898) culminated in the Philippine declaration of independence."
+    }
+  },
+  {
+    "id": "battle-of-adwa",
+    "coordinates": [
+      38.97,
+      14.18
+    ],
+    "year": 1896,
+    "type": "battle",
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Schlacht von Adwa",
+      "en": "Battle of Adwa"
+    },
+    "description": {
+      "de": "Kaiser Menelik II. besiegt die italienische Invasionsarmee bei Adwa — Äthiopien bleibt als einziges afrikanisches Land unkolonisiert.",
+      "en": "Emperor Menelik II defeats the Italian invasion force at Adwa — Ethiopia remains the only African country to avoid colonization."
+    }
+  },
+  {
+    "id": "wounded-knee-massacre",
+    "coordinates": [
+      -102.36,
+      43.15
+    ],
+    "year": 1890,
+    "type": "battle",
+    "culturalSphere": [
+      "north-american"
+    ],
+    "labels": {
+      "de": "Massaker von Wounded Knee",
+      "en": "Wounded Knee Massacre"
+    },
+    "description": {
+      "de": "US-Truppen töten über 250 Lakota-Sioux bei Wounded Knee; das Massaker markiert das Ende der indianischen Widerstandskriege.",
+      "en": "US troops kill over 250 Lakota Sioux at Wounded Knee; the massacre marks the end of the Native American resistance wars."
+    }
+  },
+  {
+    "id": "spanish-american-war-cuba",
+    "coordinates": [
+      -75.83,
+      20.02
+    ],
+    "year": 1898,
+    "type": "battle",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Spanisch-Amerikanischer Krieg",
+      "en": "Spanish-American War"
+    },
+    "description": {
+      "de": "Die USA besiegen Spanien und erlangen Kontrolle über Kuba, Puerto Rico und die Philippinen.",
+      "en": "The US defeats Spain and gains control over Cuba, Puerto Rico, and the Philippines."
+    }
+  }
+]

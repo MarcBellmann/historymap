@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "great-zimbabwe-peak",
+    "coordinates": [
+      30.93,
+      -20.27
+    ],
+    "year": 1300,
+    "type": "cultural",
+    "culturalSphere": [
+      "bantu"
+    ],
+    "labels": {
+      "de": "Blütezeit von Groß-Simbabwe",
+      "en": "Great Zimbabwe at Its Peak"
+    },
+    "description": {
+      "de": "Groß-Simbabwe erreicht seinen Höhepunkt als Zentrum des Goldhandels mit bis zu 18.000 Einwohnern und monumentalen Steinbauten.",
+      "en": "Great Zimbabwe reaches its peak as a gold-trading center with up to 18,000 inhabitants and monumental stone structures."
+    }
+  }
+]

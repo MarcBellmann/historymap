@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "solomons-temple-built",
+    "coordinates": [
+      35.235,
+      31.778
+    ],
+    "year": -957,
+    "type": "cultural",
+    "culturalSphere": [
+      "jewish"
+    ],
+    "labels": {
+      "de": "Bau des Salomonischen Tempels",
+      "en": "Construction of Solomon's Temple"
+    },
+    "description": {
+      "de": "König Salomo vollendet den Ersten Tempel in Jerusalem — das religiöse und politische Zentrum des Königreichs Israel und heiligstes Bauwerk des Judentums.",
+      "en": "King Solomon completes the First Temple in Jerusalem — the religious and political center of the Kingdom of Israel and the holiest structure in Judaism."
+    }
+  }
+]

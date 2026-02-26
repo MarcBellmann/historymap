@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "parthenon-construction",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": -447,
+    "type": "cultural",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Bau des Parthenon",
+      "en": "Construction of the Parthenon"
+    },
+    "description": {
+      "de": "Unter Perikles begann der Bau des Parthenon auf der Athener Akropolis — das Symbol des Goldenen Zeitalters Athens und eines der bedeutendsten Bauwerke der Antike.",
+      "en": "Under Pericles, construction began on the Parthenon atop the Athenian Acropolis — the symbol of Athens' Golden Age and one of the most significant buildings of antiquity."
+    }
+  }
+]

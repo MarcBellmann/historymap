@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "battle-of-carrhae",
+    "coordinates": [
+      39.03,
+      36.864
+    ],
+    "year": -53,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "parthian"
+    ],
+    "labels": {
+      "de": "Schlacht von Carrhae",
+      "en": "Battle of Carrhae"
+    },
+    "description": {
+      "de": "Die Parther unter Surena vernichten die römische Armee des Crassus bei Carrhae. Eine der schwersten römischen Niederlagen, die Roms Expansion nach Osten für Jahrhunderte stoppt.",
+      "en": "The Parthians under Surena annihilate Crassus' Roman army at Carrhae. One of Rome's worst defeats, halting Roman expansion eastward for centuries."
+    }
+  }
+]

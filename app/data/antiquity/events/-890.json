@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "assyrian-empire-expansion",
+    "coordinates": [
+      43.153,
+      36.36
+    ],
+    "year": -883,
+    "type": "political",
+    "culturalSphere": [
+      "mesopotamian"
+    ],
+    "labels": {
+      "de": "Neuassyrische Expansion unter Assurnasirpal II.",
+      "en": "Neo-Assyrian Expansion under Ashurnasirpal II"
+    },
+    "description": {
+      "de": "Assurnasirpal II. beginnt die aggressive Expansion des Neuassyrischen Reiches nach Westen bis zum Mittelmeer. Nimrud wird zur prächtigen Hauptstadt ausgebaut.",
+      "en": "Ashurnasirpal II begins the aggressive westward expansion of the Neo-Assyrian Empire to the Mediterranean. Nimrud is developed into a magnificent capital."
+    }
+  }
+]

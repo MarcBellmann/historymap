@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "founding-of-marseille",
+    "coordinates": [
+      5.37,
+      43.3
+    ],
+    "year": -600,
+    "type": "foundation",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Gründung von Massalia",
+      "en": "Founding of Massalia (Marseille)"
+    },
+    "description": {
+      "de": "Griechische Siedler aus Phokaia gründeten Massalia an der südfranzösischen Küste. Die Kolonie wurde zum wichtigsten griechischen Handelszentrum im westlichen Mittelmeer.",
+      "en": "Greek settlers from Phocaea founded Massalia on the southern French coast. The colony became the most important Greek trading center in the western Mediterranean."
+    }
+  },
+  {
+    "id": "solon-reforms-athens",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": -594,
+    "type": "political",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Solons Reformen in Athen",
+      "en": "Solon's Reforms in Athens"
+    },
+    "description": {
+      "de": "Der Staatsmann Solon führte weitreichende Reformen in Athen ein, darunter die Aufhebung der Schuldknechtschaft und die Neuordnung der Bürgerklassen — ein Grundstein für die spätere Demokratie.",
+      "en": "The statesman Solon introduced far-reaching reforms in Athens, including the abolition of debt bondage and a reorganization of citizen classes — a foundation for later democracy."
+    }
+  },
+  {
+    "id": "mahajanapada-wars-begin",
+    "coordinates": [
+      85.14,
+      25.61
+    ],
+    "year": -600,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Beginn der Mahajanapada-Kriege",
+      "en": "Mahajanapada Wars Begin"
+    },
+    "description": {
+      "de": "Die sechzehn Mahajanapadas (Großkönigreicheider) im Ganges-Tal beginnen eine Epoche der Rivalität und Konsolidierung.",
+      "en": "The sixteen Mahajanapadas (great kingdoms) in the Ganges valley enter an era of rivalry and consolidation."
+    }
+  }
+]

@@ -1,24 +1,22 @@
 [
   {
-    "id": "ashoka-conversion",
+    "id": "battle-of-kalinga",
     "coordinates": [
-      85.8245,
-      20.2961
+      85.83,
+      20.46
     ],
     "year": -261,
-    "type": "cultural",
+    "type": "battle",
     "culturalSphere": [
-      "indian",
-      "mauryan",
-      "buddhist"
+      "indian"
     ],
     "labels": {
-      "de": "Ashokas Bekehrung zum Buddhismus",
-      "en": "Ashoka's Conversion to Buddhism"
+      "de": "Schlacht von Kalinga",
+      "en": "Battle of Kalinga"
     },
     "description": {
-      "de": "Nach der blutigen Kalinga-Schlacht wendet sich Kaiser Ashoka dem Buddhismus zu und verbreitet Gewaltlosigkeit, Toleranz und Dharma im gesamten Reich und darüber hinaus.",
-      "en": "After the bloody Kalinga battle, Emperor Ashoka embraces Buddhism and spreads non-violence, tolerance, and Dharma throughout the empire and beyond."
+      "de": "Ashoka erobert Kalinga in einer blutigen Schlacht; das Leid veranlasst ihn zur Abkehr von der Gewalt und Hinwendung zum Buddhismus.",
+      "en": "Ashoka conquers Kalinga in a devastating battle; the carnage leads him to renounce violence and embrace Buddhism."
     }
   }
 ]

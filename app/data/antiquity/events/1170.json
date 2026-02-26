@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "saladin-unifies-egypt-syria",
+    "coordinates": [
+      31.236,
+      30.044
+    ],
+    "year": 1171,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "arab"
+    ],
+    "labels": {
+      "de": "Saladin eint Ägypten und Syrien",
+      "en": "Saladin Unifies Egypt and Syria"
+    },
+    "description": {
+      "de": "Saladin beendet das Fatimiden-Kalifat, gründet die Ayyubiden-Dynastie und vereinigt Ägypten und Syrien unter sunnitischer Herrschaft — die Grundlage für die Rückeroberung Jerusalems.",
+      "en": "Saladin ends the Fatimid Caliphate, founds the Ayyubid dynasty, and unites Egypt and Syria under Sunni rule — the foundation for the reconquest of Jerusalem."
+    }
+  }
+]

@@ -1,1 +1,103 @@
-[]
+[
+  {
+    "id": "fourth-crusade-sack-constantinople",
+    "coordinates": [
+      28.98,
+      41.01
+    ],
+    "year": 1204,
+    "type": "battle",
+    "culturalSphere": [
+      "byzantine",
+      "frankish"
+    ],
+    "labels": {
+      "de": "Plünderung Konstantinopels (Vierter Kreuzzug)",
+      "en": "Sack of Constantinople (Fourth Crusade)"
+    },
+    "description": {
+      "de": "Kreuzfahrer plünderten und eroberten Konstantinopel, die christliche Hauptstadt des Byzantinischen Reiches. Die Zerstörung schwächte Byzanz irreparabel und vertiefte die Spaltung zwischen Ost- und Westkirche.",
+      "en": "Crusaders sacked and conquered Constantinople, the Christian capital of the Byzantine Empire. The destruction irreparably weakened Byzantium and deepened the East-West Christian schism."
+    }
+  },
+  {
+    "id": "genghis-khan-proclaimed",
+    "coordinates": [
+      108.42,
+      47.19
+    ],
+    "year": 1206,
+    "type": "political",
+    "culturalSphere": [
+      "mongol"
+    ],
+    "labels": {
+      "de": "Dschingis Khan wird Großkhan",
+      "en": "Genghis Khan Proclaimed Great Khan"
+    },
+    "description": {
+      "de": "Temüdschin vereinigte die mongolischen Stämme und wurde zum Dschingis Khan ausgerufen. Er begründete das größte zusammenhängende Landreich der Geschichte.",
+      "en": "Temüjin united the Mongol tribes and was proclaimed Genghis Khan. He founded the largest contiguous land empire in history."
+    }
+  },
+  {
+    "id": "delhi-sultanate-founded",
+    "coordinates": [
+      77.23,
+      28.61
+    ],
+    "year": 1206,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Gründung des Sultanats von Delhi",
+      "en": "Delhi Sultanate Founded"
+    },
+    "description": {
+      "de": "Qutb ud-Din Aibak gründet das Sultanat von Delhi und errichtet den Qutb Minar als Symbol der neuen muslimischen Herrschaft.",
+      "en": "Qutb ud-Din Aibak founds the Delhi Sultanate and begins construction of the Qutb Minar as a symbol of new Muslim rule."
+    }
+  },
+  {
+    "id": "kilwa-sultanate-peak",
+    "coordinates": [
+      39.52,
+      -8.96
+    ],
+    "year": 1200,
+    "type": "political",
+    "culturalSphere": [
+      "swahili"
+    ],
+    "labels": {
+      "de": "Blütezeit des Sultanats Kilwa",
+      "en": "Kilwa Sultanate at Its Peak"
+    },
+    "description": {
+      "de": "Das Sultanat Kilwa kontrolliert den Goldhandel aus dem Inneren Afrikas und wird zur reichsten Stadt der ostafrikanischen Küste.",
+      "en": "The Kilwa Sultanate controls the gold trade from Africa's interior, becoming the wealthiest city on the East African coast."
+    }
+  },
+  {
+    "id": "lalibela-churches",
+    "coordinates": [
+      39.04,
+      12.03
+    ],
+    "year": 1200,
+    "type": "cultural",
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Felsenkirchen von Lalibela",
+      "en": "Rock-Hewn Churches of Lalibela"
+    },
+    "description": {
+      "de": "König Lalibela lässt elf monolithische Kirchen aus dem Fels meißeln, die bis heute als Weltwunder gelten.",
+      "en": "King Lalibela commissions eleven monolithic churches carved from bedrock, still considered a world wonder today."
+    }
+  }
+]

@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "id": "unification-of-italy",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 1861,
+    "type": "political",
+    "culturalSphere": [
+      "italian"
+    ],
+    "labels": {
+      "de": "Vereinigung Italiens",
+      "en": "Unification of Italy"
+    },
+    "description": {
+      "de": "Das Königreich Italien wurde proklamiert und vereinigte die meisten italienischen Staaten unter König Viktor Emanuel II. Garibaldis Zug der Tausend und Cavours Diplomatie machten die Einigung möglich.",
+      "en": "The Kingdom of Italy was proclaimed, uniting most Italian states under King Victor Emmanuel II. Garibaldi's Expedition of the Thousand and Cavour's diplomacy made unification possible."
+    }
+  },
+  {
+    "id": "emancipation-of-serfs-russia",
+    "coordinates": [
+      37.62,
+      55.76
+    ],
+    "year": 1861,
+    "type": "political",
+    "culturalSphere": [
+      "russian"
+    ],
+    "labels": {
+      "de": "Abschaffung der Leibeigenschaft in Russland",
+      "en": "Emancipation of the Serfs in Russia"
+    },
+    "description": {
+      "de": "Zar Alexander II. befreite über 23 Millionen Leibeigene im Russischen Reich. Die Reform war die bedeutendste soziale Umwälzung in der russischen Geschichte, löste aber nicht alle Probleme der Landbevölkerung.",
+      "en": "Tsar Alexander II freed over 23 million serfs in the Russian Empire. The reform was the most significant social upheaval in Russian history, though it did not resolve all problems of the rural population."
+    }
+  },
+  {
+    "id": "suez-canal-opening",
+    "coordinates": [
+      32.303,
+      30.585
+    ],
+    "year": 1869,
+    "type": "cultural",
+    "culturalSphere": [
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Eröffnung des Suezkanals",
+      "en": "Opening of the Suez Canal"
+    },
+    "description": {
+      "de": "Der Suezkanal wird nach zehnjähriger Bauzeit eröffnet und verbindet Mittelmeer und Rotes Meer. Er verändert den Welthandel und macht Ägypten zum Mittelpunkt geopolitischer Rivalitäten.",
+      "en": "The Suez Canal opens after ten years of construction, linking the Mediterranean and Red Sea. It transforms world trade and makes Egypt the focus of geopolitical rivalry."
+    }
+  },
+  {
+    "id": "meiji-restoration",
+    "coordinates": [
+      135.77,
+      35.01
+    ],
+    "year": 1868,
+    "type": "political",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Meiji-Restauration",
+      "en": "Meiji Restoration"
+    },
+    "description": {
+      "de": "Das Tokugawa-Shogunat wurde gestürzt und die kaiserliche Macht unter Kaiser Meiji wiederhergestellt. Japan begann eine rasante Modernisierung und Industrialisierung nach westlichem Vorbild.",
+      "en": "The Tokugawa Shogunate was overthrown and imperial power restored under Emperor Meiji. Japan began rapid modernization and industrialization along Western lines."
+    }
+  },
+  {
+    "id": "boshin-war",
+    "coordinates": [
+      139.93,
+      41.77
+    ],
+    "year": 1869,
+    "type": "battle",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Boshin-Krieg – Ende der Republik Ezo",
+      "en": "Boshin War – Fall of the Republic of Ezo"
+    },
+    "description": {
+      "de": "Die kaiserlichen Truppen besiegten die letzte Tokugawa-Widerstandsbewegung in der Festung Goryōkaku in Hakodate und vollendeten die Meiji-Restauration.",
+      "en": "Imperial forces defeated the last Tokugawa resistance at Goryōkaku fortress in Hakodate, completing the Meiji Restoration."
+    }
+  },
+  {
+    "id": "french-conquest-indochina",
+    "coordinates": [
+      106.7,
+      10.78
+    ],
+    "year": 1862,
+    "type": "political",
+    "culturalSphere": [
+      "vietnamese"
+    ],
+    "labels": {
+      "de": "Französische Eroberung Südvietnams",
+      "en": "French Conquest of Southern Vietnam"
+    },
+    "description": {
+      "de": "Frankreich erzwang die Abtretung von Cochinchina (Südvietnam) durch den Vertrag von Saigon. Dies war der Beginn der französischen Kolonialherrschaft in Indochina.",
+      "en": "France forced the cession of Cochinchina (southern Vietnam) through the Treaty of Saigon. This marked the beginning of French colonial rule in Indochina."
+    }
+  },
+  {
+    "id": "us-civil-war-begins",
+    "coordinates": [
+      -79.87,
+      32.75
+    ],
+    "year": 1861,
+    "type": "battle",
+    "culturalSphere": [
+      "north-american"
+    ],
+    "labels": {
+      "de": "Beginn des Amerikanischen Bürgerkriegs",
+      "en": "American Civil War Begins"
+    },
+    "description": {
+      "de": "Der Beschuss von Fort Sumter markiert den Beginn des Amerikanischen Bürgerkriegs zwischen Nord- und Südstaaten.",
+      "en": "The bombardment of Fort Sumter marks the beginning of the American Civil War between the Union and Confederacy."
+    }
+  }
+]

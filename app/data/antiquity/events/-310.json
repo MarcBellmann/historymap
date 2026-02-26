@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "ptolemaic-egypt-founded",
+    "coordinates": [
+      29.919,
+      31.2
+    ],
+    "year": -305,
+    "type": "political",
+    "culturalSphere": [
+      "hellenistic",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Ptolemäisches Ägypten gegründet",
+      "en": "Ptolemaic Egypt Founded"
+    },
+    "description": {
+      "de": "Ptolemaios I. Soter krönt sich zum Pharao und begründet die Ptolemäer-Dynastie in Ägypten. Alexandria wird zum kulturellen und wissenschaftlichen Leuchtturm der hellenistischen Welt.",
+      "en": "Ptolemy I Soter crowns himself Pharaoh and founds the Ptolemaic dynasty in Egypt. Alexandria becomes the cultural and scientific beacon of the Hellenistic world."
+    }
+  },
+  {
+    "id": "battle-of-ipsus",
+    "coordinates": [
+      30.669,
+      38.669
+    ],
+    "year": -301,
+    "type": "battle",
+    "culturalSphere": [
+      "hellenistic"
+    ],
+    "labels": {
+      "de": "Schlacht von Ipsos",
+      "en": "Battle of Ipsus"
+    },
+    "description": {
+      "de": "Die letzte große Diadochenschlacht teilt Alexanders Reich endgültig in die Nachfolgestaaten der Ptolemäer, Seleukiden und Antigoniden auf.",
+      "en": "The last great battle of the Diadochi finally divides Alexander's empire into the successor states of the Ptolemies, Seleucids, and Antigonids."
+    }
+  },
+  {
+    "id": "chandragupta-defeats-seleucids",
+    "coordinates": [
+      66,
+      30
+    ],
+    "year": -305,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Chandragupta besiegt die Seleukiden",
+      "en": "Chandragupta Defeats the Seleucids"
+    },
+    "description": {
+      "de": "Chandragupta Maurya besiegt Seleukos I. Nikator und sichert die Kontrolle über die Gebiete westlich des Indus.",
+      "en": "Chandragupta Maurya defeats Seleucus I Nicator, securing Mauryan control over territories west of the Indus."
+    }
+  }
+]

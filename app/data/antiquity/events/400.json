@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "moche-civilization-peak",
+    "coordinates": [
+      -79.55,
+      -8.11
+    ],
+    "year": 400,
+    "type": "cultural",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Blütezeit der Moche-Kultur",
+      "en": "Moche Civilization at Its Peak"
+    },
+    "description": {
+      "de": "Die Moche-Kultur an der Nordküste Perus erreicht mit den Monumentalbauten der Huaca del Sol ihren Höhepunkt.",
+      "en": "The Moche civilization on Peru's north coast reaches its peak with the monumental Huaca del Sol."
+    }
+  }
+]

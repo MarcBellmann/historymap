@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "plague-of-justinian",
+    "coordinates": [
+      28.98,
+      41.01
+    ],
+    "year": 541,
+    "type": "natural",
+    "culturalSphere": [
+      "byzantine"
+    ],
+    "labels": {
+      "de": "Justinianische Pest",
+      "en": "Plague of Justinian"
+    },
+    "description": {
+      "de": "Eine verheerende Pestepidemie brach in Konstantinopel aus und breitete sich über das gesamte Mittelmeergebiet aus. Die Pandemie tötete Millionen und schwächte das Byzantinische Reich nachhaltig.",
+      "en": "A devastating plague epidemic broke out in Constantinople and spread across the entire Mediterranean. The pandemic killed millions and permanently weakened the Byzantine Empire."
+    }
+  }
+]

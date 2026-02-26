@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "habeas-corpus-act",
+    "coordinates": [
+      -0.12,
+      51.5
+    ],
+    "year": 1679,
+    "type": "political",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Habeas-Corpus-Akte",
+      "en": "Habeas Corpus Act"
+    },
+    "description": {
+      "de": "Das englische Parlament verabschiedete die Habeas-Corpus-Akte, die willkürliche Inhaftierung verbot. Das Gesetz wurde zum Eckpfeiler des Rechtsstaats und individueller Freiheitsrechte.",
+      "en": "The English Parliament passed the Habeas Corpus Act, prohibiting arbitrary imprisonment. The law became a cornerstone of the rule of law and individual liberty."
+    }
+  },
+  {
+    "id": "maratha-empire-founded",
+    "coordinates": [
+      73.68,
+      18.93
+    ],
+    "year": 1674,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Gründung des Maratha-Reiches",
+      "en": "Maratha Empire Founded"
+    },
+    "description": {
+      "de": "Shivaji lässt sich in Raigad zum Chhatrapati krönen und gründet das Maratha-Reich als Widerstand gegen die Mogulherrschaft.",
+      "en": "Shivaji crowns himself Chhatrapati at Raigad, founding the Maratha Empire in resistance to Mughal rule."
+    }
+  }
+]

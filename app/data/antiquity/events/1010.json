@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "tale-of-genji",
+    "coordinates": [
+      135.77,
+      35.01
+    ],
+    "year": 1010,
+    "type": "cultural",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Die Geschichte des Genji",
+      "en": "The Tale of Genji"
+    },
+    "description": {
+      "de": "Murasaki Shikibu verfasste am Kaiserhof in Kyoto die 'Geschichte des Genji', das als erster Roman der Weltliteratur gilt.",
+      "en": "Murasaki Shikibu composed 'The Tale of Genji' at the imperial court in Kyoto, considered the world's first novel."
+    }
+  },
+  {
+    "id": "ly-dynasty-founding-vietnam",
+    "coordinates": [
+      105.85,
+      21.03
+    ],
+    "year": 1010,
+    "type": "foundation",
+    "culturalSphere": [
+      "vietnamese"
+    ],
+    "labels": {
+      "de": "Gründung der Lý-Dynastie – Thăng Long (Hanoi)",
+      "en": "Founding of the Lý Dynasty – Thăng Long (Hanoi)"
+    },
+    "description": {
+      "de": "Lý Thái Tổ gründete die Lý-Dynastie und verlegte die Hauptstadt nach Thăng Long (Hanoi), das für fast 1.000 Jahre das politische Zentrum Vietnams blieb.",
+      "en": "Lý Thái Tổ founded the Lý dynasty and moved the capital to Thăng Long (Hanoi), which remained Vietnam's political center for nearly 1,000 years."
+    }
+  }
+]

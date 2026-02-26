@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "id": "abbasid-revolution",
+    "coordinates": [
+      37.158,
+      36.202
+    ],
+    "year": 750,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "arab",
+      "persian"
+    ],
+    "labels": {
+      "de": "Abbasidische Revolution",
+      "en": "Abbasid Revolution"
+    },
+    "description": {
+      "de": "Die Abbasiden stürzen die Umayyaden-Dynastie in der Schlacht am Großen Zab. Die Machtverlagerung nach Osten leitet ein goldenes Zeitalter der islamischen Zivilisation ein.",
+      "en": "The Abbasids overthrow the Umayyad dynasty at the Battle of the Zab. The shift of power eastward ushers in a golden age of Islamic civilization."
+    }
+  },
+  {
+    "id": "battle-of-talas",
+    "coordinates": [
+      71.234,
+      42.523
+    ],
+    "year": 751,
+    "type": "battle",
+    "culturalSphere": [
+      "islamic",
+      "arab",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Schlacht am Talas",
+      "en": "Battle of Talas"
+    },
+    "description": {
+      "de": "Abbasidische und Tang-chinesische Truppen treffen am Fluss Talas aufeinander. Der arabische Sieg beendet die chinesische Expansion nach Westen und bringt die Papierherstellung in die islamische Welt.",
+      "en": "Abbasid and Tang Chinese forces clash at the Talas River. The Arab victory ends Chinese westward expansion and brings papermaking to the Islamic world."
+    }
+  },
+  {
+    "id": "an-lushan-rebellion",
+    "coordinates": [
+      108.94,
+      34.27
+    ],
+    "year": 755,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "An-Lushan-Rebellion",
+      "en": "An Lushan Rebellion"
+    },
+    "description": {
+      "de": "General An Lushan erhob sich gegen die Tang-Dynastie und löste einen verheerenden Bürgerkrieg aus (755–763), der Millionen Tote forderte und den Niedergang der Tang einleitete.",
+      "en": "General An Lushan rose against the Tang dynasty and sparked a devastating civil war (755–763) that killed millions and initiated the decline of the Tang."
+    }
+  }
+]

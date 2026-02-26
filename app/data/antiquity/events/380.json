@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "battle-of-fei-river",
+    "coordinates": [
+      116.78,
+      32.63
+    ],
+    "year": 383,
+    "type": "battle",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Schlacht am Fei-Fluss",
+      "en": "Battle of Fei River"
+    },
+    "description": {
+      "de": "Die zahlenmäßig unterlegene Östliche Jin-Armee besiegte die riesige Armee der Früheren Qin am Fei-Fluss. Dieser Sieg sicherte die Unabhängigkeit Südchinas für über ein Jahrhundert.",
+      "en": "The outnumbered Eastern Jin army defeated the massive Former Qin army at the Fei River. This victory secured southern China's independence for over a century."
+    }
+  }
+]

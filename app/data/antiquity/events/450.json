@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "battle-of-catalaunian-plains",
+    "coordinates": [
+      4.03,
+      48.95
+    ],
+    "year": 451,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "germanic"
+    ],
+    "labels": {
+      "de": "Schlacht auf den Katalaunischen Feldern",
+      "en": "Battle of the Catalaunian Plains"
+    },
+    "description": {
+      "de": "Eine römisch-westgotische Koalition unter Aetius und Theoderich I. stoppte Attilas Hunnen in Gallien. Die Schlacht verhinderte eine hunnische Vorherrschaft über Westeuropa.",
+      "en": "A Roman-Visigothic coalition under Aetius and Theodoric I stopped Attila's Huns in Gaul. The battle prevented Hunnic domination of Western Europe."
+    }
+  }
+]

@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "lombard-invasion-of-italy",
+    "coordinates": [
+      11.87,
+      45.41
+    ],
+    "year": 568,
+    "type": "political",
+    "culturalSphere": [
+      "germanic"
+    ],
+    "labels": {
+      "de": "Langobardeneinfall in Italien",
+      "en": "Lombard Invasion of Italy"
+    },
+    "description": {
+      "de": "Die Langobarden unter König Alboin fielen in Italien ein und gründeten ein Königreich, das weite Teile der Halbinsel umfasste. Italien wurde für Jahrhunderte politisch fragmentiert.",
+      "en": "The Lombards under King Alboin invaded Italy and established a kingdom spanning much of the peninsula. Italy became politically fragmented for centuries."
+    }
+  },
+  {
+    "id": "tikal-calakmul-war",
+    "coordinates": [
+      -89.62,
+      17.22
+    ],
+    "year": 562,
+    "type": "battle",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Tikal-Calakmul-Krieg",
+      "en": "Tikal-Calakmul War"
+    },
+    "description": {
+      "de": "Calakmul besiegt Tikal im sogenannten 'Sternenkrieg' und begründet eine Ära der Rivalität der Maya-Großmächte.",
+      "en": "Calakmul defeats Tikal in the so-called 'Star War,' beginning an era of rivalry between Maya superpowers."
+    }
+  }
+]

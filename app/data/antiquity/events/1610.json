@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "defenestration-of-prague",
+    "coordinates": [
+      14.42,
+      50.09
+    ],
+    "year": 1618,
+    "type": "political",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Prager Fenstersturz",
+      "en": "Defenestration of Prague"
+    },
+    "description": {
+      "de": "Protestantische böhmische Adlige warfen kaiserliche Statthalter aus dem Fenster der Prager Burg. Das Ereignis löste den Dreißigjährigen Krieg aus — den verheerendsten Konflikt in der europäischen Geschichte bis dahin.",
+      "en": "Protestant Bohemian nobles threw imperial governors from the windows of Prague Castle. The event triggered the Thirty Years' War — the most devastating conflict in European history until then."
+    }
+  },
+  {
+    "id": "dutch-east-india-company-batavia",
+    "coordinates": [
+      106.85,
+      -6.12
+    ],
+    "year": 1619,
+    "type": "foundation",
+    "culturalSphere": [
+      "indonesian"
+    ],
+    "labels": {
+      "de": "Gründung von Batavia durch die VOC",
+      "en": "Founding of Batavia by the VOC"
+    },
+    "description": {
+      "de": "Die Niederländische Ostindien-Kompanie gründete Batavia (Jakarta) als Hauptquartier ihres südostasiatischen Handelsimperiums.",
+      "en": "The Dutch East India Company founded Batavia (Jakarta) as the headquarters of their Southeast Asian trading empire."
+    }
+  }
+]

@@ -1,1 +1,84 @@
-[]
+[
+  {
+    "id": "battle-of-hattin",
+    "coordinates": [
+      35.447,
+      32.806
+    ],
+    "year": 1187,
+    "type": "battle",
+    "culturalSphere": [
+      "islamic",
+      "christian"
+    ],
+    "labels": {
+      "de": "Schlacht von Hattin",
+      "en": "Battle of Hattin"
+    },
+    "description": {
+      "de": "Saladin vernichtet das Kreuzfahrerheer bei Hattin in Galiläa. Fast alle fränkischen Ritter werden gefangen oder getötet, und Jerusalem fällt kurz darauf an Saladin zurück.",
+      "en": "Saladin destroys the Crusader army at Hattin in Galilee. Nearly all Frankish knights are captured or killed, and Jerusalem falls back to Saladin shortly after."
+    }
+  },
+  {
+    "id": "saladin-recaptures-jerusalem",
+    "coordinates": [
+      35.232,
+      31.778
+    ],
+    "year": 1187,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "arab"
+    ],
+    "labels": {
+      "de": "Saladin erobert Jerusalem zurück",
+      "en": "Saladin Recaptures Jerusalem"
+    },
+    "description": {
+      "de": "Saladin erobert Jerusalem von den Kreuzfahrern zurück und behandelt die christliche Bevölkerung großzügig — im bewussten Gegensatz zum Blutbad von 1099.",
+      "en": "Saladin recaptures Jerusalem from the Crusaders and treats the Christian population generously — in deliberate contrast to the bloodbath of 1099."
+    }
+  },
+  {
+    "id": "kamakura-shogunate-founded",
+    "coordinates": [
+      139.55,
+      35.32
+    ],
+    "year": 1185,
+    "type": "foundation",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Gründung des Kamakura-Shogunats",
+      "en": "Founding of the Kamakura Shogunate"
+    },
+    "description": {
+      "de": "Minamoto no Yoritomo gründete das Kamakura-Shogunat, die erste Militärregierung Japans. Die Samurai übernahmen die effektive Herrschaft über das Land.",
+      "en": "Minamoto no Yoritomo established the Kamakura Shogunate, Japan's first military government. The samurai assumed effective rule over the country."
+    }
+  },
+  {
+    "id": "genpei-war-japan",
+    "coordinates": [
+      134.18,
+      34.35
+    ],
+    "year": 1185,
+    "type": "battle",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Seeschlacht von Dan-no-ura – Ende des Genpei-Krieges",
+      "en": "Battle of Dan-no-ura – End of the Genpei War"
+    },
+    "description": {
+      "de": "Die Minamoto besiegten die Taira in der Seeschlacht von Dan-no-ura und beendeten den Genpei-Krieg. Dies ebnete den Weg für das Kamakura-Shogunat.",
+      "en": "The Minamoto defeated the Taira in the naval Battle of Dan-no-ura, ending the Genpei War. This paved the way for the Kamakura Shogunate."
+    }
+  }
+]

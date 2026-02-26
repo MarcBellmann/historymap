@@ -1,1 +1,164 @@
-[]
+[
+  {
+    "id": "execution-louis-xvi",
+    "coordinates": [
+      2.32,
+      48.87
+    ],
+    "year": 1793,
+    "type": "political",
+    "culturalSphere": [
+      "french"
+    ],
+    "labels": {
+      "de": "Hinrichtung Ludwigs XVI.",
+      "en": "Execution of Louis XVI"
+    },
+    "description": {
+      "de": "König Ludwig XVI. wurde auf der Place de la Révolution in Paris guillotiniert. Die Hinrichtung schockierte die Monarchien Europas und führte zur Bildung einer breiten Koalition gegen das revolutionäre Frankreich.",
+      "en": "King Louis XVI was guillotined at the Place de la Révolution in Paris. The execution shocked Europe's monarchies and led to the formation of a broad coalition against revolutionary France."
+    }
+  },
+  {
+    "id": "french-revolution-terror",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "year": 1794,
+    "type": "political",
+    "culturalSphere": [
+      "french"
+    ],
+    "labels": {
+      "de": "Ende der Schreckensherrschaft",
+      "en": "End of the Reign of Terror"
+    },
+    "description": {
+      "de": "Robespierre wurde gestürzt und hingerichtet, womit die Schreckensherrschaft endete. Während des Terrors waren etwa 17.000 Menschen durch die Guillotine hingerichtet worden.",
+      "en": "Robespierre was overthrown and executed, ending the Reign of Terror. During the Terror, approximately 17,000 people had been executed by guillotine."
+    }
+  },
+  {
+    "id": "napoleons-coup",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "year": 1799,
+    "type": "political",
+    "culturalSphere": [
+      "french"
+    ],
+    "labels": {
+      "de": "Staatsstreich Napoleons",
+      "en": "Napoleon's Coup of 18 Brumaire"
+    },
+    "description": {
+      "de": "Napoleon Bonaparte stürzte das Direktorium in einem Staatsstreich und wurde Erster Konsul Frankreichs. Der Coup beendete die Französische Revolution und leitete die napoleonische Ära ein.",
+      "en": "Napoleon Bonaparte overthrew the Directory in a coup d'etat and became First Consul of France. The coup ended the French Revolution and ushered in the Napoleonic era."
+    }
+  },
+  {
+    "id": "battle-of-the-pyramids",
+    "coordinates": [
+      31.131,
+      29.976
+    ],
+    "year": 1798,
+    "type": "battle",
+    "culturalSphere": [
+      "egyptian",
+      "french"
+    ],
+    "labels": {
+      "de": "Schlacht bei den Pyramiden",
+      "en": "Battle of the Pyramids"
+    },
+    "description": {
+      "de": "Napoleon besiegt die Mamluken bei den Pyramiden und erobert Ägypten. Die Expedition bringt auch Wissenschaftler mit, die den Stein von Rosette entdecken.",
+      "en": "Napoleon defeats the Mamluks at the Pyramids and conquers Egypt. The expedition also brings scientists who discover the Rosetta Stone."
+    }
+  },
+  {
+    "id": "rosetta-stone-discovered",
+    "coordinates": [
+      30.417,
+      31.395
+    ],
+    "year": 1799,
+    "type": "cultural",
+    "culturalSphere": [
+      "egyptian",
+      "french"
+    ],
+    "labels": {
+      "de": "Entdeckung des Steins von Rosette",
+      "en": "Discovery of the Rosetta Stone"
+    },
+    "description": {
+      "de": "Französische Soldaten entdecken den Stein von Rosette bei Rashid in Ägypten. Die dreisprachige Inschrift wird später der Schlüssel zur Entzifferung der Hieroglyphen.",
+      "en": "French soldiers discover the Rosetta Stone at Rashid in Egypt. The trilingual inscription will later become the key to deciphering hieroglyphics."
+    }
+  },
+  {
+    "id": "white-lotus-rebellion",
+    "coordinates": [
+      108,
+      31
+    ],
+    "year": 1796,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Aufstand der Weißen Lotusgesellschaft",
+      "en": "White Lotus Rebellion"
+    },
+    "description": {
+      "de": "Der Aufstand der Weißen Lotusgesellschaft (1796–1804) in Zentralchina kostete über 100.000 Menschenleben und offenbarte die zunehmende Schwäche der Qing-Dynastie.",
+      "en": "The White Lotus Rebellion (1796–1804) in central China cost over 100,000 lives and revealed the growing weakness of the Qing dynasty."
+    }
+  },
+  {
+    "id": "mysore-wars-tipu-sultan",
+    "coordinates": [
+      76.65,
+      12.3
+    ],
+    "year": 1799,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Fall von Seringapatam",
+      "en": "Fall of Seringapatam"
+    },
+    "description": {
+      "de": "Tipu Sultan fällt bei der Verteidigung Seringapatams gegen die Briten; Mysore wird britisches Protektorat.",
+      "en": "Tipu Sultan falls defending Seringapatam against the British; Mysore becomes a British protectorate."
+    }
+  },
+  {
+    "id": "haitian-revolution",
+    "coordinates": [
+      -72.34,
+      18.54
+    ],
+    "year": 1791,
+    "type": "battle",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Haitianische Revolution",
+      "en": "Haitian Revolution"
+    },
+    "description": {
+      "de": "Versklavte Menschen auf Saint-Domingue erheben sich unter Toussaint Louverture; 1804 wird Haiti die erste freie schwarze Republik.",
+      "en": "Enslaved people on Saint-Domingue rise up under Toussaint Louverture; in 1804 Haiti becomes the first free Black republic."
+    }
+  }
+]

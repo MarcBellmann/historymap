@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "mapuche-resistance-spain",
+    "coordinates": [
+      -73.05,
+      -36.82
+    ],
+    "year": 1553,
+    "type": "battle",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Mapuche-Widerstand gegen Spanien",
+      "en": "Mapuche Resistance Against Spain"
+    },
+    "description": {
+      "de": "Lautaro führt die Mapuche in der Schlacht von Tucapel zum Sieg über die Spanier — der Beginn eines jahrhundertelangen Widerstands.",
+      "en": "Lautaro leads the Mapuche to victory over the Spanish at the Battle of Tucapel — beginning centuries of resistance."
+    }
+  }
+]

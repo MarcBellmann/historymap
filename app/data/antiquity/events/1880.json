@@ -1,1 +1,226 @@
-[]
+[
+  {
+    "id": "berlin-conference",
+    "coordinates": [
+      13.38,
+      52.52
+    ],
+    "year": 1884,
+    "type": "political",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Berliner Konferenz (Kongokonferenz)",
+      "en": "Berlin Conference"
+    },
+    "description": {
+      "de": "Auf der Berliner Konferenz teilten die europäischen Mächte Afrika unter sich auf. Die Beschlüsse legalisierten den Kolonialismus und zogen willkürliche Grenzen, deren Folgen bis heute nachwirken.",
+      "en": "At the Berlin Conference, European powers partitioned Africa among themselves. The agreements legitimized colonialism and drew arbitrary borders whose consequences persist to this day."
+    }
+  },
+  {
+    "id": "assassination-alexander-ii",
+    "coordinates": [
+      30.33,
+      59.93
+    ],
+    "year": 1881,
+    "type": "political",
+    "culturalSphere": [
+      "russian"
+    ],
+    "labels": {
+      "de": "Ermordung Alexanders II.",
+      "en": "Assassination of Alexander II"
+    },
+    "description": {
+      "de": "Zar Alexander II. wurde durch ein Bombenattentat der Narodnaja Wolja in St. Petersburg getötet. Die Ermordung des Reformzaren leitete eine Phase der Reaktion und Repression in Russland ein.",
+      "en": "Tsar Alexander II was killed by a bomb attack by the Narodnaya Volya in St. Petersburg. The assassination of the reform tsar initiated a phase of reaction and repression in Russia."
+    }
+  },
+  {
+    "id": "mahdi-revolt-sudan",
+    "coordinates": [
+      32.533,
+      15.6
+    ],
+    "year": 1881,
+    "type": "battle",
+    "culturalSphere": [
+      "north-african",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Mahdi-Aufstand im Sudan",
+      "en": "Mahdist Revolt in Sudan"
+    },
+    "description": {
+      "de": "Muhammad Ahmad erklärt sich zum Mahdi und führt einen Aufstand gegen die ägyptisch-britische Herrschaft im Sudan. Der Mahdisten-Staat besteht bis 1898.",
+      "en": "Muhammad Ahmad declares himself the Mahdi and leads a revolt against Egyptian-British rule in Sudan. The Mahdist state lasts until 1898."
+    }
+  },
+  {
+    "id": "british-occupation-of-egypt",
+    "coordinates": [
+      31.236,
+      30.044
+    ],
+    "year": 1882,
+    "type": "political",
+    "culturalSphere": [
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Britische Besetzung Ägyptens",
+      "en": "British Occupation of Egypt"
+    },
+    "description": {
+      "de": "Großbritannien besetzt Ägypten nach der Niederschlagung des Urabi-Aufstands, um den Suezkanal zu sichern. Ägypten bleibt formell osmanisch, wird aber de facto britisch kontrolliert.",
+      "en": "Britain occupies Egypt after suppressing the Urabi Revolt, to secure the Suez Canal. Egypt remains formally Ottoman but is de facto controlled by Britain."
+    }
+  },
+  {
+    "id": "sino-french-war-vietnam",
+    "coordinates": [
+      105.85,
+      21.03
+    ],
+    "year": 1884,
+    "type": "battle",
+    "culturalSphere": [
+      "vietnamese",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Chinesisch-Französischer Krieg",
+      "en": "Sino-French War"
+    },
+    "description": {
+      "de": "Frankreich und China kämpften um die Kontrolle über Vietnam. Der Vertrag von Tianjin (1885) bestätigte Frankreichs Protektorat über Vietnam und beendete die chinesische Suzeränität.",
+      "en": "France and China fought over control of Vietnam. The Treaty of Tientsin (1885) confirmed France's protectorate over Vietnam and ended Chinese suzerainty."
+    }
+  },
+  {
+    "id": "third-anglo-burmese-war",
+    "coordinates": [
+      96.06,
+      21.96
+    ],
+    "year": 1885,
+    "type": "battle",
+    "culturalSphere": [
+      "burmese"
+    ],
+    "labels": {
+      "de": "Dritter Anglo-Birmanischer Krieg – Annexion Burmas",
+      "en": "Third Anglo-Burmese War – Annexation of Burma"
+    },
+    "description": {
+      "de": "Großbritannien eroberte Oberburma und beendete die Unabhängigkeit Burmas. Das gesamte Land wurde als Provinz Britisch-Indiens annektiert.",
+      "en": "Britain conquered Upper Burma and ended Burmese independence. The entire country was annexed as a province of British India."
+    }
+  },
+  {
+    "id": "founding-indian-national-congress",
+    "coordinates": [
+      72.88,
+      19.08
+    ],
+    "year": 1885,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Gründung des Indischen Nationalkongresses",
+      "en": "Indian National Congress Founded"
+    },
+    "description": {
+      "de": "Der Indische Nationalkongress wird in Bombay gegründet und wird zur führenden Bewegung im Kampf um die Unabhängigkeit Indiens.",
+      "en": "The Indian National Congress is founded in Bombay, becoming the leading movement in India's struggle for independence."
+    }
+  },
+  {
+    "id": "scramble-for-africa-berlin-conference",
+    "coordinates": [
+      29.37,
+      -1.5
+    ],
+    "year": 1885,
+    "type": "political",
+    "culturalSphere": [
+      "east-african",
+      "west-african",
+      "bantu"
+    ],
+    "labels": {
+      "de": "Wettlauf um Afrika beginnt",
+      "en": "Scramble for Africa Begins"
+    },
+    "description": {
+      "de": "Nach der Berliner Konferenz teilen europäische Mächte Afrika unter sich auf; der Kontinent wird fast vollständig kolonialisiert.",
+      "en": "Following the Berlin Conference, European powers partition Africa among themselves; the continent is almost entirely colonized."
+    }
+  },
+  {
+    "id": "mahdist-war-sudan",
+    "coordinates": [
+      32.53,
+      15.6
+    ],
+    "year": 1885,
+    "type": "battle",
+    "culturalSphere": [
+      "east-african"
+    ],
+    "labels": {
+      "de": "Mahdisten erobern Khartum",
+      "en": "Mahdists Capture Khartoum"
+    },
+    "description": {
+      "de": "Mahdistische Truppen erobern Khartum und töten General Gordon; der Mahdi-Staat kontrolliert den Sudan bis 1898.",
+      "en": "Mahdist forces capture Khartoum and kill General Gordon; the Mahdist state controls Sudan until 1898."
+    }
+  },
+  {
+    "id": "abolition-of-slavery-brazil",
+    "coordinates": [
+      -43.17,
+      -22.91
+    ],
+    "year": 1888,
+    "type": "political",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Abschaffung der Sklaverei in Brasilien",
+      "en": "Abolition of Slavery in Brazil"
+    },
+    "description": {
+      "de": "Brasilien schafft als letztes Land der westlichen Hemisphäre die Sklaverei ab (Lei Áurea).",
+      "en": "Brazil becomes the last country in the Western Hemisphere to abolish slavery (Lei Áurea)."
+    }
+  },
+  {
+    "id": "panama-canal-construction",
+    "coordinates": [
+      -79.68,
+      9.08
+    ],
+    "year": 1881,
+    "type": "foundation",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Baubeginn des Panamakanals",
+      "en": "Panama Canal Construction Begins"
+    },
+    "description": {
+      "de": "Frankreich beginnt den Bau des Panamakanals; nach dem Scheitern übernehmen die USA 1904 das Projekt.",
+      "en": "France begins construction of the Panama Canal; after failure, the US takes over the project in 1904."
+    }
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "zhang-qian-silk-road",
+    "coordinates": [
+      108.94,
+      34.27
+    ],
+    "year": -138,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Zhang Qians Reise eröffnet die Seidenstraße",
+      "en": "Zhang Qian's Journey Opens the Silk Road"
+    },
+    "description": {
+      "de": "Der Diplomat Zhang Qian wurde von Kaiser Wu nach Zentralasien entsandt. Seine Expedition eröffnete die Seidenstraße und verband China erstmals mit der westlichen Welt.",
+      "en": "The diplomat Zhang Qian was sent by Emperor Wu to Central Asia. His expedition opened the Silk Road and connected China with the western world for the first time."
+    }
+  }
+]

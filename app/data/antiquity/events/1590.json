@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "id": "edict-of-nantes",
+    "coordinates": [
+      -1.55,
+      47.22
+    ],
+    "year": 1598,
+    "type": "political",
+    "culturalSphere": [
+      "french"
+    ],
+    "labels": {
+      "de": "Edikt von Nantes",
+      "en": "Edict of Nantes"
+    },
+    "description": {
+      "de": "König Heinrich IV. gewährte mit dem Edikt von Nantes den Hugenotten Religionsfreiheit und beendete die französischen Religionskriege. Es war eines der ersten Toleranzgesetze Europas.",
+      "en": "King Henry IV granted the Huguenots religious freedom with the Edict of Nantes, ending the French Wars of Religion. It was one of the first tolerance laws in Europe."
+    }
+  },
+  {
+    "id": "isfahan-capital-of-safavids",
+    "coordinates": [
+      51.677,
+      32.655
+    ],
+    "year": 1598,
+    "type": "cultural",
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Isfahan wird Safawiden-Hauptstadt",
+      "en": "Isfahan Becomes Safavid Capital"
+    },
+    "description": {
+      "de": "Schah Abbas I. verlegt die Hauptstadt nach Isfahan und macht die Stadt zu einem Meisterwerk islamischer Architektur. Sprichwort: «Isfahan ist die Hälfte der Welt».",
+      "en": "Shah Abbas I moves the capital to Isfahan and transforms the city into a masterpiece of Islamic architecture. Proverb: 'Isfahan is half the world.'"
+    }
+  },
+  {
+    "id": "imjin-war",
+    "coordinates": [
+      129.03,
+      35.1
+    ],
+    "year": 1592,
+    "type": "battle",
+    "culturalSphere": [
+      "japanese",
+      "korean",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Imjin-Krieg – Japanische Invasion Koreas",
+      "en": "Imjin War – Japanese Invasion of Korea"
+    },
+    "description": {
+      "de": "Toyotomi Hideyoshi fiel mit 158.000 Soldaten in Korea ein. Die Invasionen (1592–1598) verwüsteten Korea, wurden aber durch koreanischen Widerstand und Ming-Hilfe abgewehrt.",
+      "en": "Toyotomi Hideyoshi invaded Korea with 158,000 soldiers. The invasions (1592–1598) devastated Korea but were repelled by Korean resistance and Ming Chinese aid."
+    }
+  },
+  {
+    "id": "battle-of-noryang",
+    "coordinates": [
+      127.8,
+      34.83
+    ],
+    "year": 1598,
+    "type": "battle",
+    "culturalSphere": [
+      "korean",
+      "japanese"
+    ],
+    "labels": {
+      "de": "Seeschlacht von Noryang",
+      "en": "Battle of Noryang"
+    },
+    "description": {
+      "de": "In der letzten großen Seeschlacht des Imjin-Krieges besiegten koreanische und Ming-Flotten die abziehende japanische Marine. Admiral Yi Sun-sin fiel im Kampf.",
+      "en": "In the last major naval battle of the Imjin War, Korean and Ming fleets defeated the withdrawing Japanese navy. Admiral Yi Sun-sin was killed in action."
+    }
+  },
+  {
+    "id": "battle-of-myeongnyang",
+    "coordinates": [
+      126.31,
+      34.57
+    ],
+    "year": 1597,
+    "type": "battle",
+    "culturalSphere": [
+      "korean",
+      "japanese"
+    ],
+    "labels": {
+      "de": "Seeschlacht von Myeongnyang",
+      "en": "Battle of Myeongnyang"
+    },
+    "description": {
+      "de": "Admiral Yi Sun-sin besiegte mit nur 13 Schiffen eine japanische Flotte von 133 Schiffen in der Meerenge von Myeongnyang – eine der größten Seeschlachten der Geschichte.",
+      "en": "Admiral Yi Sun-sin defeated a Japanese fleet of 133 ships with only 13 vessels in the Myeongnyang Strait — one of history's greatest naval victories."
+    }
+  },
+  {
+    "id": "battle-of-tondibi",
+    "coordinates": [
+      -0.33,
+      16
+    ],
+    "year": 1591,
+    "type": "battle",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Schlacht von Tondibi",
+      "en": "Battle of Tondibi"
+    },
+    "description": {
+      "de": "Eine marokkanische Expeditionsarmee mit Feuerwaffen besiegt das Songhai-Reich und beendet dessen Vorherrschaft in Westafrika.",
+      "en": "A Moroccan expeditionary force with firearms defeats the Songhai Empire, ending its dominance in West Africa."
+    }
+  }
+]

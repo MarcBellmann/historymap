@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "assyrian-sack-of-thebes",
+    "coordinates": [
+      32.657,
+      25.719
+    ],
+    "year": -663,
+    "type": "battle",
+    "culturalSphere": [
+      "mesopotamian",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Assyrische Plünderung Thebens",
+      "en": "Assyrian Sack of Thebes"
+    },
+    "description": {
+      "de": "Assurbanipal erobert und plündert die ägyptische Hauptstadt Theben, den Höhepunkt der assyrischen Expansion nach Afrika. Die Tempelschätze werden nach Ninive gebracht.",
+      "en": "Ashurbanipal captures and sacks the Egyptian capital Thebes, the high point of Assyrian expansion into Africa. Temple treasures are carried to Nineveh."
+    }
+  }
+]

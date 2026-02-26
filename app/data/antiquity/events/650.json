@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "arab-conquest-of-persia",
+    "coordinates": [
+      44.58,
+      33.092
+    ],
+    "year": 651,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "arab",
+      "persian"
+    ],
+    "labels": {
+      "de": "Arabische Eroberung Persiens",
+      "en": "Arab Conquest of Persia"
+    },
+    "description": {
+      "de": "Der letzte Sassaniden-König Yazdegerd III. wird ermordet. Das persische Großreich geht vollständig im islamischen Kalifat auf — das Ende einer über tausendjährigen Zivilisation.",
+      "en": "The last Sassanid king Yazdegerd III is assassinated. The Persian Empire is fully absorbed into the Islamic Caliphate — the end of a civilization over a thousand years old."
+    }
+  }
+]

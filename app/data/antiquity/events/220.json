@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "sassanid-empire-founded",
+    "coordinates": [
+      52.891,
+      29.935
+    ],
+    "year": 224,
+    "type": "political",
+    "culturalSphere": [
+      "persian",
+      "sassanid"
+    ],
+    "labels": {
+      "de": "Gründung des Sassanidenreiches",
+      "en": "Founding of the Sassanid Empire"
+    },
+    "description": {
+      "de": "Ardaschir I. besiegt den letzten Partherkönig und gründet das Sassanidenreich, das über 400 Jahre lang Roms und Byzanz' größter Rivale im Osten bleibt.",
+      "en": "Ardashir I defeats the last Parthian king and founds the Sassanid Empire, which remains Rome's and Byzantium's greatest eastern rival for over 400 years."
+    }
+  }
+]

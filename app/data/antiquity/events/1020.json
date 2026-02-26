@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "id": "chola-invasion-srivijaya",
+    "coordinates": [
+      104.75,
+      -2.99
+    ],
+    "year": 1025,
+    "type": "battle",
+    "culturalSphere": [
+      "malay",
+      "indonesian"
+    ],
+    "labels": {
+      "de": "Chola-Invasion von Srivijaya",
+      "en": "Chola Invasion of Srivijaya"
+    },
+    "description": {
+      "de": "Rajendra Chola I. griff das Srivijaya-Reich an und plünderte seine Häfen. Diese Überfälle schwächten Srivijaya entscheidend und leiteten seinen Niedergang ein.",
+      "en": "Rajendra Chola I attacked the Srivijaya Empire and plundered its ports. These raids critically weakened Srivijaya and initiated its decline."
+    }
+  },
+  {
+    "id": "chola-naval-expeditions",
+    "coordinates": [
+      79.84,
+      10.78
+    ],
+    "year": 1025,
+    "type": "battle",
+    "culturalSphere": [
+      "dravidian"
+    ],
+    "labels": {
+      "de": "Chola-Flottenexpedition nach Srivijaya",
+      "en": "Chola Naval Expedition to Srivijaya"
+    },
+    "description": {
+      "de": "Rajendra Chola I. entsendet eine Flotte gegen das Srivijaya-Reich in Südostasien und sichert die Kontrolle über den Seehandel.",
+      "en": "Rajendra Chola I sends a naval expedition against the Srivijaya empire in Southeast Asia, securing control over maritime trade."
+    }
+  },
+  {
+    "id": "mahmud-ghazni-somnath",
+    "coordinates": [
+      70.39,
+      20.89
+    ],
+    "year": 1026,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Mahmud von Ghazni plündert Somnath",
+      "en": "Mahmud of Ghazni Sacks Somnath"
+    },
+    "description": {
+      "de": "Sultan Mahmud von Ghazni plündert den berühmten Hindu-Tempel von Somnath in Gujarat bei seinem letzten von 17 Feldzügen nach Indien.",
+      "en": "Sultan Mahmud of Ghazni plunders the famed Hindu temple of Somnath in Gujarat, his last of 17 campaigns into India."
+    }
+  },
+  {
+    "id": "chola-rajendra-ganges-campaign",
+    "coordinates": [
+      80.27,
+      13.08
+    ],
+    "year": 1022,
+    "type": "battle",
+    "culturalSphere": [
+      "dravidian"
+    ],
+    "labels": {
+      "de": "Rajendra Cholas Ganges-Feldzug",
+      "en": "Rajendra Chola's Ganges Campaign"
+    },
+    "description": {
+      "de": "Rajendra Chola I. führt einen Feldzug bis zum Ganges und besiegt den Pala-König, wobei er heiliges Gangeswasser in den Süden bringt.",
+      "en": "Rajendra Chola I campaigns north to the Ganges, defeating the Pala king and bringing sacred Ganges water to the south."
+    }
+  }
+]

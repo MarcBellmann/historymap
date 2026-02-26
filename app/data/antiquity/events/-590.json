@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "destruction-of-jerusalem-586bc",
+    "coordinates": [
+      35.235,
+      31.778
+    ],
+    "year": -586,
+    "type": "battle",
+    "culturalSphere": [
+      "mesopotamian",
+      "jewish"
+    ],
+    "labels": {
+      "de": "Zerstörung Jerusalems (586 v. Chr.)",
+      "en": "Destruction of Jerusalem (586 BC)"
+    },
+    "description": {
+      "de": "Nebukadnezar II. zerstört Jerusalem und den Ersten Tempel Salomos. Die judäische Elite wird nach Babylon deportiert — Beginn des Babylonischen Exils.",
+      "en": "Nebuchadnezzar II destroys Jerusalem and Solomon's First Temple. The Judean elite is deported to Babylon — the beginning of the Babylonian Exile."
+    }
+  },
+  {
+    "id": "meroe-becomes-capital",
+    "coordinates": [
+      33.75,
+      16.94
+    ],
+    "year": -590,
+    "type": "political",
+    "culturalSphere": [
+      "east-african"
+    ],
+    "labels": {
+      "de": "Meroë wird Hauptstadt von Kusch",
+      "en": "Meroë Becomes Capital of Kush"
+    },
+    "description": {
+      "de": "Nach dem Rückzug aus Ägypten verlegen die kuschitischen Könige ihre Hauptstadt südwärts nach Meroë am Nil.",
+      "en": "After retreating from Egypt, the Kushite kings move their capital south to Meroë on the Nile."
+    }
+  }
+]

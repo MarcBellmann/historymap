@@ -1,23 +1,22 @@
 [
   {
-    "id": "destruction-jerusalem",
+    "id": "eruption-of-vesuvius",
     "coordinates": [
-      35.2137,
-      31.7683
+      14.43,
+      40.82
     ],
-    "year": 70,
-    "type": "political",
+    "year": 79,
+    "type": "natural",
     "culturalSphere": [
-      "roman",
-      "jewish"
+      "roman"
     ],
     "labels": {
-      "de": "Zerstörung Jerusalems",
-      "en": "Destruction of Jerusalem"
+      "de": "Ausbruch des Vesuv",
+      "en": "Eruption of Mount Vesuvius"
     },
     "description": {
-      "de": "Römische Truppen unter Titus zerstören Jerusalem und den Zweiten Tempel. Beginn der jüdischen Diaspora.",
-      "en": "Roman forces under Titus destroy Jerusalem and the Second Temple. Beginning of the Jewish diaspora."
+      "de": "Der Vesuv brach aus und begrub die Städte Pompeji und Herculaneum unter Asche und Lava. Die konservierten Ruinen bieten heute einzigartige Einblicke in das römische Alltagsleben.",
+      "en": "Mount Vesuvius erupted and buried the cities of Pompeii and Herculaneum under ash and lava. The preserved ruins provide unique insights into daily Roman life."
     }
   }
 ]

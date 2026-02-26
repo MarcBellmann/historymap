@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "founding-of-goryeo",
+    "coordinates": [
+      126.56,
+      37.97
+    ],
+    "year": 918,
+    "type": "foundation",
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Gründung von Goryeo",
+      "en": "Founding of Goryeo"
+    },
+    "description": {
+      "de": "Wang Geon gründete die Goryeo-Dynastie und vereinigte die koreanische Halbinsel. Der Name Korea leitet sich von Goryeo ab.",
+      "en": "Wang Geon founded the Goryeo dynasty and unified the Korean Peninsula. The name Korea derives from Goryeo."
+    }
+  }
+]

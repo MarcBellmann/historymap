@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "roman-conquest-of-judea",
+    "coordinates": [
+      35.232,
+      31.778
+    ],
+    "year": -63,
+    "type": "political",
+    "culturalSphere": [
+      "roman",
+      "jewish"
+    ],
+    "labels": {
+      "de": "Römische Eroberung Judäas",
+      "en": "Roman Conquest of Judea"
+    },
+    "description": {
+      "de": "Pompeius erobert Jerusalem und macht Judäa zum römischen Klientelstaat. Er betritt das Allerheiligste des Tempels — ein Sakrileg aus jüdischer Sicht.",
+      "en": "Pompey captures Jerusalem and makes Judea a Roman client state. He enters the Holy of Holies in the Temple — a sacrilege from the Jewish perspective."
+    }
+  }
+]

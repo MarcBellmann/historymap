@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "founding-of-teotihuacan",
+    "coordinates": [
+      -98.84,
+      19.69
+    ],
+    "year": -200,
+    "type": "foundation",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Gründung von Teotihuacan",
+      "en": "Founding of Teotihuacan"
+    },
+    "description": {
+      "de": "Teotihuacan wird im Tal von Mexiko gegründet und entwickelt sich zur größten Stadt der vorkolumbischen Amerikas.",
+      "en": "Teotihuacan is founded in the Valley of Mexico, growing to become the largest city in pre-Columbian Americas."
+    }
+  }
+]

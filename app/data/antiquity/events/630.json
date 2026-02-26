@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "id": "conquest-of-mecca",
+    "coordinates": [
+      39.826,
+      21.423
+    ],
+    "year": 630,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "arab"
+    ],
+    "labels": {
+      "de": "Eroberung Mekkas",
+      "en": "Conquest of Mecca"
+    },
+    "description": {
+      "de": "Mohammed erobert Mekka fast kampflos mit 10.000 Anhängern. Die Kaaba wird von Götzenbildern gereinigt und zum zentralen Heiligtum des Islam.",
+      "en": "Muhammad conquers Mecca nearly without a fight with 10,000 followers. The Kaaba is cleansed of idols and becomes the central sanctuary of Islam."
+    }
+  },
+  {
+    "id": "battle-of-yarmouk",
+    "coordinates": [
+      36.037,
+      32.79
+    ],
+    "year": 636,
+    "type": "battle",
+    "culturalSphere": [
+      "islamic",
+      "arab",
+      "byzantine"
+    ],
+    "labels": {
+      "de": "Schlacht am Jarmuk",
+      "en": "Battle of Yarmouk"
+    },
+    "description": {
+      "de": "Die Araber unter Khalid ibn al-Walid vernichten ein großes byzantinisches Heer am Jarmuk. Die Entscheidungsschlacht beendet die oströmische Herrschaft in Syrien und der Levante.",
+      "en": "The Arabs under Khalid ibn al-Walid destroy a large Byzantine army at the Yarmouk. The decisive battle ends Eastern Roman rule in Syria and the Levant."
+    }
+  },
+  {
+    "id": "battle-of-qadisiyyah",
+    "coordinates": [
+      44.59,
+      31.96
+    ],
+    "year": 636,
+    "type": "battle",
+    "culturalSphere": [
+      "islamic",
+      "arab",
+      "sassanid"
+    ],
+    "labels": {
+      "de": "Schlacht von Qadisiyya",
+      "en": "Battle of Qadisiyyah"
+    },
+    "description": {
+      "de": "Die arabisch-muslimische Armee besiegt das sassanidische Heer bei Qadisiyya im Irak. Der Sieg öffnet den Weg zur Eroberung des gesamten Perserreiches.",
+      "en": "The Arab Muslim army defeats the Sassanid forces at Qadisiyyah in Iraq. The victory opens the way to the conquest of the entire Persian Empire."
+    }
+  }
+]

@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "council-of-trent",
+    "coordinates": [
+      11.12,
+      46.07
+    ],
+    "year": 1545,
+    "type": "cultural",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Konzil von Trient",
+      "en": "Council of Trent"
+    },
+    "description": {
+      "de": "Das Konzil von Trient eröffnete die katholische Gegenreformation. In 18 Jahren Beratung wurden die katholische Lehre präzisiert und umfassende Kirchenreformen beschlossen.",
+      "en": "The Council of Trent launched the Catholic Counter-Reformation. Over 18 years of deliberation, Catholic doctrine was clarified and comprehensive church reforms were enacted."
+    }
+  },
+  {
+    "id": "arrival-of-portuguese-japan",
+    "coordinates": [
+      130.73,
+      30.37
+    ],
+    "year": 1543,
+    "type": "cultural",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Ankunft der Portugiesen in Japan",
+      "en": "Arrival of the Portuguese in Japan"
+    },
+    "description": {
+      "de": "Portugiesische Seefahrer landeten auf Tanegashima und brachten Feuerwaffen nach Japan. Die Einführung der Muskete revolutionierte die japanische Kriegsführung.",
+      "en": "Portuguese sailors landed on Tanegashima and introduced firearms to Japan. The introduction of the musket revolutionized Japanese warfare."
+    }
+  },
+  {
+    "id": "potosi-silver-boom",
+    "coordinates": [
+      -65.75,
+      -19.59
+    ],
+    "year": 1545,
+    "type": "foundation",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Silber-Boom von Potosí",
+      "en": "Potosí Silver Boom"
+    },
+    "description": {
+      "de": "Die Silbermine von Potosí wird entdeckt; sie wird zur ergiebigsten Silberquelle der Welt und treibt die globale Wirtschaft an.",
+      "en": "The silver mine of Potosí is discovered; it becomes the world's most productive silver source, driving the global economy."
+    }
+  }
+]

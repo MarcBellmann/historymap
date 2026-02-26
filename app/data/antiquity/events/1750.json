@@ -1,1 +1,103 @@
-[]
+[
+  {
+    "id": "lisbon-earthquake",
+    "coordinates": [
+      -9.14,
+      38.72
+    ],
+    "year": 1755,
+    "type": "natural",
+    "culturalSphere": [
+      "portuguese"
+    ],
+    "labels": {
+      "de": "Erdbeben von Lissabon",
+      "en": "Lisbon Earthquake"
+    },
+    "description": {
+      "de": "Ein Erdbeben der Stärke 7,7, gefolgt von Tsunami und Bränden, zerstörte Lissabon fast vollständig und tötete etwa 30.000–40.000 Menschen. Die Katastrophe löste eine europaweite philosophische Debatte über Theodizee aus.",
+      "en": "A magnitude 7.7 earthquake, followed by a tsunami and fires, almost completely destroyed Lisbon, killing 30,000–40,000 people. The disaster triggered a Europe-wide philosophical debate on theodicy."
+    }
+  },
+  {
+    "id": "seven-years-war-begins",
+    "coordinates": [
+      14.42,
+      50.09
+    ],
+    "year": 1756,
+    "type": "battle",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Beginn des Siebenjährigen Krieges",
+      "en": "Seven Years' War Begins"
+    },
+    "description": {
+      "de": "Der Siebenjährige Krieg brach aus, der erste wirklich globale Konflikt. In Europa kämpfte Preußen unter Friedrich dem Großen gegen eine Koalition aus Österreich, Frankreich und Russland.",
+      "en": "The Seven Years' War broke out, the first truly global conflict. In Europe, Prussia under Frederick the Great fought a coalition of Austria, France, and Russia."
+    }
+  },
+  {
+    "id": "qianlong-ten-great-campaigns",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "year": 1755,
+    "type": "political",
+    "culturalSphere": [
+      "chinese",
+      "manchu"
+    ],
+    "labels": {
+      "de": "Qianlong-Kaiser – Eroberung der Dsungarei",
+      "en": "Qianlong Emperor – Conquest of Dzungaria"
+    },
+    "description": {
+      "de": "Kaiser Qianlong vernichtete das Dsungarische Khanat und gliederte die riesigen Gebiete Xinjiangs in das Qing-Reich ein. Dies markierte die größte Ausdehnung des chinesischen Imperiums.",
+      "en": "Emperor Qianlong destroyed the Dzungar Khanate and incorporated the vast territories of Xinjiang into the Qing Empire, marking China's greatest territorial extent."
+    }
+  },
+  {
+    "id": "konbaung-dynasty-founding",
+    "coordinates": [
+      95.98,
+      21.92
+    ],
+    "year": 1752,
+    "type": "foundation",
+    "culturalSphere": [
+      "burmese"
+    ],
+    "labels": {
+      "de": "Gründung der Konbaung-Dynastie",
+      "en": "Founding of the Konbaung Dynasty"
+    },
+    "description": {
+      "de": "Alaungpaya gründete die Konbaung-Dynastie und vereinigte Myanmar erneut. Die Dynastie wurde zur letzten Herrscherdynastie Burmas.",
+      "en": "Alaungpaya founded the Konbaung dynasty and reunified Myanmar. The dynasty became the last ruling dynasty of Burma."
+    }
+  },
+  {
+    "id": "battle-of-plassey",
+    "coordinates": [
+      88.26,
+      23.8
+    ],
+    "year": 1757,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Schlacht von Plassey",
+      "en": "Battle of Plassey"
+    },
+    "description": {
+      "de": "Robert Clive besiegt Nawab Siraj ud-Daulah bei Plassey, womit die britische Herrschaft über Bengalen und letztlich ganz Indien beginnt.",
+      "en": "Robert Clive defeats Nawab Siraj ud-Daulah at Plassey, beginning British dominion over Bengal and eventually all of India."
+    }
+  }
+]

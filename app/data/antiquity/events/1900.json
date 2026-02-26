@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "boxer-rebellion",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "year": 1900,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Boxeraufstand",
+      "en": "Boxer Rebellion"
+    },
+    "description": {
+      "de": "Antiwestliche Boxer belagerten das Gesandtschaftsviertel in Peking. Eine Acht-Mächte-Allianz intervenierte und demütigte China mit dem Boxerprotokoll von 1901.",
+      "en": "Anti-Western Boxers besieged the Legation Quarter in Beijing. An Eight-Nation Alliance intervened and humiliated China with the Boxer Protocol of 1901."
+    }
+  }
+]

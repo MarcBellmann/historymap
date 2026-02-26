@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "sasanian-capture-of-jerusalem",
+    "coordinates": [
+      35.232,
+      31.778
+    ],
+    "year": 614,
+    "type": "battle",
+    "culturalSphere": [
+      "sassanid",
+      "byzantine",
+      "jewish"
+    ],
+    "labels": {
+      "de": "Sassanidische Eroberung Jerusalems",
+      "en": "Sassanid Capture of Jerusalem"
+    },
+    "description": {
+      "de": "Die Sassaniden unter Khosrau II. erobern Jerusalem von Byzanz und verschleppen das Heilige Kreuz nach Ktesiphon. Tausende Christen werden getötet.",
+      "en": "The Sassanids under Khosrow II capture Jerusalem from Byzantium and carry off the True Cross to Ctesiphon. Thousands of Christians are killed."
+    }
+  },
+  {
+    "id": "goguryeo-sui-war",
+    "coordinates": [
+      125.75,
+      39.02
+    ],
+    "year": 612,
+    "type": "battle",
+    "culturalSphere": [
+      "korean",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Goguryeo-Sui-Krieg",
+      "en": "Goguryeo–Sui War"
+    },
+    "description": {
+      "de": "Goguryeo wehrte die massive Invasion Kaiser Yangs mit über einer Million Soldaten ab. Die katastrophale Niederlage der Sui trug maßgeblich zum Zusammenbruch der Sui-Dynastie bei.",
+      "en": "Goguryeo repelled Emperor Yang's massive invasion of over a million soldiers. The catastrophic Sui defeat was a major factor in the collapse of the Sui dynasty."
+    }
+  },
+  {
+    "id": "founding-of-tang-dynasty",
+    "coordinates": [
+      108.94,
+      34.27
+    ],
+    "year": 618,
+    "type": "foundation",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Gründung der Tang-Dynastie",
+      "en": "Founding of the Tang Dynasty"
+    },
+    "description": {
+      "de": "Li Yuan gründete die Tang-Dynastie, die als kultureller Höhepunkt der chinesischen Zivilisation gilt. Chang'an wurde zur größten und kosmopolitischsten Stadt der Welt.",
+      "en": "Li Yuan founded the Tang dynasty, considered the cultural zenith of Chinese civilization. Chang'an became the world's largest and most cosmopolitan city."
+    }
+  }
+]

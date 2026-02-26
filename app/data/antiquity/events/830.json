@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "house-of-wisdom-baghdad",
+    "coordinates": [
+      44.366,
+      33.315
+    ],
+    "year": 830,
+    "type": "cultural",
+    "culturalSphere": [
+      "islamic",
+      "arab",
+      "persian"
+    ],
+    "labels": {
+      "de": "Haus der Weisheit in Bagdad",
+      "en": "House of Wisdom in Baghdad"
+    },
+    "description": {
+      "de": "Kalif al-Ma'mun erweitert das Haus der Weisheit zur größten Bibliothek und Übersetzungsakademie der Welt. Griechische, persische und indische Werke werden ins Arabische übertragen.",
+      "en": "Caliph al-Ma'mun expands the House of Wisdom into the world's largest library and translation academy. Greek, Persian, and Indian works are translated into Arabic."
+    }
+  }
+]

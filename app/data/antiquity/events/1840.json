@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "id": "revolutions-of-1848",
+    "coordinates": [
+      2.34,
+      48.86
+    ],
+    "year": 1848,
+    "type": "political",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Revolutionen von 1848",
+      "en": "Revolutions of 1848"
+    },
+    "description": {
+      "de": "Eine Welle von Revolutionen erfasste Europa — vom Völkerfrühling in Paris über Wien bis Berlin. Obwohl die meisten Aufstände scheiterten, wurden Leibeigenschaft abgeschafft und demokratische Ideen verbreitet.",
+      "en": "A wave of revolutions swept across Europe — from the Spring of Nations in Paris to Vienna and Berlin. Though most uprisings failed, serfdom was abolished and democratic ideas were spread."
+    }
+  },
+  {
+    "id": "great-irish-famine",
+    "coordinates": [
+      -8.47,
+      51.9
+    ],
+    "year": 1845,
+    "type": "natural",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Große Hungersnot in Irland",
+      "en": "Great Irish Famine"
+    },
+    "description": {
+      "de": "Die Kartoffelfäule löste in Irland eine verheerende Hungersnot aus, die etwa eine Million Tote forderte und über eine Million zur Emigration zwang. Die Katastrophe halbierte Irlands Bevölkerung.",
+      "en": "The potato blight triggered a devastating famine in Ireland that killed about one million people and forced over a million to emigrate. The disaster halved Ireland's population."
+    }
+  },
+  {
+    "id": "treaty-of-nanking",
+    "coordinates": [
+      118.8,
+      32.06
+    ],
+    "year": 1842,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Vertrag von Nanjing",
+      "en": "Treaty of Nanking"
+    },
+    "description": {
+      "de": "Der erste der 'ungleichen Verträge' zwang China zur Öffnung von fünf Vertragshäfen, zur Zahlung von Entschädigungen und zur Abtretung Hongkongs an Großbritannien.",
+      "en": "The first of the 'unequal treaties' forced China to open five treaty ports, pay indemnities, and cede Hong Kong to Britain."
+    }
+  },
+  {
+    "id": "anglo-sikh-wars",
+    "coordinates": [
+      75.36,
+      31.14
+    ],
+    "year": 1849,
+    "type": "battle",
+    "culturalSphere": [
+      "sikh"
+    ],
+    "labels": {
+      "de": "Ende der Anglo-Sikh-Kriege",
+      "en": "End of the Anglo-Sikh Wars"
+    },
+    "description": {
+      "de": "Die Briten besiegen das Sikh-Reich in der Schlacht von Gujarat und annektieren den Punjab.",
+      "en": "The British defeat the Sikh Empire at the Battle of Gujarat and annex Punjab."
+    }
+  },
+  {
+    "id": "founding-of-liberia",
+    "coordinates": [
+      -10.8,
+      6.3
+    ],
+    "year": 1847,
+    "type": "foundation",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Gründung der Republik Liberia",
+      "en": "Republic of Liberia Founded"
+    },
+    "description": {
+      "de": "Befreite afroamerikanische Sklaven gründen die Republik Liberia, den ersten unabhängigen Staat des modernen Afrika.",
+      "en": "Freed African-American slaves found the Republic of Liberia, the first independent state of modern Africa."
+    }
+  }
+]

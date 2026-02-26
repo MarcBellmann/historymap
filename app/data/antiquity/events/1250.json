@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "id": "mamluk-sultanate-founded",
+    "coordinates": [
+      31.236,
+      30.044
+    ],
+    "year": 1250,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "turkic",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Gründung des Mamluken-Sultanats",
+      "en": "Mamluk Sultanate Founded"
+    },
+    "description": {
+      "de": "Ehemalige türkische Militärsklaven stürzen die Ayyubiden und gründen das Mamluken-Sultanat in Ägypten. Die Mamluken werden zur stärksten Militärmacht des mittelalterlichen Nahen Ostens.",
+      "en": "Former Turkish military slaves overthrow the Ayyubids and found the Mamluk Sultanate in Egypt. The Mamluks become the strongest military power of the medieval Middle East."
+    }
+  },
+  {
+    "id": "mongol-sack-of-baghdad",
+    "coordinates": [
+      44.366,
+      33.315
+    ],
+    "year": 1258,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Mongolische Zerstörung Bagdads",
+      "en": "Mongol Sack of Baghdad"
+    },
+    "description": {
+      "de": "Hülegü Khan erobert und zerstört Bagdad, tötet den letzten Abbasiden-Kalifen und vernichtet die größte Bibliothek der Welt. Das Ende des islamischen Goldenen Zeitalters.",
+      "en": "Hulagu Khan captures and destroys Baghdad, kills the last Abbasid Caliph, and devastates the world's greatest library. The end of the Islamic Golden Age."
+    }
+  }
+]

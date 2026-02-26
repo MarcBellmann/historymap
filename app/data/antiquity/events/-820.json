@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "founding-of-carthage",
+    "coordinates": [
+      10.32,
+      36.85
+    ],
+    "year": -814,
+    "type": "foundation",
+    "culturalSphere": [
+      "phoenician"
+    ],
+    "labels": {
+      "de": "Gründung Karthagos",
+      "en": "Founding of Carthage"
+    },
+    "description": {
+      "de": "Phönizische Siedler aus Tyros gründeten Karthago an der nordafrikanischen Küste. Die Stadt entwickelte sich zur mächtigsten Handelsmetropole des westlichen Mittelmeerraums.",
+      "en": "Phoenician settlers from Tyre founded Carthage on the North African coast. The city grew to become the most powerful trading metropolis of the western Mediterranean."
+    }
+  },
+  {
+    "id": "phoenician-founding-of-carthage",
+    "coordinates": [
+      10.185,
+      36.853
+    ],
+    "year": -814,
+    "type": "foundation",
+    "culturalSphere": [
+      "phoenician",
+      "north-african"
+    ],
+    "labels": {
+      "de": "Phönizische Gründung Karthagos",
+      "en": "Phoenician Founding of Carthage"
+    },
+    "description": {
+      "de": "Phönizische Siedler aus Tyros gründen Karthago an der nordafrikanischen Küste. Die Stadt wird zur mächtigsten Handels- und Seemacht des westlichen Mittelmeers.",
+      "en": "Phoenician settlers from Tyre found Carthage on the North African coast. The city becomes the most powerful trading and naval power of the western Mediterranean."
+    }
+  }
+]

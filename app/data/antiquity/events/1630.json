@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "galileo-heliocentric-trial",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 1633,
+    "type": "cultural",
+    "culturalSphere": [
+      "italian"
+    ],
+    "labels": {
+      "de": "Galileis Prozess",
+      "en": "Galileo's Trial"
+    },
+    "description": {
+      "de": "Galileo Galilei wurde von der Inquisition in Rom wegen seines Eintretens für das heliozentrische Weltbild verurteilt. Der Prozess wurde zum Symbol des Konflikts zwischen Wissenschaft und Dogma.",
+      "en": "Galileo Galilei was convicted by the Inquisition in Rome for advocating the heliocentric model. The trial became a symbol of the conflict between science and dogma."
+    }
+  },
+  {
+    "id": "treaty-of-zuhab",
+    "coordinates": [
+      45.435,
+      34.019
+    ],
+    "year": 1639,
+    "type": "political",
+    "culturalSphere": [
+      "turkic",
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Vertrag von Zuhab",
+      "en": "Treaty of Zuhab"
+    },
+    "description": {
+      "de": "Der Vertrag von Zuhab beendet über ein Jahrhundert osmanisch-safawidischer Kriege und zieht eine dauerhafte Grenze zwischen den Reichen — im Wesentlichen die heutige Grenze zwischen Irak und Iran.",
+      "en": "The Treaty of Zuhab ends over a century of Ottoman-Safavid wars and draws a lasting border between the empires — essentially today's Iraq-Iran border."
+    }
+  },
+  {
+    "id": "sakoku-japan-isolation",
+    "coordinates": [
+      139.69,
+      35.69
+    ],
+    "year": 1639,
+    "type": "political",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Sakoku – Abschließung Japans",
+      "en": "Sakoku – Isolation of Japan"
+    },
+    "description": {
+      "de": "Das Tokugawa-Shogunat vollendete die Abschließungspolitik Sakoku. Japan schloss sich für über 200 Jahre von der Außenwelt ab, nur der Handel mit den Niederlanden und China blieb über Dejima bestehen.",
+      "en": "The Tokugawa Shogunate completed the Sakoku isolation policy. Japan closed itself off from the outside world for over 200 years, with only Dutch and Chinese trade continuing through Dejima."
+    }
+  },
+  {
+    "id": "shimabara-rebellion",
+    "coordinates": [
+      130.37,
+      32.77
+    ],
+    "year": 1637,
+    "type": "political",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Shimabara-Aufstand",
+      "en": "Shimabara Rebellion"
+    },
+    "description": {
+      "de": "Christliche Bauern auf Kyushu erhoben sich gegen die religiöse Unterdrückung durch das Tokugawa-Shogunat. Die brutale Niederschlagung führte zum vollständigen Verbot des Christentums.",
+      "en": "Christian peasants on Kyushu rose against religious persecution by the Tokugawa Shogunate. The brutal suppression led to the complete ban of Christianity."
+    }
+  },
+  {
+    "id": "shah-jahan-builds-taj-mahal",
+    "coordinates": [
+      78.04,
+      27.17
+    ],
+    "year": 1632,
+    "type": "cultural",
+    "culturalSphere": [
+      "mughal"
+    ],
+    "labels": {
+      "de": "Baubeginn des Taj Mahal",
+      "en": "Construction of Taj Mahal Begins"
+    },
+    "description": {
+      "de": "Mogulkaiser Shah Jahan beginnt den Bau des Taj Mahal in Agra als Mausoleum für seine verstorbene Gemahlin Mumtaz Mahal.",
+      "en": "Mughal emperor Shah Jahan begins construction of the Taj Mahal in Agra as a mausoleum for his deceased wife Mumtaz Mahal."
+    }
+  }
+]

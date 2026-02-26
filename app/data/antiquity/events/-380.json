@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "battle-of-leuctra",
+    "coordinates": [
+      23.15,
+      38.37
+    ],
+    "year": -371,
+    "type": "battle",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Schlacht von Leuktra",
+      "en": "Battle of Leuctra"
+    },
+    "description": {
+      "de": "Die Thebaner unter Epaminondas besiegten mit einer revolutionären schrägen Schlachtordnung das spartanische Heer. Der Sieg beendete Spartas militärische Vorherrschaft in Griechenland.",
+      "en": "The Thebans under Epaminondas defeated the Spartan army using a revolutionary oblique battle formation. The victory ended Sparta's military dominance over Greece."
+    }
+  }
+]

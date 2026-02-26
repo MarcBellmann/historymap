@@ -1,1 +1,103 @@
-[]
+[
+  {
+    "id": "fall-of-granada",
+    "coordinates": [
+      -3.6,
+      37.18
+    ],
+    "year": 1492,
+    "type": "battle",
+    "culturalSphere": [
+      "spanish",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Fall von Granada",
+      "en": "Fall of Granada"
+    },
+    "description": {
+      "de": "Die katholischen Könige Ferdinand und Isabella eroberten Granada, die letzte maurische Bastion auf der Iberischen Halbinsel. Die Reconquista war nach fast 800 Jahren abgeschlossen.",
+      "en": "The Catholic Monarchs Ferdinand and Isabella conquered Granada, the last Moorish stronghold on the Iberian Peninsula. The Reconquista was complete after nearly 800 years."
+    }
+  },
+  {
+    "id": "voyages-of-columbus",
+    "coordinates": [
+      -6,
+      37.39
+    ],
+    "year": 1492,
+    "type": "cultural",
+    "culturalSphere": [
+      "spanish"
+    ],
+    "labels": {
+      "de": "Kolumbus erreicht Amerika",
+      "en": "Columbus Reaches the Americas"
+    },
+    "description": {
+      "de": "Christoph Kolumbus stach von Palos de la Frontera aus in See und erreichte die Neue Welt. Die Entdeckung leitete die europäische Kolonisierung Amerikas ein und veränderte die Weltgeschichte.",
+      "en": "Christopher Columbus set sail from Palos de la Frontera and reached the New World. The discovery initiated European colonization of the Americas and changed world history."
+    }
+  },
+  {
+    "id": "vasco-da-gama-india",
+    "coordinates": [
+      -8.9,
+      38.69
+    ],
+    "year": 1498,
+    "type": "cultural",
+    "culturalSphere": [
+      "portuguese"
+    ],
+    "labels": {
+      "de": "Vasco da Gama erreicht Indien",
+      "en": "Vasco da Gama Reaches India"
+    },
+    "description": {
+      "de": "Vasco da Gama segelte von Lissabon um das Kap der Guten Hoffnung nach Indien. Die Entdeckung des Seewegs revolutionierte den Welthandel und begründete das portugiesische Kolonialreich.",
+      "en": "Vasco da Gama sailed from Lisbon around the Cape of Good Hope to India. The discovery of the sea route revolutionized world trade and founded the Portuguese colonial empire."
+    }
+  },
+  {
+    "id": "kingdom-of-kongo-portuguese-contact",
+    "coordinates": [
+      15.31,
+      -6.27
+    ],
+    "year": 1491,
+    "type": "political",
+    "culturalSphere": [
+      "bantu"
+    ],
+    "labels": {
+      "de": "Kongo-Königreich nimmt das Christentum an",
+      "en": "Kingdom of Kongo Adopts Christianity"
+    },
+    "description": {
+      "de": "König Nzinga a Nkuwu des Kongo-Reiches lässt sich taufen und nimmt den Namen João I. an, was eine enge Beziehung zu Portugal begründet.",
+      "en": "King Nzinga a Nkuwu of the Kongo Kingdom is baptized as João I, establishing a close relationship with Portugal."
+    }
+  },
+  {
+    "id": "vasco-da-gama-reaches-india",
+    "coordinates": [
+      75.37,
+      11.87
+    ],
+    "year": 1498,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Vasco da Gama erreicht Indien",
+      "en": "Vasco da Gama Reaches India"
+    },
+    "description": {
+      "de": "Vasco da Gama landet in Calicut an der Malabarküste und eröffnet den direkten Seehandel zwischen Europa und Indien.",
+      "en": "Vasco da Gama lands at Calicut on the Malabar Coast, opening direct maritime trade between Europe and India."
+    }
+  }
+]

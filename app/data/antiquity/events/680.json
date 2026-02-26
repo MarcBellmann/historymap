@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "battle-of-karbala",
+    "coordinates": [
+      44.025,
+      32.616
+    ],
+    "year": 680,
+    "type": "battle",
+    "culturalSphere": [
+      "islamic",
+      "arab"
+    ],
+    "labels": {
+      "de": "Schlacht von Kerbela",
+      "en": "Battle of Karbala"
+    },
+    "description": {
+      "de": "Hussein ibn Ali, Enkel Mohammeds, wird bei Kerbela von umayyadischen Truppen getötet. Sein Martyrium wird zum Gründungsereignis des schiitischen Islam.",
+      "en": "Hussein ibn Ali, grandson of Muhammad, is killed by Umayyad forces at Karbala. His martyrdom becomes the founding event of Shia Islam."
+    }
+  },
+  {
+    "id": "rise-of-srivijaya",
+    "coordinates": [
+      104.75,
+      -2.99
+    ],
+    "year": 683,
+    "type": "foundation",
+    "culturalSphere": [
+      "malay",
+      "indonesian"
+    ],
+    "labels": {
+      "de": "Aufstieg des Srivijaya-Reiches",
+      "en": "Rise of the Srivijaya Empire"
+    },
+    "description": {
+      "de": "Das Srivijaya-Reich mit Zentrum in Palembang auf Sumatra stieg zur maritimen Großmacht auf und kontrollierte die Meerenge von Malakka sowie den Seehandel Südostasiens.",
+      "en": "The Srivijaya Empire, centered in Palembang on Sumatra, rose to become a maritime power controlling the Strait of Malacca and Southeast Asian sea trade."
+    }
+  }
+]

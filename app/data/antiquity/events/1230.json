@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "fall-of-jin-dynasty-1234",
+    "coordinates": [
+      113.65,
+      32.99
+    ],
+    "year": 1234,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Mongolen vernichten die Jin-Dynastie",
+      "en": "Mongol Destruction of the Jin Dynasty"
+    },
+    "description": {
+      "de": "Die Mongolen unter Ögedei Khan vernichteten die Jurchen-Jin-Dynastie in Caizhou. Nordchina fiel vollständig unter mongolische Herrschaft.",
+      "en": "The Mongols under Ögedei Khan destroyed the Jurchen Jin dynasty at Caizhou. Northern China fell completely under Mongol rule."
+    }
+  },
+  {
+    "id": "sukhothai-kingdom-founded",
+    "coordinates": [
+      99.7,
+      17.01
+    ],
+    "year": 1238,
+    "type": "foundation",
+    "culturalSphere": [
+      "thai"
+    ],
+    "labels": {
+      "de": "Gründung des Königreichs Sukhothai",
+      "en": "Founding of the Sukhothai Kingdom"
+    },
+    "description": {
+      "de": "Das Königreich Sukhothai wurde als erstes bedeutendes Thai-Königreich gegründet. König Ramkhamhaeng entwickelte die thailändische Schrift und förderte den Theravada-Buddhismus.",
+      "en": "The Sukhothai Kingdom was founded as the first major Thai kingdom. King Ramkhamhaeng developed the Thai script and promoted Theravada Buddhism."
+    }
+  },
+  {
+    "id": "sundiata-founds-mali-empire",
+    "coordinates": [
+      -8,
+      12.5
+    ],
+    "year": 1235,
+    "type": "political",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Sundiata gründet das Mali-Reich",
+      "en": "Sundiata Founds the Mali Empire"
+    },
+    "description": {
+      "de": "Sundiata Keita besiegt in der Schlacht von Kirina den Sosso-König Sumanguru und gründet das Mali-Reich.",
+      "en": "Sundiata Keita defeats Sosso king Sumanguru at the Battle of Kirina, founding the Mali Empire."
+    }
+  }
+]

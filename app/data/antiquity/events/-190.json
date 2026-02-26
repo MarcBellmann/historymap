@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "shunga-coup",
+    "coordinates": [
+      85.14,
+      25.61
+    ],
+    "year": -185,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Shunga-Staatsstreich",
+      "en": "Shunga Coup"
+    },
+    "description": {
+      "de": "General Pushyamitra Shunga ermordet den letzten Maurya-Kaiser und gründet die brahmanische Shunga-Dynastie.",
+      "en": "General Pushyamitra Shunga assassinates the last Maurya emperor, founding the Brahmanical Shunga dynasty."
+    }
+  }
+]

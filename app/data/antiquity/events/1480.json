@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "battle-of-bosworth-field",
+    "coordinates": [
+      -1.4,
+      52.61
+    ],
+    "year": 1485,
+    "type": "battle",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Schlacht von Bosworth",
+      "en": "Battle of Bosworth Field"
+    },
+    "description": {
+      "de": "Heinrich Tudor besiegte Richard III. in der letzten großen Schlacht der Rosenkriege. Der Sieg begründete die Tudor-Dynastie und markierte das Ende des englischen Mittelalters.",
+      "en": "Henry Tudor defeated Richard III in the last major battle of the Wars of the Roses. The victory established the Tudor dynasty and marked the end of England's medieval period."
+    }
+  },
+  {
+    "id": "portuguese-round-cape",
+    "coordinates": [
+      18.47,
+      -34.36
+    ],
+    "year": 1488,
+    "type": "political",
+    "culturalSphere": [
+      "east-african"
+    ],
+    "labels": {
+      "de": "Bartolomeu Dias umrundet das Kap der Guten Hoffnung",
+      "en": "Bartolomeu Dias Rounds the Cape of Good Hope"
+    },
+    "description": {
+      "de": "Bartolomeu Dias umrundet als erster Europäer das Kap der Guten Hoffnung und eröffnet den Seeweg nach Asien.",
+      "en": "Bartolomeu Dias becomes the first European to round the Cape of Good Hope, opening the sea route to Asia."
+    }
+  }
+]

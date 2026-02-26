@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "id": "fall-of-acre",
+    "coordinates": [
+      35.075,
+      32.921
+    ],
+    "year": 1291,
+    "type": "battle",
+    "culturalSphere": [
+      "islamic",
+      "christian"
+    ],
+    "labels": {
+      "de": "Fall von Akkon",
+      "en": "Fall of Acre"
+    },
+    "description": {
+      "de": "Die Mamluken erobern Akkon, die letzte große Kreuzfahrerfestung im Heiligen Land. Das Ende von zwei Jahrhunderten Kreuzfahrerherrschaft in der Levante.",
+      "en": "The Mamluks capture Acre, the last major Crusader fortress in the Holy Land. The end of two centuries of Crusader rule in the Levant."
+    }
+  },
+  {
+    "id": "mongol-invasion-java",
+    "coordinates": [
+      112.75,
+      -7.25
+    ],
+    "year": 1293,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "indonesian"
+    ],
+    "labels": {
+      "de": "Mongoleninvasion Javas – Gründung von Majapahit",
+      "en": "Mongol Invasion of Java – Founding of Majapahit"
+    },
+    "description": {
+      "de": "Raden Wijaya nutzte die mongolische Invasion, um seine Rivalen zu stürzen, wandte sich dann gegen die Mongolen und gründete das Majapahit-Reich.",
+      "en": "Raden Wijaya used the Mongol invasion to overthrow his rivals, then turned against the Mongols and founded the Majapahit Empire."
+    }
+  },
+  {
+    "id": "alauddin-khilji-conquests",
+    "coordinates": [
+      77.23,
+      28.61
+    ],
+    "year": 1296,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Ala ud-Din Khiljis Eroberungen",
+      "en": "Alauddin Khilji's Conquests"
+    },
+    "description": {
+      "de": "Sultan Ala ud-Din Khilji expandiert das Sultanat von Delhi bis nach Südindien und wehrt mongolische Invasionen ab.",
+      "en": "Sultan Alauddin Khilji expands the Delhi Sultanate into southern India and repels Mongol invasions."
+    }
+  }
+]

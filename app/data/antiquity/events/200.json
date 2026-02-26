@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "battle-of-red-cliffs",
+    "coordinates": [
+      113.75,
+      29.72
+    ],
+    "year": 208,
+    "type": "battle",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Schlacht von Chibi (Rote Klippen)",
+      "en": "Battle of Red Cliffs (Chibi)"
+    },
+    "description": {
+      "de": "Die vereinten Kräfte von Sun Quan und Liu Bei besiegten Cao Caos zahlenmäßig überlegene Armee am Jangtse. Der Sieg verhinderte die Wiedervereinigung und begründete die Drei Reiche.",
+      "en": "The combined forces of Sun Quan and Liu Bei defeated Cao Cao's numerically superior army on the Yangtze. The victory prevented reunification and established the Three Kingdoms."
+    }
+  }
+]

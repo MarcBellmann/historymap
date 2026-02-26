@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "first-battle-of-tarain",
+    "coordinates": [
+      76.92,
+      29.4
+    ],
+    "year": 1191,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Erste Schlacht von Tarain",
+      "en": "First Battle of Tarain"
+    },
+    "description": {
+      "de": "Prithviraj III. der Chauhans besiegt Muhammad von Ghor in der ersten Schlacht von Tarain und verteidigt das Rajputen-Territorium.",
+      "en": "Prithviraj III of the Chauhans defeats Muhammad of Ghor at the First Battle of Tarain, defending Rajput territory."
+    }
+  },
+  {
+    "id": "second-battle-of-tarain",
+    "coordinates": [
+      76.92,
+      29.4
+    ],
+    "year": 1192,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Zweite Schlacht von Tarain",
+      "en": "Second Battle of Tarain"
+    },
+    "description": {
+      "de": "Muhammad von Ghor besiegt Prithviraj III. in der zweiten Schlacht von Tarain und öffnet Nordindien für die muslimische Herrschaft.",
+      "en": "Muhammad of Ghor defeats Prithviraj III at the Second Battle of Tarain, opening northern India to Muslim rule."
+    }
+  },
+  {
+    "id": "destruction-of-nalanda",
+    "coordinates": [
+      85.44,
+      25.14
+    ],
+    "year": 1193,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Zerstörung der Universität Nalanda",
+      "en": "Destruction of Nalanda University"
+    },
+    "description": {
+      "de": "Bakhtiyar Khilji zerstört die buddhistische Universität Nalanda, was das Ende des organisierten Buddhismus in Indien einläutet.",
+      "en": "Bakhtiyar Khilji destroys the Buddhist university of Nalanda, marking the end of organized Buddhism in India."
+    }
+  }
+]

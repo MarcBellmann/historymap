@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "battle-of-manzikert",
+    "coordinates": [
+      42.54,
+      39.14
+    ],
+    "year": 1071,
+    "type": "battle",
+    "culturalSphere": [
+      "byzantine",
+      "seljuk"
+    ],
+    "labels": {
+      "de": "Schlacht von Manzikert",
+      "en": "Battle of Manzikert"
+    },
+    "description": {
+      "de": "Die Seldschuken besiegten das byzantinische Heer und nahmen Kaiser Romanos IV. gefangen. Die Niederlage öffnete Anatolien für die türkische Besiedlung und schwächte Byzanz nachhaltig.",
+      "en": "The Seljuks defeated the Byzantine army and captured Emperor Romanos IV. The defeat opened Anatolia to Turkish settlement and permanently weakened Byzantium."
+    }
+  },
+  {
+    "id": "almoravid-conquest-of-ghana",
+    "coordinates": [
+      -7.97,
+      17.44
+    ],
+    "year": 1076,
+    "type": "battle",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Almoraviden erobern Ghana",
+      "en": "Almoravid Conquest of Ghana"
+    },
+    "description": {
+      "de": "Die Almoraviden erobern die Hauptstadt Kumbi Saleh und beschleunigen den Niedergang des Ghana-Reiches.",
+      "en": "The Almoravids capture the capital Kumbi Saleh, accelerating the decline of the Ghana Empire."
+    }
+  }
+]

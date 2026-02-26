@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "fall-of-constantinople",
+    "coordinates": [
+      28.98,
+      41.01
+    ],
+    "year": 1453,
+    "type": "battle",
+    "culturalSphere": [
+      "byzantine",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Fall von Konstantinopel",
+      "en": "Fall of Constantinople"
+    },
+    "description": {
+      "de": "Sultan Mehmed II. eroberte Konstantinopel nach einer 53-tägigen Belagerung und beendete das Byzantinische Reich. Das Ereignis markiert traditionell das Ende des Mittelalters.",
+      "en": "Sultan Mehmed II conquered Constantinople after a 53-day siege, ending the Byzantine Empire. The event traditionally marks the end of the Middle Ages."
+    }
+  },
+  {
+    "id": "inca-build-machu-picchu",
+    "coordinates": [
+      -72.55,
+      -13.16
+    ],
+    "year": 1450,
+    "type": "foundation",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Bau von Machu Picchu",
+      "en": "Construction of Machu Picchu"
+    },
+    "description": {
+      "de": "Die Inka errichten Machu Picchu als königliches Anwesen und zeremonielle Stätte hoch in den Anden.",
+      "en": "The Inca construct Machu Picchu as a royal estate and ceremonial site high in the Andes."
+    }
+  }
+]

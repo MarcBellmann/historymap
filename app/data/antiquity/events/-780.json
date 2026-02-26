@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "first-olympic-games",
+    "coordinates": [
+      21.63,
+      37.64
+    ],
+    "year": -776,
+    "type": "cultural",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Erste Olympische Spiele",
+      "en": "First Olympic Games"
+    },
+    "description": {
+      "de": "Die ersten überlieferten Olympischen Spiele fanden in Olympia auf der Peloponnes statt. Das alle vier Jahre stattfindende Fest zu Ehren des Zeus wurde zum wichtigsten panhellenischen Sportereignis.",
+      "en": "The first recorded Olympic Games were held at Olympia on the Peloponnese. The quadrennial festival in honor of Zeus became the most important pan-Hellenic sporting event."
+    }
+  },
+  {
+    "id": "fall-of-western-zhou",
+    "coordinates": [
+      108.94,
+      34.27
+    ],
+    "year": -771,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Fall des Westlichen Zhou",
+      "en": "Fall of Western Zhou"
+    },
+    "description": {
+      "de": "Die Invasion der Quanrong-Nomaden zerstörte die westliche Zhou-Hauptstadt Haojing und zwang den Hof zur Flucht nach Osten nach Luoyang, was das Ende der Westlichen Zhou-Dynastie markierte.",
+      "en": "The Quanrong nomad invasion destroyed the Western Zhou capital of Haojing, forcing the court to flee east to Luoyang, marking the end of the Western Zhou dynasty."
+    }
+  }
+]

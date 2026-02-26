@@ -1,1 +1,85 @@
-[]
+[
+  {
+    "id": "battle-of-lepanto",
+    "coordinates": [
+      21.78,
+      38.33
+    ],
+    "year": 1571,
+    "type": "battle",
+    "culturalSphere": [
+      "spanish",
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Schlacht von Lepanto",
+      "en": "Battle of Lepanto"
+    },
+    "description": {
+      "de": "Eine Flotte der Heiligen Liga besiegte die osmanische Marine im Golf von Patras. Die letzte große Galeerenschlacht der Geschichte brach den Mythos der osmanischen Unbesiegbarkeit zur See.",
+      "en": "A Holy League fleet defeated the Ottoman navy in the Gulf of Patras. The last great galley battle in history shattered the myth of Ottoman invincibility at sea."
+    }
+  },
+  {
+    "id": "ottoman-conquest-of-tunis",
+    "coordinates": [
+      10.181,
+      36.806
+    ],
+    "year": 1574,
+    "type": "political",
+    "culturalSphere": [
+      "turkic",
+      "islamic",
+      "north-african"
+    ],
+    "labels": {
+      "de": "Osmanische Eroberung von Tunis",
+      "en": "Ottoman Conquest of Tunis"
+    },
+    "description": {
+      "de": "Die Osmanen erobern Tunis endgültig von den Spaniern und sichern die osmanische Herrschaft über den zentralen Maghreb. Nordafrika wird Teil des Osmanischen Reiches.",
+      "en": "The Ottomans permanently capture Tunis from the Spanish, securing Ottoman control over the central Maghreb. North Africa becomes part of the Ottoman Empire."
+    }
+  },
+  {
+    "id": "iroquois-confederacy-formed",
+    "coordinates": [
+      -76.15,
+      43.04
+    ],
+    "year": 1570,
+    "type": "political",
+    "culturalSphere": [
+      "north-american"
+    ],
+    "labels": {
+      "de": "Gründung der Irokesen-Konföderation",
+      "en": "Iroquois Confederacy Formed"
+    },
+    "description": {
+      "de": "Die fünf (später sechs) Nationen der Irokesen schließen sich zum Haudenosaunee-Bund zusammen, einer der ältesten demokratischen Vereinigungen der Welt.",
+      "en": "The five (later six) Iroquois nations form the Haudenosaunee Confederacy, one of the oldest democratic unions in the world."
+    }
+  },
+  {
+    "id": "mughal-conquest-bengal",
+    "coordinates": [
+      90.41,
+      23.81
+    ],
+    "year": 1576,
+    "type": "battle",
+    "culturalSphere": [
+      "mughal"
+    ],
+    "labels": {
+      "de": "Mogul-Eroberung Bengalens",
+      "en": "Mughal Conquest of Bengal"
+    },
+    "description": {
+      "de": "Die Moguln besiegen den letzten unabhängigen Sultan von Bengalen in der Schlacht von Rajmahal.",
+      "en": "The Mughals defeat the last independent Sultan of Bengal at the Battle of Rajmahal."
+    }
+  }
+]

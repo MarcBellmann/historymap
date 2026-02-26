@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "id": "arab-conquest-of-egypt",
+    "coordinates": [
+      31.232,
+      30.045
+    ],
+    "year": 641,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "arab",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Arabische Eroberung Ägyptens",
+      "en": "Arab Conquest of Egypt"
+    },
+    "description": {
+      "de": "Amr ibn al-As erobert Ägypten für das Kalifat und gründet Fustat als neue Hauptstadt. Die über tausendjährige griechisch-römische Herrschaft am Nil endet.",
+      "en": "Amr ibn al-As conquers Egypt for the Caliphate and founds Fustat as the new capital. Over a thousand years of Greco-Roman rule on the Nile comes to an end."
+    }
+  },
+  {
+    "id": "battle-of-nahavand",
+    "coordinates": [
+      48.391,
+      34.188
+    ],
+    "year": 642,
+    "type": "battle",
+    "culturalSphere": [
+      "islamic",
+      "arab",
+      "sassanid"
+    ],
+    "labels": {
+      "de": "Schlacht von Nahavand",
+      "en": "Battle of Nahavand"
+    },
+    "description": {
+      "de": "Die entscheidende Niederlage der Sassaniden bei Nahavand — von den Arabern als «Sieg der Siege» bezeichnet. Das Sassanidenreich bricht endgültig zusammen.",
+      "en": "The decisive defeat of the Sassanids at Nahavand — called the 'Victory of Victories' by the Arabs. The Sassanid Empire collapses irreversibly."
+    }
+  },
+  {
+    "id": "taika-reform-japan",
+    "coordinates": [
+      135.52,
+      34.68
+    ],
+    "year": 645,
+    "type": "political",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Taika-Reform in Japan",
+      "en": "Taika Reform in Japan"
+    },
+    "description": {
+      "de": "Die Taika-Reformen reorganisierten den japanischen Staat nach chinesischem Vorbild mit zentralisierter Bürokratie, Landvergabe und Steuersystem.",
+      "en": "The Taika Reforms reorganized the Japanese state along Chinese lines with centralized bureaucracy, land distribution, and a tax system."
+    }
+  }
+]

@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "pax-romana-begins",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": -27,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Beginn der Pax Romana",
+      "en": "Beginning of the Pax Romana"
+    },
+    "description": {
+      "de": "Der Senat verlieh Octavian den Titel Augustus und begründete damit das Römische Kaiserreich. Es begann eine rund 200 Jahre währende Friedenszeit im Mittelmeerraum.",
+      "en": "The Senate granted Octavian the title Augustus, establishing the Roman Empire. This began a roughly 200-year period of peace across the Mediterranean world."
+    }
+  },
+  {
+    "id": "roman-conquest-of-egypt",
+    "coordinates": [
+      29.919,
+      31.2
+    ],
+    "year": -30,
+    "type": "political",
+    "culturalSphere": [
+      "roman",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Römische Eroberung Ägyptens",
+      "en": "Roman Conquest of Egypt"
+    },
+    "description": {
+      "de": "Nach der Schlacht von Actium und dem Selbstmord Kleopatras VII. wird Ägypten zur römischen Provinz. Das Ende der Ptolemäerherrschaft und des letzten hellenistischen Großreiches.",
+      "en": "After the Battle of Actium and the suicide of Cleopatra VII, Egypt becomes a Roman province. The end of Ptolemaic rule and the last great Hellenistic kingdom."
+    }
+  }
+]

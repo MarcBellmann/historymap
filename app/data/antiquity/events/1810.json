@@ -1,1 +1,147 @@
-[]
+[
+  {
+    "id": "battle-of-borodino",
+    "coordinates": [
+      35.82,
+      55.52
+    ],
+    "year": 1812,
+    "type": "battle",
+    "culturalSphere": [
+      "french",
+      "russian"
+    ],
+    "labels": {
+      "de": "Schlacht von Borodino",
+      "en": "Battle of Borodino"
+    },
+    "description": {
+      "de": "Die blutigste Eintagesschlacht der Napoleonischen Kriege fand vor Moskau statt. Obwohl Napoleon das Feld behielt, konnte er die russische Armee nicht vernichten — der Beginn seines katastrophalen Russlandfeldzugs.",
+      "en": "The bloodiest single-day battle of the Napoleonic Wars took place outside Moscow. Although Napoleon held the field, he failed to destroy the Russian army — the beginning of his catastrophic Russian campaign."
+    }
+  },
+  {
+    "id": "battle-of-leipzig",
+    "coordinates": [
+      12.37,
+      51.34
+    ],
+    "year": 1813,
+    "type": "battle",
+    "culturalSphere": [
+      "french",
+      "european"
+    ],
+    "labels": {
+      "de": "Völkerschlacht bei Leipzig",
+      "en": "Battle of Leipzig"
+    },
+    "description": {
+      "de": "In der größten Schlacht vor dem Ersten Weltkrieg besiegten die verbündeten Armeen Napoleons Truppen bei Leipzig. Die Niederlage erzwang Napoleons Rückzug aus Deutschland.",
+      "en": "In the largest battle before World War I, allied armies defeated Napoleon's forces at Leipzig. The defeat forced Napoleon's retreat from Germany."
+    }
+  },
+  {
+    "id": "battle-of-waterloo",
+    "coordinates": [
+      4.41,
+      50.68
+    ],
+    "year": 1815,
+    "type": "battle",
+    "culturalSphere": [
+      "french",
+      "english"
+    ],
+    "labels": {
+      "de": "Schlacht von Waterloo",
+      "en": "Battle of Waterloo"
+    },
+    "description": {
+      "de": "Napoleon wurde bei Waterloo von Wellington und Blücher endgültig besiegt. Die Schlacht beendete die Napoleonischen Kriege und leitete eine lange Friedensperiode in Europa ein.",
+      "en": "Napoleon was definitively defeated at Waterloo by Wellington and Blücher. The battle ended the Napoleonic Wars and ushered in a long period of peace in Europe."
+    }
+  },
+  {
+    "id": "congress-of-vienna",
+    "coordinates": [
+      16.37,
+      48.21
+    ],
+    "year": 1815,
+    "type": "political",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Wiener Kongress",
+      "en": "Congress of Vienna"
+    },
+    "description": {
+      "de": "Die europäischen Großmächte ordneten auf dem Wiener Kongress die politische Landkarte Europas nach dem Sturz Napoleons neu. Das Ergebnis sicherte ein weitgehend stabiles Machtgleichgewicht für Jahrzehnte.",
+      "en": "The European great powers reorganized Europe's political map at the Congress of Vienna after Napoleon's fall. The result secured a largely stable balance of power for decades."
+    }
+  },
+  {
+    "id": "first-saudi-state-destroyed",
+    "coordinates": [
+      46.571,
+      24.642
+    ],
+    "year": 1818,
+    "type": "battle",
+    "culturalSphere": [
+      "arab",
+      "islamic",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Zerstörung des Ersten Saudischen Staates",
+      "en": "Destruction of the First Saudi State"
+    },
+    "description": {
+      "de": "Ägyptisch-osmanische Truppen unter Ibrahim Pascha erobern und zerstören Diriyya, die Hauptstadt des Ersten Saudischen Staates, nach einem Feldzug auf der Arabischen Halbinsel.",
+      "en": "Egyptian-Ottoman forces under Ibrahim Pasha capture and destroy Diriyah, capital of the First Saudi State, after a campaign on the Arabian Peninsula."
+    }
+  },
+  {
+    "id": "shaka-zulu-mfecane",
+    "coordinates": [
+      31.29,
+      -28.32
+    ],
+    "year": 1818,
+    "type": "battle",
+    "culturalSphere": [
+      "bantu"
+    ],
+    "labels": {
+      "de": "Aufstieg der Zulu unter Shaka (Mfecane)",
+      "en": "Rise of the Zulu Under Shaka (Mfecane)"
+    },
+    "description": {
+      "de": "Shaka kaSenzangakhona revolutioniert die Zulu-Kriegsführung und löst die Mfecane aus, eine Kettenreaktion von Kriegen und Wanderungen im südlichen Afrika.",
+      "en": "Shaka kaSenzangakhona revolutionizes Zulu warfare and triggers the Mfecane, a chain reaction of wars and migrations across southern Africa."
+    }
+  },
+  {
+    "id": "simon-bolivar-liberation",
+    "coordinates": [
+      -66.9,
+      10.49
+    ],
+    "year": 1819,
+    "type": "battle",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Bolívar befreit Großkolumbien",
+      "en": "Bolívar Liberates Gran Colombia"
+    },
+    "description": {
+      "de": "Simón Bolívar besiegt die Spanier in der Schlacht von Boyacá und befreit Venezuela, Kolumbien und Ecuador.",
+      "en": "Simón Bolívar defeats the Spanish at the Battle of Boyacá, liberating Venezuela, Colombia, and Ecuador."
+    }
+  }
+]

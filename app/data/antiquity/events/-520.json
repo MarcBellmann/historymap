@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "founding-of-persepolis",
+    "coordinates": [
+      52.891,
+      29.935
+    ],
+    "year": -518,
+    "type": "foundation",
+    "culturalSphere": [
+      "persian"
+    ],
+    "labels": {
+      "de": "Gründung von Persepolis",
+      "en": "Founding of Persepolis"
+    },
+    "description": {
+      "de": "Dareios I. beginnt den Bau von Persepolis als zeremonielle Hauptstadt des Achämenidenreiches. Die Stadt wird zum Symbol persischer Macht und Pracht.",
+      "en": "Darius I begins construction of Persepolis as the ceremonial capital of the Achaemenid Empire. The city becomes a symbol of Persian power and splendor."
+    }
+  }
+]

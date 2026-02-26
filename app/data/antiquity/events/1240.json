@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "battle-of-legnica",
+    "coordinates": [
+      16.16,
+      51.21
+    ],
+    "year": 1241,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "slavic"
+    ],
+    "labels": {
+      "de": "Schlacht bei Liegnitz",
+      "en": "Battle of Legnica"
+    },
+    "description": {
+      "de": "Die Mongolen unter Baidar besiegten ein polnisch-deutsches Ritterheer bei Liegnitz. Der Mongolensturm verwüstete Osteuropa, doch die Mongolen zogen sich bald darauf zurück.",
+      "en": "The Mongols under Baidar defeated a Polish-German knightly army at Legnica. The Mongol invasion devastated Eastern Europe, though the Mongols soon withdrew."
+    }
+  }
+]

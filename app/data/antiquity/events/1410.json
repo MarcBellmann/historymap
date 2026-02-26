@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "battle-of-agincourt",
+    "coordinates": [
+      2.14,
+      50.46
+    ],
+    "year": 1415,
+    "type": "battle",
+    "culturalSphere": [
+      "english",
+      "french"
+    ],
+    "labels": {
+      "de": "Schlacht von Azincourt",
+      "en": "Battle of Agincourt"
+    },
+    "description": {
+      "de": "König Heinrich V. von England besiegte mit einem zahlenmäßig unterlegenen Heer die französische Ritterschaft bei Azincourt. Der Sieg sicherte England vorübergehend die Vorherrschaft in Frankreich.",
+      "en": "King Henry V of England defeated the French nobility with a numerically inferior army at Agincourt. The victory temporarily secured English dominance in France."
+    }
+  }
+]

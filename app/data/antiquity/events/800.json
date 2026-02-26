@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "coronation-of-charlemagne",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 800,
+    "type": "political",
+    "culturalSphere": [
+      "frankish"
+    ],
+    "labels": {
+      "de": "Kaiserkrönung Karls des Großen",
+      "en": "Coronation of Charlemagne"
+    },
+    "description": {
+      "de": "Papst Leo III. krönte den Frankenkönig Karl den Großen in Rom zum Kaiser. Die Krönung begründete die Idee eines christlichen Kaiserreichs in Westeuropa und legte den Grundstein für das Heilige Römische Reich.",
+      "en": "Pope Leo III crowned Frankish King Charlemagne as Emperor in Rome. The coronation established the idea of a Christian empire in Western Europe and laid the foundation for the Holy Roman Empire."
+    }
+  },
+  {
+    "id": "borobudur-construction",
+    "coordinates": [
+      110.2,
+      -7.61
+    ],
+    "year": 800,
+    "type": "cultural",
+    "culturalSphere": [
+      "indonesian"
+    ],
+    "labels": {
+      "de": "Bau von Borobudur",
+      "en": "Construction of Borobudur"
+    },
+    "description": {
+      "de": "Die Sailendra-Dynastie errichtete Borobudur auf Java, den größten buddhistischen Tempel der Welt mit über 2.600 Reliefs und 500 Buddha-Statuen.",
+      "en": "The Sailendra dynasty constructed Borobudur on Java, the world's largest Buddhist temple with over 2,600 reliefs and 500 Buddha statues."
+    }
+  },
+  {
+    "id": "khmer-empire-founding",
+    "coordinates": [
+      103.87,
+      13.44
+    ],
+    "year": 802,
+    "type": "foundation",
+    "culturalSphere": [
+      "khmer"
+    ],
+    "labels": {
+      "de": "Gründung des Khmer-Reiches",
+      "en": "Founding of the Khmer Empire"
+    },
+    "description": {
+      "de": "König Jayavarman II erklärte sich zum universellen Herrscher auf dem Phnom Kulen und begründete das Khmer-Reich, das Südostasien über 600 Jahre dominieren sollte.",
+      "en": "King Jayavarman II declared himself universal ruler on Phnom Kulen and founded the Khmer Empire, which would dominate Southeast Asia for over 600 years."
+    }
+  },
+  {
+    "id": "ghana-empire-peak",
+    "coordinates": [
+      -7.97,
+      17.44
+    ],
+    "year": 800,
+    "type": "political",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Blütezeit des Ghana-Reiches",
+      "en": "Ghana Empire at Its Peak"
+    },
+    "description": {
+      "de": "Das Ghana-Reich (Wagadou) kontrolliert den Transsahara-Goldhandel und wird zum mächtigsten Staat Westafrikas.",
+      "en": "The Ghana Empire (Wagadu) controls the trans-Saharan gold trade, becoming the most powerful state in West Africa."
+    }
+  }
+]

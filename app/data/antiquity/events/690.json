@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "id": "dome-of-the-rock-built",
+    "coordinates": [
+      35.235,
+      31.778
+    ],
+    "year": 691,
+    "type": "cultural",
+    "culturalSphere": [
+      "islamic",
+      "arab"
+    ],
+    "labels": {
+      "de": "Bau des Felsendoms",
+      "en": "Dome of the Rock Built"
+    },
+    "description": {
+      "de": "Kalif Abd al-Malik vollendet den Felsendom auf dem Tempelberg in Jerusalem — eines der ältesten und bedeutendsten Bauwerke des Islam.",
+      "en": "Caliph Abd al-Malik completes the Dome of the Rock on the Temple Mount in Jerusalem — one of the oldest and most important buildings in Islam."
+    }
+  },
+  {
+    "id": "arab-conquest-of-north-africa",
+    "coordinates": [
+      9.537,
+      33.886
+    ],
+    "year": 698,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "arab",
+      "north-african"
+    ],
+    "labels": {
+      "de": "Arabische Eroberung Nordafrikas",
+      "en": "Arab Conquest of North Africa"
+    },
+    "description": {
+      "de": "Die Araber erobern Karthago und vollenden die Unterwerfung Nordafrikas. Die byzantinische Herrschaft in Afrika endet, und die Islamisierung des Maghreb beginnt.",
+      "en": "The Arabs capture Carthage and complete the subjugation of North Africa. Byzantine rule in Africa ends, and the Islamization of the Maghreb begins."
+    }
+  }
+]

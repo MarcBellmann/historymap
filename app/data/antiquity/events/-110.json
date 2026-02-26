@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "han-conquest-of-gojoseon",
+    "coordinates": [
+      125.75,
+      39.02
+    ],
+    "year": -108,
+    "type": "political",
+    "culturalSphere": [
+      "chinese",
+      "korean"
+    ],
+    "labels": {
+      "de": "Han-Eroberung von Go-Joseon",
+      "en": "Han Conquest of Gojoseon"
+    },
+    "description": {
+      "de": "Kaiser Wu der Han eroberte das Königreich Go-Joseon und errichtete vier chinesische Kommandanturen auf der koreanischen Halbinsel, die chinesischen Einfluss in die Region brachten.",
+      "en": "Emperor Wu of Han conquered the kingdom of Gojoseon and established four Chinese commanderies on the Korean Peninsula, bringing Chinese influence into the region."
+    }
+  }
+]

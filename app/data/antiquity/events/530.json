@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "reconquest-of-rome-justinian",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 536,
+    "type": "battle",
+    "culturalSphere": [
+      "byzantine",
+      "germanic"
+    ],
+    "labels": {
+      "de": "Justinians Rückeroberung Roms",
+      "en": "Justinian's Reconquest of Rome"
+    },
+    "description": {
+      "de": "Der byzantinische General Belisar eroberte Rom im Auftrag Kaiser Justinians von den Ostgoten zurück. Die Rückeroberung war Teil von Justinians ambitioniertem Plan, das Weströmische Reich wiederherzustellen.",
+      "en": "Byzantine general Belisarius recaptured Rome from the Ostrogoths on behalf of Emperor Justinian. The reconquest was part of Justinian's ambitious plan to restore the Western Roman Empire."
+    }
+  },
+  {
+    "id": "battle-of-dara",
+    "coordinates": [
+      40.953,
+      37.178
+    ],
+    "year": 530,
+    "type": "battle",
+    "culturalSphere": [
+      "byzantine",
+      "sassanid"
+    ],
+    "labels": {
+      "de": "Schlacht von Dara",
+      "en": "Battle of Dara"
+    },
+    "description": {
+      "de": "Belisar besiegt die Sassaniden bei Dara an der byzantinisch-persischen Grenze — ein seltener oströmischer Sieg, der den jungen General berühmt macht.",
+      "en": "Belisarius defeats the Sassanids at Dara on the Byzantine-Persian frontier — a rare Eastern Roman victory that makes the young general famous."
+    }
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "battle-of-bach-dang-938",
+    "coordinates": [
+      106.75,
+      20.95
+    ],
+    "year": 938,
+    "type": "battle",
+    "culturalSphere": [
+      "vietnamese"
+    ],
+    "labels": {
+      "de": "Schlacht am Bạch Đằng",
+      "en": "Battle of Bạch Đằng River"
+    },
+    "description": {
+      "de": "Ngô Quyền besiegte die Invasionsflotte der Südlichen Han am Bạch Đằng. Dieser entscheidende Sieg beendete über 1.000 Jahre chinesischer Herrschaft über Vietnam.",
+      "en": "Ngô Quyền defeated the Southern Han invasion fleet at the Bạch Đằng River. This decisive victory ended over 1,000 years of Chinese rule over Vietnam."
+    }
+  }
+]

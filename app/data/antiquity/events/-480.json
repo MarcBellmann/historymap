@@ -1,1 +1,85 @@
-[]
+[
+  {
+    "id": "battle-of-thermopylae",
+    "coordinates": [
+      22.54,
+      38.8
+    ],
+    "year": -480,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "persian"
+    ],
+    "labels": {
+      "de": "Schlacht bei den Thermopylen",
+      "en": "Battle of Thermopylae"
+    },
+    "description": {
+      "de": "König Leonidas von Sparta und 300 Spartaner verteidigten den Engpass der Thermopylen gegen die persische Armee unter Xerxes. Ihr Opfer wurde zum Symbol für Tapferkeit gegen übermächtige Feinde.",
+      "en": "King Leonidas of Sparta and 300 Spartans defended the narrow pass of Thermopylae against the Persian army under Xerxes. Their sacrifice became a symbol of courage against overwhelming odds."
+    }
+  },
+  {
+    "id": "battle-of-salamis",
+    "coordinates": [
+      23.58,
+      37.95
+    ],
+    "year": -480,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "persian"
+    ],
+    "labels": {
+      "de": "Schlacht von Salamis",
+      "en": "Battle of Salamis"
+    },
+    "description": {
+      "de": "Die griechische Flotte unter Themistokles vernichtete die persische Flotte in der Meerenge von Salamis. Der entscheidende Seesieg wendete die persische Invasion und sicherte die griechische Unabhängigkeit.",
+      "en": "The Greek fleet under Themistocles destroyed the Persian fleet in the Strait of Salamis. This decisive naval victory turned the tide of the Persian invasion and secured Greek independence."
+    }
+  },
+  {
+    "id": "battle-of-plataea",
+    "coordinates": [
+      23.27,
+      38.22
+    ],
+    "year": -479,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "persian"
+    ],
+    "labels": {
+      "de": "Schlacht von Platää",
+      "en": "Battle of Plataea"
+    },
+    "description": {
+      "de": "Ein vereintes griechisches Heer besiegte die verbliebene persische Armee unter Mardonios bei Platää. Der Sieg beendete endgültig die persische Invasion Griechenlands.",
+      "en": "A united Greek army defeated the remaining Persian force under Mardonius at Plataea. The victory definitively ended the Persian invasion of Greece."
+    }
+  },
+  {
+    "id": "warring-states-period-begins",
+    "coordinates": [
+      112.45,
+      34.62
+    ],
+    "year": -475,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Beginn der Zeit der Streitenden Reiche",
+      "en": "Warring States Period Begins"
+    },
+    "description": {
+      "de": "Die Ära der Streitenden Reiche begann, als sieben mächtige Staaten um die Vorherrschaft über China kämpften. Diese Periode brachte enormen militärischen und philosophischen Fortschritt.",
+      "en": "The Warring States era began as seven powerful states competed for supremacy over China. This period brought enormous military and philosophical progress."
+    }
+  }
+]

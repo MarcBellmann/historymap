@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "kushan-empire-founded",
+    "coordinates": [
+      69.17,
+      34.53
+    ],
+    "year": 30,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Gründung des Kushan-Reiches",
+      "en": "Kushan Empire Founded"
+    },
+    "description": {
+      "de": "Kujula Kadphises vereint die Yuezhi-Stämme und gründet das Kushan-Reich, das Zentralasien und Nordindien verbindet.",
+      "en": "Kujula Kadphises unites the Yuezhi tribes, founding the Kushan Empire linking Central Asia with northern India."
+    }
+  }
+]

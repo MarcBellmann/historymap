@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "assyrian-conquest-samaria",
+    "coordinates": [
+      35.195,
+      32.275
+    ],
+    "year": -722,
+    "type": "political",
+    "culturalSphere": [
+      "mesopotamian",
+      "jewish"
+    ],
+    "labels": {
+      "de": "Assyrische Eroberung Samarias",
+      "en": "Assyrian Conquest of Samaria"
+    },
+    "description": {
+      "de": "Das neuassyrische Reich unter Sargon II. erobert Samaria und zerstört das Nordreich Israel. Tausende Israeliten werden deportiert — Beginn der verlorenen Stämme Israels.",
+      "en": "The Neo-Assyrian Empire under Sargon II conquers Samaria and destroys the northern Kingdom of Israel. Thousands of Israelites are deported — the beginning of the lost tribes of Israel."
+    }
+  }
+]

@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "introduction-of-buddhism-japan",
+    "coordinates": [
+      135.8,
+      34.69
+    ],
+    "year": 552,
+    "type": "cultural",
+    "culturalSphere": [
+      "japanese",
+      "korean"
+    ],
+    "labels": {
+      "de": "Einführung des Buddhismus in Japan",
+      "en": "Introduction of Buddhism to Japan"
+    },
+    "description": {
+      "de": "König Seong von Baekje sandte eine Buddha-Statue und Sutren an den japanischen Hof. Dies markierte den Beginn des Buddhismus in Japan und tiefgreifenden kulturellen Wandel.",
+      "en": "King Seong of Baekje sent a Buddha statue and sutras to the Japanese court. This marked the beginning of Buddhism in Japan and profound cultural transformation."
+    }
+  },
+  {
+    "id": "teotihuacan-collapse",
+    "coordinates": [
+      -98.84,
+      19.69
+    ],
+    "year": 550,
+    "type": "political",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Zusammenbruch von Teotihuacan",
+      "en": "Collapse of Teotihuacan"
+    },
+    "description": {
+      "de": "Teotihuacan wird durch Brände und innere Unruhen zerstört; die Stadt verliert ihre Vorherrschaft über Mesoamerika.",
+      "en": "Teotihuacan is destroyed by fires and internal unrest; the city loses its dominance over Mesoamerica."
+    }
+  }
+]

@@ -1,45 +1,42 @@
 [
   {
-    "id": "alexander-conquests",
+    "id": "battle-of-hydaspes",
     "coordinates": [
-      52.8917,
-      29.935
+      73.6,
+      32.68
     ],
-    "year": -330,
-    "type": "political",
+    "year": -326,
+    "type": "battle",
     "culturalSphere": [
-      "greek",
-      "persian",
-      "hellenistic"
+      "indian"
     ],
     "labels": {
-      "de": "Fall des Achämenidenreiches",
-      "en": "Fall of the Achaemenid Empire"
+      "de": "Schlacht am Hydaspes",
+      "en": "Battle of the Hydaspes"
     },
     "description": {
-      "de": "Alexander der Große zerstört Persepolis und beendet das Achämenidenreich. Aus persischer Sicht ein kultureller Kahlschlag; er beginnt die Hellenisierung Asiens.",
-      "en": "Alexander the Great destroys Persepolis and ends the Achaemenid Empire. From a Persian perspective, a cultural devastation; he initiates the Hellenization of Asia."
+      "de": "Alexander der Große besiegt König Poros am Fluss Jhelum, doch seine Truppen weigern sich, weiter nach Indien vorzurücken.",
+      "en": "Alexander the Great defeats King Porus at the Jhelum River, but his troops refuse to advance further into India."
     }
   },
   {
-    "id": "chandragupta-founds-maurya",
+    "id": "chandragupta-maurya-founds-empire",
     "coordinates": [
-      85.1376,
-      25.5941
+      85.14,
+      25.61
     ],
     "year": -322,
     "type": "political",
     "culturalSphere": [
-      "indian",
-      "mauryan"
+      "indian"
     ],
     "labels": {
-      "de": "Gründung des Maurya-Reiches",
-      "en": "Foundation of the Mauryan Empire"
+      "de": "Chandragupta Maurya gründet das Maurya-Reich",
+      "en": "Chandragupta Maurya Founds Maurya Empire"
     },
     "description": {
-      "de": "Chandragupta Maurya gründet das erste panindische Großreich und eint den Subkontinent — zeitgleich mit Alexanders Nachfolgern im Westen.",
-      "en": "Chandragupta Maurya founds the first pan-Indian empire and unites the subcontinent — contemporaneous with Alexander's successors in the West."
+      "de": "Chandragupta Maurya stürzt die Nanda-Dynastie und gründet in Pataliputra das Maurya-Reich, das erste gesamtindische Großreich.",
+      "en": "Chandragupta Maurya overthrows the Nanda dynasty at Pataliputra, founding the Maurya Empire — India's first pan-subcontinental empire."
     }
   }
 ]

@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "id": "abolition-of-slavery-britain",
+    "coordinates": [
+      -0.12,
+      51.5
+    ],
+    "year": 1833,
+    "type": "political",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Abschaffung der Sklaverei in Großbritannien",
+      "en": "Abolition of Slavery in the British Empire"
+    },
+    "description": {
+      "de": "Das britische Parlament verabschiedete den Slavery Abolition Act, der die Sklaverei im gesamten Britischen Empire abschaffte. Das Gesetz befreite über 800.000 Sklaven in den britischen Kolonien.",
+      "en": "The British Parliament passed the Slavery Abolition Act, abolishing slavery throughout the British Empire. The law freed over 800,000 enslaved people in British colonies."
+    }
+  },
+  {
+    "id": "french-conquest-of-algeria",
+    "coordinates": [
+      3.042,
+      36.752
+    ],
+    "year": 1830,
+    "type": "political",
+    "culturalSphere": [
+      "north-african",
+      "french"
+    ],
+    "labels": {
+      "de": "Französische Eroberung Algeriens",
+      "en": "French Conquest of Algeria"
+    },
+    "description": {
+      "de": "Frankreich beginnt die Invasion Algeriens und beendet drei Jahrhunderte osmanischer Herrschaft. Algerien wird französische Siedlungskolonie — der Beginn des europäischen Kolonialismus im Maghreb.",
+      "en": "France invades Algeria and ends three centuries of Ottoman rule. Algeria becomes a French settler colony — the beginning of European colonialism in the Maghreb."
+    }
+  },
+  {
+    "id": "treaty-of-balta-liman",
+    "coordinates": [
+      29.047,
+      41.065
+    ],
+    "year": 1838,
+    "type": "political",
+    "culturalSphere": [
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Vertrag von Balta Liman",
+      "en": "Treaty of Balta Liman"
+    },
+    "description": {
+      "de": "Das Osmanische Reich und Großbritannien unterzeichnen ein Freihandelsabkommen, das die osmanische Wirtschaft für europäische Importe öffnet und die heimische Industrie schwächt.",
+      "en": "The Ottoman Empire and Britain sign a free trade agreement that opens the Ottoman economy to European imports and weakens domestic industry."
+    }
+  },
+  {
+    "id": "tanzimat-reforms",
+    "coordinates": [
+      28.978,
+      41.008
+    ],
+    "year": 1839,
+    "type": "political",
+    "culturalSphere": [
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Tanzimat-Reformen",
+      "en": "Tanzimat Reforms"
+    },
+    "description": {
+      "de": "Das Hatt-ı Şerif von Gülhane leitet die Tanzimat-Ära ein: Modernisierung des Rechts, Gleichstellung der Religionen und Aufbau einer modernen Bürokratie im Osmanischen Reich.",
+      "en": "The Hatt-i Sharif of Gülhane launches the Tanzimat era: modernization of law, religious equality, and construction of a modern bureaucracy in the Ottoman Empire."
+    }
+  },
+  {
+    "id": "first-opium-war",
+    "coordinates": [
+      113.26,
+      23.13
+    ],
+    "year": 1839,
+    "type": "battle",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Erster Opiumkrieg",
+      "en": "First Opium War"
+    },
+    "description": {
+      "de": "Großbritannien griff China an, nachdem chinesische Behörden Opiumvorräte in Guangzhou beschlagnahmt hatten. Der Krieg endete mit dem Vertrag von Nanjing und der Abtretung Hongkongs.",
+      "en": "Britain attacked China after Chinese authorities confiscated opium stocks in Guangzhou. The war ended with the Treaty of Nanking and the cession of Hong Kong."
+    }
+  },
+  {
+    "id": "trail-of-tears",
+    "coordinates": [
+      -85.31,
+      35.04
+    ],
+    "year": 1838,
+    "type": "political",
+    "culturalSphere": [
+      "north-american"
+    ],
+    "labels": {
+      "de": "Pfad der Tränen",
+      "en": "Trail of Tears"
+    },
+    "description": {
+      "de": "Die US-Regierung vertreibt die Cherokee und andere indigene Völker gewaltsam aus dem Südosten; Tausende sterben auf dem Marsch.",
+      "en": "The US government forcibly removes the Cherokee and other indigenous peoples from the Southeast; thousands die on the march."
+    }
+  },
+  {
+    "id": "first-anglo-afghan-war",
+    "coordinates": [
+      69.17,
+      34.53
+    ],
+    "year": 1839,
+    "type": "battle",
+    "culturalSphere": [
+      "afghan"
+    ],
+    "labels": {
+      "de": "Erster Anglo-Afghanischer Krieg",
+      "en": "First Anglo-Afghan War"
+    },
+    "description": {
+      "de": "Großbritannien marschiert in Afghanistan ein; der Rückzug aus Kabul 1842 endet in einer katastrophalen Niederlage.",
+      "en": "Britain invades Afghanistan; the retreat from Kabul in 1842 ends in a catastrophic defeat."
+    }
+  }
+]

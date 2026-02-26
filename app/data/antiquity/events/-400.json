@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "olmec-decline",
+    "coordinates": [
+      -94.77,
+      17.88
+    ],
+    "year": -400,
+    "type": "political",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Niedergang der Olmeken",
+      "en": "Decline of the Olmec"
+    },
+    "description": {
+      "de": "Die olmekische Zivilisation, Mutter der mesoamerikanischen Kulturen, geht im Gebiet von La Venta unter.",
+      "en": "The Olmec civilization, mother culture of Mesoamerica, declines in the La Venta region."
+    }
+  }
+]

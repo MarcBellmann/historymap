@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "plague-of-athens",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": -430,
+    "type": "natural",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Pest von Athen",
+      "en": "Plague of Athens"
+    },
+    "description": {
+      "de": "Eine verheerende Seuche brach im belagerten Athen aus und tötete bis zu einem Drittel der Bevölkerung, darunter Perikles. Die Epidemie schwächte Athen entscheidend im Peloponnesischen Krieg.",
+      "en": "A devastating plague broke out in besieged Athens, killing up to a third of the population, including Pericles. The epidemic critically weakened Athens during the Peloponnesian War."
+    }
+  }
+]

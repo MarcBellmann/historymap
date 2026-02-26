@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "great-fire-of-london",
+    "coordinates": [
+      -0.08,
+      51.51
+    ],
+    "year": 1666,
+    "type": "natural",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Großer Brand von London",
+      "en": "Great Fire of London"
+    },
+    "description": {
+      "de": "Ein verheerender Brand zerstörte weite Teile der City of London, darunter 13.200 Häuser und 87 Kirchen. Der Wiederaufbau unter Christopher Wren prägte das Stadtbild nachhaltig.",
+      "en": "A devastating fire destroyed much of the City of London, including 13,200 houses and 87 churches. The reconstruction under Christopher Wren permanently shaped the cityscape."
+    }
+  },
+  {
+    "id": "koxinga-captures-taiwan",
+    "coordinates": [
+      120.2,
+      23
+    ],
+    "year": 1662,
+    "type": "battle",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Koxinga erobert Taiwan",
+      "en": "Koxinga Captures Taiwan"
+    },
+    "description": {
+      "de": "Der Ming-Loyalist Zheng Chenggong (Koxinga) vertrieb die Niederländer aus Taiwan und gründete das Königreich Tungning als letzten Ming-Widerstandsstaat.",
+      "en": "Ming loyalist Zheng Chenggong (Koxinga) expelled the Dutch from Taiwan and founded the Kingdom of Tungning as the last Ming resistance state."
+    }
+  }
+]

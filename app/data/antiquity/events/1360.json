@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "red-turban-revolt-ming-founding",
+    "coordinates": [
+      118.8,
+      32.06
+    ],
+    "year": 1368,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Gründung der Ming-Dynastie",
+      "en": "Founding of the Ming Dynasty"
+    },
+    "description": {
+      "de": "Zhu Yuanzhang, ein Anführer der Roten Turbane, stürzte die Yuan-Herrschaft und gründete die Ming-Dynastie mit der Hauptstadt Nanjing. China war wieder unter Han-chinesischer Herrschaft.",
+      "en": "Zhu Yuanzhang, a Red Turban leader, overthrew Yuan rule and founded the Ming dynasty with its capital at Nanjing. China was again under Han Chinese rule."
+    }
+  },
+  {
+    "id": "majapahit-golden-age",
+    "coordinates": [
+      112.75,
+      -7.25
+    ],
+    "year": 1365,
+    "type": "political",
+    "culturalSphere": [
+      "indonesian"
+    ],
+    "labels": {
+      "de": "Majapahit auf dem Höhepunkt",
+      "en": "Majapahit at Its Height"
+    },
+    "description": {
+      "de": "Unter König Hayam Wuruk und Minister Gajah Mada erreichte Majapahit seine größte Ausdehnung und kontrollierte weite Teile des heutigen Indonesiens und darüber hinaus.",
+      "en": "Under King Hayam Wuruk and minister Gajah Mada, Majapahit reached its greatest extent, controlling much of modern Indonesia and beyond."
+    }
+  }
+]

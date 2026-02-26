@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "nalanda-university-founded",
+    "coordinates": [
+      85.44,
+      25.14
+    ],
+    "year": 427,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Gründung der Universität Nalanda",
+      "en": "Nalanda University Founded"
+    },
+    "description": {
+      "de": "Die buddhistische Universität Nalanda wird unter den Guptas gegründet und entwickelt sich zum bedeutendsten Lernzentrum Asiens.",
+      "en": "The Buddhist university of Nalanda is founded under the Guptas, becoming Asia's most important center of learning."
+    }
+  }
+]

@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "peace-of-westphalia",
+    "coordinates": [
+      7.63,
+      51.96
+    ],
+    "year": 1648,
+    "type": "political",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Westfälischer Frieden",
+      "en": "Peace of Westphalia"
+    },
+    "description": {
+      "de": "Die Friedensverträge von Münster und Osnabrück beendeten den Dreißigjährigen Krieg. Der Westfälische Frieden begründete das moderne System souveräner Nationalstaaten.",
+      "en": "The peace treaties of Münster and Osnabrück ended the Thirty Years' War. The Peace of Westphalia established the modern system of sovereign nation-states."
+    }
+  },
+  {
+    "id": "english-civil-war-execution-charles",
+    "coordinates": [
+      -0.13,
+      51.5
+    ],
+    "year": 1649,
+    "type": "political",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Hinrichtung Karls I.",
+      "en": "Execution of Charles I"
+    },
+    "description": {
+      "de": "König Karl I. von England wurde nach dem Bürgerkrieg wegen Hochverrats hingerichtet. Die Hinrichtung eines Monarchen durch sein eigenes Parlament war ein beispielloser Akt in der europäischen Geschichte.",
+      "en": "King Charles I of England was executed for treason after the Civil War. The execution of a monarch by his own parliament was an unprecedented act in European history."
+    }
+  },
+  {
+    "id": "manchu-conquest-beijing",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "year": 1644,
+    "type": "political",
+    "culturalSphere": [
+      "chinese",
+      "manchu"
+    ],
+    "labels": {
+      "de": "Mandschu-Eroberung Pekings – Beginn der Qing-Dynastie",
+      "en": "Manchu Capture of Beijing – Start of Qing Dynasty"
+    },
+    "description": {
+      "de": "Nachdem der letzte Ming-Kaiser Selbstmord beging, öffnete General Wu Sangui die Große Mauer für die Mandschu. Die Qing-Dynastie bestieg den Thron und begann die Eroberung ganz Chinas.",
+      "en": "After the last Ming emperor committed suicide, General Wu Sangui opened the Great Wall to the Manchu. The Qing dynasty took the throne and began conquering all of China."
+    }
+  }
+]

@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "spanish-armada-defeat",
+    "coordinates": [
+      -5.3,
+      50.1
+    ],
+    "year": 1588,
+    "type": "battle",
+    "culturalSphere": [
+      "spanish",
+      "english"
+    ],
+    "labels": {
+      "de": "Niederlage der Spanischen Armada",
+      "en": "Defeat of the Spanish Armada"
+    },
+    "description": {
+      "de": "Die englische Flotte und schwere Stürme vernichteten die Spanische Armada im Ärmelkanal. Die Niederlage beendete Spaniens Traum einer Invasion Englands und markierte den Aufstieg der englischen Seemacht.",
+      "en": "The English fleet and fierce storms destroyed the Spanish Armada in the English Channel. The defeat ended Spain's dream of invading England and marked the rise of English naval power."
+    }
+  },
+  {
+    "id": "akbar-din-i-ilahi",
+    "coordinates": [
+      77.67,
+      27.09
+    ],
+    "year": 1582,
+    "type": "cultural",
+    "culturalSphere": [
+      "mughal"
+    ],
+    "labels": {
+      "de": "Akbar gründet Din-i Ilahi",
+      "en": "Akbar Founds Din-i Ilahi"
+    },
+    "description": {
+      "de": "Mogulkaiser Akbar verkündet in Fatehpur Sikri den Din-i Ilahi, einen synkretistischen Glauben, der Elemente verschiedener Religionen vereint.",
+      "en": "Mughal emperor Akbar proclaims Din-i Ilahi at Fatehpur Sikri, a syncretic faith blending elements of various religions."
+    }
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "cahokia-peak",
+    "coordinates": [
+      -90.06,
+      38.65
+    ],
+    "year": 1100,
+    "type": "cultural",
+    "culturalSphere": [
+      "north-american"
+    ],
+    "labels": {
+      "de": "Cahokia auf dem Höhepunkt",
+      "en": "Cahokia at Its Peak"
+    },
+    "description": {
+      "de": "Cahokia in der Nähe des heutigen St. Louis erreicht mit über 20.000 Einwohnern seinen Höhepunkt als größte Stadt Nordamerikas.",
+      "en": "Cahokia near modern-day St. Louis reaches its peak with over 20,000 inhabitants, the largest city in North America."
+    }
+  }
+]

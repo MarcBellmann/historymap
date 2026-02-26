@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "almohad-empire-rises",
+    "coordinates": [
+      -5.81,
+      31.635
+    ],
+    "year": 1147,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "north-african"
+    ],
+    "labels": {
+      "de": "Aufstieg des Almohadenreiches",
+      "en": "Rise of the Almohad Empire"
+    },
+    "description": {
+      "de": "Die Almohaden stürzen die Almoraviden und vereinen den gesamten Maghreb unter einem strengen monotheistischen Reformprogramm. Höhepunkt der nordafrikanischen Reichsbildung.",
+      "en": "The Almohads overthrow the Almoravids and unite the entire Maghreb under a strict monotheistic reform program. The peak of North African empire-building."
+    }
+  }
+]

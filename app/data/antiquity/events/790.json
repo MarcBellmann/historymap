@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "viking-raid-lindisfarne",
+    "coordinates": [
+      -1.8,
+      55.67
+    ],
+    "year": 793,
+    "type": "battle",
+    "culturalSphere": [
+      "norse"
+    ],
+    "labels": {
+      "de": "Wikingerüberfall auf Lindisfarne",
+      "en": "Viking Raid on Lindisfarne"
+    },
+    "description": {
+      "de": "Wikinger plünderten das Kloster Lindisfarne an der englischen Küste. Der Überfall gilt als Beginn der Wikingerzeit und erschütterte das christliche Europa.",
+      "en": "Vikings raided the monastery of Lindisfarne on the English coast. The attack marks the beginning of the Viking Age and shocked Christian Europe."
+    }
+  },
+  {
+    "id": "heian-period-begins",
+    "coordinates": [
+      135.77,
+      35.01
+    ],
+    "year": 794,
+    "type": "foundation",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Beginn der Heian-Zeit – Kyoto wird Hauptstadt",
+      "en": "Heian Period Begins – Kyoto Becomes Capital"
+    },
+    "description": {
+      "de": "Kaiser Kanmu verlegte die Hauptstadt nach Heian-kyō (Kyoto), das über 1.000 Jahre Sitz des Kaiserhofs blieb. Es begann eine Blütezeit der japanischen Hofkultur.",
+      "en": "Emperor Kanmu moved the capital to Heian-kyō (Kyoto), which remained the seat of the imperial court for over 1,000 years. A golden age of Japanese court culture began."
+    }
+  }
+]

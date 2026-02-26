@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "division-of-roman-empire",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 395,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Teilung des Römischen Reiches",
+      "en": "Division of the Roman Empire"
+    },
+    "description": {
+      "de": "Nach dem Tod von Kaiser Theodosius I. wurde das Römische Reich endgültig in ein West- und ein Ostreich geteilt. Die Teilung wurde zur dauerhaften politischen Realität Europas.",
+      "en": "After the death of Emperor Theodosius I, the Roman Empire was permanently divided into Western and Eastern halves. This division became a lasting political reality of Europe."
+    }
+  }
+]

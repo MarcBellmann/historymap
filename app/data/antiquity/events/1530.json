@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "ottoman-conquest-of-baghdad",
+    "coordinates": [
+      44.366,
+      33.315
+    ],
+    "year": 1534,
+    "type": "political",
+    "culturalSphere": [
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Osmanische Eroberung Bagdads",
+      "en": "Ottoman Conquest of Baghdad"
+    },
+    "description": {
+      "de": "Sultan Süleyman der Prächtige erobert Bagdad von den Safawiden. Der Irak wird für fast 400 Jahre osmanische Provinz.",
+      "en": "Sultan Suleiman the Magnificent captures Baghdad from the Safavids. Iraq becomes an Ottoman province for nearly 400 years."
+    }
+  },
+  {
+    "id": "spanish-conquest-incas",
+    "coordinates": [
+      -78.51,
+      -1.25
+    ],
+    "year": 1533,
+    "type": "battle",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Pizarro erobert das Inka-Reich",
+      "en": "Pizarro Conquers the Inca Empire"
+    },
+    "description": {
+      "de": "Francisco Pizarro lässt den Inka-Herrscher Atahualpa in Cajamarca hinrichten und erobert das Inka-Reich.",
+      "en": "Francisco Pizarro executes the Inca ruler Atahualpa at Cajamarca and conquers the Inca Empire."
+    }
+  }
+]

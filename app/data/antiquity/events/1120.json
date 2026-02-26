@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "jin-conquest-northern-song",
+    "coordinates": [
+      114.31,
+      34.8
+    ],
+    "year": 1127,
+    "type": "battle",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Jingkang-Vorfall – Fall der Nördlichen Song",
+      "en": "Jingkang Incident – Fall of Northern Song"
+    },
+    "description": {
+      "de": "Die Jurchen-Jin eroberten die Song-Hauptstadt Kaifeng und nahmen den Kaiser gefangen. Der Song-Hof floh nach Süden und gründete die Südliche Song-Dynastie in Hangzhou.",
+      "en": "The Jurchen Jin captured the Song capital Kaifeng and took the emperor captive. The Song court fled south and established the Southern Song dynasty in Hangzhou."
+    }
+  }
+]

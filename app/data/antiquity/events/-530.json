@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "persian-conquest-of-egypt",
+    "coordinates": [
+      30.08,
+      30.4
+    ],
+    "year": -525,
+    "type": "political",
+    "culturalSphere": [
+      "persian",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Persische Eroberung Ägyptens",
+      "en": "Persian Conquest of Egypt"
+    },
+    "description": {
+      "de": "Kambyses II. besiegt Pharao Psammetich III. bei Pelusium und erobert Ägypten für das Achämenidenreich. Ägypten wird persische Satrapie.",
+      "en": "Cambyses II defeats Pharaoh Psamtik III at Pelusium and conquers Egypt for the Achaemenid Empire. Egypt becomes a Persian satrapy."
+    }
+  },
+  {
+    "id": "buddha-enlightenment",
+    "coordinates": [
+      84.99,
+      24.7
+    ],
+    "year": -528,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Erleuchtung des Buddha",
+      "en": "Enlightenment of the Buddha"
+    },
+    "description": {
+      "de": "Siddhartha Gautama erlangt unter dem Bodhi-Baum in Bodh Gaya die Erleuchtung und begründet den Buddhismus.",
+      "en": "Siddhartha Gautama attains enlightenment under the Bodhi tree at Bodh Gaya, founding Buddhism."
+    }
+  },
+  {
+    "id": "mahavira-nirvana",
+    "coordinates": [
+      85.52,
+      25.72
+    ],
+    "year": -527,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Mahaviras Nirvana",
+      "en": "Mahavira's Nirvana"
+    },
+    "description": {
+      "de": "Mahavira, der 24. Tirthankara des Jainismus, erreicht in Pawapuri das Nirvana und hinterlässt eine wachsende religiöse Gemeinschaft.",
+      "en": "Mahavira, the 24th Tirthankara of Jainism, attains nirvana at Pawapuri, leaving behind a growing religious community."
+    }
+  }
+]

@@ -1,1 +1,107 @@
-[]
+[
+  {
+    "id": "luther-95-theses",
+    "coordinates": [
+      11.98,
+      51.87
+    ],
+    "year": 1517,
+    "type": "cultural",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Luthers 95 Thesen",
+      "en": "Luther's 95 Theses"
+    },
+    "description": {
+      "de": "Martin Luther veröffentlichte seine 95 Thesen gegen den Ablasshandel in Wittenberg. Der Thesenanschlag gilt als Auslöser der Reformation, die Europa religiös und politisch spaltete.",
+      "en": "Martin Luther published his 95 Theses against the sale of indulgences in Wittenberg. The posting is considered the trigger of the Reformation, which divided Europe religiously and politically."
+    }
+  },
+  {
+    "id": "battle-of-chaldiran",
+    "coordinates": [
+      44.375,
+      39.083
+    ],
+    "year": 1514,
+    "type": "battle",
+    "culturalSphere": [
+      "turkic",
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Schlacht von Tschaldiran",
+      "en": "Battle of Chaldiran"
+    },
+    "description": {
+      "de": "Die Osmanen unter Selim I. besiegen die Safawiden unter Schah Ismail I. bei Tschaldiran. Der Sieg sichert Ostanatolien für die Osmanen und definiert die osmanisch-persische Grenze.",
+      "en": "The Ottomans under Selim I defeat the Safavids under Shah Ismail I at Chaldiran. The victory secures eastern Anatolia for the Ottomans and defines the Ottoman-Persian border."
+    }
+  },
+  {
+    "id": "battle-of-marj-dabiq",
+    "coordinates": [
+      37.082,
+      36.499
+    ],
+    "year": 1516,
+    "type": "battle",
+    "culturalSphere": [
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Schlacht von Mardsch Dabiq",
+      "en": "Battle of Marj Dabiq"
+    },
+    "description": {
+      "de": "Sultan Selim I. besiegt die Mamluken bei Mardsch Dabiq nördlich von Aleppo. Syrien und die Levante fallen an das Osmanische Reich.",
+      "en": "Sultan Selim I defeats the Mamluks at Marj Dabiq north of Aleppo. Syria and the Levant fall to the Ottoman Empire."
+    }
+  },
+  {
+    "id": "battle-of-ridaniya",
+    "coordinates": [
+      31.279,
+      30.079
+    ],
+    "year": 1517,
+    "type": "battle",
+    "culturalSphere": [
+      "turkic",
+      "islamic",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Schlacht von Ridaniyya",
+      "en": "Battle of Ridaniya"
+    },
+    "description": {
+      "de": "Selim I. besiegt die Mamluken bei Ridaniyya vor den Toren Kairos und erobert Ägypten. Das Osmanische Reich wird zur Vormacht der islamischen Welt.",
+      "en": "Selim I defeats the Mamluks at Ridaniya outside Cairo and conquers Egypt. The Ottoman Empire becomes the dominant power of the Islamic world."
+    }
+  },
+  {
+    "id": "portuguese-capture-malacca",
+    "coordinates": [
+      102.25,
+      2.19
+    ],
+    "year": 1511,
+    "type": "battle",
+    "culturalSphere": [
+      "malay"
+    ],
+    "labels": {
+      "de": "Portugiesische Eroberung von Malakka",
+      "en": "Portuguese Capture of Malacca"
+    },
+    "description": {
+      "de": "Afonso de Albuquerque eroberte das Sultanat Malakka und etablierte den ersten europäischen Stützpunkt in Südostasien, was den Beginn des Kolonialismus markierte.",
+      "en": "Afonso de Albuquerque captured the Malacca Sultanate and established the first European base in Southeast Asia, marking the beginning of colonialism."
+    }
+  }
+]

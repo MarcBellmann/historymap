@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "peloponnesian-war-begins",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": -431,
+    "type": "battle",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Beginn des Peloponnesischen Krieges",
+      "en": "Peloponnesian War Begins"
+    },
+    "description": {
+      "de": "Der Krieg zwischen dem Attischen Seebund unter Athen und dem Peloponnesischen Bund unter Sparta begann. Der 27-jährige Konflikt veränderte die griechische Welt grundlegend.",
+      "en": "War broke out between the Delian League under Athens and the Peloponnesian League under Sparta. The 27-year conflict fundamentally transformed the Greek world."
+    }
+  }
+]

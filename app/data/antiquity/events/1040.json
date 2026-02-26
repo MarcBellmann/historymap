@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "invention-of-movable-type",
+    "coordinates": [
+      114.31,
+      34.8
+    ],
+    "year": 1040,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Erfindung des beweglichen Letterndrucks",
+      "en": "Invention of Movable Type Printing"
+    },
+    "description": {
+      "de": "Bi Sheng erfand den Druck mit beweglichen Lettern aus Keramik, über 400 Jahre vor Gutenberg. Diese Erfindung revolutionierte die Verbreitung von Wissen in China.",
+      "en": "Bi Sheng invented printing with movable ceramic type, over 400 years before Gutenberg. This invention revolutionized the spread of knowledge in China."
+    }
+  },
+  {
+    "id": "pagan-kingdom-founded",
+    "coordinates": [
+      94.86,
+      21.17
+    ],
+    "year": 1044,
+    "type": "foundation",
+    "culturalSphere": [
+      "burmese"
+    ],
+    "labels": {
+      "de": "Gründung des Königreichs Bagan",
+      "en": "Founding of the Pagan Kingdom"
+    },
+    "description": {
+      "de": "König Anawrahta vereinigte Myanmar und gründete das Königreich Bagan. Er förderte den Theravada-Buddhismus und ließ Tausende von Tempeln errichten.",
+      "en": "King Anawrahta unified Myanmar and founded the Pagan Kingdom. He promoted Theravada Buddhism and had thousands of temples constructed."
+    }
+  }
+]

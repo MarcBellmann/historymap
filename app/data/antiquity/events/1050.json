@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "great-schism",
+    "coordinates": [
+      28.98,
+      41.01
+    ],
+    "year": 1054,
+    "type": "cultural",
+    "culturalSphere": [
+      "byzantine"
+    ],
+    "labels": {
+      "de": "Großes Schisma",
+      "en": "Great Schism"
+    },
+    "description": {
+      "de": "Die christliche Kirche spaltete sich endgültig in die römisch-katholische und die orthodoxe Kirche. Die Trennung prägte die kulturelle und religiöse Landschaft Europas bis heute.",
+      "en": "The Christian Church permanently split into the Roman Catholic and Orthodox churches. The division shaped Europe's cultural and religious landscape to this day."
+    }
+  },
+  {
+    "id": "seljuk-capture-of-baghdad",
+    "coordinates": [
+      44.366,
+      33.315
+    ],
+    "year": 1055,
+    "type": "political",
+    "culturalSphere": [
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Seldschukische Einnahme Bagdads",
+      "en": "Seljuk Capture of Baghdad"
+    },
+    "description": {
+      "de": "Der Seldschukenführer Tughrul Beg zieht in Bagdad ein und wird vom Abbasiden-Kalifen zum Sultan ernannt. Die türkische Vorherrschaft in der islamischen Welt beginnt.",
+      "en": "Seljuk leader Tughrul Beg enters Baghdad and is named Sultan by the Abbasid Caliph. Turkish dominance in the Islamic world begins."
+    }
+  },
+  {
+    "id": "chichen-itza-decline",
+    "coordinates": [
+      -88.57,
+      20.68
+    ],
+    "year": 1050,
+    "type": "political",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Niedergang von Chichén Itzá",
+      "en": "Decline of Chichén Itzá"
+    },
+    "description": {
+      "de": "Chichén Itzá verliert seine Vorherrschaft auf der Yucatán-Halbinsel; die Maya-Macht verlagert sich nach Mayapán.",
+      "en": "Chichén Itzá loses its dominance over the Yucatán Peninsula; Maya power shifts to Mayapán."
+    }
+  }
+]
