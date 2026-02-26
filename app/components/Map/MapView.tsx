@@ -92,7 +92,6 @@ export function MapView({
 
       <EventLayer
         events={events}
-        currentYear={currentYear}
         onEventClick={(event) => onSelectItem({ type: "event", data: event })}
         lang={lang}
       />

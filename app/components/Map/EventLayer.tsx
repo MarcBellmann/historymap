@@ -1,7 +1,6 @@
-import { useMemo } from "react";
 import { Marker } from "react-map-gl/maplibre";
 import type { HistoricalEvent } from "~/types/history";
-import { filterEventsByYear, getLabel } from "~/lib/dataUtils";
+import { getLabel } from "~/lib/dataUtils";
 
 const EVENT_ICONS: Record<HistoricalEvent["type"], string> = {
   battle: "⚔️",
@@ -13,20 +12,14 @@ const EVENT_ICONS: Record<HistoricalEvent["type"], string> = {
 
 interface EventLayerProps {
   events: HistoricalEvent[];
-  currentYear: number;
   onEventClick: (event: HistoricalEvent) => void;
   lang: string;
 }
 
-export function EventLayer({ events, currentYear, onEventClick, lang }: EventLayerProps) {
-  const filteredEvents = useMemo(
-    () => filterEventsByYear(events, currentYear, 50),
-    [events, currentYear]
-  );
-
+export function EventLayer({ events, onEventClick, lang }: EventLayerProps) {
   return (
     <>
-      {filteredEvents.map((event) => (
+      {events.map((event) => (
         <Marker
           key={event.id}
           longitude={event.coordinates[0]}

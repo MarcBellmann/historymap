@@ -22,7 +22,7 @@ const eventGlob = import.meta.glob<{ default: HistoricalEvent[] }>(
 );
 
 const EMPTY_FC: FeatureCollection = { type: "FeatureCollection", features: [] };
-const EVENT_OFFSETS = [-50, -40, -30, -20, -10, 0, 10, 20, 30, 40, 50];
+const EVENT_OFFSETS = [0];
 
 export const Route = createFileRoute("/")({
   validateSearch: (search: Record<string, unknown>) => {
