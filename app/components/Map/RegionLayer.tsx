@@ -23,8 +23,8 @@ export function RegionLayer({ geojson }: RegionLayerProps) {
     filter: ["!", ["has", "parentId"]] as any,
     paint: {
       "line-color": ["get", "color"] as any,
-      "line-width": 1.5,
-      "line-opacity": 0.6,
+      "line-width": 1,
+      "line-opacity": 0.5,
     },
   };
 
@@ -44,8 +44,8 @@ export function RegionLayer({ geojson }: RegionLayerProps) {
     filter: ["has", "parentId"] as any,
     paint: {
       "line-color": ["get", "color"] as any,
-      "line-width": 0.8,
-      "line-opacity": 0.6,
+      "line-width": 0.5,
+      "line-opacity": 0.4,
     },
   };
 

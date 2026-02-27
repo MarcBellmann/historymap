@@ -28,8 +28,8 @@ function NavBtn({
       className={cn(
         "p-1.5 rounded-lg transition-colors",
         disabled
-          ? "text-stone-600 cursor-not-allowed"
-          : "text-stone-300 hover:bg-stone-700 hover:text-stone-100"
+          ? "text-gray-300 cursor-not-allowed"
+          : "text-gray-500 hover:bg-gray-100 hover:text-gray-900"
       )}
     >
       {children}
@@ -52,7 +52,7 @@ export function TimelineSlider({
   const atEnd = currentYear >= epoch.endYear;
 
   return (
-    <div className="bg-stone-900/90 backdrop-blur-sm border border-stone-700 rounded-xl px-4 py-3 shadow-xl">
+    <div className="bg-white/90 backdrop-blur-sm border border-gray-200 rounded-xl px-4 py-3 shadow-lg">
       <div className="flex items-center gap-2">
 
         {/* Left buttons */}
@@ -67,10 +67,10 @@ export function TimelineSlider({
 
         {/* Centered year + epoch */}
         <div className="flex flex-col items-center flex-1">
-          <span className="text-amber-300 text-lg font-bold tabular-nums leading-tight">
+          <span className="text-gray-900 text-lg font-bold tabular-nums leading-tight">
             {formatYear(currentYear, lang)}
           </span>
-          <span className="text-stone-500 text-xs leading-tight">{epochLabel}</span>
+          <span className="text-gray-400 text-xs leading-tight">{epochLabel}</span>
         </div>
 
         {/* Right buttons */}

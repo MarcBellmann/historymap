@@ -1,13 +1,14 @@
 import { Marker } from "react-map-gl/maplibre";
+import { Swords, Landmark, Scale, Palette, Waves } from "lucide-react";
 import type { HistoricalEvent } from "~/types/history";
 import { getLabel } from "~/lib/dataUtils";
 
-const EVENT_ICONS: Record<HistoricalEvent["type"], string> = {
-  battle: "⚔️",
-  foundation: "🏛️",
-  political: "⚖️",
-  cultural: "🎭",
-  natural: "🌊",
+const EVENT_ICONS: Record<HistoricalEvent["type"], React.ComponentType<{ size?: number; className?: string }>> = {
+  battle: Swords,
+  foundation: Landmark,
+  political: Scale,
+  cultural: Palette,
+  natural: Waves,
 };
 
 interface EventLayerProps {
@@ -19,38 +20,40 @@ interface EventLayerProps {
 export function EventLayer({ events, onEventClick, lang }: EventLayerProps) {
   return (
     <>
-      {events.map((event) => (
-        <Marker
-          key={event.id}
-          longitude={event.coordinates[0]}
-          latitude={event.coordinates[1]}
-          anchor="center"
-          onClick={(e) => {
-            e.originalEvent.stopPropagation();
-            onEventClick(event);
-          }}
-        >
-          <div
-            title={getLabel(event.labels, lang)}
-            style={{
-              cursor: "pointer",
-              width: 28,
-              height: 28,
-              borderRadius: "50%",
-              background: "rgba(255, 245, 225, 0.9)",
-              border: "2px solid #8B4513",
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-              fontSize: 14,
-              boxShadow: "0 2px 4px rgba(0,0,0,0.3)",
-              userSelect: "none",
+      {events.map((event) => {
+        const Icon = EVENT_ICONS[event.type as keyof typeof EVENT_ICONS];
+        return (
+          <Marker
+            key={event.id}
+            longitude={event.coordinates[0]}
+            latitude={event.coordinates[1]}
+            anchor="center"
+            onClick={(e) => {
+              e.originalEvent.stopPropagation();
+              onEventClick(event);
             }}
           >
-            {EVENT_ICONS[event.type as keyof typeof EVENT_ICONS]}
-          </div>
-        </Marker>
-      ))}
+            <div
+              title={getLabel(event.labels, lang)}
+              style={{
+                cursor: "pointer",
+                width: 24,
+                height: 24,
+                borderRadius: "50%",
+                background: "#ffffff",
+                border: "1.5px solid #9ca3af",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                boxShadow: "0 1px 3px rgba(0,0,0,0.1)",
+                userSelect: "none",
+              }}
+            >
+              {Icon && <Icon size={14} className="text-gray-500" />}
+            </div>
+          </Marker>
+        );
+      })}
     </>
   );
 }

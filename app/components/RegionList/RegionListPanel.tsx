@@ -122,9 +122,9 @@ export function RegionListPanel({ lang, onSelectRegion, visible }: RegionListPan
         className={cn(
           "absolute bottom-4 left-4 z-10",
           "flex items-center gap-2 px-3 py-2",
-          "bg-stone-900/95 backdrop-blur-sm border border-stone-700 rounded-lg shadow-lg",
-          "text-stone-300 hover:text-stone-100 text-sm font-medium transition-colors",
-          "hover:bg-stone-800/95"
+          "bg-white/95 backdrop-blur-sm border border-gray-200 rounded-lg shadow-md",
+          "text-gray-500 hover:text-gray-900 text-sm font-medium transition-colors",
+          "hover:bg-gray-50"
         )}
       >
         <List size={16} />
@@ -138,16 +138,16 @@ export function RegionListPanel({ lang, onSelectRegion, visible }: RegionListPan
     <div
       className={cn(
         "absolute bottom-4 left-4 z-20 w-80 max-w-[calc(100vw-2rem)]",
-        "bg-stone-900/95 backdrop-blur-sm border border-stone-700 rounded-xl shadow-2xl",
+        "bg-white/95 backdrop-blur-sm border border-gray-200 rounded-xl shadow-lg",
         "flex flex-col max-h-[60vh]"
       )}
     >
       {/* Header */}
       <div className="flex items-center justify-between px-4 pt-3 pb-2">
-        <h2 className="text-stone-100 font-semibold text-sm">{t("regionList.title")}</h2>
+        <h2 className="text-gray-900 font-semibold text-sm">{t("regionList.title")}</h2>
         <button
           onClick={() => { setIsExpanded(false); setSearchQuery(""); }}
-          className="text-stone-400 hover:text-stone-200 transition-colors"
+          className="text-gray-400 hover:text-gray-600 transition-colors"
         >
           <X size={16} />
         </button>
@@ -156,7 +156,7 @@ export function RegionListPanel({ lang, onSelectRegion, visible }: RegionListPan
       {/* Search */}
       <div className="px-4 pb-2">
         <div className="relative">
-          <Search size={14} className="absolute left-2.5 top-1/2 -translate-y-1/2 text-stone-500" />
+          <Search size={14} className="absolute left-2.5 top-1/2 -translate-y-1/2 text-gray-400" />
           <input
             type="text"
             value={searchQuery}
@@ -164,8 +164,8 @@ export function RegionListPanel({ lang, onSelectRegion, visible }: RegionListPan
             placeholder={t("regionList.search")}
             className={cn(
               "w-full pl-8 pr-3 py-1.5 text-sm rounded-md",
-              "bg-stone-800 border border-stone-600 text-stone-200 placeholder-stone-500",
-              "focus:outline-none focus:border-stone-500"
+              "bg-gray-50 border border-gray-200 text-gray-900 placeholder-gray-400",
+              "focus:outline-none focus:border-gray-300"
             )}
           />
         </div>
@@ -174,7 +174,7 @@ export function RegionListPanel({ lang, onSelectRegion, visible }: RegionListPan
       {/* List */}
       <div className="overflow-y-auto px-2 pb-2 flex-1 min-h-0">
         {totalResults === 0 ? (
-          <p className="text-stone-500 text-sm text-center py-4">{t("regionList.noResults")}</p>
+          <p className="text-gray-400 text-sm text-center py-4">{t("regionList.noResults")}</p>
         ) : (
           <div className="space-y-0.5">
             {/* Grouped regions (parent + children) */}
@@ -186,7 +186,7 @@ export function RegionListPanel({ lang, onSelectRegion, visible }: RegionListPan
                   <div className="flex items-center">
                     <button
                       onClick={() => toggleParent(g.parent.id)}
-                      className="p-1 text-stone-500 hover:text-stone-300 transition-colors shrink-0"
+                      className="p-1 text-gray-400 hover:text-gray-600 transition-colors shrink-0"
                     >
                       <ChevronRight
                         size={14}
@@ -195,16 +195,16 @@ export function RegionListPanel({ lang, onSelectRegion, visible }: RegionListPan
                     </button>
                     <button
                       onClick={() => handleSelect(g.parent)}
-                      className="flex items-center gap-2 flex-1 min-w-0 px-2 py-1.5 rounded-md hover:bg-stone-800 transition-colors text-left"
+                      className="flex items-center gap-2 flex-1 min-w-0 px-2 py-1.5 rounded-md hover:bg-gray-50 transition-colors text-left"
                     >
                       <span
                         className="w-2.5 h-2.5 rounded-full shrink-0"
                         style={{ backgroundColor: g.parent.color }}
                       />
-                      <span className="text-stone-200 text-sm truncate">
+                      <span className="text-gray-700 text-sm truncate">
                         {getLabel(g.parent.labels, lang)}
                       </span>
-                      <span className="text-stone-500 text-xs ml-auto shrink-0">
+                      <span className="text-gray-400 text-xs ml-auto shrink-0">
                         {formatYear(g.parent.peakStartYear ?? g.parent.startYear, lang)}
                       </span>
                     </button>
@@ -217,16 +217,16 @@ export function RegionListPanel({ lang, onSelectRegion, visible }: RegionListPan
                         <button
                           key={child.id}
                           onClick={() => handleSelect(child)}
-                          className="flex items-center gap-2 w-full px-2 py-1 rounded-md hover:bg-stone-800 transition-colors text-left"
+                          className="flex items-center gap-2 w-full px-2 py-1 rounded-md hover:bg-gray-50 transition-colors text-left"
                         >
                           <span
                             className="w-2 h-2 rounded-full shrink-0 opacity-60"
                             style={{ backgroundColor: child.color }}
                           />
-                          <span className="text-stone-300 text-xs truncate">
+                          <span className="text-gray-500 text-xs truncate">
                             {getLabel(child.labels, lang)}
                           </span>
-                          <span className="text-stone-600 text-xs ml-auto shrink-0">
+                          <span className="text-gray-300 text-xs ml-auto shrink-0">
                             {formatYear(child.peakStartYear ?? child.startYear, lang)}
                           </span>
                         </button>
@@ -242,16 +242,16 @@ export function RegionListPanel({ lang, onSelectRegion, visible }: RegionListPan
               <button
                 key={r.id}
                 onClick={() => handleSelect(r)}
-                className="flex items-center gap-2 w-full px-2 py-1.5 rounded-md hover:bg-stone-800 transition-colors text-left ml-5"
+                className="flex items-center gap-2 w-full px-2 py-1.5 rounded-md hover:bg-gray-50 transition-colors text-left ml-5"
               >
                 <span
                   className="w-2.5 h-2.5 rounded-full shrink-0"
                   style={{ backgroundColor: r.color }}
                 />
-                <span className="text-stone-200 text-sm truncate">
+                <span className="text-gray-700 text-sm truncate">
                   {getLabel(r.labels, lang)}
                 </span>
-                <span className="text-stone-500 text-xs ml-auto shrink-0">
+                <span className="text-gray-400 text-xs ml-auto shrink-0">
                   {formatYear(r.peakStartYear ?? r.startYear, lang)}
                 </span>
               </button>
