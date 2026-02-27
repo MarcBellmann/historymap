@@ -4549,5 +4549,1697 @@
       "de": "Hauptstadt des Inka-Reiches und 'Nabel der Welt' in der Quechua-Sprache. Zentrum des größten Reiches des vorkolumbischen Amerika, das sich über 4000 km entlang der Anden erstreckte.",
       "en": "Capital of the Inca Empire and 'Navel of the World' in Quechua. Center of the largest empire of pre-Columbian America, stretching over 4,000 km along the Andes."
     }
+  },
+  {
+    "id": "mexico-city",
+    "coordinates": [
+      -99.1332,
+      19.4326
+    ],
+    "startYear": 1521,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "colonial-spanish",
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Mexiko-Stadt",
+      "en": "Mexico City"
+    },
+    "description": {
+      "de": "Auf den Ruinen von Tenochtitlan errichtet, wurde Mexiko-Stadt zur Hauptstadt des Vizekönigreichs Neuspanien und zur größten Stadt der Neuen Welt.",
+      "en": "Built on the ruins of Tenochtitlan, Mexico City became the capital of the Viceroyalty of New Spain and the largest city in the New World."
+    }
+  },
+  {
+    "id": "santo-domingo",
+    "coordinates": [
+      -69.9312,
+      18.4861
+    ],
+    "startYear": 1498,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-spanish"
+    ],
+    "labels": {
+      "de": "Santo Domingo",
+      "en": "Santo Domingo"
+    },
+    "description": {
+      "de": "Älteste durchgehend besiedelte europäische Gründung in der Neuen Welt und Sitz der ersten Kathedrale, Universität und Festung Amerikas.",
+      "en": "Oldest continuously inhabited European settlement in the New World and seat of the first cathedral, university, and fortress in the Americas."
+    }
+  },
+  {
+    "id": "havana",
+    "coordinates": [
+      -82.3666,
+      23.1136
+    ],
+    "startYear": 1519,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-spanish"
+    ],
+    "labels": {
+      "de": "Havanna",
+      "en": "Havana"
+    },
+    "description": {
+      "de": "Strategischer Hafen und Sammelpunkt der spanischen Silberflotte. Havanna wurde zur wichtigsten Handels- und Militärbasis der Karibik.",
+      "en": "Strategic harbor and assembly point of the Spanish treasure fleet. Havana became the most important trade and military base in the Caribbean."
+    }
+  },
+  {
+    "id": "panama-city",
+    "coordinates": [
+      -79.5167,
+      8.9824
+    ],
+    "startYear": 1519,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-spanish"
+    ],
+    "labels": {
+      "de": "Panama-Stadt",
+      "en": "Panama City"
+    },
+    "description": {
+      "de": "Erste europäische Siedlung an der Pazifikküste Amerikas und Schlüsselstation für den Transport von Silber und Gold zwischen Peru und Spanien.",
+      "en": "First European settlement on the Pacific coast of the Americas and key transit point for silver and gold shipments between Peru and Spain."
+    }
+  },
+  {
+    "id": "lima",
+    "coordinates": [
+      -77.0428,
+      -12.0464
+    ],
+    "startYear": 1535,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "colonial-spanish",
+      "andean"
+    ],
+    "labels": {
+      "de": "Lima",
+      "en": "Lima"
+    },
+    "description": {
+      "de": "Von Francisco Pizarro gegründet, wurde Lima zur Hauptstadt des Vizekönigreichs Peru und zum politischen und wirtschaftlichen Zentrum Südamerikas.",
+      "en": "Founded by Francisco Pizarro, Lima became the capital of the Viceroyalty of Peru and the political and economic center of South America."
+    }
+  },
+  {
+    "id": "quito",
+    "coordinates": [
+      -78.5249,
+      -0.1807
+    ],
+    "startYear": 1534,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-spanish",
+      "andean"
+    ],
+    "labels": {
+      "de": "Quito",
+      "en": "Quito"
+    },
+    "description": {
+      "de": "Auf den Fundamenten einer Inka-Stadt errichtet, wurde Quito ein bedeutendes Zentrum der spanischen Kolonialverwaltung und der Kunst der Quito-Schule.",
+      "en": "Built on the foundations of an Inca city, Quito became a major center of Spanish colonial administration and the renowned Quito School of art."
+    }
+  },
+  {
+    "id": "bogota",
+    "coordinates": [
+      -74.0721,
+      4.711
+    ],
+    "startYear": 1538,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-spanish"
+    ],
+    "labels": {
+      "de": "Bogota",
+      "en": "Bogota"
+    },
+    "description": {
+      "de": "Gegründet im Hochland der Muisca, wurde Bogota zur Hauptstadt des Vizekönigreichs Neugranada und zum Zentrum der Unabhängigkeitsbewegung.",
+      "en": "Founded in the Muisca highlands, Bogota became the capital of the Viceroyalty of New Granada and a center of the independence movement."
+    }
+  },
+  {
+    "id": "cartagena-de-indias",
+    "coordinates": [
+      -75.5144,
+      10.391
+    ],
+    "startYear": 1533,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-spanish"
+    ],
+    "labels": {
+      "de": "Cartagena de Indias",
+      "en": "Cartagena de Indias"
+    },
+    "description": {
+      "de": "Wichtigster befestigter Hafen des spanischen Kolonialreichs in Südamerika und Hauptumschlagplatz für Gold, Silber und den Sklavenhandel.",
+      "en": "Most important fortified port of the Spanish colonial empire in South America and major hub for gold, silver, and the slave trade."
+    }
+  },
+  {
+    "id": "potosi",
+    "coordinates": [
+      -65.7533,
+      -19.5836
+    ],
+    "startYear": 1545,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "colonial-spanish",
+      "andean"
+    ],
+    "labels": {
+      "de": "Potosi",
+      "en": "Potosi"
+    },
+    "description": {
+      "de": "Legendäre Silberstadt am Cerro Rico, zeitweise eine der größten Städte der Welt. Ihr Silber finanzierte das spanische Imperium und veränderte die Weltwirtschaft.",
+      "en": "Legendary silver city at Cerro Rico, at one point among the largest cities in the world. Its silver financed the Spanish Empire and transformed the global economy."
+    }
+  },
+  {
+    "id": "sucre",
+    "coordinates": [
+      -65.2597,
+      -19.0196
+    ],
+    "startYear": 1538,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "colonial-spanish",
+      "andean"
+    ],
+    "labels": {
+      "de": "Sucre",
+      "en": "Sucre"
+    },
+    "description": {
+      "de": "Als La Plata gegründet, diente die Stadt als Sitz der Audiencia de Charcas und wurde später zur konstitutionellen Hauptstadt Boliviens.",
+      "en": "Founded as La Plata, the city served as seat of the Audiencia de Charcas and later became the constitutional capital of Bolivia."
+    }
+  },
+  {
+    "id": "santiago-de-chile",
+    "coordinates": [
+      -70.6693,
+      -33.4489
+    ],
+    "startYear": 1541,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-spanish"
+    ],
+    "labels": {
+      "de": "Santiago de Chile",
+      "en": "Santiago de Chile"
+    },
+    "description": {
+      "de": "Von Pedro de Valdivia im fruchtbaren Zentraltal gegründet, entwickelte sich Santiago zum Verwaltungszentrum der Generalkapitanerie Chile.",
+      "en": "Founded by Pedro de Valdivia in the fertile Central Valley, Santiago developed into the administrative center of the Captaincy General of Chile."
+    }
+  },
+  {
+    "id": "buenos-aires",
+    "coordinates": [
+      -58.3816,
+      -34.6037
+    ],
+    "startYear": 1580,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "colonial-spanish"
+    ],
+    "labels": {
+      "de": "Buenos Aires",
+      "en": "Buenos Aires"
+    },
+    "description": {
+      "de": "Nach einer gescheiterten Gründung 1536 wurde Buenos Aires 1580 dauerhaft besiedelt und stieg zur Hauptstadt des Vizekönigreichs Río de la Plata auf.",
+      "en": "After a failed founding in 1536, Buenos Aires was permanently settled in 1580 and rose to become the capital of the Viceroyalty of the Río de la Plata."
+    }
+  },
+  {
+    "id": "asuncion",
+    "coordinates": [
+      -57.5759,
+      -25.2637
+    ],
+    "startYear": 1537,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "colonial-spanish"
+    ],
+    "labels": {
+      "de": "Asuncion",
+      "en": "Asuncion"
+    },
+    "description": {
+      "de": "Eine der ältesten Siedlungen im Río-de-la-Plata-Gebiet, von der aus zahlreiche weitere Stadtgründungen im südlichen Südamerika ausgingen.",
+      "en": "One of the oldest settlements in the Río de la Plata region, from which numerous other city foundations in southern South America originated."
+    }
+  },
+  {
+    "id": "antigua-guatemala",
+    "coordinates": [
+      -90.729,
+      14.5586
+    ],
+    "startYear": 1543,
+    "endYear": 1773,
+    "importance": 3,
+    "culturalSphere": [
+      "colonial-spanish",
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Antigua Guatemala",
+      "en": "Antigua Guatemala"
+    },
+    "description": {
+      "de": "Über zwei Jahrhunderte Hauptstadt der Generalkapitanerie Guatemala und Zentrum kolonialer Barockarchitektur, bis Erdbeben 1773 zur Verlegung zwangen.",
+      "en": "Capital of the Captaincy General of Guatemala for over two centuries and center of colonial Baroque architecture, until earthquakes in 1773 forced relocation."
+    }
+  },
+  {
+    "id": "zacatecas",
+    "coordinates": [
+      -102.5528,
+      22.7709
+    ],
+    "startYear": 1548,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "colonial-spanish",
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Zacatecas",
+      "en": "Zacatecas"
+    },
+    "description": {
+      "de": "Bedeutende Silberbergbaustadt im kolonialen Neuspanien, deren Reichtum prachtvolle Barockkirchen und die Expansion nach Nordmexiko finanzierte.",
+      "en": "Major silver mining city in colonial New Spain, whose wealth funded magnificent Baroque churches and the expansion into northern Mexico."
+    }
+  },
+  {
+    "id": "guanajuato",
+    "coordinates": [
+      -101.2574,
+      21.019
+    ],
+    "startYear": 1554,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "colonial-spanish",
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Guanajuato",
+      "en": "Guanajuato"
+    },
+    "description": {
+      "de": "Eine der reichsten Silberstädte der Kolonialzeit und Schauplatz der ersten großen Schlacht des mexikanischen Unabhängigkeitskriegs 1810.",
+      "en": "One of the wealthiest silver cities of the colonial era and site of the first major battle of the Mexican War of Independence in 1810."
+    }
+  },
+  {
+    "id": "salvador-da-bahia",
+    "coordinates": [
+      -38.5108,
+      -12.9714
+    ],
+    "startYear": 1549,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-portuguese"
+    ],
+    "labels": {
+      "de": "Salvador da Bahia",
+      "en": "Salvador da Bahia"
+    },
+    "description": {
+      "de": "Erste Hauptstadt Brasiliens und Zentrum des Zuckerhandels sowie des transatlantischen Sklavenhandels. Bis heute Herz der afro-brasilianischen Kultur.",
+      "en": "First capital of Brazil and center of the sugar trade and transatlantic slave trade. Remains the heart of Afro-Brazilian culture to this day."
+    }
+  },
+  {
+    "id": "olinda",
+    "coordinates": [
+      -34.855,
+      -8.0089
+    ],
+    "startYear": 1535,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "colonial-portuguese"
+    ],
+    "labels": {
+      "de": "Olinda",
+      "en": "Olinda"
+    },
+    "description": {
+      "de": "Frühe portugiesische Kolonialstadt in Pernambuco und Zentrum der Zuckerrohrwirtschaft, die zeitweise von den Niederländern besetzt war.",
+      "en": "Early Portuguese colonial town in Pernambuco and center of the sugar economy, temporarily occupied by the Dutch."
+    }
+  },
+  {
+    "id": "rio-de-janeiro",
+    "coordinates": [
+      -43.1729,
+      -22.9068
+    ],
+    "startYear": 1565,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "colonial-portuguese"
+    ],
+    "labels": {
+      "de": "Rio de Janeiro",
+      "en": "Rio de Janeiro"
+    },
+    "description": {
+      "de": "Gegründet zur Verteidigung gegen französische Invasoren, wurde Rio zur Hauptstadt Brasiliens und 1808 sogar zum Sitz des portugiesischen Königshofs.",
+      "en": "Founded to defend against French invaders, Rio became Brazil's capital and in 1808 even the seat of the Portuguese royal court."
+    }
+  },
+  {
+    "id": "sao-paulo",
+    "coordinates": [
+      -46.6334,
+      -23.5505
+    ],
+    "startYear": 1554,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-portuguese"
+    ],
+    "labels": {
+      "de": "Sao Paulo",
+      "en": "Sao Paulo"
+    },
+    "description": {
+      "de": "Von Jesuiten als Missionsstation gegründet, entwickelte sich Sao Paulo zum Ausgangspunkt der Bandeirantes-Expeditionen ins brasilianische Hinterland.",
+      "en": "Founded by Jesuits as a mission station, Sao Paulo became the launching point of Bandeirantes expeditions into the Brazilian interior."
+    }
+  },
+  {
+    "id": "ouro-preto",
+    "coordinates": [
+      -43.5035,
+      -20.3856
+    ],
+    "startYear": 1711,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "colonial-portuguese"
+    ],
+    "labels": {
+      "de": "Ouro Preto",
+      "en": "Ouro Preto"
+    },
+    "description": {
+      "de": "Zentrum des brasilianischen Goldrauschs im 18. Jahrhundert und Hauptstadt der Provinz Minas Gerais mit prachtvoller Barockarchitektur.",
+      "en": "Center of the 18th-century Brazilian gold rush and capital of Minas Gerais province, renowned for its magnificent Baroque architecture."
+    }
+  },
+  {
+    "id": "quebec-city",
+    "coordinates": [
+      -71.2075,
+      46.8139
+    ],
+    "startYear": 1608,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-french",
+      "north-american"
+    ],
+    "labels": {
+      "de": "Quebec",
+      "en": "Quebec City"
+    },
+    "description": {
+      "de": "Von Samuel de Champlain gegründet, war Quebec die Hauptstadt Neufrankreichs und Zentrum des Pelzhandels im nördlichen Nordamerika.",
+      "en": "Founded by Samuel de Champlain, Quebec was the capital of New France and center of the fur trade in northern North America."
+    }
+  },
+  {
+    "id": "montreal",
+    "coordinates": [
+      -73.5673,
+      45.5017
+    ],
+    "startYear": 1642,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-french",
+      "north-american"
+    ],
+    "labels": {
+      "de": "Montreal",
+      "en": "Montreal"
+    },
+    "description": {
+      "de": "Als Ville-Marie gegründet, wurde Montreal zum Knotenpunkt des Pelzhandels und zur größten Stadt Neufrankreichs.",
+      "en": "Founded as Ville-Marie, Montreal became the hub of the fur trade and the largest city in New France."
+    }
+  },
+  {
+    "id": "new-orleans",
+    "coordinates": [
+      -90.0715,
+      29.9511
+    ],
+    "startYear": 1718,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-french",
+      "north-american"
+    ],
+    "labels": {
+      "de": "New Orleans",
+      "en": "New Orleans"
+    },
+    "description": {
+      "de": "Französische Gründung an der Mündung des Mississippi, strategisch bedeutend für den Handel im gesamten Flusssystem. Kultureller Schmelztiegel aus französischen, spanischen und afrikanischen Einflüssen.",
+      "en": "French settlement at the mouth of the Mississippi, strategically vital for trade across the entire river system. A cultural melting pot of French, Spanish, and African influences."
+    }
+  },
+  {
+    "id": "boston",
+    "coordinates": [
+      -71.0589,
+      42.3601
+    ],
+    "startYear": 1630,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-british",
+      "north-american"
+    ],
+    "labels": {
+      "de": "Boston",
+      "en": "Boston"
+    },
+    "description": {
+      "de": "Puritanische Gründung und intellektuelles Zentrum Neuenglands. Schauplatz der Boston Tea Party und Ausgangspunkt der Amerikanischen Revolution.",
+      "en": "Puritan foundation and intellectual center of New England. Site of the Boston Tea Party and cradle of the American Revolution."
+    }
+  },
+  {
+    "id": "new-york",
+    "coordinates": [
+      -74.006,
+      40.7128
+    ],
+    "startYear": 1626,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "colonial-dutch",
+      "colonial-british",
+      "north-american"
+    ],
+    "labels": {
+      "de": "New York",
+      "en": "New York"
+    },
+    "description": {
+      "de": "Als Nieuw Amsterdam von den Niederländern gegründet, 1664 von den Briten übernommen. Entwickelte sich zum größten Hafen und zur Handelsmetropole Nordamerikas.",
+      "en": "Founded as New Amsterdam by the Dutch, taken over by the British in 1664. Grew into North America's largest port and commercial metropolis."
+    }
+  },
+  {
+    "id": "philadelphia",
+    "coordinates": [
+      -75.1652,
+      39.9526
+    ],
+    "startYear": 1682,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "colonial-british",
+      "north-american"
+    ],
+    "labels": {
+      "de": "Philadelphia",
+      "en": "Philadelphia"
+    },
+    "description": {
+      "de": "Von William Penn als Quäkerkolonie gegründet. Hier wurden die Unabhängigkeitserklärung und die Verfassung der Vereinigten Staaten unterzeichnet.",
+      "en": "Founded by William Penn as a Quaker colony. Site where the Declaration of Independence and the United States Constitution were signed."
+    }
+  },
+  {
+    "id": "williamsburg",
+    "coordinates": [
+      -76.7075,
+      37.2707
+    ],
+    "startYear": 1699,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "colonial-british",
+      "north-american"
+    ],
+    "labels": {
+      "de": "Williamsburg",
+      "en": "Williamsburg"
+    },
+    "description": {
+      "de": "Hauptstadt der Kolonie Virginia von 1699 bis 1780 und Zentrum des politischen Lebens im kolonialen Süden.",
+      "en": "Capital of the Colony of Virginia from 1699 to 1780 and center of political life in the colonial South."
+    }
+  },
+  {
+    "id": "charleston",
+    "coordinates": [
+      -79.9311,
+      32.7765
+    ],
+    "startYear": 1670,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "colonial-british",
+      "north-american"
+    ],
+    "labels": {
+      "de": "Charleston",
+      "en": "Charleston"
+    },
+    "description": {
+      "de": "Wichtigster Hafen der südlichen Kolonien und Zentrum des Reisanbaus und des Sklavenhandels in Britisch-Nordamerika.",
+      "en": "Most important port of the southern colonies and center of rice cultivation and the slave trade in British North America."
+    }
+  },
+  {
+    "id": "recife",
+    "coordinates": [
+      -34.8771,
+      -8.0476
+    ],
+    "startYear": 1537,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "colonial-portuguese",
+      "colonial-dutch"
+    ],
+    "labels": {
+      "de": "Recife",
+      "en": "Recife"
+    },
+    "description": {
+      "de": "Hafenstadt in Pernambuco, die unter niederländischer Besatzung (1630-1654) als Mauritsstad zur Hauptstadt von Niederländisch-Brasilien wurde.",
+      "en": "Port city in Pernambuco that became the capital of Dutch Brazil as Mauritsstad under Dutch occupation (1630-1654)."
+    }
+  },
+  {
+    "id": "mua-tongatapu",
+    "coordinates": [
+      -175.31,
+      -21.16
+    ],
+    "startYear": 1100,
+    "endYear": 1800,
+    "importance": 2,
+    "culturalSphere": [
+      "polynesian"
+    ],
+    "labels": {
+      "de": "Mu'a (Tongatapu)",
+      "en": "Mu'a (Tongatapu)"
+    },
+    "description": {
+      "de": "Alte Hauptstadt des Tu'i-Tonga-Reiches mit monumentalen Langi-Grabmälern. Jahrhundertelang politisches und spirituelles Zentrum des tongaischen Seereichs.",
+      "en": "Ancient capital of the Tu'i Tonga Empire with monumental langi burial tombs. For centuries the political and spiritual center of the Tongan maritime empire."
+    }
+  },
+  {
+    "id": "raiatea-taputapuatea",
+    "coordinates": [
+      -151.434,
+      -16.831
+    ],
+    "startYear": 1000,
+    "endYear": 1769,
+    "importance": 2,
+    "culturalSphere": [
+      "polynesian"
+    ],
+    "labels": {
+      "de": "Raiatea (Taputapuatea)",
+      "en": "Raiatea (Taputapuatea)"
+    },
+    "description": {
+      "de": "Heiliges Zentrum der ostpolynesischen Welt mit dem Marae Taputapuatea. Ausgangspunkt organisierter Seefahrten nach Hawaii, Neuseeland und zu den Osterinseln.",
+      "en": "Sacred center of the eastern Polynesian world with the Taputapuatea marae. Launching point of organized voyages to Hawaii, New Zealand, and Easter Island."
+    }
+  },
+  {
+    "id": "kealakekua",
+    "coordinates": [
+      -155.9311,
+      19.4764
+    ],
+    "startYear": 1000,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "polynesian"
+    ],
+    "labels": {
+      "de": "Kealakekua",
+      "en": "Kealakekua"
+    },
+    "description": {
+      "de": "Wichtiges politisches und religiöses Zentrum des alten Hawaii mit dem Hikiau-Heiau-Tempel. Ort des ersten europäischen Kontakts durch Captain Cook 1779.",
+      "en": "Important political and religious center of ancient Hawaii with the Hikiau heiau temple. Site of first European contact by Captain Cook in 1779."
+    }
+  },
+  {
+    "id": "apia-samoa",
+    "coordinates": [
+      -171.7514,
+      -13.8333
+    ],
+    "startYear": 1200,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "polynesian"
+    ],
+    "labels": {
+      "de": "Apia (Samoa)",
+      "en": "Apia (Samoa)"
+    },
+    "description": {
+      "de": "Zentrum der samoanischen Kultur und späterer Hauptort des deutschen, dann neuseeländischen Samoa-Mandats.",
+      "en": "Center of Samoan culture and later principal town of German, then New Zealand-mandated Samoa."
+    }
+  },
+  {
+    "id": "easter-island-orongo",
+    "coordinates": [
+      -109.4425,
+      -27.1127
+    ],
+    "startYear": 800,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "polynesian"
+    ],
+    "labels": {
+      "de": "Osterinsel (Orongo)",
+      "en": "Easter Island (Orongo)"
+    },
+    "description": {
+      "de": "Abgelegenste besiedelte Insel der Welt, berühmt für die monumentalen Moai-Statuen. Orongo war das zeremonielle Zentrum des Vogelmannkults.",
+      "en": "Most remote inhabited island in the world, famous for the monumental Moai statues. Orongo was the ceremonial center of the Birdman cult."
+    }
+  },
+  {
+    "id": "ujjain",
+    "coordinates": [
+      75.7885,
+      23.1765
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Ujjain (Avanti)",
+      "en": "Ujjain (Avanti)"
+    },
+    "description": {
+      "de": "Hauptstadt des alten Koenigreichs Avanti und eines der heiligsten Hindu-Pilgerzentren. Als Referenzpunkt fuer den indischen Nullmeridian war es ueber Jahrhunderte ein Zentrum der Astronomie und Mathematik.",
+      "en": "Capital of the ancient kingdom of Avanti and one of the holiest Hindu pilgrimage centers. As the reference point for the Indian prime meridian, it was a center of astronomy and mathematics for centuries."
+    }
+  },
+  {
+    "id": "mathura",
+    "coordinates": [
+      77.6737,
+      27.4924
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Mathura",
+      "en": "Mathura"
+    },
+    "description": {
+      "de": "Heilige Stadt des Hinduismus als Geburtsort Krishnas und Hauptstadt des alten Koenigreichs Surasena. Bedeutendes Zentrum der Gandhara- und Mathura-Kunstschulen mit weitreichendem Einfluss auf die sueasiatische Skulptur.",
+      "en": "Sacred Hindu city as the birthplace of Krishna and capital of the ancient kingdom of Surasena. A major center of the Gandhara and Mathura schools of art with far-reaching influence on South Asian sculpture."
+    }
+  },
+  {
+    "id": "bodh-gaya",
+    "coordinates": [
+      84.9869,
+      24.6952
+    ],
+    "startYear": -528,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Bodh Gaya",
+      "en": "Bodh Gaya"
+    },
+    "description": {
+      "de": "Heiligster Ort des Buddhismus, an dem Siddhartha Gautama unter dem Bodhi-Baum die Erleuchtung erlangte. Der Mahabodhi-Tempel ist seit der Maurya-Zeit ein Pilgerzentrum und UNESCO-Weltkulturerbe.",
+      "en": "Holiest site of Buddhism, where Siddhartha Gautama attained enlightenment under the Bodhi Tree. The Mahabodhi Temple has been a pilgrimage center since the Maurya period and is a UNESCO World Heritage Site."
+    }
+  },
+  {
+    "id": "somnath",
+    "coordinates": [
+      70.4012,
+      20.888
+    ],
+    "startYear": 800,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Somnath",
+      "en": "Somnath"
+    },
+    "description": {
+      "de": "Heiliger Hindu-Pilgerort mit dem ersten der zwoelf Jyotirlinga-Schreine Shivas. Der Tempel wurde mehrfach zerstoert und wiederaufgebaut, beruehmt durch den Ueberfall Mahmud von Ghaznis im Jahr 1026.",
+      "en": "Sacred Hindu pilgrimage site housing the first of the twelve Jyotirlinga shrines of Shiva. The temple was destroyed and rebuilt multiple times, most famously raided by Mahmud of Ghazni in 1026."
+    }
+  },
+  {
+    "id": "ahmedabad",
+    "coordinates": [
+      72.5714,
+      23.0225
+    ],
+    "startYear": 1411,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "mughal"
+    ],
+    "labels": {
+      "de": "Ahmedabad",
+      "en": "Ahmedabad"
+    },
+    "description": {
+      "de": "Gegruendet 1411 von Sultan Ahmad Shah I. als Hauptstadt des Gujarat-Sultanats. Entwickelte sich zu einer der bedeutendsten Handels- und Textilstaedte Indiens. Die historische Altstadt ist UNESCO-Weltkulturerbe.",
+      "en": "Founded in 1411 by Sultan Ahmad Shah I as the capital of the Gujarat Sultanate. Grew into one of India's most important trade and textile cities. The historic old city is a UNESCO World Heritage Site."
+    }
+  },
+  {
+    "id": "chandernagore",
+    "coordinates": [
+      88.3628,
+      22.8671
+    ],
+    "startYear": 1673,
+    "endYear": 1950,
+    "importance": 3,
+    "culturalSphere": [
+      "indian",
+      "bengali"
+    ],
+    "labels": {
+      "de": "Chandernagore",
+      "en": "Chandernagore"
+    },
+    "description": {
+      "de": "Franzoesische Kolonie in Bengalen am Westufer des Hugli-Flusses, 1673 gegruendet. Eine der fuenf franzoesischen Niederlassungen in Indien, erst 1950 durch Volksabstimmung an Indien angeschlossen.",
+      "en": "French colony in Bengal on the western bank of the Hooghly River, founded in 1673. One of the five French settlements in India, it was incorporated into India by referendum only in 1950."
+    }
+  },
+  {
+    "id": "pondicherry",
+    "coordinates": [
+      79.8083,
+      11.9416
+    ],
+    "startYear": 1674,
+    "endYear": 1954,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "dravidian"
+    ],
+    "labels": {
+      "de": "Pondicherry (Puducherry)",
+      "en": "Pondicherry (Puducherry)"
+    },
+    "description": {
+      "de": "Hauptstadt von Franzoesisch-Indien ab 1674 und wichtigster Stuetzpunkt der Franzoesischen Ostindien-Kompanie. Zentrum franzoesisch-indischer Rivalitaet mit den Briten, bis 1954 franzoesisch verwaltet.",
+      "en": "Capital of French India from 1674 and the main base of the French East India Company. Center of Franco-British rivalry in India, administered by France until 1954."
+    }
+  },
+  {
+    "id": "cochin",
+    "coordinates": [
+      76.2673,
+      9.9312
+    ],
+    "startYear": 1500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "dravidian"
+    ],
+    "labels": {
+      "de": "Cochin (Kochi)",
+      "en": "Cochin (Kochi)"
+    },
+    "description": {
+      "de": "Bedeutender Gewuerzhafen an der Malabarkueste und Sitz der ersten europaeischen Kolonialmacht in Indien. 1503 errichteten die Portugiesen hier Fort Emmanuel — es folgten Niederlaender und Briten.",
+      "en": "Major spice port on the Malabar Coast and seat of the first European colonial power in India. The Portuguese built Fort Emmanuel here in 1503, followed by the Dutch and British."
+    }
+  },
+  {
+    "id": "seringapatam",
+    "coordinates": [
+      76.6946,
+      12.4181
+    ],
+    "startYear": 1610,
+    "endYear": 1799,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "dravidian"
+    ],
+    "labels": {
+      "de": "Seringapatam (Srirangapatna)",
+      "en": "Seringapatam (Srirangapatna)"
+    },
+    "description": {
+      "de": "Inselhauptstadt Hyder Alis und Tipu Sultans, der von hier aus als 'Tiger von Mysore' erbitterten Widerstand gegen die britische Expansion leistete. 1799 in der vierten Schlacht von Seringapatam gefallen.",
+      "en": "Island capital of Hyder Ali and Tipu Sultan, who from here as the 'Tiger of Mysore' fiercely resisted British expansion. Fell in the Fourth Battle of Seringapatam in 1799."
+    }
+  },
+  {
+    "id": "peshawar",
+    "coordinates": [
+      71.5249,
+      34.0151
+    ],
+    "startYear": -539,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "afghan"
+    ],
+    "labels": {
+      "de": "Peshawar",
+      "en": "Peshawar"
+    },
+    "description": {
+      "de": "Eine der aeltesten durchgehend bewohnten Staedte Suedasiens und Hauptstadt Gandharas unter den Kushan. Strategischer Knotenpunkt am Khyber-Pass zwischen Zentralasien und dem indischen Subkontinent.",
+      "en": "One of the oldest continuously inhabited cities in South Asia and capital of Gandhara under the Kushans. Strategic hub at the Khyber Pass between Central Asia and the Indian subcontinent."
+    }
+  },
+  {
+    "id": "murshidabad",
+    "coordinates": [
+      88.2724,
+      24.1813
+    ],
+    "startYear": 1704,
+    "endYear": 1793,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "bengali",
+      "mughal"
+    ],
+    "labels": {
+      "de": "Murshidabad",
+      "en": "Murshidabad"
+    },
+    "description": {
+      "de": "Hauptstadt der Provinz Bengalen unter den Moguln und Sitz der Nawabs von Bengalen. Zentrum des Seidenhandels und Schauplatz der Schlacht von Plassey (1757), die den britischen Aufstieg in Indien einleitete.",
+      "en": "Capital of Bengal province under the Mughals and seat of the Nawabs of Bengal. Center of silk trade and site near the Battle of Plassey (1757), which launched British ascendancy in India."
+    }
+  },
+  {
+    "id": "arcot",
+    "coordinates": [
+      79.32,
+      12.907
+    ],
+    "startYear": 1692,
+    "endYear": 1801,
+    "importance": 3,
+    "culturalSphere": [
+      "indian",
+      "dravidian",
+      "mughal"
+    ],
+    "labels": {
+      "de": "Arcot",
+      "en": "Arcot"
+    },
+    "description": {
+      "de": "Sitz der Nawabs von Carnatic und Schauplatz der beruehmten Belagerung durch Robert Clive (1751), die den britischen Einfluss in Suedindien begruendete.",
+      "en": "Seat of the Nawabs of the Carnatic and site of the famous siege by Robert Clive (1751), which established British influence in South India."
+    }
+  },
+  {
+    "id": "kandy",
+    "coordinates": [
+      80.635,
+      7.2906
+    ],
+    "startYear": 1469,
+    "endYear": 1818,
+    "importance": 2,
+    "culturalSphere": [
+      "sri-lankan"
+    ],
+    "labels": {
+      "de": "Kandy",
+      "en": "Kandy"
+    },
+    "description": {
+      "de": "Letzte Hauptstadt der singhalesischen Monarchie (1469-1818) und Hueter der heiligen Zahnreliquie Buddhas. Widerstand jahrhundertelang portugiesischen, niederlaendischen und britischen Kolonialtruppen. UNESCO-Weltkulturerbe.",
+      "en": "Last capital of the Sinhalese monarchy (1469-1818) and guardian of the sacred Tooth Relic of the Buddha. Resisted Portuguese, Dutch, and British colonial forces for centuries. A UNESCO World Heritage Site."
+    }
+  },
+  {
+    "id": "kathmandu",
+    "coordinates": [
+      85.324,
+      27.7172
+    ],
+    "startYear": 200,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "nepalese"
+    ],
+    "labels": {
+      "de": "Kathmandu",
+      "en": "Kathmandu"
+    },
+    "description": {
+      "de": "Hauptstadt Nepals und kulturelles Zentrum des Kathmandu-Tals mit einer Geschichte bis ins 2. Jh. n. Chr. Beruehmte Newar-Architektur, Durbar-Platz und zahlreiche hinduistische und buddhistische Heiligtümer — UNESCO-Weltkulturerbe.",
+      "en": "Capital of Nepal and cultural center of the Kathmandu Valley with a history dating to the 2nd century AD. Famous for Newar architecture, Durbar Square, and numerous Hindu and Buddhist shrines — a UNESCO World Heritage Site."
+    }
+  },
+  {
+    "id": "lumbini",
+    "coordinates": [
+      83.2763,
+      27.4686
+    ],
+    "startYear": -563,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "nepalese",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Lumbini",
+      "en": "Lumbini"
+    },
+    "description": {
+      "de": "Geburtsort Siddhartha Gautamas (des historischen Buddha) im heutigen Nepal. Heiligste Geburtsstelle des Buddhismus mit der Ashoka-Saeule aus dem 3. Jh. v. Chr. — UNESCO-Weltkulturerbe.",
+      "en": "Birthplace of Siddhartha Gautama (the historical Buddha) in present-day Nepal. Holiest birth site in Buddhism with the Ashoka Pillar from the 3rd century BC — a UNESCO World Heritage Site."
+    }
+  },
+  {
+    "id": "bhaktapur",
+    "coordinates": [
+      85.4279,
+      27.671
+    ],
+    "startYear": 1200,
+    "endYear": 1769,
+    "importance": 3,
+    "culturalSphere": [
+      "nepalese"
+    ],
+    "labels": {
+      "de": "Bhaktapur",
+      "en": "Bhaktapur"
+    },
+    "description": {
+      "de": "Ehemalige Hauptstadt des Malla-Koenigreichs im Kathmandu-Tal und 'Stadt der Frommen'. Beruehmt fuer ihre gut erhaltene mittelalterliche Newar-Architektur — UNESCO-Weltkulturerbe seit 1979.",
+      "en": "Former capital of the Malla Kingdom in the Kathmandu Valley and 'City of Devotees.' Famous for its well-preserved medieval Newar architecture — a UNESCO World Heritage Site since 1979."
+    }
+  },
+  {
+    "id": "kashgar",
+    "coordinates": [
+      75.9893,
+      39.4677
+    ],
+    "startYear": -200,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Kaschgar",
+      "en": "Kashgar"
+    },
+    "description": {
+      "de": "Strategisch wichtige Oasenstadt an der westlichen Seidenstraße, seit über 2000 Jahren Kreuzungspunkt chinesischer, türkischer und persischer Kulturen im Tarimbecken.",
+      "en": "Strategically vital oasis city on the western Silk Road, a crossroads of Chinese, Turkic, and Persian cultures in the Tarim Basin for over 2,000 years."
+    }
+  },
+  {
+    "id": "khotan",
+    "coordinates": [
+      79.927,
+      37.112
+    ],
+    "startYear": -200,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Hotan",
+      "en": "Khotan"
+    },
+    "description": {
+      "de": "Wichtige Oasenstadt an der südlichen Seidenstraße, berühmt für Jade und als buddhistisches Zentrum am Rand der Taklamakan-Wüste.",
+      "en": "Major oasis city on the southern Silk Road, renowned for jade and as a Buddhist center on the edge of the Taklamakan Desert."
+    }
+  },
+  {
+    "id": "tashkent",
+    "coordinates": [
+      69.2401,
+      41.2995
+    ],
+    "startYear": -200,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Taschkent",
+      "en": "Tashkent"
+    },
+    "description": {
+      "de": "Antikes Chach — seit über 2200 Jahren besiedelter Knotenpunkt der Seidenstraße. Vor der islamischen Ära von sogdischer und türkischer Kultur geprägt, später wichtiges islamisches Zentrum.",
+      "en": "Ancient Chach — a Silk Road hub settled for over 2,200 years. Shaped by Sogdian and Turkic culture before the Islamic era, later a major Islamic center."
+    }
+  },
+  {
+    "id": "khiva",
+    "coordinates": [
+      60.6336,
+      41.3775
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Chiwa",
+      "en": "Khiva"
+    },
+    "description": {
+      "de": "Rund 2500 Jahre alte Stadt und ehemalige Hauptstadt Choresmiens. Bedeutendes Zentrum islamischer Gelehrsamkeit, Heimat des Universalgelehrten al-Biruni.",
+      "en": "Approximately 2,500-year-old city and former capital of Khwarezmia. Major center of Islamic scholarship, home of the polymath al-Biruni."
+    }
+  },
+  {
+    "id": "almaty",
+    "coordinates": [
+      76.9286,
+      43.222
+    ],
+    "startYear": 700,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "central-asian",
+      "turkic"
+    ],
+    "labels": {
+      "de": "Almaty",
+      "en": "Almaty"
+    },
+    "description": {
+      "de": "Mittelalterliche Siedlung Almatu am Fuße des Tian-Shan-Gebirges an der Seidenstraße zwischen dem Siebenstromland und dem Tarimbecken.",
+      "en": "Medieval settlement of Almatu at the foot of the Tian Shan mountains, on the Silk Road between Zhetysu (Seven Rivers) and the Tarim Basin."
+    }
+  },
+  {
+    "id": "termez",
+    "coordinates": [
+      67.2783,
+      37.2242
+    ],
+    "startYear": -300,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Termez",
+      "en": "Termez"
+    },
+    "description": {
+      "de": "Von Alexander dem Großen als Alexandria am Oxus gegründet. Bedeutendes buddhistisches Zentrum vor der islamischen Ära, Kreuzungspunkt zwischen Zentralasien und Indien.",
+      "en": "Founded by Alexander the Great as Alexandria on the Oxus. Major Buddhist center before the Islamic era, a crossroads between Central Asia and India."
+    }
+  },
+  {
+    "id": "nishapur",
+    "coordinates": [
+      58.7961,
+      36.2132
+    ],
+    "startYear": 250,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Nischapur",
+      "en": "Nishapur"
+    },
+    "description": {
+      "de": "Von Schapur I. gegründete Hauptstadt Khorasans — eine der vier großen Städte der östlichen islamischen Welt. Heimat von Omar Chayyam und Attar. 1221 von den Mongolen zerstört.",
+      "en": "Founded by Shapur I as capital of Khorasan — one of the four great cities of the eastern Islamic world. Home of Omar Khayyam and Attar. Destroyed by the Mongols in 1221."
+    }
+  },
+  {
+    "id": "kabul",
+    "coordinates": [
+      69.1723,
+      34.5553
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "central-asian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Kabul",
+      "en": "Kabul"
+    },
+    "description": {
+      "de": "Über 3500 Jahre alte Stadt am Hindukusch, auf halbem Weg zwischen Istanbul und Hanoi. Kreuzungspunkt der Seidenstraße, beherrscht von Achämeniden, Kuschana, Moguln und vielen anderen.",
+      "en": "Over 3,500-year-old city in the Hindu Kush, midway between Istanbul and Hanoi. Silk Road crossroads ruled by Achaemenids, Kushans, Mughals, and many others."
+    }
+  },
+  {
+    "id": "kokand",
+    "coordinates": [
+      70.9429,
+      40.5283
+    ],
+    "startYear": 500,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "central-asian",
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Kokand",
+      "en": "Kokand"
+    },
+    "description": {
+      "de": "Handelsstadt am Eingang zum Ferghanatal, Kreuzungspunkt zweier Hauptrouten der Seidenstraße. Spätere Hauptstadt des Khanats von Kokand.",
+      "en": "Trading city at the entrance to the Ferghana Valley, junction of two main Silk Road routes. Later capital of the Khanate of Kokand."
+    }
+  },
+  {
+    "id": "turpan",
+    "coordinates": [
+      89.1895,
+      42.9513
+    ],
+    "startYear": -200,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "chinese",
+      "turkic"
+    ],
+    "labels": {
+      "de": "Turpan",
+      "en": "Turpan"
+    },
+    "description": {
+      "de": "Oasenstadt an der nördlichen Seidenstraße im Tarimbecken. Sitz des Königreichs Gaochang und der Ruinen von Jiaohe, einem Knotenpunkt zwischen China und dem Westen.",
+      "en": "Oasis city on the northern Silk Road in the Tarim Basin. Seat of the Gaochang kingdom and the ruins of Yar-Khoto, a node linking China and the West."
+    }
+  },
+  {
+    "id": "bam",
+    "coordinates": [
+      58.3569,
+      29.106
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Bam",
+      "en": "Bam"
+    },
+    "description": {
+      "de": "Antike Festungsstadt in der Provinz Kerman mit der größten Lehmziegelzitadelle der Welt. Seit der Achämenidenzeit ein Knotenpunkt der Seidenstraße, bekannt für Seide und Baumwolle.",
+      "en": "Ancient fortress city in Kerman province with the world's largest adobe citadel. A Silk Road junction since Achaemenid times, known for silk and cotton production."
+    }
+  },
+  {
+    "id": "aqaba",
+    "coordinates": [
+      35.0078,
+      29.5267
+    ],
+    "startYear": -800,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "islamic"
+    ],
+    "labels": {
+      "de": "Akaba",
+      "en": "Aqaba"
+    },
+    "description": {
+      "de": "Antike Hafenstadt am Roten Meer (biblisches Elath), seit der Kupferzeit ein Handelsknoten. Unter byzantinischer, islamischer und kreuzfahrerzeitlicher Herrschaft.",
+      "en": "Ancient port at the head of the Red Sea (biblical Elath), a trade node since the Chalcolithic period. Under Byzantine, Islamic, and Crusader rule."
+    }
+  },
+  {
+    "id": "berbera",
+    "coordinates": [
+      45.0369,
+      10.4396
+    ],
+    "startYear": -100,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "east-african",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Berbera",
+      "en": "Berbera"
+    },
+    "description": {
+      "de": "Antiker Handelshafen am Golf von Aden, erwähnt im Periplus des Erythräischen Meeres. Wichtiger Hafen des Sultanats Adal und des britischen Somalilands.",
+      "en": "Ancient trading port on the Gulf of Aden, mentioned in the Periplus of the Erythraean Sea. Major port of the Adal Sultanate and British Somaliland."
+    }
+  },
+  {
+    "id": "zeila",
+    "coordinates": [
+      43.48,
+      11.353
+    ],
+    "startYear": -100,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "east-african",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Zeila",
+      "en": "Zeila"
+    },
+    "description": {
+      "de": "Historische Hafenstadt am Horn von Afrika, möglicherweise das antike Avalites. Frühes islamisches Zentrum und Hauptstadt des Sultanats Adal im 13. Jahrhundert.",
+      "en": "Historic port city on the Horn of Africa, possibly ancient Avalites. Early Islamic center and capital of the Adal Sultanate in the 13th century."
+    }
+  },
+  {
+    "id": "taraz",
+    "coordinates": [
+      71.3667,
+      42.9
+    ],
+    "startYear": -100,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "central-asian",
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Taras",
+      "en": "Taraz"
+    },
+    "description": {
+      "de": "Antike Stadt am Fluss Talas an der Seidenstraße, Schauplatz der Schlacht am Talas (751), die die islamische Expansion nach Zentralasien markierte.",
+      "en": "Ancient city on the Talas River along the Silk Road, site of the Battle of Talas (751) which marked the Islamic expansion into Central Asia."
+    }
+  },
+  {
+    "id": "sohar",
+    "coordinates": [
+      56.7256,
+      24.3461
+    ],
+    "startYear": -300,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "islamic",
+      "persian"
+    ],
+    "labels": {
+      "de": "Sohar",
+      "en": "Sohar"
+    },
+    "description": {
+      "de": "Alte Hafenstadt am Golf von Oman, der Legende nach Heimat Sindbads des Seefahrers. Bedeutender Handelshafen zwischen Persischem Golf und Indischem Ozean.",
+      "en": "Ancient port city on the Gulf of Oman, legendarily the home of Sinbad the Sailor. Major trading port between the Persian Gulf and the Indian Ocean."
+    }
+  },
+  {
+    "id": "rangoon",
+    "coordinates": [
+      96.1951,
+      16.8661
+    ],
+    "startYear": 1755,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "burmese"
+    ],
+    "labels": {
+      "de": "Rangun",
+      "en": "Rangoon"
+    },
+    "description": {
+      "de": "1755 von König Alaungpaya als Hafenstadt gegründet. Unter britischer Herrschaft ab 1852 zur Hauptstadt Britisch-Birmas ausgebaut und wichtigster Hafen Südostasiens für den Reisexport.",
+      "en": "Founded as a port city by King Alaungpaya in 1755. Developed into the capital of British Burma from 1852 and became Southeast Asia's most important port for rice exports."
+    }
+  },
+  {
+    "id": "banda-aceh",
+    "coordinates": [
+      95.3175,
+      5.5483
+    ],
+    "startYear": 1496,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "malay"
+    ],
+    "labels": {
+      "de": "Banda Aceh",
+      "en": "Banda Aceh"
+    },
+    "description": {
+      "de": "Hauptstadt des Sultanats Aceh, einer der mächtigsten Seemächte Südostasiens im 16.–17. Jh. Kontrollierte den Handel durch die Straße von Malakka und war ein bedeutendes Zentrum islamischer Gelehrsamkeit.",
+      "en": "Capital of the Sultanate of Aceh, one of the most powerful maritime states in Southeast Asia in the 16th-17th centuries. Controlled trade through the Strait of Malacca and was a major center of Islamic scholarship."
+    }
+  },
+  {
+    "id": "brunei-city",
+    "coordinates": [
+      114.948,
+      4.9431
+    ],
+    "startYear": 1368,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "malay"
+    ],
+    "labels": {
+      "de": "Brunei",
+      "en": "Brunei"
+    },
+    "description": {
+      "de": "Hauptstadt des Sultanats Brunei, das auf seinem Höhepunkt unter Sultan Bolkiah (1485–1528) weite Teile Borneos und die Sulu-Inseln kontrollierte. Wichtiger Handelsplatz am Südchinesischen Meer.",
+      "en": "Capital of the Sultanate of Brunei, which at its peak under Sultan Bolkiah (1485-1528) controlled much of Borneo and the Sulu Islands. Important trading center on the South China Sea."
+    }
+  },
+  {
+    "id": "makassar",
+    "coordinates": [
+      119.4327,
+      -5.1477
+    ],
+    "startYear": 1511,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indonesian"
+    ],
+    "labels": {
+      "de": "Makassar",
+      "en": "Makassar"
+    },
+    "description": {
+      "de": "Hauptstadt des Sultanats Gowa-Tallo auf Sulawesi und bedeutender Gewürzhandelshafen. Nach dem Fall Malakkas an die Portugiesen 1511 stieg Makassar zum wichtigsten freien Handelshafen Ostindonesiens auf.",
+      "en": "Capital of the Sultanate of Gowa-Tallo on Sulawesi and major spice trading port. After Malacca fell to the Portuguese in 1511, Makassar rose to become the most important free trading port in eastern Indonesia."
+    }
+  },
+  {
+    "id": "surabaya",
+    "coordinates": [
+      112.7521,
+      -7.2575
+    ],
+    "startYear": 1293,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indonesian"
+    ],
+    "labels": {
+      "de": "Surabaya",
+      "en": "Surabaya"
+    },
+    "description": {
+      "de": "Hafenstadt in Ostjava, die seit dem Majapahit-Reich im 13. Jh. ein wichtiger Handelsplatz war. Entwickelte sich zum größten Hafen der niederländischen Ostindien und zweitgrößten Stadt Indonesiens.",
+      "en": "Port city in East Java that has been an important trading center since the Majapahit Empire in the 13th century. Grew into the largest port of the Dutch East Indies and Indonesia's second-largest city."
+    }
+  },
+  {
+    "id": "lamu",
+    "coordinates": [
+      40.9018,
+      -2.2717
+    ],
+    "startYear": 1000,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "swahili",
+      "east-african"
+    ],
+    "labels": {
+      "de": "Lamu",
+      "en": "Lamu"
+    },
+    "description": {
+      "de": "Eine der ältesten und besterhaltenen Swahili-Siedlungen an der ostafrikanischen Küste. Blühte als Handels- und Kulturzentrum auf und ist heute UNESCO-Weltkulturerbe.",
+      "en": "One of the oldest and best-preserved Swahili settlements on the East African coast. Flourished as a center of trade and culture and is now a UNESCO World Heritage Site."
+    }
+  },
+  {
+    "id": "massawa",
+    "coordinates": [
+      39.4742,
+      15.6069
+    ],
+    "startYear": 700,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "ethiopian",
+      "east-african"
+    ],
+    "labels": {
+      "de": "Massawa",
+      "en": "Massawa"
+    },
+    "description": {
+      "de": "Historischer Hafen am Roten Meer, der seit dem aksumitischen Reich als Tor zum äthiopischen Hochland diente. Wurde nacheinander vom Dahlak-Sultanat, dem Osmanischen Reich und Ägypten beherrscht.",
+      "en": "Historic Red Sea port that served as the gateway to the Ethiopian highlands since the Aksumite Empire. Successively ruled by the Dahlak Sultanate, the Ottoman Empire, and Egypt."
+    }
+  },
+  {
+    "id": "ngazargamu",
+    "coordinates": [
+      11.8833,
+      12.8833
+    ],
+    "startYear": 1470,
+    "endYear": 1808,
+    "importance": 2,
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Ngazargamu",
+      "en": "Ngazargamu"
+    },
+    "description": {
+      "de": "Hauptstadt des Kanem-Bornu-Reiches vom 15. bis frühen 19. Jh. An wichtigen Transsahara-Handelsrouten gelegen, hatte die Stadt bis zu 200.000 Einwohner und war ein Zentrum der islamischen Gelehrsamkeit.",
+      "en": "Capital of the Kanem-Bornu Empire from the 15th to early 19th century. Located on important trans-Saharan trade routes, the city had up to 200,000 inhabitants and was a center of Islamic scholarship."
+    }
+  },
+  {
+    "id": "oyo-ile",
+    "coordinates": [
+      4,
+      8
+    ],
+    "startYear": 1300,
+    "endYear": 1835,
+    "importance": 2,
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Oyo-Ile",
+      "en": "Oyo-Ile"
+    },
+    "description": {
+      "de": "Hauptstadt des Oyo-Reiches, des mächtigsten Yoruba-Staates vom 16. bis 18. Jh. Beherrschte durch seine Kavallerie weite Teile Westafrikas einschließlich des Königreichs Dahomey.",
+      "en": "Capital of the Oyo Empire, the most powerful Yoruba state from the 16th to 18th centuries. Its cavalry dominated much of West Africa, including the Kingdom of Dahomey."
+    }
+  },
+  {
+    "id": "old-calabar",
+    "coordinates": [
+      8.3417,
+      4.95
+    ],
+    "startYear": 1600,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Alt-Calabar",
+      "en": "Old Calabar"
+    },
+    "description": {
+      "de": "Efik-Stadtstaat am Cross River im heutigen Südnigeria. Ab dem 17. Jh. einer der wichtigsten Handelsplätze an der westafrikanischen Küste für den Handel mit Palmöl, Elfenbein und europäischen Gütern.",
+      "en": "Efik city-state on the Cross River in present-day southern Nigeria. From the 17th century, one of the most important trading centers on the West African coast for palm oil, ivory, and European goods."
+    }
+  },
+  {
+    "id": "ouidah",
+    "coordinates": [
+      2.0847,
+      6.3631
+    ],
+    "startYear": 1550,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Ouidah (Whydah)",
+      "en": "Ouidah (Whydah)"
+    },
+    "description": {
+      "de": "Haupthafen des Königreichs Whydah und später des Königreichs Dahomey. Einer der wichtigsten Häfen des transatlantischen Sklavenhandels im 17.–19. Jh. und bedeutendes Zentrum des Vodun.",
+      "en": "Chief port of the Kingdom of Whydah and later the Kingdom of Dahomey. One of the most important ports of the transatlantic slave trade in the 17th-19th centuries and a major center of Vodun."
+    }
   }
 ]

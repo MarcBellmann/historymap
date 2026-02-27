@@ -1120,5 +1120,178 @@
       "de": "Religiöses Zentrum der Chavín-Kultur und älteste bedeutende Zivilisation der Anden. Der Tempelkomplex war ein überregionales Pilgerziel und Wiege der andinen Hochkulturen.",
       "en": "Religious center of the Chavín culture and oldest major civilization of the Andes. The temple complex was a supra-regional pilgrimage site and cradle of Andean high cultures."
     }
+  },
+  {
+    "id": "taxila",
+    "coordinates": [
+      72.7896,
+      33.7463
+    ],
+    "startYear": -1000,
+    "endYear": 500,
+    "importance": 1,
+    "culturalSphere": [
+      "indian",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Taxila (Takshashila)",
+      "en": "Taxila (Takshashila)"
+    },
+    "description": {
+      "de": "Eines der aeltesten Bildungszentren der Welt und Hauptstadt des antiken Gandhara. Knotenpunkt zwischen indischer, persischer und griechischer Zivilisation, beruehmte Universaet seit dem 6. Jh. v. Chr.",
+      "en": "One of the oldest centers of learning in the world and capital of ancient Gandhara. A crossroads of Indian, Persian, and Greek civilizations, with a famous university since the 6th century BC."
+    }
+  },
+  {
+    "id": "ujjain",
+    "coordinates": [
+      75.7885,
+      23.1765
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Ujjain (Avanti)",
+      "en": "Ujjain (Avanti)"
+    },
+    "description": {
+      "de": "Hauptstadt des alten Koenigreichs Avanti und eines der heiligsten Hindu-Pilgerzentren. Als Referenzpunkt fuer den indischen Nullmeridian war es ueber Jahrhunderte ein Zentrum der Astronomie und Mathematik.",
+      "en": "Capital of the ancient kingdom of Avanti and one of the holiest Hindu pilgrimage centers. As the reference point for the Indian prime meridian, it was a center of astronomy and mathematics for centuries."
+    }
+  },
+  {
+    "id": "mathura",
+    "coordinates": [
+      77.6737,
+      27.4924
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Mathura",
+      "en": "Mathura"
+    },
+    "description": {
+      "de": "Heilige Stadt des Hinduismus als Geburtsort Krishnas und Hauptstadt des alten Koenigreichs Surasena. Bedeutendes Zentrum der Gandhara- und Mathura-Kunstschulen mit weitreichendem Einfluss auf die sueasiatische Skulptur.",
+      "en": "Sacred Hindu city as the birthplace of Krishna and capital of the ancient kingdom of Surasena. A major center of the Gandhara and Mathura schools of art with far-reaching influence on South Asian sculpture."
+    }
+  },
+  {
+    "id": "sravasti",
+    "coordinates": [
+      82.0383,
+      27.5132
+    ],
+    "startYear": -600,
+    "endYear": 300,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Sravasti (Shravasti)",
+      "en": "Sravasti (Shravasti)"
+    },
+    "description": {
+      "de": "Hauptstadt des alten Koenigreichs Kosala und bedeutende buddhistische Pilgerstaette. Der Buddha verbrachte hier mehr Regenzeiten als an jedem anderen Ort, im beruehmten Jetavana-Kloster.",
+      "en": "Capital of the ancient kingdom of Kosala and an important Buddhist pilgrimage site. The Buddha spent more rainy seasons here than anywhere else, in the famous Jetavana monastery."
+    }
+  },
+  {
+    "id": "meroe",
+    "coordinates": [
+      33.7489,
+      16.9386
+    ],
+    "startYear": -750,
+    "endYear": 350,
+    "importance": 2,
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Meroe",
+      "en": "Meroe"
+    },
+    "description": {
+      "de": "Hauptstadt des Königreichs Kusch am Nil, von ca. 590 v. Chr. bis zum 4. Jh. n. Chr. Bekannt für über 200 nubische Pyramiden und eine eigenständige Schrift.",
+      "en": "Capital of the Kingdom of Kush on the Nile, from c. 590 BC to the 4th century AD. Known for over 200 Nubian pyramids and a distinctive script."
+    }
+  },
+  {
+    "id": "aqaba",
+    "coordinates": [
+      35.0078,
+      29.5267
+    ],
+    "startYear": -800,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "islamic"
+    ],
+    "labels": {
+      "de": "Akaba",
+      "en": "Aqaba"
+    },
+    "description": {
+      "de": "Antike Hafenstadt am Roten Meer (biblisches Elath), seit der Kupferzeit ein Handelsknoten. Unter byzantinischer, islamischer und kreuzfahrerzeitlicher Herrschaft.",
+      "en": "Ancient port at the head of the Red Sea (biblical Elath), a trade node since the Chalcolithic period. Under Byzantine, Islamic, and Crusader rule."
+    }
+  },
+  {
+    "id": "balkh-bactra",
+    "coordinates": [
+      66.8972,
+      36.7583
+    ],
+    "startYear": -800,
+    "endYear": 1220,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "central-asian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Baktra",
+      "en": "Bactra"
+    },
+    "description": {
+      "de": "Antikes Baktra, Hauptstadt Baktriens und Kernstadt des Griechisch-Baktrischen Reiches. Von den Arabern als 'Mutter der Städte' bezeichnet, 1220 von den Mongolen zerstört.",
+      "en": "Ancient Bactra, capital of Bactria and core city of the Greco-Bactrian Kingdom. Called 'Mother of Cities' by the Arabs, destroyed by the Mongols in 1220."
+    }
+  },
+  {
+    "id": "nisibis",
+    "coordinates": [
+      41.2172,
+      37.0661
+    ],
+    "startYear": -800,
+    "endYear": 1200,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Nisibis",
+      "en": "Nisibis"
+    },
+    "description": {
+      "de": "Antike Grenzfestung zwischen Rom und Persien (heute Nusaybin). Bedeutendes frühchristliches Lehrzentrum mit berühmter theologischer Schule.",
+      "en": "Ancient frontier fortress between Rome and Persia (modern Nusaybin). Major early Christian center of learning with a famous theological school."
+    }
   }
 ]

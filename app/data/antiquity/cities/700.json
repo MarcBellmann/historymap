@@ -2767,5 +2767,865 @@
       "de": "Hauptstadt des Wari-Reiches, des ersten echten Imperiums der Anden vor den Inka. Die Stadt beherbergte bis zu 40.000 Einwohner und setzte Maßstäbe für andine Stadtplanung und Verwaltung.",
       "en": "Capital of the Wari Empire, the first true empire of the Andes before the Inca. The city housed up to 40,000 inhabitants and set standards for Andean urban planning and administration."
     }
+  },
+  {
+    "id": "ujjain",
+    "coordinates": [
+      75.7885,
+      23.1765
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Ujjain (Avanti)",
+      "en": "Ujjain (Avanti)"
+    },
+    "description": {
+      "de": "Hauptstadt des alten Koenigreichs Avanti und eines der heiligsten Hindu-Pilgerzentren. Als Referenzpunkt fuer den indischen Nullmeridian war es ueber Jahrhunderte ein Zentrum der Astronomie und Mathematik.",
+      "en": "Capital of the ancient kingdom of Avanti and one of the holiest Hindu pilgrimage centers. As the reference point for the Indian prime meridian, it was a center of astronomy and mathematics for centuries."
+    }
+  },
+  {
+    "id": "mathura",
+    "coordinates": [
+      77.6737,
+      27.4924
+    ],
+    "startYear": -600,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Mathura",
+      "en": "Mathura"
+    },
+    "description": {
+      "de": "Heilige Stadt des Hinduismus als Geburtsort Krishnas und Hauptstadt des alten Koenigreichs Surasena. Bedeutendes Zentrum der Gandhara- und Mathura-Kunstschulen mit weitreichendem Einfluss auf die sueasiatische Skulptur.",
+      "en": "Sacred Hindu city as the birthplace of Krishna and capital of the ancient kingdom of Surasena. A major center of the Gandhara and Mathura schools of art with far-reaching influence on South Asian sculpture."
+    }
+  },
+  {
+    "id": "nalanda",
+    "coordinates": [
+      85.4428,
+      25.1357
+    ],
+    "startYear": 427,
+    "endYear": 1200,
+    "importance": 1,
+    "culturalSphere": [
+      "indian",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Nalanda",
+      "en": "Nalanda"
+    },
+    "description": {
+      "de": "Die beruhmteste buddhistische Klosteruniversitaet der Welt, oft als erste Universitaet Suedasiens bezeichnet. Ueber 750 Jahre lang ein Zentrum der Gelehrsamkeit mit bis zu 10.000 Studenten aus ganz Asien, 1200 von Bakhtiyar Khilji zerstoert.",
+      "en": "The most renowned Buddhist monastic university in the world, often called the first university of South Asia. A center of learning for over 750 years with up to 10,000 students from across Asia, destroyed by Bakhtiyar Khilji in 1200."
+    }
+  },
+  {
+    "id": "sanchi",
+    "coordinates": [
+      77.7396,
+      23.4793
+    ],
+    "startYear": -300,
+    "endYear": 1100,
+    "importance": 3,
+    "culturalSphere": [
+      "indian",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Sanchi",
+      "en": "Sanchi"
+    },
+    "description": {
+      "de": "Bedeutende buddhistische Stupaanlage, im 3. Jh. v. Chr. von Kaiser Ashoka in Auftrag gegeben. Die Grosse Stupa gehoert zu den aeltesten Steinbauten Indiens und ist UNESCO-Weltkulturerbe.",
+      "en": "Major Buddhist stupa complex, commissioned by Emperor Ashoka in the 3rd century BC. The Great Stupa is one of the oldest stone structures in India and a UNESCO World Heritage Site."
+    }
+  },
+  {
+    "id": "bodh-gaya",
+    "coordinates": [
+      84.9869,
+      24.6952
+    ],
+    "startYear": -528,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Bodh Gaya",
+      "en": "Bodh Gaya"
+    },
+    "description": {
+      "de": "Heiligster Ort des Buddhismus, an dem Siddhartha Gautama unter dem Bodhi-Baum die Erleuchtung erlangte. Der Mahabodhi-Tempel ist seit der Maurya-Zeit ein Pilgerzentrum und UNESCO-Weltkulturerbe.",
+      "en": "Holiest site of Buddhism, where Siddhartha Gautama attained enlightenment under the Bodhi Tree. The Mahabodhi Temple has been a pilgrimage center since the Maurya period and is a UNESCO World Heritage Site."
+    }
+  },
+  {
+    "id": "sarnath",
+    "coordinates": [
+      83.0246,
+      25.3814
+    ],
+    "startYear": -528,
+    "endYear": 1200,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Sarnath",
+      "en": "Sarnath"
+    },
+    "description": {
+      "de": "Ort der ersten Lehrrede Buddhas (Dhammacakkappavattana Sutta) um 528 v. Chr. im Hirschpark. Eines der bedeutendsten buddhistischen Pilgerzentren mit Ashokas beruehmter Loewenkapitell-Saeule.",
+      "en": "Site of the Buddha's first sermon (Dhammacakkappavattana Sutta) around 528 BC in the Deer Park. One of the most important Buddhist pilgrimage centers, home to Ashoka's famous Lion Capital pillar."
+    }
+  },
+  {
+    "id": "chittorgarh",
+    "coordinates": [
+      74.6269,
+      24.8887
+    ],
+    "startYear": 700,
+    "endYear": 1568,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "rajput"
+    ],
+    "labels": {
+      "de": "Chittorgarh (Chittor)",
+      "en": "Chittorgarh (Chittor)"
+    },
+    "description": {
+      "de": "Legendaere Rajputen-Festung und Hauptstadt des Koenigreichs Mewar. Dreimal belagert und dreimal Schauplatz des rituellen Jauhar — 1303 durch Alauddin Khalji, 1535 durch Bahadur Shah und 1568 durch Akbar.",
+      "en": "Legendary Rajput fortress and capital of the Kingdom of Mewar. Besieged three times and thrice the site of ritual jauhar — in 1303 by Alauddin Khalji, 1535 by Bahadur Shah, and 1568 by Akbar."
+    }
+  },
+  {
+    "id": "peshawar",
+    "coordinates": [
+      71.5249,
+      34.0151
+    ],
+    "startYear": -539,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "indian",
+      "afghan"
+    ],
+    "labels": {
+      "de": "Peshawar",
+      "en": "Peshawar"
+    },
+    "description": {
+      "de": "Eine der aeltesten durchgehend bewohnten Staedte Suedasiens und Hauptstadt Gandharas unter den Kushan. Strategischer Knotenpunkt am Khyber-Pass zwischen Zentralasien und dem indischen Subkontinent.",
+      "en": "One of the oldest continuously inhabited cities in South Asia and capital of Gandhara under the Kushans. Strategic hub at the Khyber Pass between Central Asia and the Indian subcontinent."
+    }
+  },
+  {
+    "id": "kathmandu",
+    "coordinates": [
+      85.324,
+      27.7172
+    ],
+    "startYear": 200,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "nepalese"
+    ],
+    "labels": {
+      "de": "Kathmandu",
+      "en": "Kathmandu"
+    },
+    "description": {
+      "de": "Hauptstadt Nepals und kulturelles Zentrum des Kathmandu-Tals mit einer Geschichte bis ins 2. Jh. n. Chr. Beruehmte Newar-Architektur, Durbar-Platz und zahlreiche hinduistische und buddhistische Heiligtümer — UNESCO-Weltkulturerbe.",
+      "en": "Capital of Nepal and cultural center of the Kathmandu Valley with a history dating to the 2nd century AD. Famous for Newar architecture, Durbar Square, and numerous Hindu and Buddhist shrines — a UNESCO World Heritage Site."
+    }
+  },
+  {
+    "id": "lumbini",
+    "coordinates": [
+      83.2763,
+      27.4686
+    ],
+    "startYear": -563,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "nepalese",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Lumbini",
+      "en": "Lumbini"
+    },
+    "description": {
+      "de": "Geburtsort Siddhartha Gautamas (des historischen Buddha) im heutigen Nepal. Heiligste Geburtsstelle des Buddhismus mit der Ashoka-Saeule aus dem 3. Jh. v. Chr. — UNESCO-Weltkulturerbe.",
+      "en": "Birthplace of Siddhartha Gautama (the historical Buddha) in present-day Nepal. Holiest birth site in Buddhism with the Ashoka Pillar from the 3rd century BC — a UNESCO World Heritage Site."
+    }
+  },
+  {
+    "id": "kashgar",
+    "coordinates": [
+      75.9893,
+      39.4677
+    ],
+    "startYear": -200,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Kaschgar",
+      "en": "Kashgar"
+    },
+    "description": {
+      "de": "Strategisch wichtige Oasenstadt an der westlichen Seidenstraße, seit über 2000 Jahren Kreuzungspunkt chinesischer, türkischer und persischer Kulturen im Tarimbecken.",
+      "en": "Strategically vital oasis city on the western Silk Road, a crossroads of Chinese, Turkic, and Persian cultures in the Tarim Basin for over 2,000 years."
+    }
+  },
+  {
+    "id": "khotan",
+    "coordinates": [
+      79.927,
+      37.112
+    ],
+    "startYear": -200,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Hotan",
+      "en": "Khotan"
+    },
+    "description": {
+      "de": "Wichtige Oasenstadt an der südlichen Seidenstraße, berühmt für Jade und als buddhistisches Zentrum am Rand der Taklamakan-Wüste.",
+      "en": "Major oasis city on the southern Silk Road, renowned for jade and as a Buddhist center on the edge of the Taklamakan Desert."
+    }
+  },
+  {
+    "id": "tashkent",
+    "coordinates": [
+      69.2401,
+      41.2995
+    ],
+    "startYear": -200,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Taschkent",
+      "en": "Tashkent"
+    },
+    "description": {
+      "de": "Antikes Chach — seit über 2200 Jahren besiedelter Knotenpunkt der Seidenstraße. Vor der islamischen Ära von sogdischer und türkischer Kultur geprägt, später wichtiges islamisches Zentrum.",
+      "en": "Ancient Chach — a Silk Road hub settled for over 2,200 years. Shaped by Sogdian and Turkic culture before the Islamic era, later a major Islamic center."
+    }
+  },
+  {
+    "id": "khiva",
+    "coordinates": [
+      60.6336,
+      41.3775
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Chiwa",
+      "en": "Khiva"
+    },
+    "description": {
+      "de": "Rund 2500 Jahre alte Stadt und ehemalige Hauptstadt Choresmiens. Bedeutendes Zentrum islamischer Gelehrsamkeit, Heimat des Universalgelehrten al-Biruni.",
+      "en": "Approximately 2,500-year-old city and former capital of Khwarezmia. Major center of Islamic scholarship, home of the polymath al-Biruni."
+    }
+  },
+  {
+    "id": "urgench",
+    "coordinates": [
+      59.1533,
+      42.3048
+    ],
+    "startYear": -300,
+    "endYear": 1700,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Gurgandsch",
+      "en": "Gurganj"
+    },
+    "description": {
+      "de": "Alte Hauptstadt Choresmiens an der Seidenstraße. Kulturelles und wirtschaftliches Zentrum der Choresmischen Dynastie, von den Mongolen 1221 zerstört und später wieder aufgebaut.",
+      "en": "Ancient capital of Khwarazm on the Silk Road. Cultural and economic center of the Khwarazmian dynasty, destroyed by the Mongols in 1221 and later rebuilt."
+    }
+  },
+  {
+    "id": "otrar",
+    "coordinates": [
+      68.3039,
+      42.8512
+    ],
+    "startYear": -500,
+    "endYear": 1700,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Otrar",
+      "en": "Otrar"
+    },
+    "description": {
+      "de": "Seidenstraßen-Festung am Syr Darya, deren Provokation 1218 den mongolischen Feldzug auslöste. Geburtsort al-Farabis und Sterbeort Timurs (1405).",
+      "en": "Silk Road fortress on the Syr Darya whose provocation in 1218 triggered the Mongol invasion. Birthplace of al-Farabi and where Timur died (1405)."
+    }
+  },
+  {
+    "id": "almaty",
+    "coordinates": [
+      76.9286,
+      43.222
+    ],
+    "startYear": 700,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "central-asian",
+      "turkic"
+    ],
+    "labels": {
+      "de": "Almaty",
+      "en": "Almaty"
+    },
+    "description": {
+      "de": "Mittelalterliche Siedlung Almatu am Fuße des Tian-Shan-Gebirges an der Seidenstraße zwischen dem Siebenstromland und dem Tarimbecken.",
+      "en": "Medieval settlement of Almatu at the foot of the Tian Shan mountains, on the Silk Road between Zhetysu (Seven Rivers) and the Tarim Basin."
+    }
+  },
+  {
+    "id": "termez",
+    "coordinates": [
+      67.2783,
+      37.2242
+    ],
+    "startYear": -300,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Termez",
+      "en": "Termez"
+    },
+    "description": {
+      "de": "Von Alexander dem Großen als Alexandria am Oxus gegründet. Bedeutendes buddhistisches Zentrum vor der islamischen Ära, Kreuzungspunkt zwischen Zentralasien und Indien.",
+      "en": "Founded by Alexander the Great as Alexandria on the Oxus. Major Buddhist center before the Islamic era, a crossroads between Central Asia and India."
+    }
+  },
+  {
+    "id": "nishapur",
+    "coordinates": [
+      58.7961,
+      36.2132
+    ],
+    "startYear": 250,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Nischapur",
+      "en": "Nishapur"
+    },
+    "description": {
+      "de": "Von Schapur I. gegründete Hauptstadt Khorasans — eine der vier großen Städte der östlichen islamischen Welt. Heimat von Omar Chayyam und Attar. 1221 von den Mongolen zerstört.",
+      "en": "Founded by Shapur I as capital of Khorasan — one of the four great cities of the eastern Islamic world. Home of Omar Khayyam and Attar. Destroyed by the Mongols in 1221."
+    }
+  },
+  {
+    "id": "kabul",
+    "coordinates": [
+      69.1723,
+      34.5553
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "central-asian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Kabul",
+      "en": "Kabul"
+    },
+    "description": {
+      "de": "Über 3500 Jahre alte Stadt am Hindukusch, auf halbem Weg zwischen Istanbul und Hanoi. Kreuzungspunkt der Seidenstraße, beherrscht von Achämeniden, Kuschana, Moguln und vielen anderen.",
+      "en": "Over 3,500-year-old city in the Hindu Kush, midway between Istanbul and Hanoi. Silk Road crossroads ruled by Achaemenids, Kushans, Mughals, and many others."
+    }
+  },
+  {
+    "id": "kokand",
+    "coordinates": [
+      70.9429,
+      40.5283
+    ],
+    "startYear": 500,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "central-asian",
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Kokand",
+      "en": "Kokand"
+    },
+    "description": {
+      "de": "Handelsstadt am Eingang zum Ferghanatal, Kreuzungspunkt zweier Hauptrouten der Seidenstraße. Spätere Hauptstadt des Khanats von Kokand.",
+      "en": "Trading city at the entrance to the Ferghana Valley, junction of two main Silk Road routes. Later capital of the Khanate of Kokand."
+    }
+  },
+  {
+    "id": "pendjikent",
+    "coordinates": [
+      67.825,
+      39.49
+    ],
+    "startYear": -500,
+    "endYear": 800,
+    "importance": 3,
+    "culturalSphere": [
+      "sogdian",
+      "central-asian"
+    ],
+    "labels": {
+      "de": "Pandschakent",
+      "en": "Pendjikent"
+    },
+    "description": {
+      "de": "Sogdische Stadtfestung am Serafschan mit einzigartigen Wandmalereien. Blühte vom 5.–8. Jh., von arabischen Truppen 722 erobert und im 8. Jh. aufgegeben.",
+      "en": "Sogdian fortified town on the Zeravshan with unique wall paintings. Flourished from the 5th–8th centuries, conquered by Arab forces in 722 and abandoned by the 8th century."
+    }
+  },
+  {
+    "id": "turpan",
+    "coordinates": [
+      89.1895,
+      42.9513
+    ],
+    "startYear": -200,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "central-asian",
+      "chinese",
+      "turkic"
+    ],
+    "labels": {
+      "de": "Turpan",
+      "en": "Turpan"
+    },
+    "description": {
+      "de": "Oasenstadt an der nördlichen Seidenstraße im Tarimbecken. Sitz des Königreichs Gaochang und der Ruinen von Jiaohe, einem Knotenpunkt zwischen China und dem Westen.",
+      "en": "Oasis city on the northern Silk Road in the Tarim Basin. Seat of the Gaochang kingdom and the ruins of Yar-Khoto, a node linking China and the West."
+    }
+  },
+  {
+    "id": "axum",
+    "coordinates": [
+      38.7468,
+      14.131
+    ],
+    "startYear": -400,
+    "endYear": 900,
+    "importance": 1,
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Aksum",
+      "en": "Axum"
+    },
+    "description": {
+      "de": "Hauptstadt des Aksumitischen Reiches, einer der vier Großmächte des 3. Jahrhunderts neben Rom, Persien und China. Frühes christliches Königreich mit monumentalen Stelen.",
+      "en": "Capital of the Aksumite Empire, one of the four great powers of the 3rd century alongside Rome, Persia, and China. Early Christian kingdom famed for its monumental stelae."
+    }
+  },
+  {
+    "id": "bam",
+    "coordinates": [
+      58.3569,
+      29.106
+    ],
+    "startYear": -500,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Bam",
+      "en": "Bam"
+    },
+    "description": {
+      "de": "Antike Festungsstadt in der Provinz Kerman mit der größten Lehmziegelzitadelle der Welt. Seit der Achämenidenzeit ein Knotenpunkt der Seidenstraße, bekannt für Seide und Baumwolle.",
+      "en": "Ancient fortress city in Kerman province with the world's largest adobe citadel. A Silk Road junction since Achaemenid times, known for silk and cotton production."
+    }
+  },
+  {
+    "id": "siraf",
+    "coordinates": [
+      52.35,
+      27.67
+    ],
+    "startYear": -100,
+    "endYear": 1300,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Siraf",
+      "en": "Siraf"
+    },
+    "description": {
+      "de": "Größter und reichster Hafen am Persischen Golf in seiner Blütezeit (9.–10. Jh.). Drehscheibe des Handels zwischen Afrika, Indien und China, mit prachtvollen Kaufmannshäusern aus Teakholz.",
+      "en": "Largest and wealthiest port on the Persian Gulf at its peak (9th–10th c.). Hub of trade between Africa, India, and China, with lavish teak-wood merchant houses."
+    }
+  },
+  {
+    "id": "aqaba",
+    "coordinates": [
+      35.0078,
+      29.5267
+    ],
+    "startYear": -800,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "islamic"
+    ],
+    "labels": {
+      "de": "Akaba",
+      "en": "Aqaba"
+    },
+    "description": {
+      "de": "Antike Hafenstadt am Roten Meer (biblisches Elath), seit der Kupferzeit ein Handelsknoten. Unter byzantinischer, islamischer und kreuzfahrerzeitlicher Herrschaft.",
+      "en": "Ancient port at the head of the Red Sea (biblical Elath), a trade node since the Chalcolithic period. Under Byzantine, Islamic, and Crusader rule."
+    }
+  },
+  {
+    "id": "berbera",
+    "coordinates": [
+      45.0369,
+      10.4396
+    ],
+    "startYear": -100,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "east-african",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Berbera",
+      "en": "Berbera"
+    },
+    "description": {
+      "de": "Antiker Handelshafen am Golf von Aden, erwähnt im Periplus des Erythräischen Meeres. Wichtiger Hafen des Sultanats Adal und des britischen Somalilands.",
+      "en": "Ancient trading port on the Gulf of Aden, mentioned in the Periplus of the Erythraean Sea. Major port of the Adal Sultanate and British Somaliland."
+    }
+  },
+  {
+    "id": "zeila",
+    "coordinates": [
+      43.48,
+      11.353
+    ],
+    "startYear": -100,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "east-african",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Zeila",
+      "en": "Zeila"
+    },
+    "description": {
+      "de": "Historische Hafenstadt am Horn von Afrika, möglicherweise das antike Avalites. Frühes islamisches Zentrum und Hauptstadt des Sultanats Adal im 13. Jahrhundert.",
+      "en": "Historic port city on the Horn of Africa, possibly ancient Avalites. Early Islamic center and capital of the Adal Sultanate in the 13th century."
+    }
+  },
+  {
+    "id": "taraz",
+    "coordinates": [
+      71.3667,
+      42.9
+    ],
+    "startYear": -100,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "central-asian",
+      "turkic",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Taras",
+      "en": "Taraz"
+    },
+    "description": {
+      "de": "Antike Stadt am Fluss Talas an der Seidenstraße, Schauplatz der Schlacht am Talas (751), die die islamische Expansion nach Zentralasien markierte.",
+      "en": "Ancient city on the Talas River along the Silk Road, site of the Battle of Talas (751) which marked the Islamic expansion into Central Asia."
+    }
+  },
+  {
+    "id": "balkh-bactra",
+    "coordinates": [
+      66.8972,
+      36.7583
+    ],
+    "startYear": -800,
+    "endYear": 1220,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "central-asian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Baktra",
+      "en": "Bactra"
+    },
+    "description": {
+      "de": "Antikes Baktra, Hauptstadt Baktriens und Kernstadt des Griechisch-Baktrischen Reiches. Von den Arabern als 'Mutter der Städte' bezeichnet, 1220 von den Mongolen zerstört.",
+      "en": "Ancient Bactra, capital of Bactria and core city of the Greco-Bactrian Kingdom. Called 'Mother of Cities' by the Arabs, destroyed by the Mongols in 1220."
+    }
+  },
+  {
+    "id": "sohar",
+    "coordinates": [
+      56.7256,
+      24.3461
+    ],
+    "startYear": -300,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "islamic",
+      "persian"
+    ],
+    "labels": {
+      "de": "Sohar",
+      "en": "Sohar"
+    },
+    "description": {
+      "de": "Alte Hafenstadt am Golf von Oman, der Legende nach Heimat Sindbads des Seefahrers. Bedeutender Handelshafen zwischen Persischem Golf und Indischem Ozean.",
+      "en": "Ancient port city on the Gulf of Oman, legendarily the home of Sinbad the Sailor. Major trading port between the Persian Gulf and the Indian Ocean."
+    }
+  },
+  {
+    "id": "julfar",
+    "coordinates": [
+      55.9472,
+      25.7953
+    ],
+    "startYear": 600,
+    "endYear": 1700,
+    "importance": 3,
+    "culturalSphere": [
+      "islamic"
+    ],
+    "labels": {
+      "de": "Dschulfar",
+      "en": "Julfar"
+    },
+    "description": {
+      "de": "Mittelalterliche Hafenstadt am Persischen Golf (heutiges Ras al-Chaima), Zentrum des Perlenhandels und des Seehandels mit Ostafrika und Indien.",
+      "en": "Medieval port city on the Persian Gulf (modern Ras al-Khaimah), center of the pearl trade and maritime commerce with East Africa and India."
+    }
+  },
+  {
+    "id": "nisibis",
+    "coordinates": [
+      41.2172,
+      37.0661
+    ],
+    "startYear": -800,
+    "endYear": 1200,
+    "importance": 2,
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Nisibis",
+      "en": "Nisibis"
+    },
+    "description": {
+      "de": "Antike Grenzfestung zwischen Rom und Persien (heute Nusaybin). Bedeutendes frühchristliches Lehrzentrum mit berühmter theologischer Schule.",
+      "en": "Ancient frontier fortress between Rome and Persia (modern Nusaybin). Major early Christian center of learning with a famous theological school."
+    }
+  },
+  {
+    "id": "jambi",
+    "coordinates": [
+      103.6131,
+      1.6
+    ],
+    "startYear": 680,
+    "endYear": 1400,
+    "importance": 3,
+    "culturalSphere": [
+      "malay",
+      "indonesian"
+    ],
+    "labels": {
+      "de": "Jambi (Melayu)",
+      "en": "Jambi (Melayu)"
+    },
+    "description": {
+      "de": "Alternative Hauptstadt des Srivijaya-Reiches, auch als Melayu-Jambi bekannt. Im 11. Jh. übernahm Jambi nach dem Chola-Angriff auf Palembang die Führungsrolle im Srivijaya-Reich.",
+      "en": "Alternative capital of the Srivijaya Empire, also known as Melayu-Jambi. In the 11th century, Jambi assumed leadership of the Srivijaya realm after the Chola raid on Palembang."
+    }
+  },
+  {
+    "id": "aksum",
+    "coordinates": [
+      38.7468,
+      14.1211
+    ],
+    "startYear": -400,
+    "endYear": 940,
+    "importance": 1,
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Aksum",
+      "en": "Aksum"
+    },
+    "description": {
+      "de": "Hauptstadt des Aksumitischen Reiches, einer der vier großen Weltmächte der Spätantike. Beherrschte den Handel zwischen dem Römischen Reich und Indien, prägte eigene Münzen und nahm im 4. Jh. das Christentum an.",
+      "en": "Capital of the Aksumite Empire, one of the four great world powers of late antiquity. Controlled trade between the Roman Empire and India, minted its own coins, and adopted Christianity in the 4th century."
+    }
+  },
+  {
+    "id": "sofala",
+    "coordinates": [
+      34.7228,
+      -20.1533
+    ],
+    "startYear": 700,
+    "endYear": 1700,
+    "importance": 2,
+    "culturalSphere": [
+      "swahili",
+      "east-african"
+    ],
+    "labels": {
+      "de": "Sofala",
+      "en": "Sofala"
+    },
+    "description": {
+      "de": "Wichtigster Goldhandelshafen an der ostafrikanischen Küste, der das Gold vom Simbabwe-Plateau in den Indischen Ozean-Handel einband. Von Swahili-Händlern gegründet und später von den Portugiesen übernommen.",
+      "en": "Most important gold trading port on the East African coast, channeling gold from the Zimbabwe Plateau into Indian Ocean trade. Founded by Swahili merchants and later taken over by the Portuguese."
+    }
+  },
+  {
+    "id": "massawa",
+    "coordinates": [
+      39.4742,
+      15.6069
+    ],
+    "startYear": 700,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "ethiopian",
+      "east-african"
+    ],
+    "labels": {
+      "de": "Massawa",
+      "en": "Massawa"
+    },
+    "description": {
+      "de": "Historischer Hafen am Roten Meer, der seit dem aksumitischen Reich als Tor zum äthiopischen Hochland diente. Wurde nacheinander vom Dahlak-Sultanat, dem Osmanischen Reich und Ägypten beherrscht.",
+      "en": "Historic Red Sea port that served as the gateway to the Ethiopian highlands since the Aksumite Empire. Successively ruled by the Dahlak Sultanate, the Ottoman Empire, and Egypt."
+    }
+  },
+  {
+    "id": "njimi",
+    "coordinates": [
+      17,
+      14
+    ],
+    "startYear": 700,
+    "endYear": 1380,
+    "importance": 2,
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Njimi (Kanem)",
+      "en": "Njimi (Kanem)"
+    },
+    "description": {
+      "de": "Hauptstadt des Kanem-Reiches nordöstlich des Tschadsees, erstmals im 12. Jh. in arabischen Quellen erwähnt. Politisches und religiöses Zentrum eines der mächtigsten Reiche des mittelalterlichen Zentralafrika.",
+      "en": "Capital of the Kanem Empire northeast of Lake Chad, first mentioned in Arabic sources in the 12th century. Political and religious center of one of the most powerful empires in medieval Central Africa."
+    }
   }
 ]

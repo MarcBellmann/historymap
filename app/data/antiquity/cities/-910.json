@@ -600,5 +600,27 @@
       "de": "Ältestes bekanntes städtisches Zentrum Mesoamerikas und Hauptstadt der Olmeken. Berühmt für seine kolossalen Steinköpfe und als Wiege der mesoamerikanischen Zivilisation.",
       "en": "Oldest known urban center in Mesoamerica and capital of the Olmec. Famous for its colossal stone heads and as the cradle of Mesoamerican civilization."
     }
+  },
+  {
+    "id": "taxila",
+    "coordinates": [
+      72.7896,
+      33.7463
+    ],
+    "startYear": -1000,
+    "endYear": 500,
+    "importance": 1,
+    "culturalSphere": [
+      "indian",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Taxila (Takshashila)",
+      "en": "Taxila (Takshashila)"
+    },
+    "description": {
+      "de": "Eines der aeltesten Bildungszentren der Welt und Hauptstadt des antiken Gandhara. Knotenpunkt zwischen indischer, persischer und griechischer Zivilisation, beruehmte Universaet seit dem 6. Jh. v. Chr.",
+      "en": "One of the oldest centers of learning in the world and capital of ancient Gandhara. A crossroads of Indian, Persian, and Greek civilizations, with a famous university since the 6th century BC."
+    }
   }
 ]
