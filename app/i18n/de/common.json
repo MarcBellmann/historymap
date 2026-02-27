@@ -18,8 +18,8 @@
   },
   "detail": {
     "founded": "Gegründet",
-    "destroyed": "Zerstört",
-    "present": "Heute",
+    "ended": "Ende",
+    "stillExists": "Existiert noch",
     "type": "Typ",
     "culturalSphere": "Kulturkreis",
     "close": "Schließen",

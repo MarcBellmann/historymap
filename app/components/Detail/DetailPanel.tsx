@@ -53,16 +53,14 @@ export function DetailPanel({ item, onClose, lang }: DetailPanelProps) {
                 <span className="text-gray-500">{t("detail.founded")}:</span>
                 <span className="text-gray-700">{formatYear(data.startYear, lang)}</span>
               </div>
-              {data.endYear !== null && (
+              {data.endYear !== null ? (
                 <div className="flex gap-3">
-                  <span className="text-gray-500">{t("detail.destroyed")}:</span>
+                  <span className="text-gray-500">{t("detail.ended")}:</span>
                   <span className="text-gray-700">{formatYear(data.endYear, lang)}</span>
                 </div>
-              )}
-              {data.endYear === null && (
+              ) : (
                 <div className="flex gap-3">
-                  <span className="text-gray-500">{t("detail.destroyed")}:</span>
-                  <span className="text-gray-700">{t("detail.present")}</span>
+                  <span className="text-gray-500 italic">{t("detail.stillExists")}</span>
                 </div>
               )}
               <div className="flex gap-3 flex-wrap">
@@ -115,12 +113,16 @@ export function DetailPanel({ item, onClose, lang }: DetailPanelProps) {
                 <span className="text-gray-500">{t("detail.founded")}:</span>
                 <span className="text-gray-700">{formatYear(data.startYear, lang)}</span>
               </div>
-              <div className="flex gap-3">
-                <span className="text-gray-500">{t("detail.destroyed")}:</span>
-                <span className="text-gray-700">
-                  {data.endYear !== null ? formatYear(data.endYear, lang) : t("detail.present")}
-                </span>
-              </div>
+              {data.endYear !== null ? (
+                <div className="flex gap-3">
+                  <span className="text-gray-500">{t("detail.ended")}:</span>
+                  <span className="text-gray-700">{formatYear(data.endYear, lang)}</span>
+                </div>
+              ) : (
+                <div className="flex gap-3">
+                  <span className="text-gray-500 italic">{t("detail.stillExists")}</span>
+                </div>
+              )}
               {(data.peakStartYear !== undefined || data.peakEndYear !== undefined) &&
                 (data.peakStartYear !== data.startYear || data.peakEndYear !== data.endYear) && (
                 <div className="flex gap-3">
@@ -130,7 +132,7 @@ export function DetailPanel({ item, onClose, lang }: DetailPanelProps) {
                     {" – "}
                     {data.peakEndYear !== null && data.peakEndYear !== undefined
                       ? formatYear(data.peakEndYear, lang)
-                      : t("detail.present")}
+                      : t("detail.stillExists")}
                   </span>
                 </div>
               )}

@@ -18,8 +18,8 @@
   },
   "detail": {
     "founded": "Founded",
-    "destroyed": "Destroyed",
-    "present": "Present",
+    "ended": "Ended",
+    "stillExists": "Still exists",
     "type": "Type",
     "culturalSphere": "Cultural Sphere",
     "close": "Close",
