@@ -3729,7 +3729,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22,
+              44.5
+            ],
+            [
+              28,
+              45
+            ],
+            [
+              29,
+              43
+            ],
+            [
+              27.5,
+              41.5
+            ],
+            [
+              24,
+              41
+            ],
+            [
+              22,
+              42
+            ],
+            [
+              22,
+              44.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "first-bulgarian-empire",
         "parentId": null,
@@ -4135,7 +4169,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              37
+            ],
+            [
+              48,
+              36
+            ],
+            [
+              48.5,
+              29.5
+            ],
+            [
+              44,
+              29
+            ],
+            [
+              42,
+              33
+            ],
+            [
+              42,
+              37
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "abbasid-iraq",
         "parentId": "abbasid-caliphate",
@@ -4448,7 +4512,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              4
+            ],
+            [
+              106,
+              2
+            ],
+            [
+              108,
+              -3
+            ],
+            [
+              104,
+              -6
+            ],
+            [
+              98,
+              -4
+            ],
+            [
+              98,
+              4
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "srivijaya",
         "parentId": null,
@@ -4471,7 +4565,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              28
+            ],
+            [
+              104,
+              28
+            ],
+            [
+              104,
+              23
+            ],
+            [
+              100,
+              22
+            ],
+            [
+              98,
+              24
+            ],
+            [
+              98,
+              28
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "nanzhao",
         "parentId": null,
@@ -5043,7 +5167,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70,
+              -15
+            ],
+            [
+              -66,
+              -15.5
+            ],
+            [
+              -66,
+              -19
+            ],
+            [
+              -69,
+              -19.5
+            ],
+            [
+              -70,
+              -15
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "tiwanaku-state",
         "parentId": null,

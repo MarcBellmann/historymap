@@ -822,7 +822,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.5,
+              40.5
+            ],
+            [
+              21,
+              40.5
+            ],
+            [
+              21.5,
+              39.5
+            ],
+            [
+              20.5,
+              38.5
+            ],
+            [
+              19,
+              39.5
+            ],
+            [
+              19.5,
+              40.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-epirus",
         "parentId": null,
@@ -2518,7 +2548,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104,
+              37
+            ],
+            [
+              110,
+              37
+            ],
+            [
+              110,
+              33
+            ],
+            [
+              107,
+              32
+            ],
+            [
+              104,
+              34
+            ],
+            [
+              104,
+              37
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "state-of-qin",
         "parentId": "eastern-zhou",
@@ -2541,7 +2601,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110,
+              42
+            ],
+            [
+              116,
+              41
+            ],
+            [
+              116,
+              37
+            ],
+            [
+              112,
+              35
+            ],
+            [
+              110,
+              38
+            ],
+            [
+              110,
+              42
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "state-of-zhao",
         "parentId": "eastern-zhou",
@@ -3051,7 +3141,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              68,
+              36
+            ],
+            [
+              74,
+              36
+            ],
+            [
+              74,
+              33
+            ],
+            [
+              70,
+              32
+            ],
+            [
+              68,
+              34
+            ],
+            [
+              68,
+              36
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "maurya-gandhara",
         "parentId": "maurya-empire",
@@ -3074,7 +3194,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6,
+              10.5
+            ],
+            [
+              9,
+              10.5
+            ],
+            [
+              9,
+              8
+            ],
+            [
+              7,
+              7.5
+            ],
+            [
+              6,
+              8.5
+            ],
+            [
+              6,
+              10.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "nok-culture",
         "parentId": null,

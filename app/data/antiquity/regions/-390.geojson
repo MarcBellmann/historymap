@@ -822,7 +822,49 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25,
+              50
+            ],
+            [
+              40,
+              52
+            ],
+            [
+              55,
+              50
+            ],
+            [
+              60,
+              45
+            ],
+            [
+              50,
+              42
+            ],
+            [
+              40,
+              43
+            ],
+            [
+              30,
+              45
+            ],
+            [
+              25,
+              47
+            ],
+            [
+              25,
+              50
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "scythia",
         "parentId": null,
@@ -845,7 +887,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.8,
+              37.5
+            ],
+            [
+              22.8,
+              37.5
+            ],
+            [
+              22.8,
+              36.4
+            ],
+            [
+              22,
+              36.4
+            ],
+            [
+              21.5,
+              36.8
+            ],
+            [
+              21.8,
+              37.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "sparta",
         "parentId": null,
@@ -1282,7 +1354,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108,
+              34
+            ],
+            [
+              117,
+              34
+            ],
+            [
+              117,
+              28
+            ],
+            [
+              110,
+              26
+            ],
+            [
+              108,
+              29
+            ],
+            [
+              108,
+              34
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "state-of-chu",
         "parentId": "eastern-zhou",
@@ -1305,7 +1407,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115,
+              38
+            ],
+            [
+              120,
+              38
+            ],
+            [
+              121,
+              35
+            ],
+            [
+              117,
+              34
+            ],
+            [
+              115,
+              35.5
+            ],
+            [
+              115,
+              38
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "state-of-qi",
         "parentId": "eastern-zhou",
@@ -3126,7 +3258,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6,
+              10.5
+            ],
+            [
+              9,
+              10.5
+            ],
+            [
+              9,
+              8
+            ],
+            [
+              7,
+              7.5
+            ],
+            [
+              6,
+              8.5
+            ],
+            [
+              6,
+              10.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "nok-culture",
         "parentId": null,

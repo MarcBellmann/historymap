@@ -3,7 +3,45 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.5,
+              48.5
+            ],
+            [
+              17,
+              50
+            ],
+            [
+              22,
+              49
+            ],
+            [
+              23,
+              46.5
+            ],
+            [
+              17,
+              44.5
+            ],
+            [
+              13.5,
+              45.5
+            ],
+            [
+              9.5,
+              47
+            ],
+            [
+              9.5,
+              48.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "habsburg-monarchy",
         "parentId": null,
@@ -413,7 +451,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16,
+              48.5
+            ],
+            [
+              22.5,
+              48.5
+            ],
+            [
+              23,
+              46
+            ],
+            [
+              21,
+              44.5
+            ],
+            [
+              17,
+              44.5
+            ],
+            [
+              16,
+              46
+            ],
+            [
+              16,
+              48.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "habsburg-hungary",
         "parentId": "habsburg-monarchy",
@@ -3276,7 +3348,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36,
+              29
+            ],
+            [
+              40,
+              29
+            ],
+            [
+              42,
+              22
+            ],
+            [
+              38,
+              18
+            ],
+            [
+              36,
+              20
+            ],
+            [
+              36,
+              29
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "ottoman-hejaz",
         "parentId": "ottoman-empire",
@@ -3299,7 +3401,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              34
+            ],
+            [
+              15,
+              34
+            ],
+            [
+              16,
+              30
+            ],
+            [
+              12,
+              29
+            ],
+            [
+              10,
+              31
+            ],
+            [
+              10,
+              34
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "ottoman-tripolitania",
         "parentId": "ottoman-empire",
@@ -3322,7 +3454,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5,
+              37.5
+            ],
+            [
+              11.5,
+              37.5
+            ],
+            [
+              11,
+              34
+            ],
+            [
+              8,
+              33
+            ],
+            [
+              7,
+              35
+            ],
+            [
+              7.5,
+              37.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "ottoman-tunisia",
         "parentId": "ottoman-empire",
@@ -3345,7 +3507,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52,
+              26.5
+            ],
+            [
+              59.5,
+              25.5
+            ],
+            [
+              59.5,
+              21
+            ],
+            [
+              55,
+              17
+            ],
+            [
+              52,
+              20
+            ],
+            [
+              52,
+              26.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "imamate-of-oman",
         "parentId": null,
@@ -3368,7 +3560,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              28
+            ],
+            [
+              50,
+              27
+            ],
+            [
+              50,
+              22
+            ],
+            [
+              45,
+              18
+            ],
+            [
+              42,
+              20
+            ],
+            [
+              42,
+              28
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "first-saudi-state",
         "parentId": null,
@@ -3886,7 +4108,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118,
+              48
+            ],
+            [
+              134,
+              48
+            ],
+            [
+              135,
+              42
+            ],
+            [
+              126,
+              39
+            ],
+            [
+              118,
+              41
+            ],
+            [
+              118,
+              48
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "qing-manchuria",
         "parentId": "qing-dynasty",
@@ -3909,7 +4161,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88,
+              52
+            ],
+            [
+              116,
+              52
+            ],
+            [
+              120,
+              46
+            ],
+            [
+              110,
+              42
+            ],
+            [
+              96,
+              42
+            ],
+            [
+              88,
+              46
+            ],
+            [
+              88,
+              52
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "qing-outer-mongolia",
         "parentId": "qing-dynasty",
@@ -3932,7 +4218,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78,
+              36
+            ],
+            [
+              99,
+              36
+            ],
+            [
+              99,
+              28
+            ],
+            [
+              86,
+              27
+            ],
+            [
+              78,
+              30
+            ],
+            [
+              78,
+              36
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "qing-tibet",
         "parentId": "qing-dynasty",
@@ -3955,7 +4271,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73,
+              48
+            ],
+            [
+              96,
+              48
+            ],
+            [
+              96,
+              36
+            ],
+            [
+              78,
+              35
+            ],
+            [
+              73,
+              40
+            ],
+            [
+              73,
+              48
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "qing-xinjiang",
         "parentId": "qing-dynasty",
@@ -3978,7 +4324,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              92,
+              28
+            ],
+            [
+              100,
+              24
+            ],
+            [
+              101,
+              16
+            ],
+            [
+              97,
+              10
+            ],
+            [
+              92,
+              15
+            ],
+            [
+              92,
+              28
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "konbaung-dynasty",
         "parentId": null,
@@ -5119,7 +5495,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78,
+              22
+            ],
+            [
+              83,
+              22
+            ],
+            [
+              83,
+              18
+            ],
+            [
+              79,
+              18
+            ],
+            [
+              78,
+              22
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "maratha-bhonsle",
         "parentId": "maratha-empire",
@@ -5142,7 +5544,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.5,
+              15
+            ],
+            [
+              78.5,
+              15
+            ],
+            [
+              78.5,
+              11.5
+            ],
+            [
+              76,
+              11
+            ],
+            [
+              74.5,
+              12.5
+            ],
+            [
+              74.5,
+              15
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-mysore",
         "parentId": null,
@@ -5165,7 +5597,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75,
+              20
+            ],
+            [
+              80,
+              20
+            ],
+            [
+              81,
+              16
+            ],
+            [
+              77,
+              14
+            ],
+            [
+              75,
+              16
+            ],
+            [
+              75,
+              20
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "nizam-of-hyderabad",
         "parentId": null,
@@ -5188,7 +5650,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24,
+              -5
+            ],
+            [
+              29,
+              -5
+            ],
+            [
+              29,
+              -10
+            ],
+            [
+              26,
+              -11
+            ],
+            [
+              24,
+              -8
+            ],
+            [
+              24,
+              -5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "luba-kingdom",
         "parentId": null,
@@ -5211,7 +5703,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              -7
+            ],
+            [
+              27,
+              -7
+            ],
+            [
+              27,
+              -12
+            ],
+            [
+              22,
+              -13
+            ],
+            [
+              20,
+              -10
+            ],
+            [
+              20,
+              -7
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "lunda-empire",
         "parentId": null,
@@ -5234,7 +5756,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27,
+              -17
+            ],
+            [
+              33,
+              -17
+            ],
+            [
+              33,
+              -22
+            ],
+            [
+              28,
+              -22
+            ],
+            [
+              27,
+              -20
+            ],
+            [
+              27,
+              -17
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "rozvi-empire",
         "parentId": null,
@@ -5257,7 +5809,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3,
+              8
+            ],
+            [
+              0,
+              8
+            ],
+            [
+              0,
+              5.5
+            ],
+            [
+              -3,
+              5
+            ],
+            [
+              -3,
+              8
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "ashanti-empire",
         "parentId": null,
@@ -5280,7 +5858,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.5,
+              8
+            ],
+            [
+              3,
+              8
+            ],
+            [
+              3,
+              6
+            ],
+            [
+              1.5,
+              6
+            ],
+            [
+              1.5,
+              8
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-dahomey",
         "parentId": null,
@@ -5303,7 +5907,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.5,
+              1
+            ],
+            [
+              33,
+              1
+            ],
+            [
+              33,
+              -1
+            ],
+            [
+              31.5,
+              -1
+            ],
+            [
+              31.5,
+              1
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "buganda-kingdom",
         "parentId": null,

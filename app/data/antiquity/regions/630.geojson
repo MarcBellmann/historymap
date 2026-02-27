@@ -6992,7 +6992,45 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130,
+              35
+            ],
+            [
+              136,
+              36
+            ],
+            [
+              140,
+              38
+            ],
+            [
+              141,
+              35
+            ],
+            [
+              137,
+              33
+            ],
+            [
+              132,
+              32.5
+            ],
+            [
+              130,
+              33
+            ],
+            [
+              130,
+              35
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "yamato-japan",
         "parentId": null,
@@ -7946,7 +7984,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70,
+              -15
+            ],
+            [
+              -66,
+              -15.5
+            ],
+            [
+              -66,
+              -19
+            ],
+            [
+              -69,
+              -19.5
+            ],
+            [
+              -70,
+              -15
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "tiwanaku-state",
         "parentId": null,

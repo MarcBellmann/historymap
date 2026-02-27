@@ -3,7 +3,37 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              49.5
+            ],
+            [
+              13.5,
+              49
+            ],
+            [
+              13.5,
+              47
+            ],
+            [
+              10,
+              47
+            ],
+            [
+              9.5,
+              48.5
+            ],
+            [
+              10,
+              49.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "hre-bavaria",
         "parentId": "holy-roman-empire",
@@ -3227,7 +3257,87 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -2,
+                42.5
+              ],
+              [
+                3,
+                42.5
+              ],
+              [
+                3.5,
+                40
+              ],
+              [
+                0,
+                37.5
+              ],
+              [
+                -2,
+                38.5
+              ],
+              [
+                -2,
+                42.5
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                8.1,
+                41.3
+              ],
+              [
+                9.8,
+                41.3
+              ],
+              [
+                9.8,
+                39
+              ],
+              [
+                8.1,
+                39
+              ],
+              [
+                8.1,
+                41.3
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.5,
+                38.3
+              ],
+              [
+                15.5,
+                38.3
+              ],
+              [
+                15.5,
+                36.6
+              ],
+              [
+                12.5,
+                36.6
+              ],
+              [
+                12.5,
+                38.3
+              ]
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "crown-of-aragon",
         "parentId": null,
@@ -3569,7 +3679,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.5,
+              49
+            ],
+            [
+              6.5,
+              49
+            ],
+            [
+              7,
+              46.5
+            ],
+            [
+              5.5,
+              45.5
+            ],
+            [
+              3,
+              46
+            ],
+            [
+              2.5,
+              49
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "duchy-of-burgundy",
         "parentId": null,
@@ -4963,7 +5103,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19,
+              46
+            ],
+            [
+              28,
+              46.5
+            ],
+            [
+              29,
+              43
+            ],
+            [
+              26.5,
+              39.5
+            ],
+            [
+              22,
+              39
+            ],
+            [
+              19,
+              41
+            ],
+            [
+              19,
+              46
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "ottoman-balkans",
         "parentId": "ottoman-empire",
@@ -4986,7 +5160,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6,
+              37.5
+            ],
+            [
+              11.5,
+              37.5
+            ],
+            [
+              11,
+              33
+            ],
+            [
+              7,
+              32
+            ],
+            [
+              6,
+              34
+            ],
+            [
+              6,
+              37.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "hafsid-dynasty",
         "parentId": null,
@@ -6812,7 +7016,45 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              42
+            ],
+            [
+              36,
+              42
+            ],
+            [
+              44,
+              40
+            ],
+            [
+              44,
+              37
+            ],
+            [
+              36,
+              36
+            ],
+            [
+              28,
+              36.5
+            ],
+            [
+              26,
+              39
+            ],
+            [
+              26,
+              42
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "ottoman-anatolia",
         "parentId": "ottoman-empire",
@@ -7478,7 +7720,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              22
+            ],
+            [
+              106,
+              22
+            ],
+            [
+              106,
+              14
+            ],
+            [
+              102,
+              13
+            ],
+            [
+              100,
+              17
+            ],
+            [
+              100,
+              22
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "lan-xang",
         "parentId": null,
@@ -7501,7 +7773,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              114,
+              42
+            ],
+            [
+              120,
+              42
+            ],
+            [
+              120,
+              38
+            ],
+            [
+              114,
+              38
+            ],
+            [
+              114,
+              42
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "ming-beizhili",
         "parentId": "ming-dynasty",
@@ -7887,7 +8185,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              5
+            ],
+            [
+              105,
+              3
+            ],
+            [
+              105,
+              -1
+            ],
+            [
+              100,
+              0
+            ],
+            [
+              100,
+              5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "malacca-sultanate",
         "parentId": null,
@@ -7910,7 +8234,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126,
+              27.5
+            ],
+            [
+              129,
+              27.5
+            ],
+            [
+              129,
+              25.5
+            ],
+            [
+              126,
+              25.5
+            ],
+            [
+              126,
+              27.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "ryukyu-kingdom",
         "parentId": null,
@@ -8000,7 +8350,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5,
+              14
+            ],
+            [
+              10,
+              14
+            ],
+            [
+              11,
+              11
+            ],
+            [
+              7,
+              10
+            ],
+            [
+              5,
+              11
+            ],
+            [
+              5,
+              14
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "hausa-city-states",
         "parentId": null,
@@ -8023,7 +8403,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5,
+              8
+            ],
+            [
+              7.5,
+              8
+            ],
+            [
+              7.5,
+              5.5
+            ],
+            [
+              5,
+              5.5
+            ],
+            [
+              5,
+              8
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-benin",
         "parentId": null,
@@ -8046,7 +8452,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.5,
+              20
+            ],
+            [
+              -98.5,
+              20
+            ],
+            [
+              -98,
+              19
+            ],
+            [
+              -99,
+              19
+            ],
+            [
+              -99.5,
+              20
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "aztec-texcoco",
         "parentId": "aztec-empire",
@@ -8069,7 +8501,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100,
+              20
+            ],
+            [
+              -99.5,
+              20
+            ],
+            [
+              -99.2,
+              19
+            ],
+            [
+              -100,
+              19
+            ],
+            [
+              -100,
+              20
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "aztec-tlacopan",
         "parentId": "aztec-empire",
@@ -8092,7 +8550,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103,
+              20.5
+            ],
+            [
+              -100,
+              20.5
+            ],
+            [
+              -100,
+              18.5
+            ],
+            [
+              -102.5,
+              18.5
+            ],
+            [
+              -103,
+              20.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "tarascan-state",
         "parentId": null,
@@ -8115,7 +8599,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.5,
+              7.5
+            ],
+            [
+              -72.5,
+              7.5
+            ],
+            [
+              -72.5,
+              5
+            ],
+            [
+              -74,
+              4.5
+            ],
+            [
+              -74.5,
+              7.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "muisca-confederation",
         "parentId": null,

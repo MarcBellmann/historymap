@@ -3,7 +3,37 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              49.5
+            ],
+            [
+              13.5,
+              49
+            ],
+            [
+              13.5,
+              47
+            ],
+            [
+              10,
+              47
+            ],
+            [
+              9.5,
+              48.5
+            ],
+            [
+              10,
+              49.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "hre-bavaria",
         "parentId": "holy-roman-empire",
@@ -26,7 +56,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12,
+              51
+            ],
+            [
+              16.5,
+              51
+            ],
+            [
+              17,
+              49
+            ],
+            [
+              14.5,
+              48.5
+            ],
+            [
+              12,
+              48.5
+            ],
+            [
+              12,
+              50
+            ],
+            [
+              12,
+              51
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "hre-bohemia",
         "parentId": "holy-roman-empire",
@@ -3335,7 +3399,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19,
+              44.5
+            ],
+            [
+              22.5,
+              44.5
+            ],
+            [
+              23,
+              42
+            ],
+            [
+              21,
+              41
+            ],
+            [
+              19.5,
+              41.5
+            ],
+            [
+              18.5,
+              43
+            ],
+            [
+              19,
+              44.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "medieval-serbia",
         "parentId": null,
@@ -3358,7 +3456,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28,
+              62
+            ],
+            [
+              45,
+              63
+            ],
+            [
+              48,
+              58
+            ],
+            [
+              40,
+              55
+            ],
+            [
+              32,
+              56
+            ],
+            [
+              28,
+              58
+            ],
+            [
+              28,
+              62
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "novgorod-republic",
         "parentId": null,
@@ -3381,7 +3513,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18,
+              56
+            ],
+            [
+              22,
+              56
+            ],
+            [
+              23,
+              54
+            ],
+            [
+              21,
+              53
+            ],
+            [
+              18,
+              53.5
+            ],
+            [
+              18,
+              56
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "teutonic-state",
         "parentId": null,
@@ -3702,7 +3864,87 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -2,
+                42.5
+              ],
+              [
+                3,
+                42.5
+              ],
+              [
+                3.5,
+                40
+              ],
+              [
+                0,
+                37.5
+              ],
+              [
+                -2,
+                38.5
+              ],
+              [
+                -2,
+                42.5
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                8.1,
+                41.3
+              ],
+              [
+                9.8,
+                41.3
+              ],
+              [
+                9.8,
+                39
+              ],
+              [
+                8.1,
+                39
+              ],
+              [
+                8.1,
+                41.3
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.5,
+                38.3
+              ],
+              [
+                15.5,
+                38.3
+              ],
+              [
+                15.5,
+                36.6
+              ],
+              [
+                12.5,
+                36.6
+              ],
+              [
+                12.5,
+                38.3
+              ]
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "crown-of-aragon",
         "parentId": null,
@@ -5051,7 +5293,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25,
+              31.5
+            ],
+            [
+              35,
+              31.5
+            ],
+            [
+              35,
+              22
+            ],
+            [
+              32,
+              22
+            ],
+            [
+              29,
+              24
+            ],
+            [
+              25,
+              29
+            ],
+            [
+              25,
+              31.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "mamluk-egypt",
         "parentId": "mamluk-sultanate",
@@ -5074,7 +5350,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35,
+              37.5
+            ],
+            [
+              42,
+              37.5
+            ],
+            [
+              42,
+              31
+            ],
+            [
+              35,
+              29.5
+            ],
+            [
+              35,
+              37.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "mamluk-syria",
         "parentId": "mamluk-sultanate",
@@ -5097,7 +5399,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -12,
+              36
+            ],
+            [
+              -1,
+              36
+            ],
+            [
+              -1,
+              30
+            ],
+            [
+              -8,
+              28
+            ],
+            [
+              -13,
+              30
+            ],
+            [
+              -12,
+              36
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "marinid-dynasty",
         "parentId": null,
@@ -6252,7 +6584,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5,
+              18
+            ],
+            [
+              -1,
+              18
+            ],
+            [
+              -1,
+              15
+            ],
+            [
+              -4,
+              15
+            ],
+            [
+              -5,
+              18
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "mali-timbuktu",
         "parentId": "mali-empire",
@@ -6275,7 +6633,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4,
+              18
+            ],
+            [
+              2,
+              18
+            ],
+            [
+              2,
+              14
+            ],
+            [
+              -2,
+              13
+            ],
+            [
+              -4,
+              15
+            ],
+            [
+              -4,
+              18
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "mali-gao",
         "parentId": "mali-empire",
@@ -6385,7 +6773,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38,
+              -6
+            ],
+            [
+              40.5,
+              -6
+            ],
+            [
+              40.5,
+              -11
+            ],
+            [
+              38,
+              -11
+            ],
+            [
+              38,
+              -6
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kilwa-sultanate",
         "parentId": null,

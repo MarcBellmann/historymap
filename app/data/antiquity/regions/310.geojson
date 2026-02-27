@@ -598,7 +598,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              37
+            ],
+            [
+              48,
+              36
+            ],
+            [
+              48.5,
+              30
+            ],
+            [
+              44,
+              29
+            ],
+            [
+              42,
+              33
+            ],
+            [
+              42,
+              37
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "sasanian-mesopotamia",
         "parentId": "sasanian-empire",
@@ -621,7 +651,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53,
+              38
+            ],
+            [
+              62,
+              38
+            ],
+            [
+              63,
+              33
+            ],
+            [
+              57,
+              31
+            ],
+            [
+              53,
+              34
+            ],
+            [
+              53,
+              38
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "sasanian-khorasan",
         "parentId": "sasanian-empire",
@@ -911,7 +971,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              40
+            ],
+            [
+              120,
+              40
+            ],
+            [
+              122,
+              30
+            ],
+            [
+              112,
+              24
+            ],
+            [
+              104,
+              24
+            ],
+            [
+              100,
+              30
+            ],
+            [
+              100,
+              40
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "jin-dynasty-266",
         "parentId": null,

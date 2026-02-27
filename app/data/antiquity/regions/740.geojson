@@ -7488,7 +7488,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34,
+              37.5
+            ],
+            [
+              42,
+              37.5
+            ],
+            [
+              42,
+              29
+            ],
+            [
+              35,
+              29
+            ],
+            [
+              34,
+              33
+            ],
+            [
+              34,
+              37.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "umayyad-levant",
         "parentId": "umayyad-caliphate",
@@ -7511,7 +7541,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10,
+              36
+            ],
+            [
+              10,
+              37
+            ],
+            [
+              12,
+              33
+            ],
+            [
+              5,
+              30
+            ],
+            [
+              -5,
+              28
+            ],
+            [
+              -12,
+              30
+            ],
+            [
+              -10,
+              36
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "umayyad-maghreb",
         "parentId": "umayyad-caliphate",
@@ -9109,7 +9173,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              4
+            ],
+            [
+              106,
+              2
+            ],
+            [
+              108,
+              -3
+            ],
+            [
+              104,
+              -6
+            ],
+            [
+              98,
+              -4
+            ],
+            [
+              98,
+              4
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "srivijaya",
         "parentId": null,
@@ -9463,7 +9557,45 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130,
+              35
+            ],
+            [
+              136,
+              36
+            ],
+            [
+              140,
+              38
+            ],
+            [
+              141,
+              35
+            ],
+            [
+              137,
+              33
+            ],
+            [
+              132,
+              32.5
+            ],
+            [
+              130,
+              33
+            ],
+            [
+              130,
+              35
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "nara-japan",
         "parentId": null,
@@ -9613,7 +9745,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70,
+              -15
+            ],
+            [
+              -66,
+              -15.5
+            ],
+            [
+              -66,
+              -19
+            ],
+            [
+              -69,
+              -19.5
+            ],
+            [
+              -70,
+              -15
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "tiwanaku-state",
         "parentId": null,

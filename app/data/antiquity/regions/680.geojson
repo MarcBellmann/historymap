@@ -7108,7 +7108,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34,
+              37.5
+            ],
+            [
+              42,
+              37.5
+            ],
+            [
+              42,
+              29
+            ],
+            [
+              35,
+              29
+            ],
+            [
+              34,
+              33
+            ],
+            [
+              34,
+              37.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "umayyad-levant",
         "parentId": "umayyad-caliphate",
@@ -9327,7 +9357,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70,
+              -15
+            ],
+            [
+              -66,
+              -15.5
+            ],
+            [
+              -66,
+              -19
+            ],
+            [
+              -69,
+              -19.5
+            ],
+            [
+              -70,
+              -15
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "tiwanaku-state",
         "parentId": null,

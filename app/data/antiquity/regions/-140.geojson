@@ -2857,7 +2857,45 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85,
+              52
+            ],
+            [
+              110,
+              52
+            ],
+            [
+              120,
+              48
+            ],
+            [
+              115,
+              42
+            ],
+            [
+              105,
+              40
+            ],
+            [
+              95,
+              42
+            ],
+            [
+              85,
+              45
+            ],
+            [
+              85,
+              52
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "xiongnu",
         "parentId": null,
@@ -3663,7 +3701,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              40
+            ],
+            [
+              118,
+              42
+            ],
+            [
+              122,
+              35
+            ],
+            [
+              118,
+              25
+            ],
+            [
+              106,
+              24
+            ],
+            [
+              100,
+              30
+            ],
+            [
+              100,
+              40
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "western-han",
         "parentId": "han-dynasty",
@@ -3686,7 +3758,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76,
+              28
+            ],
+            [
+              86,
+              28
+            ],
+            [
+              88,
+              24
+            ],
+            [
+              82,
+              22
+            ],
+            [
+              76,
+              23
+            ],
+            [
+              76,
+              28
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "shunga-empire",
         "parentId": null,
@@ -3709,7 +3811,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32,
+              18
+            ],
+            [
+              36,
+              18
+            ],
+            [
+              36,
+              14.5
+            ],
+            [
+              33,
+              14
+            ],
+            [
+              32,
+              15.5
+            ],
+            [
+              32,
+              18
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kush-meroe",
         "parentId": "kingdom-of-kush",

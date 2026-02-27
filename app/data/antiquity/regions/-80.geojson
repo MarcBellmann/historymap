@@ -2754,7 +2754,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5,
+              33.2
+            ],
+            [
+              36,
+              33.2
+            ],
+            [
+              36.5,
+              31
+            ],
+            [
+              35.5,
+              30
+            ],
+            [
+              34.5,
+              30.5
+            ],
+            [
+              34.5,
+              33.2
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "hasmonean-kingdom",
         "parentId": null,
@@ -2777,7 +2807,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5,
+              31
+            ],
+            [
+              37,
+              31.5
+            ],
+            [
+              39,
+              29
+            ],
+            [
+              36.5,
+              27
+            ],
+            [
+              34.5,
+              28
+            ],
+            [
+              34.5,
+              31
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "nabataean-kingdom",
         "parentId": null,
@@ -2800,7 +2860,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36,
+              42
+            ],
+            [
+              41,
+              42
+            ],
+            [
+              42,
+              40
+            ],
+            [
+              38,
+              39
+            ],
+            [
+              36,
+              40
+            ],
+            [
+              36,
+              42
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-pontus",
         "parentId": null,
@@ -2823,7 +2913,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.5,
+              38
+            ],
+            [
+              39.5,
+              38
+            ],
+            [
+              39.5,
+              36.5
+            ],
+            [
+              37.5,
+              36.5
+            ],
+            [
+              37.5,
+              38
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "commagene",
         "parentId": null,
@@ -2846,7 +2962,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38,
+              41.5
+            ],
+            [
+              44,
+              42
+            ],
+            [
+              46,
+              40
+            ],
+            [
+              44,
+              37
+            ],
+            [
+              40,
+              37
+            ],
+            [
+              38,
+              39
+            ],
+            [
+              38,
+              41.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-armenia",
         "parentId": null,
@@ -2972,7 +3122,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              37
+            ],
+            [
+              48,
+              36
+            ],
+            [
+              48.5,
+              30
+            ],
+            [
+              44,
+              29
+            ],
+            [
+              42,
+              33
+            ],
+            [
+              42,
+              37
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "parthian-mesopotamia",
         "parentId": "parthian-empire",
@@ -2995,7 +3175,45 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85,
+              52
+            ],
+            [
+              110,
+              52
+            ],
+            [
+              120,
+              48
+            ],
+            [
+              115,
+              42
+            ],
+            [
+              105,
+              40
+            ],
+            [
+              95,
+              42
+            ],
+            [
+              85,
+              45
+            ],
+            [
+              85,
+              52
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "xiongnu",
         "parentId": null,
@@ -3801,7 +4019,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32,
+              18
+            ],
+            [
+              36,
+              18
+            ],
+            [
+              36,
+              14.5
+            ],
+            [
+              33,
+              14
+            ],
+            [
+              32,
+              15.5
+            ],
+            [
+              32,
+              18
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kush-meroe",
         "parentId": "kingdom-of-kush",

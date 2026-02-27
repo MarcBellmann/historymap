@@ -2302,7 +2302,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              37
+            ],
+            [
+              48,
+              36
+            ],
+            [
+              48.5,
+              30
+            ],
+            [
+              44,
+              29
+            ],
+            [
+              42,
+              33
+            ],
+            [
+              42,
+              37
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "sasanian-mesopotamia",
         "parentId": "sasanian-empire",
@@ -2325,7 +2355,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53,
+              38
+            ],
+            [
+              62,
+              38
+            ],
+            [
+              63,
+              33
+            ],
+            [
+              57,
+              31
+            ],
+            [
+              53,
+              34
+            ],
+            [
+              53,
+              38
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "sasanian-khorasan",
         "parentId": "sasanian-empire",
@@ -2961,7 +3021,45 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130,
+              35
+            ],
+            [
+              136,
+              36
+            ],
+            [
+              140,
+              38
+            ],
+            [
+              141,
+              35
+            ],
+            [
+              137,
+              33
+            ],
+            [
+              132,
+              32.5
+            ],
+            [
+              130,
+              33
+            ],
+            [
+              130,
+              35
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "yamato-japan",
         "parentId": null,

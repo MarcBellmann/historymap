@@ -3,7 +3,37 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.5,
+              43.5
+            ],
+            [
+              12.5,
+              43.5
+            ],
+            [
+              12.5,
+              42
+            ],
+            [
+              11.5,
+              41.5
+            ],
+            [
+              10,
+              42.5
+            ],
+            [
+              10.5,
+              43.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "etruscan-civilization",
         "parentId": null,
@@ -26,7 +56,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.8,
+              37.5
+            ],
+            [
+              22.8,
+              37.5
+            ],
+            [
+              22.8,
+              36.4
+            ],
+            [
+              22,
+              36.4
+            ],
+            [
+              21.5,
+              36.8
+            ],
+            [
+              21.8,
+              37.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "sparta",
         "parentId": null,
@@ -220,7 +280,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27,
+              40
+            ],
+            [
+              30,
+              40
+            ],
+            [
+              30,
+              37.5
+            ],
+            [
+              27,
+              37.5
+            ],
+            [
+              27,
+              40
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-lydia",
         "parentId": null,
@@ -243,7 +329,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              39
+            ],
+            [
+              52,
+              38
+            ],
+            [
+              54,
+              34
+            ],
+            [
+              48,
+              30
+            ],
+            [
+              44,
+              33
+            ],
+            [
+              44,
+              39
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "median-empire",
         "parentId": null,
@@ -789,7 +905,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108,
+              34
+            ],
+            [
+              117,
+              34
+            ],
+            [
+              117,
+              28
+            ],
+            [
+              110,
+              26
+            ],
+            [
+              108,
+              29
+            ],
+            [
+              108,
+              34
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "state-of-chu",
         "parentId": "eastern-zhou",
@@ -812,7 +958,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115,
+              38
+            ],
+            [
+              120,
+              38
+            ],
+            [
+              121,
+              35
+            ],
+            [
+              117,
+              34
+            ],
+            [
+              115,
+              35.5
+            ],
+            [
+              115,
+              38
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "state-of-qi",
         "parentId": "eastern-zhou",
@@ -835,7 +1011,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38,
+              16
+            ],
+            [
+              42,
+              15
+            ],
+            [
+              42,
+              13
+            ],
+            [
+              39,
+              12.5
+            ],
+            [
+              38,
+              14
+            ],
+            [
+              38,
+              16
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-dmt",
         "parentId": null,

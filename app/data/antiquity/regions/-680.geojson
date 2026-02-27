@@ -3,7 +3,37 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.5,
+              43.5
+            ],
+            [
+              12.5,
+              43.5
+            ],
+            [
+              12.5,
+              42
+            ],
+            [
+              11.5,
+              41.5
+            ],
+            [
+              10,
+              42.5
+            ],
+            [
+              10.5,
+              43.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "etruscan-civilization",
         "parentId": null,
@@ -26,7 +56,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36,
+              37.5
+            ],
+            [
+              46,
+              37.5
+            ],
+            [
+              46,
+              33
+            ],
+            [
+              40,
+              30
+            ],
+            [
+              35,
+              31
+            ],
+            [
+              34,
+              34
+            ],
+            [
+              36,
+              37.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "neo-assyrian-empire",
         "parentId": null,
@@ -128,7 +192,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34,
+              37
+            ],
+            [
+              36.5,
+              37
+            ],
+            [
+              36.5,
+              31
+            ],
+            [
+              34,
+              30
+            ],
+            [
+              34,
+              33
+            ],
+            [
+              34,
+              37
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "neo-assyrian-levant",
         "parentId": "neo-assyrian-empire",
@@ -674,7 +768,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108,
+              34
+            ],
+            [
+              117,
+              34
+            ],
+            [
+              117,
+              28
+            ],
+            [
+              110,
+              26
+            ],
+            [
+              108,
+              29
+            ],
+            [
+              108,
+              34
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "state-of-chu",
         "parentId": "eastern-zhou",
@@ -697,7 +821,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115,
+              38
+            ],
+            [
+              120,
+              38
+            ],
+            [
+              121,
+              35
+            ],
+            [
+              117,
+              34
+            ],
+            [
+              115,
+              35.5
+            ],
+            [
+              115,
+              38
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "state-of-qi",
         "parentId": "eastern-zhou",
@@ -720,7 +874,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30,
+              22
+            ],
+            [
+              36,
+              22
+            ],
+            [
+              36,
+              16
+            ],
+            [
+              32,
+              15
+            ],
+            [
+              30,
+              18
+            ],
+            [
+              30,
+              22
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-kush",
         "parentId": null,
@@ -743,7 +927,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30,
+              21
+            ],
+            [
+              34,
+              21
+            ],
+            [
+              34,
+              18
+            ],
+            [
+              31,
+              17.5
+            ],
+            [
+              30,
+              19
+            ],
+            [
+              30,
+              21
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kush-napata",
         "parentId": "kingdom-of-kush",
@@ -766,7 +980,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38,
+              16
+            ],
+            [
+              42,
+              15
+            ],
+            [
+              42,
+              13
+            ],
+            [
+              39,
+              12.5
+            ],
+            [
+              38,
+              14
+            ],
+            [
+              38,
+              16
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-dmt",
         "parentId": null,

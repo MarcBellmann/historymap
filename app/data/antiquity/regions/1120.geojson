@@ -2405,7 +2405,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9,
+              53.5
+            ],
+            [
+              13.5,
+              53.5
+            ],
+            [
+              14,
+              51
+            ],
+            [
+              12,
+              50.5
+            ],
+            [
+              9,
+              51.5
+            ],
+            [
+              9,
+              53.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "hre-saxony",
         "parentId": "holy-roman-empire",
@@ -5979,7 +6009,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5,
+              33.5
+            ],
+            [
+              36,
+              33.5
+            ],
+            [
+              36.5,
+              31
+            ],
+            [
+              35.5,
+              29.5
+            ],
+            [
+              34.5,
+              30
+            ],
+            [
+              34.5,
+              33.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-jerusalem",
         "parentId": null,
@@ -6002,7 +6062,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.5,
+              38.5
+            ],
+            [
+              40,
+              38.5
+            ],
+            [
+              40.5,
+              36.5
+            ],
+            [
+              38,
+              36
+            ],
+            [
+              37.5,
+              37
+            ],
+            [
+              37.5,
+              38.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "county-of-edessa",
         "parentId": null,
@@ -6025,7 +6115,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.5,
+              37
+            ],
+            [
+              37,
+              37
+            ],
+            [
+              37,
+              35
+            ],
+            [
+              36,
+              34.5
+            ],
+            [
+              35.5,
+              35.5
+            ],
+            [
+              35.5,
+              37
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "principality-of-antioch",
         "parentId": null,
@@ -6048,7 +6168,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35,
+              35
+            ],
+            [
+              36.5,
+              35
+            ],
+            [
+              36.5,
+              33.5
+            ],
+            [
+              35,
+              33.5
+            ],
+            [
+              35,
+              35
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "county-of-tripoli",
         "parentId": null,
@@ -6493,7 +6639,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102,
+              15
+            ],
+            [
+              106,
+              15.5
+            ],
+            [
+              107,
+              12.5
+            ],
+            [
+              104,
+              11
+            ],
+            [
+              102,
+              12
+            ],
+            [
+              102,
+              15
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "khmer-angkor-province",
         "parentId": "khmer-empire",
@@ -6516,7 +6692,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101,
+              17.5
+            ],
+            [
+              106,
+              17.5
+            ],
+            [
+              106,
+              14
+            ],
+            [
+              102,
+              14
+            ],
+            [
+              101,
+              17.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "khmer-isan",
         "parentId": "khmer-empire",
@@ -9220,7 +9422,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              40.5
+            ],
+            [
+              107,
+              41
+            ],
+            [
+              107,
+              37
+            ],
+            [
+              104,
+              35.5
+            ],
+            [
+              100,
+              37
+            ],
+            [
+              100,
+              40.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "western-xia",
         "parentId": null,
@@ -9243,7 +9475,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91,
+              21
+            ],
+            [
+              -87,
+              21.5
+            ],
+            [
+              -87,
+              15
+            ],
+            [
+              -91.5,
+              14.5
+            ],
+            [
+              -92,
+              17
+            ],
+            [
+              -91,
+              21
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "maya-postclassic",
         "parentId": null,

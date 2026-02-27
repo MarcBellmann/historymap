@@ -3,7 +3,67 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -5.5,
+                58
+              ],
+              [
+                -1,
+                58
+              ],
+              [
+                1.5,
+                53
+              ],
+              [
+                1.5,
+                50.5
+              ],
+              [
+                -5.5,
+                50
+              ],
+              [
+                -5.5,
+                55
+              ],
+              [
+                -5.5,
+                58
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -10.5,
+                55.5
+              ],
+              [
+                -6,
+                55.5
+              ],
+              [
+                -6,
+                51.5
+              ],
+              [
+                -10.5,
+                51.5
+              ],
+              [
+                -10.5,
+                55.5
+              ]
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-great-britain",
         "parentId": null,
@@ -2399,7 +2459,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              60
+            ],
+            [
+              30,
+              60.5
+            ],
+            [
+              32,
+              64
+            ],
+            [
+              28,
+              70
+            ],
+            [
+              22,
+              68
+            ],
+            [
+              20,
+              63
+            ],
+            [
+              20,
+              60
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "russian-finland",
         "parentId": "russian-empire",
@@ -4278,7 +4372,87 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -5.5,
+                58
+              ],
+              [
+                1.5,
+                58
+              ],
+              [
+                1.5,
+                50
+              ],
+              [
+                -5.5,
+                50
+              ],
+              [
+                -5.5,
+                58
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                68,
+                28
+              ],
+              [
+                88,
+                28
+              ],
+              [
+                88,
+                8
+              ],
+              [
+                77,
+                8
+              ],
+              [
+                68,
+                20
+              ],
+              [
+                68,
+                28
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                113,
+                -14
+              ],
+              [
+                153,
+                -14
+              ],
+              [
+                153,
+                -38
+              ],
+              [
+                113,
+                -38
+              ],
+              [
+                113,
+                -14
+              ]
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "british-empire",
         "parentId": null,
@@ -4672,7 +4846,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.5,
+              1
+            ],
+            [
+              33,
+              1
+            ],
+            [
+              33,
+              -1
+            ],
+            [
+              31.5,
+              -1
+            ],
+            [
+              31.5,
+              1
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "buganda-kingdom",
         "parentId": null,

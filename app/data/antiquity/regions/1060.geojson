@@ -1858,7 +1858,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2,
+              49.5
+            ],
+            [
+              1.5,
+              49.8
+            ],
+            [
+              1.5,
+              48.5
+            ],
+            [
+              -1.5,
+              48.3
+            ],
+            [
+              -2,
+              49
+            ],
+            [
+              -2,
+              49.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "viking-normandy",
         "parentId": "viking-realms",
@@ -2428,7 +2458,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9,
+              53.5
+            ],
+            [
+              13.5,
+              53.5
+            ],
+            [
+              14,
+              51
+            ],
+            [
+              12,
+              50.5
+            ],
+            [
+              9,
+              51.5
+            ],
+            [
+              9,
+              53.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "hre-saxony",
         "parentId": "holy-roman-empire",
@@ -4096,7 +4156,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              39
+            ],
+            [
+              60,
+              39
+            ],
+            [
+              62,
+              33
+            ],
+            [
+              55,
+              28
+            ],
+            [
+              44,
+              30
+            ],
+            [
+              44,
+              39
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "seljuk-persia",
         "parentId": "seljuk-empire",
@@ -4119,7 +4209,45 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130,
+              35
+            ],
+            [
+              136,
+              36
+            ],
+            [
+              140,
+              38
+            ],
+            [
+              141,
+              35
+            ],
+            [
+              137,
+              33
+            ],
+            [
+              132,
+              32.5
+            ],
+            [
+              130,
+              33
+            ],
+            [
+              130,
+              35
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "heian-japan",
         "parentId": null,
@@ -4142,7 +4270,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101,
+              17.5
+            ],
+            [
+              106,
+              17.5
+            ],
+            [
+              106,
+              14
+            ],
+            [
+              102,
+              14
+            ],
+            [
+              101,
+              17.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "khmer-isan",
         "parentId": "khmer-empire",
@@ -6308,7 +6462,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              28
+            ],
+            [
+              104,
+              28
+            ],
+            [
+              104,
+              23
+            ],
+            [
+              100,
+              22
+            ],
+            [
+              98,
+              24
+            ],
+            [
+              98,
+              28
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-dali",
         "parentId": null,
@@ -6790,7 +6974,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104,
+              40
+            ],
+            [
+              120,
+              38
+            ],
+            [
+              122,
+              30
+            ],
+            [
+              112,
+              24
+            ],
+            [
+              104,
+              24
+            ],
+            [
+              104,
+              40
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "northern-song",
         "parentId": "song-dynasty",
@@ -6992,7 +7206,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              40.5
+            ],
+            [
+              107,
+              41
+            ],
+            [
+              107,
+              37
+            ],
+            [
+              104,
+              35.5
+            ],
+            [
+              100,
+              37
+            ],
+            [
+              100,
+              40.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "western-xia",
         "parentId": null,
@@ -7082,7 +7326,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91,
+              21
+            ],
+            [
+              -87,
+              21.5
+            ],
+            [
+              -87,
+              15
+            ],
+            [
+              -91.5,
+              14.5
+            ],
+            [
+              -92,
+              17
+            ],
+            [
+              -91,
+              21
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "maya-postclassic",
         "parentId": null,

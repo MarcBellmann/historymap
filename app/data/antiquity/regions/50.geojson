@@ -5265,7 +5265,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.5,
+              48
+            ],
+            [
+              19,
+              48.5
+            ],
+            [
+              21.5,
+              46.5
+            ],
+            [
+              20,
+              44.5
+            ],
+            [
+              16,
+              44.5
+            ],
+            [
+              14,
+              46
+            ],
+            [
+              14.5,
+              48
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "roman-pannonia",
         "parentId": "roman-empire",
@@ -5288,7 +5322,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5,
+              31
+            ],
+            [
+              37,
+              31.5
+            ],
+            [
+              39,
+              29
+            ],
+            [
+              36.5,
+              27
+            ],
+            [
+              34.5,
+              28
+            ],
+            [
+              34.5,
+              31
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "nabataean-kingdom",
         "parentId": null,
@@ -5414,7 +5478,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              37
+            ],
+            [
+              48,
+              36
+            ],
+            [
+              48.5,
+              30
+            ],
+            [
+              44,
+              29
+            ],
+            [
+              42,
+              33
+            ],
+            [
+              42,
+              37
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "parthian-mesopotamia",
         "parentId": "parthian-empire",
@@ -6220,7 +6314,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              40
+            ],
+            [
+              118,
+              42
+            ],
+            [
+              122,
+              35
+            ],
+            [
+              118,
+              25
+            ],
+            [
+              106,
+              24
+            ],
+            [
+              100,
+              30
+            ],
+            [
+              100,
+              40
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "eastern-han",
         "parentId": "han-dynasty",
@@ -6243,7 +6371,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32,
+              18
+            ],
+            [
+              36,
+              18
+            ],
+            [
+              36,
+              14.5
+            ],
+            [
+              33,
+              14
+            ],
+            [
+              32,
+              15.5
+            ],
+            [
+              32,
+              18
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kush-meroe",
         "parentId": "kingdom-of-kush",

@@ -174,7 +174,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5,
+              33
+            ],
+            [
+              36,
+              33.5
+            ],
+            [
+              36,
+              31.5
+            ],
+            [
+              35,
+              31
+            ],
+            [
+              34.5,
+              31.5
+            ],
+            [
+              34.5,
+              33
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-israel",
         "parentId": null,
@@ -197,7 +227,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5,
+              31.8
+            ],
+            [
+              35.5,
+              32
+            ],
+            [
+              35.5,
+              30.5
+            ],
+            [
+              34.5,
+              30.5
+            ],
+            [
+              34.5,
+              31.8
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-judah",
         "parentId": null,
@@ -220,7 +276,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35,
+              34.5
+            ],
+            [
+              36.5,
+              34.5
+            ],
+            [
+              36.5,
+              32.5
+            ],
+            [
+              35,
+              32
+            ],
+            [
+              35,
+              34.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "phoenicia",
         "parentId": null,
@@ -243,7 +325,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104,
+              38
+            ],
+            [
+              114,
+              38
+            ],
+            [
+              117,
+              34
+            ],
+            [
+              114,
+              31
+            ],
+            [
+              108,
+              30
+            ],
+            [
+              104,
+              33
+            ],
+            [
+              104,
+              38
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "western-zhou",
         "parentId": null,

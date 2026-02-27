@@ -7108,7 +7108,45 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25,
+              37
+            ],
+            [
+              55,
+              37
+            ],
+            [
+              60,
+              30
+            ],
+            [
+              55,
+              22
+            ],
+            [
+              40,
+              15
+            ],
+            [
+              35,
+              20
+            ],
+            [
+              25,
+              30
+            ],
+            [
+              25,
+              37
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "rashidun-caliphate",
         "parentId": null,
@@ -8161,7 +8199,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70,
+              -15
+            ],
+            [
+              -66,
+              -15.5
+            ],
+            [
+              -66,
+              -19
+            ],
+            [
+              -69,
+              -19.5
+            ],
+            [
+              -70,
+              -15
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "tiwanaku-state",
         "parentId": null,

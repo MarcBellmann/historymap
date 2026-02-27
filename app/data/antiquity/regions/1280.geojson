@@ -3,7 +3,37 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              49.5
+            ],
+            [
+              13.5,
+              49
+            ],
+            [
+              13.5,
+              47
+            ],
+            [
+              10,
+              47
+            ],
+            [
+              9.5,
+              48.5
+            ],
+            [
+              10,
+              49.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "hre-bavaria",
         "parentId": "holy-roman-empire",
@@ -2961,7 +2991,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28,
+              62
+            ],
+            [
+              45,
+              63
+            ],
+            [
+              48,
+              58
+            ],
+            [
+              40,
+              55
+            ],
+            [
+              32,
+              56
+            ],
+            [
+              28,
+              58
+            ],
+            [
+              28,
+              62
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "novgorod-republic",
         "parentId": null,
@@ -5003,7 +5067,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25,
+              31.5
+            ],
+            [
+              35,
+              31.5
+            ],
+            [
+              35,
+              22
+            ],
+            [
+              32,
+              22
+            ],
+            [
+              29,
+              24
+            ],
+            [
+              25,
+              29
+            ],
+            [
+              25,
+              31.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "mamluk-egypt",
         "parentId": "mamluk-sultanate",
@@ -5026,7 +5124,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35,
+              37.5
+            ],
+            [
+              42,
+              37.5
+            ],
+            [
+              42,
+              31
+            ],
+            [
+              35,
+              29.5
+            ],
+            [
+              35,
+              37.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "mamluk-syria",
         "parentId": "mamluk-sultanate",
@@ -7370,7 +7494,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38,
+              -6
+            ],
+            [
+              40.5,
+              -6
+            ],
+            [
+              40.5,
+              -11
+            ],
+            [
+              38,
+              -11
+            ],
+            [
+              38,
+              -6
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kilwa-sultanate",
         "parentId": null,

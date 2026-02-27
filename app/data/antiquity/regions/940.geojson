@@ -3729,7 +3729,67 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                5,
+                58
+              ],
+              [
+                12,
+                58
+              ],
+              [
+                18,
+                62
+              ],
+              [
+                15,
+                68
+              ],
+              [
+                10,
+                65
+              ],
+              [
+                5,
+                61
+              ],
+              [
+                5,
+                58
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -24,
+                64
+              ],
+              [
+                -14,
+                64
+              ],
+              [
+                -14,
+                66.5
+              ],
+              [
+                -24,
+                66.5
+              ],
+              [
+                -24,
+                64
+              ]
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "viking-realms",
         "parentId": null,
@@ -3752,7 +3812,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2,
+              49.5
+            ],
+            [
+              1.5,
+              49.8
+            ],
+            [
+              1.5,
+              48.5
+            ],
+            [
+              -1.5,
+              48.3
+            ],
+            [
+              -2,
+              49
+            ],
+            [
+              -2,
+              49.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "viking-normandy",
         "parentId": "viking-realms",
@@ -4002,7 +4092,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5,
+              36
+            ],
+            [
+              10,
+              37
+            ],
+            [
+              12,
+              30
+            ],
+            [
+              0,
+              28
+            ],
+            [
+              -5,
+              30
+            ],
+            [
+              -5,
+              36
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "fatimid-maghreb",
         "parentId": "fatimid-caliphate",
@@ -4208,7 +4328,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              4
+            ],
+            [
+              106,
+              2
+            ],
+            [
+              108,
+              -3
+            ],
+            [
+              104,
+              -6
+            ],
+            [
+              98,
+              -4
+            ],
+            [
+              98,
+              4
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "srivijaya",
         "parentId": null,
@@ -4231,7 +4381,45 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130,
+              35
+            ],
+            [
+              136,
+              36
+            ],
+            [
+              140,
+              38
+            ],
+            [
+              141,
+              35
+            ],
+            [
+              137,
+              33
+            ],
+            [
+              132,
+              32.5
+            ],
+            [
+              130,
+              33
+            ],
+            [
+              130,
+              35
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "heian-japan",
         "parentId": null,
@@ -4254,7 +4442,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              28
+            ],
+            [
+              104,
+              28
+            ],
+            [
+              104,
+              23
+            ],
+            [
+              100,
+              22
+            ],
+            [
+              98,
+              24
+            ],
+            [
+              98,
+              28
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kingdom-of-dali",
         "parentId": null,

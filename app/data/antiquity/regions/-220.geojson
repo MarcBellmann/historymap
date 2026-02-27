@@ -5717,7 +5717,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6,
+              10.5
+            ],
+            [
+              9,
+              10.5
+            ],
+            [
+              9,
+              8
+            ],
+            [
+              7,
+              7.5
+            ],
+            [
+              6,
+              8.5
+            ],
+            [
+              6,
+              10.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "nok-culture",
         "parentId": null,

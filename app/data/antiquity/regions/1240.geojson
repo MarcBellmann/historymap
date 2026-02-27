@@ -550,7 +550,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              49.5
+            ],
+            [
+              13.5,
+              49
+            ],
+            [
+              13.5,
+              47
+            ],
+            [
+              10,
+              47
+            ],
+            [
+              9.5,
+              48.5
+            ],
+            [
+              10,
+              49.5
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "hre-bavaria",
         "parentId": "holy-roman-empire",
@@ -4332,7 +4362,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.5,
+              44
+            ],
+            [
+              27.5,
+              44.5
+            ],
+            [
+              28.5,
+              43
+            ],
+            [
+              27,
+              41.5
+            ],
+            [
+              24,
+              41
+            ],
+            [
+              22,
+              42
+            ],
+            [
+              22.5,
+              44
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "second-bulgarian-empire",
         "parentId": null,
@@ -4355,7 +4419,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28,
+              62
+            ],
+            [
+              45,
+              63
+            ],
+            [
+              48,
+              58
+            ],
+            [
+              40,
+              55
+            ],
+            [
+              32,
+              56
+            ],
+            [
+              28,
+              58
+            ],
+            [
+              28,
+              62
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "novgorod-republic",
         "parentId": null,
@@ -5148,7 +5246,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29,
+              41
+            ],
+            [
+              38,
+              41
+            ],
+            [
+              40,
+              38
+            ],
+            [
+              36,
+              36.5
+            ],
+            [
+              29,
+              37.5
+            ],
+            [
+              29,
+              41
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "sultanate-of-rum",
         "parentId": null,
@@ -7340,7 +7468,33 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38,
+              -6
+            ],
+            [
+              40.5,
+              -6
+            ],
+            [
+              40.5,
+              -11
+            ],
+            [
+              38,
+              -11
+            ],
+            [
+              38,
+              -6
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "kilwa-sultanate",
         "parentId": null,

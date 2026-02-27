@@ -2706,7 +2706,45 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.5,
+              55
+            ],
+            [
+              -1,
+              55
+            ],
+            [
+              1.5,
+              53
+            ],
+            [
+              1.5,
+              51
+            ],
+            [
+              -1,
+              50.5
+            ],
+            [
+              -5,
+              50.5
+            ],
+            [
+              -5.5,
+              52
+            ],
+            [
+              -5.5,
+              55
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "roman-britannia",
         "parentId": "roman-empire",
@@ -7991,7 +8029,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22,
+              48
+            ],
+            [
+              27,
+              48.5
+            ],
+            [
+              29,
+              46
+            ],
+            [
+              27,
+              43.5
+            ],
+            [
+              23,
+              43.5
+            ],
+            [
+              21,
+              45.5
+            ],
+            [
+              22,
+              48
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "roman-dacia",
         "parentId": "roman-empire",
@@ -8014,7 +8086,41 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.5,
+              48
+            ],
+            [
+              19,
+              48.5
+            ],
+            [
+              21.5,
+              46.5
+            ],
+            [
+              20,
+              44.5
+            ],
+            [
+              16,
+              44.5
+            ],
+            [
+              14,
+              46
+            ],
+            [
+              14.5,
+              48
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "roman-pannonia",
         "parentId": "roman-empire",
@@ -8037,7 +8143,37 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73,
+              22
+            ],
+            [
+              80,
+              22
+            ],
+            [
+              81,
+              16
+            ],
+            [
+              77,
+              14
+            ],
+            [
+              73,
+              17
+            ],
+            [
+              73,
+              22
+            ]
+          ]
+        ]
+      },
       "properties": {
         "id": "satavahana-dynasty",
         "parentId": null,

@@ -17,7 +17,49 @@
       "de": "Spätbronzezeitliche Zivilisation auf dem griechischen Festland mit Palastzentren in Mykene, Tiryns und Pylos. Erste hochentwickelte griechische Kultur mit eigenem Schriftsystem (Linear B).",
       "en": "Late Bronze Age civilization on the Greek mainland with palace centers at Mycenae, Tiryns, and Pylos. The first advanced Greek civilization with its own writing system (Linear B)."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            21.5,
+            39.5
+          ],
+          [
+            24.0,
+            40.5
+          ],
+          [
+            26.5,
+            39.0
+          ],
+          [
+            26.0,
+            37.5
+          ],
+          [
+            24.5,
+            36.0
+          ],
+          [
+            23.0,
+            36.5
+          ],
+          [
+            21.0,
+            37.0
+          ],
+          [
+            20.5,
+            38.5
+          ],
+          [
+            21.5,
+            39.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "etruscan-civilization",
@@ -37,7 +79,37 @@
       "de": "Bedeutende vorrömische Zivilisation in Mittelitalien, organisiert als Bund von Stadtstaaten. Kulturell einflussreich für die Entwicklung Roms.",
       "en": "Major pre-Roman civilization in central Italy, organized as a federation of city-states. Culturally influential in the development of Rome."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            10.5,
+            43.5
+          ],
+          [
+            12.5,
+            43.5
+          ],
+          [
+            12.5,
+            42.0
+          ],
+          [
+            11.5,
+            41.5
+          ],
+          [
+            10.0,
+            42.5
+          ],
+          [
+            10.5,
+            43.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "celtic-europe",
@@ -873,7 +945,49 @@
       "de": "Reich der iranischen Reiternomaden nördlich des Schwarzen Meeres. Berühmt für ihre Goldkunst und Reiterkampftechnik.",
       "en": "Realm of the Iranian equestrian nomads north of the Black Sea. Renowned for their gold artwork and mounted warfare."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            25.0,
+            50.0
+          ],
+          [
+            40.0,
+            52.0
+          ],
+          [
+            55.0,
+            50.0
+          ],
+          [
+            60.0,
+            45.0
+          ],
+          [
+            50.0,
+            42.0
+          ],
+          [
+            40.0,
+            43.0
+          ],
+          [
+            30.0,
+            45.0
+          ],
+          [
+            25.0,
+            47.0
+          ],
+          [
+            25.0,
+            50.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "classical-athens",
@@ -2021,7 +2135,37 @@
       "de": "Führende Militärmacht im antiken Griechenland mit einzigartiger Gesellschaftsordnung. Siegte im Peloponnesischen Krieg über Athen.",
       "en": "Leading military power in ancient Greece with a unique social order. Defeated Athens in the Peloponnesian War."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            21.8,
+            37.5
+          ],
+          [
+            22.8,
+            37.5
+          ],
+          [
+            22.8,
+            36.4
+          ],
+          [
+            22.0,
+            36.4
+          ],
+          [
+            21.5,
+            36.8
+          ],
+          [
+            21.8,
+            37.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "odrysian-kingdom",
@@ -2273,7 +2417,45 @@
       "de": "Unter Philipp II. und Alexander dem Großen zur Hegemonialmacht über Griechenland aufgestiegen. Ausgangspunkt des hellenistischen Weltreichs.",
       "en": "Rose to hegemony over Greece under Philip II and Alexander the Great. Starting point of the Hellenistic world empire."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            20.5,
+            41.5
+          ],
+          [
+            24.0,
+            41.5
+          ],
+          [
+            26.0,
+            41.0
+          ],
+          [
+            26.5,
+            39.5
+          ],
+          [
+            24.0,
+            39.0
+          ],
+          [
+            22.0,
+            39.5
+          ],
+          [
+            20.0,
+            40.0
+          ],
+          [
+            20.5,
+            41.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-epirus",
@@ -2293,7 +2475,37 @@
       "de": "Griechisches Königreich im Nordwesten Griechenlands. Unter König Pyrrhus kurzzeitig eine bedeutende hellenistische Macht.",
       "en": "Greek kingdom in northwestern Greece. Briefly a significant Hellenistic power under King Pyrrhus."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            19.5,
+            40.5
+          ],
+          [
+            21.0,
+            40.5
+          ],
+          [
+            21.5,
+            39.5
+          ],
+          [
+            20.5,
+            38.5
+          ],
+          [
+            19.0,
+            39.5
+          ],
+          [
+            19.5,
+            40.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "roman-republic",
@@ -7761,7 +7973,45 @@
       "de": "Römische Provinz auf der britischen Insel, geschützt durch den Hadrianswall im Norden.",
       "en": "Roman province on the British Isles, defended by Hadrian's Wall in the north."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -5.5,
+            55.0
+          ],
+          [
+            -1.0,
+            55.0
+          ],
+          [
+            1.5,
+            53.0
+          ],
+          [
+            1.5,
+            51.0
+          ],
+          [
+            -1.0,
+            50.5
+          ],
+          [
+            -5.0,
+            50.5
+          ],
+          [
+            -5.5,
+            52.0
+          ],
+          [
+            -5.5,
+            55.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "roman-gaul",
@@ -13037,7 +13287,41 @@
       "de": "Unter Kaiser Trajan eroberte Provinz nördlich der Donau, reich an Goldvorkommen.",
       "en": "Province conquered north of the Danube under Emperor Trajan, rich in gold deposits."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            22.0,
+            48.0
+          ],
+          [
+            27.0,
+            48.5
+          ],
+          [
+            29.0,
+            46.0
+          ],
+          [
+            27.0,
+            43.5
+          ],
+          [
+            23.0,
+            43.5
+          ],
+          [
+            21.0,
+            45.5
+          ],
+          [
+            22.0,
+            48.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "roman-pannonia",
@@ -13057,7 +13341,41 @@
       "de": "Grenzprovinz an der mittleren Donau, wichtiges Rekrutierungsgebiet der römischen Armee.",
       "en": "Border province on the middle Danube, an important recruiting ground for the Roman army."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            14.5,
+            48.0
+          ],
+          [
+            19.0,
+            48.5
+          ],
+          [
+            21.5,
+            46.5
+          ],
+          [
+            20.0,
+            44.5
+          ],
+          [
+            16.0,
+            44.5
+          ],
+          [
+            14.0,
+            46.0
+          ],
+          [
+            14.5,
+            48.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "dacian-kingdom",
@@ -20745,7 +21063,41 @@
       "de": "Mittelalterliches Reich auf dem Balkan, gegründet von turkstämmigen Bulgaren und slawischen Stämmen. Unter Simeon I. kulturelle Blütezeit.",
       "en": "Medieval realm in the Balkans, founded by Turkic Bulgars and Slavic tribes. Cultural golden age under Simeon I."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            22.0,
+            44.5
+          ],
+          [
+            28.0,
+            45.0
+          ],
+          [
+            29.0,
+            43.0
+          ],
+          [
+            27.5,
+            41.5
+          ],
+          [
+            24.0,
+            41.0
+          ],
+          [
+            22.0,
+            42.0
+          ],
+          [
+            22.0,
+            44.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-lombardy",
@@ -21061,7 +21413,67 @@
       "de": "Skandinavische Seefahrer und Krieger, die weite Teile Europas besiedelten und eroberten. Gründeten Reiche von Russland bis Normandie.",
       "en": "Scandinavian seafarers and warriors who settled and conquered across Europe. Founded realms from Russia to Normandy."
     },
-    "geometry": null
+    "geometry": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              5.0,
+              58.0
+            ],
+            [
+              12.0,
+              58.0
+            ],
+            [
+              18.0,
+              62.0
+            ],
+            [
+              15.0,
+              68.0
+            ],
+            [
+              10.0,
+              65.0
+            ],
+            [
+              5.0,
+              61.0
+            ],
+            [
+              5.0,
+              58.0
+            ]
+          ]
+        ],
+        [
+          [
+            [
+              -24.0,
+              64.0
+            ],
+            [
+              -14.0,
+              64.0
+            ],
+            [
+              -14.0,
+              66.5
+            ],
+            [
+              -24.0,
+              66.5
+            ],
+            [
+              -24.0,
+              64.0
+            ]
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "viking-danelaw",
@@ -21081,7 +21493,37 @@
       "de": "Von dänischen Wikingern beherrschtes Gebiet in Ost- und Nordengland.",
       "en": "Territory in eastern and northern England ruled by Danish Vikings."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -2.0,
+            54.5
+          ],
+          [
+            1.5,
+            54.5
+          ],
+          [
+            1.5,
+            52.0
+          ],
+          [
+            -1.0,
+            51.5
+          ],
+          [
+            -2.5,
+            53.0
+          ],
+          [
+            -2.0,
+            54.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "viking-normandy",
@@ -21101,7 +21543,37 @@
       "de": "Von normannischen Wikingern gegründetes Herzogtum in Nordfrankreich. Ausgangspunkt der Eroberung Englands 1066.",
       "en": "Duchy in northern France founded by Norman Vikings. Launching point for the conquest of England in 1066."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -2.0,
+            49.5
+          ],
+          [
+            1.5,
+            49.8
+          ],
+          [
+            1.5,
+            48.5
+          ],
+          [
+            -1.5,
+            48.3
+          ],
+          [
+            -2.0,
+            49.0
+          ],
+          [
+            -2.0,
+            49.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kievan-rus",
@@ -21121,7 +21593,45 @@
       "de": "Erster ostslawischer Staat, gegründet von Warägerfürsten. Nahm 988 unter Wladimir I. das Christentum an und prägte die Kultur Osteuropas.",
       "en": "First East Slavic state, founded by Varangian princes. Adopted Christianity in 988 under Vladimir I, shaping Eastern European culture."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            24.0,
+            55.0
+          ],
+          [
+            38.0,
+            58.0
+          ],
+          [
+            42.0,
+            55.0
+          ],
+          [
+            40.0,
+            50.0
+          ],
+          [
+            35.0,
+            48.0
+          ],
+          [
+            30.0,
+            48.0
+          ],
+          [
+            24.0,
+            50.0
+          ],
+          [
+            24.0,
+            55.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "holy-roman-empire",
@@ -21685,7 +22195,37 @@
       "de": "Mächtiges Stammesherzogtum im Norden des Reiches, Heimat der ottonischen Kaiserdynastie.",
       "en": "Powerful stem duchy in the north of the empire, homeland of the Ottonian imperial dynasty."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            9.0,
+            53.5
+          ],
+          [
+            13.5,
+            53.5
+          ],
+          [
+            14.0,
+            51.0
+          ],
+          [
+            12.0,
+            50.5
+          ],
+          [
+            9.0,
+            51.5
+          ],
+          [
+            9.0,
+            53.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "hre-bavaria",
@@ -21705,7 +22245,37 @@
       "de": "Eines der ältesten Herzogtümer des Reiches, unter den Wittelsbachern zu großer Macht gelangt.",
       "en": "One of the oldest duchies of the empire, rising to great power under the Wittelsbach dynasty."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            10.0,
+            49.5
+          ],
+          [
+            13.5,
+            49.0
+          ],
+          [
+            13.5,
+            47.0
+          ],
+          [
+            10.0,
+            47.0
+          ],
+          [
+            9.5,
+            48.5
+          ],
+          [
+            10.0,
+            49.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "hre-bohemia",
@@ -21725,7 +22295,41 @@
       "de": "Kurfürstentum und Königreich im Heiligen Römischen Reich. Unter Karl IV. Zentrum des Reiches mit der Gründung der Universität Prag.",
       "en": "Electorate and kingdom within the Holy Roman Empire. Center of the empire under Charles IV, who founded the University of Prague."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            12.0,
+            51.0
+          ],
+          [
+            16.5,
+            51.0
+          ],
+          [
+            17.0,
+            49.0
+          ],
+          [
+            14.5,
+            48.5
+          ],
+          [
+            12.0,
+            48.5
+          ],
+          [
+            12.0,
+            50.0
+          ],
+          [
+            12.0,
+            51.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "hre-swabia",
@@ -25079,7 +25683,49 @@
       "de": "Skandinavisches Königreich, das im 17. Jahrhundert zur Großmacht am Baltikum aufstieg. Unter Gustav Adolf Schlüsselmacht im Dreißigjährigen Krieg.",
       "en": "Scandinavian kingdom that rose to Baltic great power status in the 17th century. Key power in the Thirty Years' War under Gustavus Adolphus."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.0,
+            56.0
+          ],
+          [
+            15.0,
+            56.0
+          ],
+          [
+            20.0,
+            60.0
+          ],
+          [
+            24.0,
+            64.0
+          ],
+          [
+            20.0,
+            68.0
+          ],
+          [
+            15.0,
+            69.0
+          ],
+          [
+            12.0,
+            63.0
+          ],
+          [
+            11.0,
+            58.0
+          ],
+          [
+            11.0,
+            56.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kalmar-union",
@@ -32695,7 +33341,41 @@
       "de": "Wiederhergestelltes bulgarisches Reich nach erfolgreicher Rebellion gegen Byzanz. Unter Iwan Asen II. dominierende Macht auf dem Balkan.",
       "en": "Restored Bulgarian state after a successful rebellion against Byzantium. Dominant Balkan power under Ivan Asen II."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            22.5,
+            44.0
+          ],
+          [
+            27.5,
+            44.5
+          ],
+          [
+            28.5,
+            43.0
+          ],
+          [
+            27.0,
+            41.5
+          ],
+          [
+            24.0,
+            41.0
+          ],
+          [
+            22.0,
+            42.0
+          ],
+          [
+            22.5,
+            44.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "medieval-serbia",
@@ -32715,7 +33395,41 @@
       "de": "Unter der Nemanjic-Dynastie zu einem mächtigen Balkanstaat aufgestiegen. Unter Stefan Dusan 1346 zum Kaiserreich erhoben.",
       "en": "Rose to a powerful Balkan state under the Nemanjic dynasty. Elevated to an empire under Stefan Dusan in 1346."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            19.0,
+            44.5
+          ],
+          [
+            22.5,
+            44.5
+          ],
+          [
+            23.0,
+            42.0
+          ],
+          [
+            21.0,
+            41.0
+          ],
+          [
+            19.5,
+            41.5
+          ],
+          [
+            18.5,
+            43.0
+          ],
+          [
+            19.0,
+            44.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "novgorod-republic",
@@ -32735,7 +33449,41 @@
       "de": "Mittelalterliche Stadtrepublik im Nordwesten Russlands, östlichster Handelsposten der Hanse. Berühmt für ihre Ikonenmalerei.",
       "en": "Medieval city-state republic in northwestern Russia, easternmost trading post of the Hanseatic League. Famous for its icon painting."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            28.0,
+            62.0
+          ],
+          [
+            45.0,
+            63.0
+          ],
+          [
+            48.0,
+            58.0
+          ],
+          [
+            40.0,
+            55.0
+          ],
+          [
+            32.0,
+            56.0
+          ],
+          [
+            28.0,
+            58.0
+          ],
+          [
+            28.0,
+            62.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "teutonic-state",
@@ -32755,7 +33503,37 @@
       "de": "Kreuzfahrerstaat des Deutschen Ordens im Baltikum und Preußen. Bedeutende Macht in der Ostseeregion bis zur Niederlage bei Tannenberg 1410.",
       "en": "Crusader state of the Teutonic Order in the Baltic and Prussia. Major power in the Baltic region until defeat at Tannenberg in 1410."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            18.0,
+            56.0
+          ],
+          [
+            22.0,
+            56.0
+          ],
+          [
+            23.0,
+            54.0
+          ],
+          [
+            21.0,
+            53.0
+          ],
+          [
+            18.0,
+            53.5
+          ],
+          [
+            18.0,
+            56.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "republic-of-venice",
@@ -34147,7 +34925,87 @@
       "de": "Iberische Verbundmonarchie mit bedeutender Mittelmeerexpansion. Beherrschte zeitweise Sizilien, Sardinien, Neapel und Teile Griechenlands.",
       "en": "Iberian composite monarchy with significant Mediterranean expansion. At times ruled Sicily, Sardinia, Naples, and parts of Greece."
     },
-    "geometry": null
+    "geometry": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              -2.0,
+              42.5
+            ],
+            [
+              3.0,
+              42.5
+            ],
+            [
+              3.5,
+              40.0
+            ],
+            [
+              0.0,
+              37.5
+            ],
+            [
+              -2.0,
+              38.5
+            ],
+            [
+              -2.0,
+              42.5
+            ]
+          ]
+        ],
+        [
+          [
+            [
+              8.1,
+              41.3
+            ],
+            [
+              9.8,
+              41.3
+            ],
+            [
+              9.8,
+              39.0
+            ],
+            [
+              8.1,
+              39.0
+            ],
+            [
+              8.1,
+              41.3
+            ]
+          ]
+        ],
+        [
+          [
+            [
+              12.5,
+              38.3
+            ],
+            [
+              15.5,
+              38.3
+            ],
+            [
+              15.5,
+              36.6
+            ],
+            [
+              12.5,
+              36.6
+            ],
+            [
+              12.5,
+              38.3
+            ]
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-portugal",
@@ -34483,7 +35341,37 @@
       "de": "Unter den Valois-Herzögen zu einem mächtigen Staat zwischen Frankreich und dem Reich aufgestiegen. Blütezeit der flämischen Kunst und Kultur.",
       "en": "Rose to a powerful state between France and the Empire under the Valois dukes. Golden age of Flemish art and culture."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            2.5,
+            49.0
+          ],
+          [
+            6.5,
+            49.0
+          ],
+          [
+            7.0,
+            46.5
+          ],
+          [
+            5.5,
+            45.5
+          ],
+          [
+            3.0,
+            46.0
+          ],
+          [
+            2.5,
+            49.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "grand-duchy-of-lithuania",
@@ -37243,7 +38131,37 @@
       "de": "Habsburgische Besitzungen in den Niederlanden und Belgien, Schauplatz des Achtzigjährigen Krieges.",
       "en": "Habsburg possessions in the Netherlands and Belgium, theater of the Eighty Years' War."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            2.5,
+            51.5
+          ],
+          [
+            6.0,
+            52.0
+          ],
+          [
+            6.5,
+            50.5
+          ],
+          [
+            4.0,
+            49.5
+          ],
+          [
+            2.5,
+            50.5
+          ],
+          [
+            2.5,
+            51.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "polish-lithuanian-commonwealth",
@@ -37263,7 +38181,49 @@
       "de": "Föderative Realunion mit einzigartiger Adelsrepublik und Wahlmonarchie. Einer der größten und bevölkerungsreichsten Staaten Europas im 16.–17. Jahrhundert.",
       "en": "Federative real union with a unique noble republic and elective monarchy. One of Europe's largest and most populous states in the 16th-17th centuries."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            16.0,
+            55.0
+          ],
+          [
+            28.0,
+            56.0
+          ],
+          [
+            32.0,
+            54.0
+          ],
+          [
+            35.0,
+            50.0
+          ],
+          [
+            30.0,
+            48.5
+          ],
+          [
+            24.0,
+            47.5
+          ],
+          [
+            20.0,
+            49.0
+          ],
+          [
+            16.0,
+            51.0
+          ],
+          [
+            16.0,
+            55.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ottoman-balkans",
@@ -37283,7 +38243,41 @@
       "de": "Europäische Besitzungen des Osmanischen Reiches, die ab dem 14. Jahrhundert schrittweise erobert wurden. Umfassten den größten Teil Südosteuropas.",
       "en": "European possessions of the Ottoman Empire, gradually conquered from the 14th century. Encompassed most of southeastern Europe."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            19.0,
+            46.0
+          ],
+          [
+            28.0,
+            46.5
+          ],
+          [
+            29.0,
+            43.0
+          ],
+          [
+            26.5,
+            39.5
+          ],
+          [
+            22.0,
+            39.0
+          ],
+          [
+            19.0,
+            41.0
+          ],
+          [
+            19.0,
+            46.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "dutch-republic",
@@ -37671,7 +38665,45 @@
       "de": "Zentralisierter russischer Staat unter den Rurikiden und frühen Romanows. Expandierte nach Sibirien und wurde unter Peter dem Großen zum Kaiserreich.",
       "en": "Centralized Russian state under the Rurikids and early Romanovs. Expanded into Siberia and transformed into an empire under Peter the Great."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            28.0,
+            62.0
+          ],
+          [
+            50.0,
+            65.0
+          ],
+          [
+            60.0,
+            60.0
+          ],
+          [
+            55.0,
+            52.0
+          ],
+          [
+            45.0,
+            48.0
+          ],
+          [
+            35.0,
+            48.0
+          ],
+          [
+            28.0,
+            52.0
+          ],
+          [
+            28.0,
+            62.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-great-britain",
@@ -37691,7 +38723,67 @@
       "de": "Aus der Union von England und Schottland 1707 hervorgegangenes Königreich, aufgestiegen zur weltweit führenden See- und Kolonialmacht.",
       "en": "Kingdom formed from the union of England and Scotland in 1707, rising to become the world's leading naval and colonial power."
     },
-    "geometry": null
+    "geometry": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              -5.5,
+              58.0
+            ],
+            [
+              -1.0,
+              58.0
+            ],
+            [
+              1.5,
+              53.0
+            ],
+            [
+              1.5,
+              50.5
+            ],
+            [
+              -5.5,
+              50.0
+            ],
+            [
+              -5.5,
+              55.0
+            ],
+            [
+              -5.5,
+              58.0
+            ]
+          ]
+        ],
+        [
+          [
+            [
+              -10.5,
+              55.5
+            ],
+            [
+              -6.0,
+              55.5
+            ],
+            [
+              -6.0,
+              51.5
+            ],
+            [
+              -10.5,
+              51.5
+            ],
+            [
+              -10.5,
+              55.5
+            ]
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "habsburg-monarchy",
@@ -37711,7 +38803,45 @@
       "de": "Zusammenfassung der habsburgischen Erbländer in Mitteleuropa, einschließlich Österreich, Ungarn und Böhmen.",
       "en": "Composite of Habsburg hereditary lands in Central Europe, including Austria, Hungary, and Bohemia."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            9.5,
+            48.5
+          ],
+          [
+            17.0,
+            50.0
+          ],
+          [
+            22.0,
+            49.0
+          ],
+          [
+            23.0,
+            46.5
+          ],
+          [
+            17.0,
+            44.5
+          ],
+          [
+            13.5,
+            45.5
+          ],
+          [
+            9.5,
+            47.0
+          ],
+          [
+            9.5,
+            48.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "habsburg-austria",
@@ -38115,7 +39245,41 @@
       "de": "Nicht von den Osmanen besetzter Teil Ungarns unter habsburgischer Herrschaft.",
       "en": "Part of Hungary not occupied by the Ottomans, under Habsburg rule."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            16.0,
+            48.5
+          ],
+          [
+            22.5,
+            48.5
+          ],
+          [
+            23.0,
+            46.0
+          ],
+          [
+            21.0,
+            44.5
+          ],
+          [
+            17.0,
+            44.5
+          ],
+          [
+            16.0,
+            46.0
+          ],
+          [
+            16.0,
+            48.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "russian-empire",
@@ -40505,7 +41669,41 @@
       "de": "Autonomes Großfürstentum innerhalb des Russischen Reiches nach der Eroberung von Schweden.",
       "en": "Autonomous grand duchy within the Russian Empire after its conquest from Sweden."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            20.0,
+            60.0
+          ],
+          [
+            30.0,
+            60.5
+          ],
+          [
+            32.0,
+            64.0
+          ],
+          [
+            28.0,
+            70.0
+          ],
+          [
+            22.0,
+            68.0
+          ],
+          [
+            20.0,
+            63.0
+          ],
+          [
+            20.0,
+            60.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "russian-poland",
@@ -44969,7 +46167,45 @@
       "de": "Napoleons Kaiserreich, das den größten Teil Kontinentaleuropas beherrschte. Verbreitete die Ideen der Französischen Revolution und modernisierte das europäische Rechtswesen.",
       "en": "Napoleon's empire dominating most of continental Europe. Spread the ideas of the French Revolution and modernized European legal systems."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -4.0,
+            48.5
+          ],
+          [
+            2.0,
+            51.5
+          ],
+          [
+            8.0,
+            49.0
+          ],
+          [
+            8.0,
+            45.5
+          ],
+          [
+            6.5,
+            43.0
+          ],
+          [
+            -2.0,
+            43.0
+          ],
+          [
+            -4.0,
+            46.0
+          ],
+          [
+            -4.0,
+            48.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "napoleonic-italy",
@@ -44989,7 +46225,41 @@
       "de": "Von Napoleon kontrollierte italienische Gebiete, einschließlich des Königreichs Italien und direkt annektierter Regionen.",
       "en": "Italian territories controlled by Napoleon, including the Kingdom of Italy and directly annexed regions."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.0,
+            46.5
+          ],
+          [
+            13.5,
+            46.5
+          ],
+          [
+            16.0,
+            42.0
+          ],
+          [
+            13.0,
+            38.0
+          ],
+          [
+            10.0,
+            40.0
+          ],
+          [
+            7.0,
+            44.0
+          ],
+          [
+            7.0,
+            46.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "napoleonic-germany",
@@ -45009,7 +46279,41 @@
       "de": "Von Napoleon geschaffener Bund deutscher Staaten, der das Ende des Heiligen Römischen Reiches besiegelte.",
       "en": "Confederation of German states created by Napoleon, sealing the end of the Holy Roman Empire."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0,
+            53.5
+          ],
+          [
+            14.0,
+            53.5
+          ],
+          [
+            15.0,
+            49.5
+          ],
+          [
+            12.0,
+            47.5
+          ],
+          [
+            7.0,
+            47.5
+          ],
+          [
+            6.0,
+            50.0
+          ],
+          [
+            6.0,
+            53.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "austrian-empire",
@@ -45797,7 +47101,45 @@
       "de": "Unter preußischer Führung 1871 geeinter Nationalstaat, rasch zur stärksten Industriemacht Europas aufgestiegen.",
       "en": "Nation-state unified under Prussian leadership in 1871, rapidly rising to become Europe's strongest industrial power."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0,
+            55.0
+          ],
+          [
+            15.0,
+            55.0
+          ],
+          [
+            22.0,
+            54.0
+          ],
+          [
+            20.0,
+            49.5
+          ],
+          [
+            15.0,
+            47.5
+          ],
+          [
+            10.0,
+            47.5
+          ],
+          [
+            6.0,
+            49.0
+          ],
+          [
+            6.0,
+            55.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-italy",
@@ -46449,7 +47791,87 @@
       "de": "Größtes Reich der Geschichte mit Kolonien auf allen Kontinenten. Beherrschte im 19. Jahrhundert ein Viertel der Weltbevölkerung.",
       "en": "Largest empire in history with colonies on every continent. Ruled a quarter of the world's population in the 19th century."
     },
-    "geometry": null
+    "geometry": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              -5.5,
+              58.0
+            ],
+            [
+              1.5,
+              58.0
+            ],
+            [
+              1.5,
+              50.0
+            ],
+            [
+              -5.5,
+              50.0
+            ],
+            [
+              -5.5,
+              58.0
+            ]
+          ]
+        ],
+        [
+          [
+            [
+              68.0,
+              28.0
+            ],
+            [
+              88.0,
+              28.0
+            ],
+            [
+              88.0,
+              8.0
+            ],
+            [
+              77.0,
+              8.0
+            ],
+            [
+              68.0,
+              20.0
+            ],
+            [
+              68.0,
+              28.0
+            ]
+          ]
+        ],
+        [
+          [
+            [
+              113.0,
+              -14.0
+            ],
+            [
+              153.0,
+              -14.0
+            ],
+            [
+              153.0,
+              -38.0
+            ],
+            [
+              113.0,
+              -38.0
+            ],
+            [
+              113.0,
+              -14.0
+            ]
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "french-colonial-empire",
@@ -46469,7 +47891,87 @@
       "de": "Zweitgrößtes Kolonialreich der Neuzeit mit Besitzungen in Amerika, Afrika und Asien.",
       "en": "Second-largest colonial empire of the modern era with possessions in the Americas, Africa, and Asia."
     },
-    "geometry": null
+    "geometry": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [
+              -4.0,
+              48.5
+            ],
+            [
+              8.0,
+              48.5
+            ],
+            [
+              8.0,
+              43.0
+            ],
+            [
+              -2.0,
+              43.0
+            ],
+            [
+              -4.0,
+              46.0
+            ],
+            [
+              -4.0,
+              48.5
+            ]
+          ]
+        ],
+        [
+          [
+            [
+              -5.0,
+              36.0
+            ],
+            [
+              10.0,
+              37.0
+            ],
+            [
+              10.0,
+              30.0
+            ],
+            [
+              -5.0,
+              28.0
+            ],
+            [
+              -5.0,
+              36.0
+            ]
+          ]
+        ],
+        [
+          [
+            [
+              -17.0,
+              16.0
+            ],
+            [
+              5.0,
+              16.0
+            ],
+            [
+              5.0,
+              5.0
+            ],
+            [
+              -17.0,
+              5.0
+            ],
+            [
+              -17.0,
+              16.0
+            ]
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ancient-egypt-third-intermediate",
@@ -46825,7 +48327,41 @@
       "de": "Das erste Weltreich der Geschichte beherrschte Mesopotamien, die Levante und zeitweise Ägypten. Bekannt für sein hochentwickeltes Verwaltungssystem und seine militärischen Innovationen.",
       "en": "The first world empire in history dominated Mesopotamia, the Levant, and briefly Egypt. Known for its advanced administrative system and military innovations."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            36.0,
+            37.5
+          ],
+          [
+            46.0,
+            37.5
+          ],
+          [
+            46.0,
+            33.0
+          ],
+          [
+            40.0,
+            30.0
+          ],
+          [
+            35.0,
+            31.0
+          ],
+          [
+            34.0,
+            34.0
+          ],
+          [
+            36.0,
+            37.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "neo-assyrian-heartland",
@@ -46921,7 +48457,37 @@
       "de": "Die assyrischen Provinzen in der Levante, einschließlich der eroberten Königreiche Israel und der phönizischen Stadtstaaten.",
       "en": "Assyrian provinces in the Levant, including the conquered Kingdom of Israel and Phoenician city-states."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            34.0,
+            37.0
+          ],
+          [
+            36.5,
+            37.0
+          ],
+          [
+            36.5,
+            31.0
+          ],
+          [
+            34.0,
+            30.0
+          ],
+          [
+            34.0,
+            33.0
+          ],
+          [
+            34.0,
+            37.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "neo-babylonian-empire",
@@ -46941,7 +48507,37 @@
       "de": "Letztes einheimisches mesopotamisches Reich unter der Chaldäer-Dynastie. Unter Nebukadnezar II. wurde Babylon zur prächtigen Hauptstadt des Vorderen Orients.",
       "en": "The last native Mesopotamian empire under the Chaldean dynasty. Under Nebuchadnezzar II, Babylon became the magnificent capital of the Near East."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            35.0,
+            37.0
+          ],
+          [
+            48.0,
+            35.0
+          ],
+          [
+            48.0,
+            29.0
+          ],
+          [
+            42.0,
+            28.0
+          ],
+          [
+            35.0,
+            31.0
+          ],
+          [
+            35.0,
+            37.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-israel",
@@ -46961,7 +48557,37 @@
       "de": "Israelitisches Königreich im nördlichen Teil der Levante mit Samaria als Hauptstadt, 720 v. Chr. von den Assyrern erobert.",
       "en": "Israelite kingdom in the northern Levant with Samaria as its capital, conquered by the Assyrians in 720 BC."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            34.5,
+            33.0
+          ],
+          [
+            36.0,
+            33.5
+          ],
+          [
+            36.0,
+            31.5
+          ],
+          [
+            35.0,
+            31.0
+          ],
+          [
+            34.5,
+            31.5
+          ],
+          [
+            34.5,
+            33.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-judah",
@@ -46981,7 +48607,33 @@
       "de": "Israelitisches Königreich mit Jerusalem als Hauptstadt. Wurde 586 v. Chr. von den Babyloniern zerstört, was zur babylonischen Gefangenschaft führte.",
       "en": "Israelite kingdom with Jerusalem as its capital. Destroyed by the Babylonians in 586 BC, leading to the Babylonian captivity."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            34.5,
+            31.8
+          ],
+          [
+            35.5,
+            32.0
+          ],
+          [
+            35.5,
+            30.5
+          ],
+          [
+            34.5,
+            30.5
+          ],
+          [
+            34.5,
+            31.8
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "phoenicia",
@@ -47001,7 +48653,33 @@
       "de": "Verband kanaanitischer Stadtstaaten an der Levanteküste (Tyros, Sidon, Byblos), berühmt als Seefahrer, Händler und Erfinder des Alphabets.",
       "en": "Confederation of Canaanite city-states on the Levantine coast (Tyre, Sidon, Byblos), renowned as seafarers, traders, and inventors of the alphabet."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            35.0,
+            34.5
+          ],
+          [
+            36.5,
+            34.5
+          ],
+          [
+            36.5,
+            32.5
+          ],
+          [
+            35.0,
+            32.0
+          ],
+          [
+            35.0,
+            34.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "carthage",
@@ -47397,7 +49075,33 @@
       "de": "Eisenzeitliches Königreich in Westanatolien mit der Hauptstadt Sardes. Berühmt als Erfinder der ersten Münzen aus Elektron.",
       "en": "Iron Age kingdom in western Anatolia with its capital at Sardis. Famous for minting the first coins from electrum."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            27.0,
+            40.0
+          ],
+          [
+            30.0,
+            40.0
+          ],
+          [
+            30.0,
+            37.5
+          ],
+          [
+            27.0,
+            37.5
+          ],
+          [
+            27.0,
+            40.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "median-empire",
@@ -47417,7 +49121,37 @@
       "de": "Erstes iranisches Reich mit der Hauptstadt Ekbatana. Half bei der Zerstörung des Assyrischen Reiches und wurde 550 v. Chr. von den Persern unter Kyros erobert.",
       "en": "First Iranian empire based at Ecbatana. Helped destroy the Assyrian Empire and was conquered in 550 BC by Cyrus the Great of Persia."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.0,
+            39.0
+          ],
+          [
+            52.0,
+            38.0
+          ],
+          [
+            54.0,
+            34.0
+          ],
+          [
+            48.0,
+            30.0
+          ],
+          [
+            44.0,
+            33.0
+          ],
+          [
+            44.0,
+            39.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "achaemenid-empire",
@@ -47825,7 +49559,33 @@
       "de": "Kernprovinz des Achämenidenreiches im Südwesten Irans mit Persepolis als zeremonieller Hauptstadt.",
       "en": "Core province of the Achaemenid Empire in southwestern Iran with Persepolis as its ceremonial capital."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            50.0,
+            32.0
+          ],
+          [
+            55.0,
+            32.0
+          ],
+          [
+            55.0,
+            28.0
+          ],
+          [
+            50.0,
+            27.0
+          ],
+          [
+            50.0,
+            32.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "achaemenid-egypt",
@@ -48077,7 +49837,41 @@
       "de": "Achämenidische Satrapien in Anatolien, darunter Lydien, Karien und Kappadokien, erobert nach dem Sieg über Kroisos.",
       "en": "Achaemenid satrapies in Anatolia including Lydia, Caria, and Cappadocia, conquered after the defeat of Croesus."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            26.0,
+            42.0
+          ],
+          [
+            36.0,
+            42.0
+          ],
+          [
+            42.0,
+            38.0
+          ],
+          [
+            36.0,
+            36.0
+          ],
+          [
+            28.0,
+            36.5
+          ],
+          [
+            26.0,
+            39.0
+          ],
+          [
+            26.0,
+            42.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ptolemaic-egypt",
@@ -49585,7 +51379,37 @@
       "de": "Jüdisches Königreich in Judäa, entstanden aus dem Makkabäeraufstand gegen die Seleukiden. Letzte Phase jüdischer Unabhängigkeit vor der römischen Herrschaft.",
       "en": "Jewish kingdom in Judea, born from the Maccabean Revolt against the Seleucids. Last phase of Jewish independence before Roman rule."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            34.5,
+            33.2
+          ],
+          [
+            36.0,
+            33.2
+          ],
+          [
+            36.5,
+            31.0
+          ],
+          [
+            35.5,
+            30.0
+          ],
+          [
+            34.5,
+            30.5
+          ],
+          [
+            34.5,
+            33.2
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "nabataean-kingdom",
@@ -49605,7 +51429,37 @@
       "de": "Arabisches Königreich mit der Felsenstadt Petra als Hauptstadt, kontrollierte wichtige Handelsrouten zwischen Arabien und dem Mittelmeer.",
       "en": "Arabian kingdom with the rock-cut city of Petra as its capital, controlling key trade routes between Arabia and the Mediterranean."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            34.5,
+            31.0
+          ],
+          [
+            37.0,
+            31.5
+          ],
+          [
+            39.0,
+            29.0
+          ],
+          [
+            36.5,
+            27.0
+          ],
+          [
+            34.5,
+            28.0
+          ],
+          [
+            34.5,
+            31.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-pontus",
@@ -49625,7 +51479,37 @@
       "de": "Hellenistisches Königreich an der Schwarzmeerküste Anatoliens. Unter Mithridates VI. führte es drei Kriege gegen Rom.",
       "en": "Hellenistic kingdom on the Black Sea coast of Anatolia. Under Mithridates VI, it fought three wars against Rome."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            36.0,
+            42.0
+          ],
+          [
+            41.0,
+            42.0
+          ],
+          [
+            42.0,
+            40.0
+          ],
+          [
+            38.0,
+            39.0
+          ],
+          [
+            36.0,
+            40.0
+          ],
+          [
+            36.0,
+            42.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "commagene",
@@ -49645,7 +51529,33 @@
       "de": "Griechisch-iranisches Kleinkönigreich in Südostanatolien, bekannt für das Heiligtum auf dem Berg Nemrut mit seinen synkretistischen Götterfiguren.",
       "en": "Greco-Iranian petty kingdom in southeastern Anatolia, known for the sanctuary on Mount Nemrut with its syncretistic deity sculptures."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            37.5,
+            38.0
+          ],
+          [
+            39.5,
+            38.0
+          ],
+          [
+            39.5,
+            36.5
+          ],
+          [
+            37.5,
+            36.5
+          ],
+          [
+            37.5,
+            38.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-armenia",
@@ -49665,7 +51575,41 @@
       "de": "Antikes Königreich im armenischen Hochland. Unter Tigranes dem Großen kurzzeitig ein Reich, 301 n. Chr. erstes Land mit Christentum als Staatsreligion.",
       "en": "Ancient kingdom in the Armenian highlands. Briefly an empire under Tigranes the Great, and in 301 AD the first state to adopt Christianity."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            38.0,
+            41.5
+          ],
+          [
+            44.0,
+            42.0
+          ],
+          [
+            46.0,
+            40.0
+          ],
+          [
+            44.0,
+            37.0
+          ],
+          [
+            40.0,
+            37.0
+          ],
+          [
+            38.0,
+            39.0
+          ],
+          [
+            38.0,
+            41.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "parthian-empire",
@@ -49785,7 +51729,37 @@
       "de": "Mesopotamische Provinz des Partherreiches mit der Hauptstadt Ktesiphon am Tigris.",
       "en": "Mesopotamian province of the Parthian Empire with the capital Ctesiphon on the Tigris."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.0,
+            37.0
+          ],
+          [
+            48.0,
+            36.0
+          ],
+          [
+            48.5,
+            30.0
+          ],
+          [
+            44.0,
+            29.0
+          ],
+          [
+            42.0,
+            33.0
+          ],
+          [
+            42.0,
+            37.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "palmyrene-empire",
@@ -49805,7 +51779,41 @@
       "de": "Kurzlebiger Abspaltungsstaat vom Römischen Reich unter Königin Zenobia, kontrollierte Syrien, Palästina und Ägypten.",
       "en": "Short-lived breakaway state from the Roman Empire under Queen Zenobia, controlling Syria, Palestine, and Egypt."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            34.0,
+            37.5
+          ],
+          [
+            42.0,
+            37.5
+          ],
+          [
+            42.0,
+            33.0
+          ],
+          [
+            36.0,
+            30.0
+          ],
+          [
+            30.0,
+            31.0
+          ],
+          [
+            30.0,
+            33.0
+          ],
+          [
+            34.0,
+            37.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "sasanian-empire",
@@ -50417,7 +52425,37 @@
       "de": "Mesopotamische Provinz mit Ktesiphon als Hauptstadt des gesamten Sassanidenreiches.",
       "en": "Mesopotamian province with Ctesiphon serving as capital of the entire Sasanian Empire."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.0,
+            37.0
+          ],
+          [
+            48.0,
+            36.0
+          ],
+          [
+            48.5,
+            30.0
+          ],
+          [
+            44.0,
+            29.0
+          ],
+          [
+            42.0,
+            33.0
+          ],
+          [
+            42.0,
+            37.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "sasanian-khorasan",
@@ -50437,7 +52475,37 @@
       "de": "Östliche Provinz des Sassanidenreiches im heutigen Nordostiran und Afghanistan.",
       "en": "Eastern province of the Sasanian Empire in present-day northeastern Iran and Afghanistan."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            53.0,
+            38.0
+          ],
+          [
+            62.0,
+            38.0
+          ],
+          [
+            63.0,
+            33.0
+          ],
+          [
+            57.0,
+            31.0
+          ],
+          [
+            53.0,
+            34.0
+          ],
+          [
+            53.0,
+            38.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "rashidun-caliphate",
@@ -50457,7 +52525,45 @@
       "de": "Erstes islamisches Kalifat unter den vier rechtgeleiteten Kalifen. Eroberte in wenigen Jahrzehnten den gesamten Nahen Osten und Nordafrika.",
       "en": "First Islamic caliphate under the four Rightly Guided Caliphs. Conquered the entire Near East and North Africa within a few decades."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            25.0,
+            37.0
+          ],
+          [
+            55.0,
+            37.0
+          ],
+          [
+            60.0,
+            30.0
+          ],
+          [
+            55.0,
+            22.0
+          ],
+          [
+            40.0,
+            15.0
+          ],
+          [
+            35.0,
+            20.0
+          ],
+          [
+            25.0,
+            30.0
+          ],
+          [
+            25.0,
+            37.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "umayyad-caliphate",
@@ -51449,7 +53555,37 @@
       "de": "Kernprovinz des Umayyadenkalifats mit Damaskus als Hauptstadt und Machtzentrum der Dynastie.",
       "en": "Core province of the Umayyad Caliphate with Damascus as the capital and power center of the dynasty."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            34.0,
+            37.5
+          ],
+          [
+            42.0,
+            37.5
+          ],
+          [
+            42.0,
+            29.0
+          ],
+          [
+            35.0,
+            29.0
+          ],
+          [
+            34.0,
+            33.0
+          ],
+          [
+            34.0,
+            37.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "umayyad-maghreb",
@@ -51469,7 +53605,41 @@
       "de": "Nordafrikanische Provinz des Umayyadenkalifats, Ausgangspunkt der islamischen Eroberung Iberiens.",
       "en": "North African province of the Umayyad Caliphate, launching point for the Islamic conquest of Iberia."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -10.0,
+            36.0
+          ],
+          [
+            10.0,
+            37.0
+          ],
+          [
+            12.0,
+            33.0
+          ],
+          [
+            5.0,
+            30.0
+          ],
+          [
+            -5.0,
+            28.0
+          ],
+          [
+            -12.0,
+            30.0
+          ],
+          [
+            -10.0,
+            36.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "abbasid-caliphate",
@@ -51869,7 +54039,37 @@
       "de": "Kernprovinz des Abbasidenkalifats mit Bagdad und seinem berühmten Haus der Weisheit.",
       "en": "Core province of the Abbasid Caliphate, home to Baghdad and its famous House of Wisdom."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.0,
+            37.0
+          ],
+          [
+            48.0,
+            36.0
+          ],
+          [
+            48.5,
+            29.5
+          ],
+          [
+            44.0,
+            29.0
+          ],
+          [
+            42.0,
+            33.0
+          ],
+          [
+            42.0,
+            37.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "samanid-empire",
@@ -53061,7 +55261,37 @@
       "de": "Ursprungsgebiet der Fatimiden in Ifriqiya (heutiges Tunesien), bevor das Kalifat nach Ägypten verlegt wurde.",
       "en": "Original heartland of the Fatimids in Ifriqiya (modern Tunisia), before the caliphate moved to Egypt."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -5.0,
+            36.0
+          ],
+          [
+            10.0,
+            37.0
+          ],
+          [
+            12.0,
+            30.0
+          ],
+          [
+            0.0,
+            28.0
+          ],
+          [
+            -5.0,
+            30.0
+          ],
+          [
+            -5.0,
+            36.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ghaznavid-empire",
@@ -53645,7 +55875,37 @@
       "de": "Kerngebiet des Seldschukenreiches im Iran und Irak mit Isfahan als Hauptstadt.",
       "en": "Core territory of the Seljuk Empire in Iran and Iraq with Isfahan as capital."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.0,
+            39.0
+          ],
+          [
+            60.0,
+            39.0
+          ],
+          [
+            62.0,
+            33.0
+          ],
+          [
+            55.0,
+            28.0
+          ],
+          [
+            44.0,
+            30.0
+          ],
+          [
+            44.0,
+            39.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "sultanate-of-rum",
@@ -53665,7 +55925,37 @@
       "de": "Seldschukisches Sultanat in Anatolien mit Konya als Hauptstadt. Beginn der Turkisierung Anatoliens und Vorgänger des Osmanischen Reiches.",
       "en": "Seljuk sultanate in Anatolia with Konya as capital. Beginning of the Turkification of Anatolia and precursor to the Ottoman Empire."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            29.0,
+            41.0
+          ],
+          [
+            38.0,
+            41.0
+          ],
+          [
+            40.0,
+            38.0
+          ],
+          [
+            36.0,
+            36.5
+          ],
+          [
+            29.0,
+            37.5
+          ],
+          [
+            29.0,
+            41.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "almoravid-empire",
@@ -56497,7 +58787,37 @@
       "de": "Turkmenische Dynastie in Syrien und Obermesopotamien, berühmt für den Dschihad gegen die Kreuzfahrer unter Nur ad-Din.",
       "en": "Turkmen dynasty in Syria and Upper Mesopotamia, famous for the jihad against the Crusaders under Nur al-Din."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            36.0,
+            37.5
+          ],
+          [
+            44.0,
+            37.5
+          ],
+          [
+            44.0,
+            33.0
+          ],
+          [
+            38.0,
+            33.0
+          ],
+          [
+            36.0,
+            35.0
+          ],
+          [
+            36.0,
+            37.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-jerusalem",
@@ -56517,7 +58837,37 @@
       "de": "Bedeutendster Kreuzfahrerstaat in der Levante, gegründet nach dem Ersten Kreuzzug 1099 und bis 1291 bestehend.",
       "en": "Most important Crusader state in the Levant, founded after the First Crusade in 1099 and lasting until 1291."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            34.5,
+            33.5
+          ],
+          [
+            36.0,
+            33.5
+          ],
+          [
+            36.5,
+            31.0
+          ],
+          [
+            35.5,
+            29.5
+          ],
+          [
+            34.5,
+            30.0
+          ],
+          [
+            34.5,
+            33.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "county-of-edessa",
@@ -56537,7 +58887,37 @@
       "de": "Erster Kreuzfahrerstaat in Obermesopotamien. Sein Fall 1144 löste den Zweiten Kreuzzug aus.",
       "en": "First Crusader state in Upper Mesopotamia. Its fall in 1144 triggered the Second Crusade."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            37.5,
+            38.5
+          ],
+          [
+            40.0,
+            38.5
+          ],
+          [
+            40.5,
+            36.5
+          ],
+          [
+            38.0,
+            36.0
+          ],
+          [
+            37.5,
+            37.0
+          ],
+          [
+            37.5,
+            38.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "principality-of-antioch",
@@ -56557,7 +58937,37 @@
       "de": "Normannischer Kreuzfahrerstaat in Syrien und Teilen Anatoliens, von 1098 bis zur Eroberung durch die Mamluken 1268.",
       "en": "Norman Crusader state in Syria and parts of Anatolia, from 1098 until its conquest by the Mamluks in 1268."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            35.5,
+            37.0
+          ],
+          [
+            37.0,
+            37.0
+          ],
+          [
+            37.0,
+            35.0
+          ],
+          [
+            36.0,
+            34.5
+          ],
+          [
+            35.5,
+            35.5
+          ],
+          [
+            35.5,
+            37.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "county-of-tripoli",
@@ -56577,7 +58987,33 @@
       "de": "Kreuzfahrerstaat an der Küste des heutigen Libanon und Westsyriens, 1289 von den Mamluken erobert.",
       "en": "Crusader state on the coast of modern Lebanon and western Syria, conquered by the Mamluks in 1289."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            35.0,
+            35.0
+          ],
+          [
+            36.5,
+            35.0
+          ],
+          [
+            36.5,
+            33.5
+          ],
+          [
+            35.0,
+            33.5
+          ],
+          [
+            35.0,
+            35.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ayyubid-sultanate",
@@ -56597,7 +59033,37 @@
       "de": "Kurdisch-sunnitische Dynastie unter Saladin, die die Kreuzfahrer besiegte und Ägypten sowie Syrien vereinte.",
       "en": "Kurdish Sunni dynasty under Saladin that defeated the Crusaders and united Egypt and Syria."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            30.0,
+            37.0
+          ],
+          [
+            42.0,
+            37.5
+          ],
+          [
+            42.0,
+            29.0
+          ],
+          [
+            35.0,
+            22.0
+          ],
+          [
+            30.0,
+            25.0
+          ],
+          [
+            30.0,
+            37.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "khwarazmian-empire",
@@ -56617,7 +59083,37 @@
       "de": "Persisch-türkisches Reich in Zentralasien und Iran, das 1219 von den Mongolen unter Dschingis Khan vernichtet wurde.",
       "en": "Persianate Turkic empire in Central Asia and Iran, destroyed by the Mongols under Genghis Khan in 1219."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            50.0,
+            42.0
+          ],
+          [
+            65.0,
+            42.0
+          ],
+          [
+            68.0,
+            35.0
+          ],
+          [
+            60.0,
+            28.0
+          ],
+          [
+            50.0,
+            30.0
+          ],
+          [
+            50.0,
+            42.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ilkhanate",
@@ -57833,7 +60329,41 @@
       "de": "Kernland des Mamluken-Sultanats mit Kairo als Hauptstadt und kulturellem Zentrum.",
       "en": "Heartland of the Mamluk Sultanate with Cairo as capital and cultural center."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            25.0,
+            31.5
+          ],
+          [
+            35.0,
+            31.5
+          ],
+          [
+            35.0,
+            22.0
+          ],
+          [
+            32.0,
+            22.0
+          ],
+          [
+            29.0,
+            24.0
+          ],
+          [
+            25.0,
+            29.0
+          ],
+          [
+            25.0,
+            31.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "mamluk-syria",
@@ -57853,7 +60383,33 @@
       "de": "Syrische Provinz des Mamluken-Sultanats, zurückerobert von den Mongolen und Kreuzfahrern.",
       "en": "Syrian province of the Mamluk Sultanate, recovered from the Mongols and Crusaders."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            35.0,
+            37.5
+          ],
+          [
+            42.0,
+            37.5
+          ],
+          [
+            42.0,
+            31.0
+          ],
+          [
+            35.0,
+            29.5
+          ],
+          [
+            35.0,
+            37.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "hafsid-dynasty",
@@ -57873,7 +60429,37 @@
       "de": "Berberische Dynastie in Ifriqiya (Tunesien), Nachfolger der Almohaden. Tunis wurde unter ihnen zu einem bedeutenden Kulturzentrum.",
       "en": "Berber dynasty in Ifriqiya (Tunisia), successors to the Almohads. Tunis became a major cultural center under their rule."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0,
+            37.5
+          ],
+          [
+            11.5,
+            37.5
+          ],
+          [
+            11.0,
+            33.0
+          ],
+          [
+            7.0,
+            32.0
+          ],
+          [
+            6.0,
+            34.0
+          ],
+          [
+            6.0,
+            37.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "marinid-dynasty",
@@ -57893,7 +60479,37 @@
       "de": "Berberische Dynastie in Marokko mit Fès als Hauptstadt. Erbauten berühmte Medressen und förderten die islamische Gelehrsamkeit.",
       "en": "Berber dynasty in Morocco with Fez as capital. Built famous madrasas and patronized Islamic scholarship."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -12.0,
+            36.0
+          ],
+          [
+            -1.0,
+            36.0
+          ],
+          [
+            -1.0,
+            30.0
+          ],
+          [
+            -8.0,
+            28.0
+          ],
+          [
+            -13.0,
+            30.0
+          ],
+          [
+            -12.0,
+            36.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "timurid-empire",
@@ -60293,7 +62909,45 @@
       "de": "Kerngebiet des Osmanischen Reiches in Anatolien mit Istanbul (Konstantinopel) als Hauptstadt.",
       "en": "Core territory of the Ottoman Empire in Anatolia with Istanbul (Constantinople) as capital."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            26.0,
+            42.0
+          ],
+          [
+            36.0,
+            42.0
+          ],
+          [
+            44.0,
+            40.0
+          ],
+          [
+            44.0,
+            37.0
+          ],
+          [
+            36.0,
+            36.0
+          ],
+          [
+            28.0,
+            36.5
+          ],
+          [
+            26.0,
+            39.0
+          ],
+          [
+            26.0,
+            42.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ottoman-syria",
@@ -60313,7 +62967,37 @@
       "de": "Syrische Provinzen des Osmanischen Reiches, erobert 1516 von den Mamluken.",
       "en": "Syrian provinces of the Ottoman Empire, conquered from the Mamluks in 1516."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            35.0,
+            37.5
+          ],
+          [
+            42.0,
+            37.5
+          ],
+          [
+            42.0,
+            33.0
+          ],
+          [
+            36.0,
+            31.0
+          ],
+          [
+            35.0,
+            33.0
+          ],
+          [
+            35.0,
+            37.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ottoman-egypt",
@@ -60333,7 +63017,41 @@
       "de": "Ägyptische Provinz des Osmanischen Reiches, bis zur faktischen Unabhängigkeit unter Muhammad Ali.",
       "en": "Egyptian province of the Ottoman Empire, until its de facto independence under Muhammad Ali."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            25.0,
+            31.5
+          ],
+          [
+            35.0,
+            31.5
+          ],
+          [
+            35.0,
+            22.0
+          ],
+          [
+            32.0,
+            22.0
+          ],
+          [
+            29.0,
+            24.0
+          ],
+          [
+            25.0,
+            29.0
+          ],
+          [
+            25.0,
+            31.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ottoman-iraq",
@@ -60353,7 +63071,37 @@
       "de": "Mesopotamische Provinzen des Osmanischen Reiches, erobert von Süleyman dem Prächtigen.",
       "en": "Mesopotamian provinces of the Ottoman Empire, conquered by Suleiman the Magnificent."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.0,
+            37.5
+          ],
+          [
+            48.0,
+            37.0
+          ],
+          [
+            48.5,
+            30.0
+          ],
+          [
+            44.0,
+            29.0
+          ],
+          [
+            42.0,
+            33.0
+          ],
+          [
+            42.0,
+            37.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ottoman-hejaz",
@@ -60373,7 +63121,37 @@
       "de": "Die heiligen Städte Mekka und Medina unter osmanischer Oberhoheit, Grundlage des Kalifats-Anspruchs.",
       "en": "The holy cities of Mecca and Medina under Ottoman suzerainty, basis of the caliphate claim."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            36.0,
+            29.0
+          ],
+          [
+            40.0,
+            29.0
+          ],
+          [
+            42.0,
+            22.0
+          ],
+          [
+            38.0,
+            18.0
+          ],
+          [
+            36.0,
+            20.0
+          ],
+          [
+            36.0,
+            29.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ottoman-tripolitania",
@@ -60393,7 +63171,37 @@
       "de": "Osmanische Provinz im heutigen Libyen, wichtiger Stützpunkt der Barbareskenstaaten.",
       "en": "Ottoman province in modern-day Libya, an important base of the Barbary States."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            10.0,
+            34.0
+          ],
+          [
+            15.0,
+            34.0
+          ],
+          [
+            16.0,
+            30.0
+          ],
+          [
+            12.0,
+            29.0
+          ],
+          [
+            10.0,
+            31.0
+          ],
+          [
+            10.0,
+            34.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ottoman-tunisia",
@@ -60413,7 +63221,37 @@
       "de": "Osmanische Provinz Tunesien, nach dem Sieg über die Hafsiden 1574 eingerichtet.",
       "en": "Ottoman province of Tunisia, established after the defeat of the Hafsids in 1574."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.5,
+            37.5
+          ],
+          [
+            11.5,
+            37.5
+          ],
+          [
+            11.0,
+            34.0
+          ],
+          [
+            8.0,
+            33.0
+          ],
+          [
+            7.0,
+            35.0
+          ],
+          [
+            7.5,
+            37.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "safavid-empire",
@@ -60781,7 +63619,37 @@
       "de": "Arabisch-scherifische Dynastie in Marokko, die das Songhai-Reich eroberte und die portugiesische Expansion abwehrte.",
       "en": "Arab Sharifian dynasty in Morocco that conquered the Songhai Empire and repelled Portuguese expansion."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -12.0,
+            36.0
+          ],
+          [
+            -1.0,
+            36.0
+          ],
+          [
+            -1.0,
+            28.0
+          ],
+          [
+            -8.0,
+            26.0
+          ],
+          [
+            -13.0,
+            29.0
+          ],
+          [
+            -12.0,
+            36.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "alaouite-morocco",
@@ -61833,7 +64701,37 @@
       "de": "Iranische Dynastie unter Karim Khan Zand mit Schiraz als Hauptstadt, bekannt für eine Periode des Friedens und der Kunst.",
       "en": "Iranian dynasty under Karim Khan Zand with Shiraz as capital, known for a period of peace and arts."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46.0,
+            37.0
+          ],
+          [
+            56.0,
+            37.0
+          ],
+          [
+            56.0,
+            28.0
+          ],
+          [
+            50.0,
+            26.0
+          ],
+          [
+            46.0,
+            30.0
+          ],
+          [
+            46.0,
+            37.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "qajar-iran",
@@ -61853,7 +64751,41 @@
       "de": "Iranische Turkmenendynastie, die den Iran nach dem Zerfall der Vorgänger vereinte, jedoch große Gebiete an Russland und Großbritannien verlor.",
       "en": "Iranian Turkmen dynasty that reunified Iran after the fall of predecessors, but lost major territories to Russia and Britain."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.0,
+            40.0
+          ],
+          [
+            60.0,
+            38.0
+          ],
+          [
+            62.0,
+            28.0
+          ],
+          [
+            55.0,
+            25.0
+          ],
+          [
+            48.0,
+            27.0
+          ],
+          [
+            44.0,
+            32.0
+          ],
+          [
+            44.0,
+            40.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "khedivate-of-egypt",
@@ -61933,7 +64865,37 @@
       "de": "Omanisches Seereich, das die Portugiesen aus dem Indischen Ozean verdrängte und zeitweise Sansibar kontrollierte.",
       "en": "Omani maritime empire that expelled the Portuguese from the Indian Ocean and controlled Zanzibar."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            52.0,
+            26.5
+          ],
+          [
+            59.5,
+            25.5
+          ],
+          [
+            59.5,
+            21.0
+          ],
+          [
+            55.0,
+            17.0
+          ],
+          [
+            52.0,
+            20.0
+          ],
+          [
+            52.0,
+            26.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "first-saudi-state",
@@ -61953,7 +64915,37 @@
       "de": "Erstes saudisches Emirat in Zentralarabien, gegründet auf dem Bündnis zwischen Muhammad ibn Saud und Muhammad ibn Abd al-Wahhab.",
       "en": "First Saudi emirate in central Arabia, founded on the alliance between Muhammad ibn Saud and Muhammad ibn Abd al-Wahhab."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.0,
+            28.0
+          ],
+          [
+            50.0,
+            27.0
+          ],
+          [
+            50.0,
+            22.0
+          ],
+          [
+            45.0,
+            18.0
+          ],
+          [
+            42.0,
+            20.0
+          ],
+          [
+            42.0,
+            28.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "second-saudi-state",
@@ -61973,7 +64965,37 @@
       "de": "Zweites saudisches Emirat mit Riad als Hauptstadt, Nachfolger des ersten saudischen Staates.",
       "en": "Second Saudi emirate with Riyadh as capital, successor to the First Saudi State."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.0,
+            27.0
+          ],
+          [
+            48.0,
+            27.0
+          ],
+          [
+            48.0,
+            23.0
+          ],
+          [
+            45.0,
+            21.0
+          ],
+          [
+            44.0,
+            23.0
+          ],
+          [
+            44.0,
+            27.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "western-zhou",
@@ -61993,7 +65015,41 @@
       "de": "Erste Phase der Zhou-Dynastie mit Hauptstadt im Wei-Tal. Begründete das Mandat des Himmels als Legitimationsgrundlage chinesischer Herrschaft.",
       "en": "First phase of the Zhou dynasty based in the Wei River valley. Established the Mandate of Heaven as the legitimizing principle of Chinese rule."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            104.0,
+            38.0
+          ],
+          [
+            114.0,
+            38.0
+          ],
+          [
+            117.0,
+            34.0
+          ],
+          [
+            114.0,
+            31.0
+          ],
+          [
+            108.0,
+            30.0
+          ],
+          [
+            104.0,
+            33.0
+          ],
+          [
+            104.0,
+            38.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "eastern-zhou",
@@ -62533,7 +65589,37 @@
       "de": "Mächtiger südlicher Staat der Zhou-Zeit, der das mittlere und untere Jangtse-Gebiet beherrschte. Bekannt für seine eigenständige Kultur und Dichtung.",
       "en": "Powerful southern state of the Zhou era controlling the middle and lower Yangtze region. Known for its distinctive culture and poetry."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            108.0,
+            34.0
+          ],
+          [
+            117.0,
+            34.0
+          ],
+          [
+            117.0,
+            28.0
+          ],
+          [
+            110.0,
+            26.0
+          ],
+          [
+            108.0,
+            29.0
+          ],
+          [
+            108.0,
+            34.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "state-of-qi",
@@ -62553,7 +65639,37 @@
       "de": "Östlicher Zhou-Vasallenstaat auf der Shandong-Halbinsel. Unter Herzog Huan der erste der Fünf Hegemonien.",
       "en": "Eastern Zhou vassal state on the Shandong Peninsula. Under Duke Huan, the first of the Five Hegemons."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            115.0,
+            38.0
+          ],
+          [
+            120.0,
+            38.0
+          ],
+          [
+            121.0,
+            35.0
+          ],
+          [
+            117.0,
+            34.0
+          ],
+          [
+            115.0,
+            35.5
+          ],
+          [
+            115.0,
+            38.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "state-of-qin",
@@ -62573,7 +65689,37 @@
       "de": "Westlicher Staat der Zhou-Zeit im Wei-Tal. Durch die Reformen von Shang Yang wurde er zur stärksten Militärmacht der Streitenden Reiche.",
       "en": "Western Zhou-era state in the Wei River valley. Shang Yang's reforms made it the strongest military power among the Warring States."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            104.0,
+            37.0
+          ],
+          [
+            110.0,
+            37.0
+          ],
+          [
+            110.0,
+            33.0
+          ],
+          [
+            107.0,
+            32.0
+          ],
+          [
+            104.0,
+            34.0
+          ],
+          [
+            104.0,
+            37.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "state-of-zhao",
@@ -62593,7 +65739,37 @@
       "de": "Nördlicher Staat der Streitenden Reiche, hervorgegangen aus der Teilung von Jin. Bekannt für seine Kavalleriereformen.",
       "en": "Northern Warring States kingdom created from the partition of Jin. Known for its cavalry reforms."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            110.0,
+            42.0
+          ],
+          [
+            116.0,
+            41.0
+          ],
+          [
+            116.0,
+            37.0
+          ],
+          [
+            112.0,
+            35.0
+          ],
+          [
+            110.0,
+            38.0
+          ],
+          [
+            110.0,
+            42.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "gojoseon",
@@ -63257,7 +66433,45 @@
       "de": "Mächtiger Nomadenbund der eurasischen Steppe unter Modu Chanyu. Rivale der Han-Dynastie und Beherrscher der mongolischen Hochebene.",
       "en": "Powerful nomadic confederation of the Eurasian steppe under Modu Chanyu. Rival of the Han dynasty and dominant power on the Mongolian Plateau."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            85.0,
+            52.0
+          ],
+          [
+            110.0,
+            52.0
+          ],
+          [
+            120.0,
+            48.0
+          ],
+          [
+            115.0,
+            42.0
+          ],
+          [
+            105.0,
+            40.0
+          ],
+          [
+            95.0,
+            42.0
+          ],
+          [
+            85.0,
+            45.0
+          ],
+          [
+            85.0,
+            52.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "han-dynasty",
@@ -64057,7 +67271,41 @@
       "de": "Erste Periode der Han-Dynastie mit Hauptstadt Chang'an. Unter Kaiser Wu erreichte das Reich seine größte Ausdehnung.",
       "en": "First period of the Han dynasty with capital at Chang'an. Under Emperor Wu, the empire reached its greatest extent."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            100.0,
+            40.0
+          ],
+          [
+            118.0,
+            42.0
+          ],
+          [
+            122.0,
+            35.0
+          ],
+          [
+            118.0,
+            25.0
+          ],
+          [
+            106.0,
+            24.0
+          ],
+          [
+            100.0,
+            30.0
+          ],
+          [
+            100.0,
+            40.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "eastern-han",
@@ -64077,7 +67325,41 @@
       "de": "Zweite Periode der Han-Dynastie mit Hauptstadt Luoyang. Erlebte kulturelle Blüte und technologische Fortschritte wie die Papierherstellung.",
       "en": "Second period of the Han dynasty with capital at Luoyang. Saw cultural flourishing and technological advances including papermaking."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            100.0,
+            40.0
+          ],
+          [
+            118.0,
+            42.0
+          ],
+          [
+            122.0,
+            35.0
+          ],
+          [
+            118.0,
+            25.0
+          ],
+          [
+            106.0,
+            24.0
+          ],
+          [
+            100.0,
+            30.0
+          ],
+          [
+            100.0,
+            40.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "funan",
@@ -65317,7 +68599,37 @@
       "de": "Nördliches Königreich der Drei Reiche unter der Cao-Familie mit Hauptstadt Luoyang. Kontrollierte den bevölkerungsreichsten Teil Chinas.",
       "en": "Northern kingdom of the Three Kingdoms under the Cao family, based at Luoyang. Controlled the most populous part of China."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.0,
+            40.0
+          ],
+          [
+            118.0,
+            40.0
+          ],
+          [
+            118.0,
+            33.0
+          ],
+          [
+            112.0,
+            32.0
+          ],
+          [
+            106.0,
+            34.0
+          ],
+          [
+            106.0,
+            40.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "three-kingdoms-shu",
@@ -65337,7 +68649,37 @@
       "de": "Südwestliches Königreich der Drei Reiche im heutigen Sichuan, gegründet von Liu Bei. Berühmt durch den Strategen Zhuge Liang.",
       "en": "Southwestern kingdom of the Three Kingdoms in present-day Sichuan, founded by Liu Bei. Famous for the strategist Zhuge Liang."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            100.0,
+            34.0
+          ],
+          [
+            108.0,
+            34.0
+          ],
+          [
+            108.0,
+            27.0
+          ],
+          [
+            103.0,
+            25.0
+          ],
+          [
+            100.0,
+            28.0
+          ],
+          [
+            100.0,
+            34.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "three-kingdoms-wu",
@@ -65617,7 +68959,41 @@
       "de": "Chinesische Dynastie die kurzzeitig China nach den Drei Reichen vereinte. Zerfiel in Westliche Jin (266–316) und Östliche Jin (317–420).",
       "en": "Chinese dynasty that briefly reunified China after the Three Kingdoms. Split into Western Jin (266–316) and Eastern Jin (317–420)."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            100.0,
+            40.0
+          ],
+          [
+            120.0,
+            40.0
+          ],
+          [
+            122.0,
+            30.0
+          ],
+          [
+            112.0,
+            24.0
+          ],
+          [
+            104.0,
+            24.0
+          ],
+          [
+            100.0,
+            30.0
+          ],
+          [
+            100.0,
+            40.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "northern-wei",
@@ -65637,7 +69013,37 @@
       "de": "Von den Xianbei gegründete Dynastie, die Nordchina vereinte. Bedeutend für die Verschmelzung nomadischer und chinesischer Kultur und die Verbreitung des Buddhismus.",
       "en": "Dynasty founded by the Xianbei that unified northern China. Notable for the fusion of nomadic and Chinese culture and the spread of Buddhism."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            100.0,
+            42.0
+          ],
+          [
+            120.0,
+            42.0
+          ],
+          [
+            120.0,
+            34.0
+          ],
+          [
+            110.0,
+            32.0
+          ],
+          [
+            100.0,
+            35.0
+          ],
+          [
+            100.0,
+            42.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "yamato-japan",
@@ -65657,7 +69063,45 @@
       "de": "Frühes japanisches Staatswesen der Kofun- und Asuka-Zeit, Grundlage des japanischen Kaiserhauses. Übernahm chinesische Schrift, Buddhismus und Staatsverwaltung.",
       "en": "Early Japanese polity of the Kofun and Asuka periods, foundation of the Japanese imperial house. Adopted Chinese writing, Buddhism, and statecraft."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            130.0,
+            35.0
+          ],
+          [
+            136.0,
+            36.0
+          ],
+          [
+            140.0,
+            38.0
+          ],
+          [
+            141.0,
+            35.0
+          ],
+          [
+            137.0,
+            33.0
+          ],
+          [
+            132.0,
+            32.5
+          ],
+          [
+            130.0,
+            33.0
+          ],
+          [
+            130.0,
+            35.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "dvaravati",
@@ -67781,7 +71225,37 @@
       "de": "Malaiische Seehandelsherrschaft auf Sumatra, die die Meerenge von Malakka kontrollierte. Bedeutendes Zentrum des Buddhismus in Südostasien.",
       "en": "Malay thalassocratic empire based on Sumatra controlling the Strait of Malacca. Major center of Buddhism in Southeast Asia."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            98.0,
+            4.0
+          ],
+          [
+            106.0,
+            2.0
+          ],
+          [
+            108.0,
+            -3.0
+          ],
+          [
+            104.0,
+            -6.0
+          ],
+          [
+            98.0,
+            -4.0
+          ],
+          [
+            98.0,
+            4.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "balhae",
@@ -68129,7 +71603,45 @@
       "de": "Periode der japanischen Geschichte mit Hauptstadt in Nara. Blüte des Buddhismus und Errichtung des Todai-ji-Tempels.",
       "en": "Period of Japanese history centered on the capital Nara. Flourishing of Buddhism and construction of Todai-ji temple."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            130.0,
+            35.0
+          ],
+          [
+            136.0,
+            36.0
+          ],
+          [
+            140.0,
+            38.0
+          ],
+          [
+            141.0,
+            35.0
+          ],
+          [
+            137.0,
+            33.0
+          ],
+          [
+            132.0,
+            32.5
+          ],
+          [
+            130.0,
+            33.0
+          ],
+          [
+            130.0,
+            35.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "nanzhao",
@@ -68149,7 +71661,37 @@
       "de": "Königreich im heutigen Yunnan, das zwischen Tang-China und dem Tibetischen Reich lavierte. Beherrschte den Südwesten Chinas und Teile Südostasiens.",
       "en": "Kingdom in present-day Yunnan that balanced between Tang China and the Tibetan Empire. Controlled southwestern China and parts of Southeast Asia."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            98.0,
+            28.0
+          ],
+          [
+            104.0,
+            28.0
+          ],
+          [
+            104.0,
+            23.0
+          ],
+          [
+            100.0,
+            22.0
+          ],
+          [
+            98.0,
+            24.0
+          ],
+          [
+            98.0,
+            28.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "heian-japan",
@@ -68169,7 +71711,45 @@
       "de": "Höhepunkt der japanischen Hofkultur in der Hauptstadt Kyoto. Blüte von Literatur, Kunst und der Entwicklung einer eigenständigen japanischen Kultur.",
       "en": "Peak of Japanese court culture in the capital Kyoto. Flourishing of literature, art, and the development of a distinctly Japanese culture."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            130.0,
+            35.0
+          ],
+          [
+            136.0,
+            36.0
+          ],
+          [
+            140.0,
+            38.0
+          ],
+          [
+            141.0,
+            35.0
+          ],
+          [
+            137.0,
+            33.0
+          ],
+          [
+            132.0,
+            32.5
+          ],
+          [
+            130.0,
+            33.0
+          ],
+          [
+            130.0,
+            35.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "khmer-empire",
@@ -68521,7 +72101,37 @@
       "de": "Kerngebiet des Khmer-Reiches rund um die Hauptstadt Angkor mit ihrem monumentalen Tempelsystem.",
       "en": "Core region of the Khmer Empire around the capital Angkor with its monumental temple complex."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            102.0,
+            15.0
+          ],
+          [
+            106.0,
+            15.5
+          ],
+          [
+            107.0,
+            12.5
+          ],
+          [
+            104.0,
+            11.0
+          ],
+          [
+            102.0,
+            12.0
+          ],
+          [
+            102.0,
+            15.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "khmer-isan",
@@ -68541,7 +72151,33 @@
       "de": "Khmer-kontrollierte Region im heutigen Nordostthailand mit Tempelanlagen wie Phimai und Phanom Rung.",
       "en": "Khmer-controlled region in present-day northeast Thailand with temple complexes such as Phimai and Phanom Rung."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            101.0,
+            17.5
+          ],
+          [
+            106.0,
+            17.5
+          ],
+          [
+            106.0,
+            14.0
+          ],
+          [
+            102.0,
+            14.0
+          ],
+          [
+            101.0,
+            17.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "liao-dynasty",
@@ -70997,7 +74633,37 @@
       "de": "Bai-Königreich im heutigen Yunnan als Nachfolger von Nanzhao. Buddhistisch geprägter Staat, der 1253 von den Mongolen erobert wurde.",
       "en": "Bai kingdom in present-day Yunnan succeeding Nanzhao. Buddhist-influenced state conquered by the Mongols in 1253."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            98.0,
+            28.0
+          ],
+          [
+            104.0,
+            28.0
+          ],
+          [
+            104.0,
+            23.0
+          ],
+          [
+            100.0,
+            22.0
+          ],
+          [
+            98.0,
+            24.0
+          ],
+          [
+            98.0,
+            28.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "song-dynasty",
@@ -71473,7 +75139,37 @@
       "de": "Erste Periode der Song-Dynastie mit Hauptstadt Kaifeng. Wirtschaftliche Revolution und urbane Blüte.",
       "en": "First period of the Song dynasty with capital at Kaifeng. Economic revolution and urban flourishing."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            104.0,
+            40.0
+          ],
+          [
+            120.0,
+            38.0
+          ],
+          [
+            122.0,
+            30.0
+          ],
+          [
+            112.0,
+            24.0
+          ],
+          [
+            104.0,
+            24.0
+          ],
+          [
+            104.0,
+            40.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "southern-song",
@@ -71493,7 +75189,37 @@
       "de": "Zweite Periode der Song-Dynastie mit Hauptstadt Hangzhou nach dem Verlust Nordchinas an die Jurchen-Jin-Dynastie.",
       "en": "Second period of the Song dynasty with capital at Hangzhou after losing northern China to the Jurchen Jin dynasty."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            104.0,
+            34.0
+          ],
+          [
+            122.0,
+            34.0
+          ],
+          [
+            122.0,
+            24.0
+          ],
+          [
+            112.0,
+            22.0
+          ],
+          [
+            104.0,
+            23.0
+          ],
+          [
+            104.0,
+            34.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "dai-viet",
@@ -72045,7 +75771,37 @@
       "de": "Von den Tanguten gegründetes Reich im heutigen Nordwestchina. Kontrollierte die Seidenstraße und entwickelte eine eigene Schrift.",
       "en": "Tangut-led empire in present-day northwest China. Controlled Silk Road routes and developed its own writing system."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            100.0,
+            40.5
+          ],
+          [
+            107.0,
+            41.0
+          ],
+          [
+            107.0,
+            37.0
+          ],
+          [
+            104.0,
+            35.5
+          ],
+          [
+            100.0,
+            37.0
+          ],
+          [
+            100.0,
+            40.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "jin-dynasty-1115",
@@ -72065,7 +75821,45 @@
       "de": "Von den Jurchen gegründete Dynastie, die die Liao besiegte und Nordchina eroberte. Rivale der Südlichen Song-Dynastie.",
       "en": "Jurchen-led dynasty that defeated the Liao and conquered northern China. Rival of the Southern Song dynasty."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            108.0,
+            42.0
+          ],
+          [
+            120.0,
+            45.0
+          ],
+          [
+            130.0,
+            44.0
+          ],
+          [
+            128.0,
+            38.0
+          ],
+          [
+            120.0,
+            34.0
+          ],
+          [
+            112.0,
+            35.0
+          ],
+          [
+            108.0,
+            38.0
+          ],
+          [
+            108.0,
+            42.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "sukhothai-kingdom",
@@ -75049,7 +78843,41 @@
       "de": "Javanisches Hindu-buddhistisches Seehandelsreich, das den gesamten Nusantara-Archipel beherrschte. Höhepunkt unter Premierminister Gajah Mada.",
       "en": "Javanese Hindu-Buddhist thalassocratic empire controlling the Nusantara archipelago. Peaked under prime minister Gajah Mada."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            105.0,
+            -5.0
+          ],
+          [
+            115.0,
+            -3.0
+          ],
+          [
+            120.0,
+            -5.0
+          ],
+          [
+            118.0,
+            -9.0
+          ],
+          [
+            110.0,
+            -8.5
+          ],
+          [
+            105.0,
+            -6.5
+          ],
+          [
+            105.0,
+            -5.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ashikaga-shogunate",
@@ -76805,7 +80633,37 @@
       "de": "Laotisches Königreich 'Land der Millionen Elefanten', eines der größten Königreiche Südostasiens. Grundlage der laotischen Identität.",
       "en": "Laotian kingdom meaning 'Land of a Million Elephants,' one of the largest kingdoms in Southeast Asia. Foundation of Laotian identity."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            100.0,
+            22.0
+          ],
+          [
+            106.0,
+            22.0
+          ],
+          [
+            106.0,
+            14.0
+          ],
+          [
+            102.0,
+            13.0
+          ],
+          [
+            100.0,
+            17.0
+          ],
+          [
+            100.0,
+            22.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ming-dynasty",
@@ -77409,7 +81267,37 @@
       "de": "Südliche Hauptstadtprovinz der Ming-Dynastie um Nanjing, wirtschaftliches Zentrum des Reiches.",
       "en": "Southern capital province of the Ming dynasty around Nanjing, economic center of the empire."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            115.0,
+            34.0
+          ],
+          [
+            122.0,
+            34.0
+          ],
+          [
+            122.0,
+            29.0
+          ],
+          [
+            118.0,
+            28.0
+          ],
+          [
+            115.0,
+            30.0
+          ],
+          [
+            115.0,
+            34.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ming-beizhili",
@@ -77429,7 +81317,33 @@
       "de": "Nördliche Hauptstadtprovinz der Ming-Dynastie um Peking, politisches Zentrum nach Yongle-Kaiser.",
       "en": "Northern capital province of the Ming dynasty around Beijing, political center after the Yongle Emperor."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            114.0,
+            42.0
+          ],
+          [
+            120.0,
+            42.0
+          ],
+          [
+            120.0,
+            38.0
+          ],
+          [
+            114.0,
+            38.0
+          ],
+          [
+            114.0,
+            42.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "joseon-dynasty",
@@ -77809,7 +81723,33 @@
       "de": "Malaiisches Sultanat, das die Meerenge von Malakka kontrollierte. Bedeutendstes Handelszentrum Südostasiens und Zentrum der Islamisierung der Region.",
       "en": "Malay sultanate controlling the Strait of Malacca. Most important trading hub in Southeast Asia and center of Islamic expansion in the region."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            100.0,
+            5.0
+          ],
+          [
+            105.0,
+            3.0
+          ],
+          [
+            105.0,
+            -1.0
+          ],
+          [
+            100.0,
+            0.0
+          ],
+          [
+            100.0,
+            5.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ryukyu-kingdom",
@@ -77829,7 +81769,33 @@
       "de": "Inselkönigreich im Ostchinesischen Meer mit bedeutender Rolle im maritimen Handel Ostasiens. Tributstaat Chinas, ab 1609 auch Japans.",
       "en": "Island kingdom in the East China Sea with a major role in East Asian maritime trade. Tributary of China, and also of Japan from 1609."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            126.0,
+            27.5
+          ],
+          [
+            129.0,
+            27.5
+          ],
+          [
+            129.0,
+            25.5
+          ],
+          [
+            126.0,
+            25.5
+          ],
+          [
+            126.0,
+            27.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "toungoo-dynasty",
@@ -77849,7 +81815,37 @@
       "de": "Zweites Birmanisches Reich, wahrscheinlich das größte Reich in der Geschichte Südostasiens. Unter Bayinnaung beherrschte es Burma, Siam und Teile von Laos.",
       "en": "Second Burmese Empire, probably the largest empire in Southeast Asian history. Under Bayinnaung, it ruled Burma, Siam, and parts of Laos."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            93.0,
+            22.0
+          ],
+          [
+            100.0,
+            22.0
+          ],
+          [
+            101.0,
+            16.0
+          ],
+          [
+            97.0,
+            10.0
+          ],
+          [
+            93.0,
+            15.0
+          ],
+          [
+            93.0,
+            22.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "mataram-sultanate",
@@ -77869,7 +81865,37 @@
       "de": "Letztes großes unabhängiges javanisches Königreich vor der niederländischen Kolonialherrschaft. Beherrschte den Großteil Zentral- und Ostjavas.",
       "en": "Last major independent Javanese kingdom before Dutch colonial rule. Dominated most of central and eastern Java."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            108.0,
+            -6.0
+          ],
+          [
+            114.0,
+            -6.5
+          ],
+          [
+            114.5,
+            -8.5
+          ],
+          [
+            110.0,
+            -8.5
+          ],
+          [
+            108.0,
+            -7.5
+          ],
+          [
+            108.0,
+            -6.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "tokugawa-shogunate",
@@ -79393,7 +83419,37 @@
       "de": "Heimat der mandschurischen Herrscherdynastie im Nordosten Chinas. Für Han-Chinesen lange Zeit gesperrt.",
       "en": "Homeland of the Manchu ruling dynasty in northeast China. Long closed to Han Chinese settlement."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            118.0,
+            48.0
+          ],
+          [
+            134.0,
+            48.0
+          ],
+          [
+            135.0,
+            42.0
+          ],
+          [
+            126.0,
+            39.0
+          ],
+          [
+            118.0,
+            41.0
+          ],
+          [
+            118.0,
+            48.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "qing-outer-mongolia",
@@ -79413,7 +83469,41 @@
       "de": "Qing-Protektorat über die mongolische Hochebene nach Unterwerfung der Khalkha-Mongolen.",
       "en": "Qing protectorate over the Mongolian Plateau following the submission of the Khalkha Mongols."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            88.0,
+            52.0
+          ],
+          [
+            116.0,
+            52.0
+          ],
+          [
+            120.0,
+            46.0
+          ],
+          [
+            110.0,
+            42.0
+          ],
+          [
+            96.0,
+            42.0
+          ],
+          [
+            88.0,
+            46.0
+          ],
+          [
+            88.0,
+            52.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "qing-tibet",
@@ -79433,7 +83523,37 @@
       "de": "Tibet unter Qing-Oberhoheit mit mandschurischen Ambanen als Residenten in Lhasa. Theokratie unter dem Dalai Lama.",
       "en": "Tibet under Qing suzerainty with Manchu ambans as residents in Lhasa. Theocracy under the Dalai Lama."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            78.0,
+            36.0
+          ],
+          [
+            99.0,
+            36.0
+          ],
+          [
+            99.0,
+            28.0
+          ],
+          [
+            86.0,
+            27.0
+          ],
+          [
+            78.0,
+            30.0
+          ],
+          [
+            78.0,
+            36.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "qing-xinjiang",
@@ -79453,7 +83573,37 @@
       "de": "Westlichste Qing-Provinz, erobert nach der Zerschlagung des Dsungarenreiches. Bedeutend als Seidenstraßen-Korridor.",
       "en": "Westernmost Qing province, conquered after the destruction of the Dzungar Khanate. Significant as a Silk Road corridor."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.0,
+            48.0
+          ],
+          [
+            96.0,
+            48.0
+          ],
+          [
+            96.0,
+            36.0
+          ],
+          [
+            78.0,
+            35.0
+          ],
+          [
+            73.0,
+            40.0
+          ],
+          [
+            73.0,
+            48.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "konbaung-dynasty",
@@ -79473,7 +83623,37 @@
       "de": "Letztes birmanisches Königreich, das in drei Anglo-Birmanischen Kriegen gegen das Britische Empire unterlag. Schuf die größte territoriale Ausdehnung Burmas.",
       "en": "Last Burmese kingdom, defeated by the British Empire in three Anglo-Burmese Wars. Achieved Burma's greatest territorial extent."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            92.0,
+            28.0
+          ],
+          [
+            100.0,
+            24.0
+          ],
+          [
+            101.0,
+            16.0
+          ],
+          [
+            97.0,
+            10.0
+          ],
+          [
+            92.0,
+            15.0
+          ],
+          [
+            92.0,
+            28.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "rattanakosin-siam",
@@ -79493,7 +83673,37 @@
       "de": "Siamesisches Königreich mit Hauptstadt Bangkok, Nachfolger von Thonburi. Einziges südostasiatisches Land, das nie kolonisiert wurde.",
       "en": "Siamese kingdom with capital Bangkok, successor to Thonburi. The only Southeast Asian country never colonized."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            98.0,
+            20.0
+          ],
+          [
+            105.0,
+            18.0
+          ],
+          [
+            105.0,
+            6.0
+          ],
+          [
+            100.0,
+            5.0
+          ],
+          [
+            98.0,
+            10.0
+          ],
+          [
+            98.0,
+            20.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "nguyen-dynasty",
@@ -79513,7 +83723,41 @@
       "de": "Letzte vietnamesische Dynastie, die erstmals ganz Vietnam vereinte. Verlor schrittweise die Souveränität an Frankreich.",
       "en": "Last Vietnamese dynasty, first to unify all of Vietnam. Gradually lost sovereignty to France."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            104.0,
+            23.0
+          ],
+          [
+            109.0,
+            21.0
+          ],
+          [
+            109.0,
+            11.0
+          ],
+          [
+            106.0,
+            8.5
+          ],
+          [
+            104.0,
+            10.0
+          ],
+          [
+            104.0,
+            16.0
+          ],
+          [
+            104.0,
+            23.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "magadha-kingdom",
@@ -80841,7 +85085,37 @@
       "de": "Altindische Zivilisation im heutigen Nordwestpakistan und Ostafghanistan. Bekannt als Zentrum des Greco-Buddhismus und wichtige Station an der Seidenstrasse.",
       "en": "Ancient Indian civilization in present-day northwestern Pakistan and eastern Afghanistan. Known as a center of Greco-Buddhism and an important station on the Silk Road."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            68.0,
+            36.0
+          ],
+          [
+            74.0,
+            36.0
+          ],
+          [
+            74.0,
+            33.0
+          ],
+          [
+            70.0,
+            32.0
+          ],
+          [
+            68.0,
+            34.0
+          ],
+          [
+            68.0,
+            36.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "maurya-empire",
@@ -81453,7 +85727,37 @@
       "de": "Nordwestliche Provinz des Maurya-Reiches mit Zentrum in Taxila, wichtig fuer Handel und kulturellen Austausch.",
       "en": "Northwestern province of the Maurya Empire centered on Taxila, important for trade and cultural exchange."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            68.0,
+            36.0
+          ],
+          [
+            74.0,
+            36.0
+          ],
+          [
+            74.0,
+            33.0
+          ],
+          [
+            70.0,
+            32.0
+          ],
+          [
+            68.0,
+            34.0
+          ],
+          [
+            68.0,
+            36.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "maurya-kalinga",
@@ -81473,7 +85777,37 @@
       "de": "Oestliche Kuestenprovinz des Maurya-Reiches, nach der blutigen Eroberung durch Ashoka bekehrt zum Buddhismus.",
       "en": "Eastern coastal province of the Maurya Empire, whose bloody conquest led Ashoka to embrace Buddhism."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            82.0,
+            22.0
+          ],
+          [
+            86.0,
+            22.0
+          ],
+          [
+            87.0,
+            18.0
+          ],
+          [
+            83.0,
+            16.0
+          ],
+          [
+            81.0,
+            19.0
+          ],
+          [
+            82.0,
+            22.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "maurya-deccan",
@@ -82085,7 +86419,37 @@
       "de": "Nordindisches Reich, das auf die Maurya folgte. Bekannt fuer die Foerderung von Kunst und die Verteidigung gegen griechische Invasionen.",
       "en": "North Indian empire succeeding the Mauryas. Known for patronage of the arts and defense against Greek invasions."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            76.0,
+            28.0
+          ],
+          [
+            86.0,
+            28.0
+          ],
+          [
+            88.0,
+            24.0
+          ],
+          [
+            82.0,
+            22.0
+          ],
+          [
+            76.0,
+            23.0
+          ],
+          [
+            76.0,
+            28.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "satavahana-dynasty",
@@ -82105,7 +86469,37 @@
       "de": "Bedeutende Dynastie im Dekkan nach den Maurya. Bildete eine kulturelle Bruecke zwischen Nord- und Suedindien und widerstand auslaendischen Invasionen.",
       "en": "Major post-Maurya dynasty in the Deccan. Formed a cultural bridge between North and South India and resisted foreign invasions."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.0,
+            22.0
+          ],
+          [
+            80.0,
+            22.0
+          ],
+          [
+            81.0,
+            16.0
+          ],
+          [
+            77.0,
+            14.0
+          ],
+          [
+            73.0,
+            17.0
+          ],
+          [
+            73.0,
+            22.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kushan-empire",
@@ -86041,7 +90435,37 @@
       "de": "Wichtige Mogulprovinz im Punjab mit bedeutenden Bauwerken wie Lahore Fort und Shalimar-Gaerten.",
       "en": "Important Mughal province in Punjab with notable monuments including Lahore Fort and Shalimar Gardens."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            70.0,
+            33.0
+          ],
+          [
+            76.0,
+            33.0
+          ],
+          [
+            76.0,
+            29.0
+          ],
+          [
+            72.0,
+            28.0
+          ],
+          [
+            70.0,
+            30.0
+          ],
+          [
+            70.0,
+            33.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "mughal-kabul",
@@ -86061,7 +90485,37 @@
       "de": "Noerdliche Grenzprovinz des Mogulreiches im heutigen Afghanistan, Heimat des Reichsgruenders Babur.",
       "en": "Northern frontier province of the Mughal Empire in present-day Afghanistan, homeland of the dynasty's founder Babur."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            66.0,
+            36.0
+          ],
+          [
+            72.0,
+            36.0
+          ],
+          [
+            72.0,
+            33.0
+          ],
+          [
+            68.0,
+            32.0
+          ],
+          [
+            66.0,
+            34.0
+          ],
+          [
+            66.0,
+            36.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "maratha-empire",
@@ -87749,7 +92203,33 @@
       "de": "Maratha-Konfoedeationsstaat unter der Bhonsle-Dynastie mit Sitz in Nagpur.",
       "en": "Maratha confederacy state under the Bhonsle dynasty based in Nagpur."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            78.0,
+            22.0
+          ],
+          [
+            83.0,
+            22.0
+          ],
+          [
+            83.0,
+            18.0
+          ],
+          [
+            79.0,
+            18.0
+          ],
+          [
+            78.0,
+            22.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "sikh-empire",
@@ -87769,7 +92249,37 @@
       "de": "Letzte grosse unabhaengige Macht auf dem indischen Subkontinent vor der britischen Annexion, gegruendet von Maharaja Ranjit Singh.",
       "en": "Last major independent power on the Indian subcontinent before British annexation, founded by Maharaja Ranjit Singh."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            69.0,
+            36.0
+          ],
+          [
+            77.0,
+            34.0
+          ],
+          [
+            77.0,
+            29.0
+          ],
+          [
+            72.0,
+            28.0
+          ],
+          [
+            69.0,
+            31.0
+          ],
+          [
+            69.0,
+            36.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-mysore",
@@ -87789,7 +92299,37 @@
       "de": "Suedindisches Koenigreich, das unter Hyder Ali und Tipu Sultan zur regionalen Grossmacht aufstieg und vier Kriege gegen die Briten fuehrte.",
       "en": "South Indian kingdom that rose to regional power under Hyder Ali and Tipu Sultan, fighting four wars against the British."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            74.5,
+            15.0
+          ],
+          [
+            78.5,
+            15.0
+          ],
+          [
+            78.5,
+            11.5
+          ],
+          [
+            76.0,
+            11.0
+          ],
+          [
+            74.5,
+            12.5
+          ],
+          [
+            74.5,
+            15.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "nizam-of-hyderabad",
@@ -87809,7 +92349,37 @@
       "de": "Nachfolgestaat des Mogulreiches im Dekkan, regiert von der Asaf-Jahi-Dynastie. Eines der groessten und reichsten Fuerstentuemer Indiens.",
       "en": "Successor state of the Mughal Empire in the Deccan, ruled by the Asaf Jahi dynasty. One of the largest and richest princely states of India."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            75.0,
+            20.0
+          ],
+          [
+            80.0,
+            20.0
+          ],
+          [
+            81.0,
+            16.0
+          ],
+          [
+            77.0,
+            14.0
+          ],
+          [
+            75.0,
+            16.0
+          ],
+          [
+            75.0,
+            20.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-nepal",
@@ -87829,7 +92399,33 @@
       "de": "Hindu-Koenigreich in Suedasien, gegruendet durch die Expansion des Gorkha-Koenigreichs unter Prithvi Narayan Shah.",
       "en": "Hindu kingdom in South Asia, formed by the expansion of the Gorkha Kingdom under Prithvi Narayan Shah."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.0,
+            30.5
+          ],
+          [
+            88.0,
+            28.5
+          ],
+          [
+            88.0,
+            26.5
+          ],
+          [
+            80.0,
+            26.5
+          ],
+          [
+            80.0,
+            30.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "british-raj",
@@ -88217,7 +92813,37 @@
       "de": "Antikes nubisches Koenigreich am Nil im heutigen Sudan. Herrschte als 25. Dynastie zeitweise ueber ganz Aegypten und war bekannt fuer seine Pyramiden in Meroe.",
       "en": "Ancient Nubian kingdom along the Nile in present-day Sudan. Ruled all of Egypt as the 25th Dynasty and was known for its pyramids at Meroe."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            30.0,
+            22.0
+          ],
+          [
+            36.0,
+            22.0
+          ],
+          [
+            36.0,
+            16.0
+          ],
+          [
+            32.0,
+            15.0
+          ],
+          [
+            30.0,
+            18.0
+          ],
+          [
+            30.0,
+            22.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kush-napata",
@@ -88237,7 +92863,37 @@
       "de": "Erste Hauptstadt des Kusch-Koenigreiches, von der aus die Eroberung Aegyptens ausging.",
       "en": "First capital of the Kingdom of Kush, from which the conquest of Egypt was launched."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            30.0,
+            21.0
+          ],
+          [
+            34.0,
+            21.0
+          ],
+          [
+            34.0,
+            18.0
+          ],
+          [
+            31.0,
+            17.5
+          ],
+          [
+            30.0,
+            19.0
+          ],
+          [
+            30.0,
+            21.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kush-meroe",
@@ -88257,7 +92913,37 @@
       "de": "Spaetere Hauptstadt des Kusch-Reiches, bekannt fuer eigene Schrift und Eisenverhuttung.",
       "en": "Later capital of the Kush kingdom, known for its own script and iron smelting."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            32.0,
+            18.0
+          ],
+          [
+            36.0,
+            18.0
+          ],
+          [
+            36.0,
+            14.5
+          ],
+          [
+            33.0,
+            14.0
+          ],
+          [
+            32.0,
+            15.5
+          ],
+          [
+            32.0,
+            18.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-dmt",
@@ -88277,7 +92963,37 @@
       "de": "Fruehes Koenigreich im heutigen Eritrea und Nordaethiopien, moeglicherweise Vorgaenger des Aksumitischen Reiches.",
       "en": "Early kingdom in present-day Eritrea and northern Ethiopia, possibly a predecessor of the Aksumite Empire."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            38.0,
+            16.0
+          ],
+          [
+            42.0,
+            15.0
+          ],
+          [
+            42.0,
+            13.0
+          ],
+          [
+            39.0,
+            12.5
+          ],
+          [
+            38.0,
+            14.0
+          ],
+          [
+            38.0,
+            16.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "aksumite-empire",
@@ -88429,7 +93145,37 @@
       "de": "Fruehe westafrikanische Zivilisation im heutigen Nigeria, bekannt fuer ihre Terrakotta-Skulpturen und fruehe Eisenverarbeitung.",
       "en": "Early West African civilization in present-day Nigeria, known for its terracotta sculptures and early iron smelting."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0,
+            10.5
+          ],
+          [
+            9.0,
+            10.5
+          ],
+          [
+            9.0,
+            8.0
+          ],
+          [
+            7.0,
+            7.5
+          ],
+          [
+            6.0,
+            8.5
+          ],
+          [
+            6.0,
+            10.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ghana-empire",
@@ -88837,7 +93583,33 @@
       "de": "Bedeutendes Handels- und Gelehrtenzentrum des Mali-Reiches mit beruhmter Koranschule und Bibliothek.",
       "en": "Major trade and scholarly center of the Mali Empire, famous for its Koranic schools and libraries."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -5.0,
+            18.0
+          ],
+          [
+            -1.0,
+            18.0
+          ],
+          [
+            -1.0,
+            15.0
+          ],
+          [
+            -4.0,
+            15.0
+          ],
+          [
+            -5.0,
+            18.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "mali-gao",
@@ -88857,7 +93629,37 @@
       "de": "Oestliche Provinz des Mali-Reiches, spaeter Kern des nachfolgenden Songhai-Reiches.",
       "en": "Eastern province of the Mali Empire, later core of the succeeding Songhai Empire."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -4.0,
+            18.0
+          ],
+          [
+            2.0,
+            18.0
+          ],
+          [
+            2.0,
+            14.0
+          ],
+          [
+            -2.0,
+            13.0
+          ],
+          [
+            -4.0,
+            15.0
+          ],
+          [
+            -4.0,
+            18.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "songhai-empire",
@@ -89001,7 +93803,33 @@
       "de": "Gelehrtenstadt und Handelszentrum unter Songhai-Herrschaft mit der beruehmten Sankore-Universitaet.",
       "en": "Scholarly city and trade center under Songhai rule, home to the famous Sankore University."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -4.0,
+            18.0
+          ],
+          [
+            -1.0,
+            18.0
+          ],
+          [
+            -1.0,
+            15.0
+          ],
+          [
+            -4.0,
+            15.0
+          ],
+          [
+            -4.0,
+            18.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "songhai-djenne",
@@ -89021,7 +93849,33 @@
       "de": "Wichtige Handelsstadt des Songhai-Reiches, bekannt fuer die Grosse Moschee aus Lehm.",
       "en": "Important trade city of the Songhai Empire, known for the Great Mosque made of mudbrick."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -6.0,
+            14.0
+          ],
+          [
+            -3.0,
+            14.5
+          ],
+          [
+            -2.5,
+            12.5
+          ],
+          [
+            -5.5,
+            12.0
+          ],
+          [
+            -6.0,
+            14.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ethiopian-empire",
@@ -89041,7 +93895,41 @@
       "de": "Christliches Kaiserreich am Horn von Afrika unter der Salomonischen Dynastie. Behauptete seine Unabhaengigkeit ueber Jahrhunderte.",
       "en": "Christian empire in the Horn of Africa under the Solomonic dynasty. Maintained its independence for centuries."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            33.0,
+            16.0
+          ],
+          [
+            43.0,
+            15.0
+          ],
+          [
+            45.0,
+            8.0
+          ],
+          [
+            39.0,
+            4.0
+          ],
+          [
+            35.0,
+            4.0
+          ],
+          [
+            33.0,
+            10.0
+          ],
+          [
+            33.0,
+            16.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "hausa-city-states",
@@ -89061,7 +93949,37 @@
       "de": "Gruppe von sieben Koenigreichen im heutigen Nordnigeria, bedeutende Handelszentren zwischen dem Sahel und dem tropischen Afrika.",
       "en": "Group of seven kingdoms in present-day northern Nigeria, important trade centers between the Sahel and tropical Africa."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            5.0,
+            14.0
+          ],
+          [
+            10.0,
+            14.0
+          ],
+          [
+            11.0,
+            11.0
+          ],
+          [
+            7.0,
+            10.0
+          ],
+          [
+            5.0,
+            11.0
+          ],
+          [
+            5.0,
+            14.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-benin",
@@ -89081,7 +93999,33 @@
       "de": "Maecthiges Koenigreich in Westafrika, beruehmt fuer seine meisterhaften Bronzegussfiguren und als eines der aeltesten Reiche an der Kueste.",
       "en": "Powerful West African kingdom famous for its masterful bronze castings and as one of the oldest states in the coastal hinterland."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            5.0,
+            8.0
+          ],
+          [
+            7.5,
+            8.0
+          ],
+          [
+            7.5,
+            5.5
+          ],
+          [
+            5.0,
+            5.5
+          ],
+          [
+            5.0,
+            8.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "great-zimbabwe",
@@ -89185,7 +94129,33 @@
       "de": "Maechtigstes der Swahili-Sultanate an der ostafrikanischen Kueste, kontrollierte den Goldhandel mit dem Landesinneren.",
       "en": "Most powerful of the Swahili sultanates on the East African coast, controlling the gold trade with the interior."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            38.0,
+            -6.0
+          ],
+          [
+            40.5,
+            -6.0
+          ],
+          [
+            40.5,
+            -11.0
+          ],
+          [
+            38.0,
+            -11.0
+          ],
+          [
+            38.0,
+            -6.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-kongo",
@@ -89205,7 +94175,37 @@
       "de": "Zentralafrikanisches Koenigreich im heutigen Angola und Kongo. Eines der ersten afrikanischen Reiche, das diplomatische Beziehungen zu Europa aufnahm.",
       "en": "Central African kingdom in present-day Angola and Congo. One of the first African kingdoms to establish diplomatic relations with Europe."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            12.0,
+            -4.0
+          ],
+          [
+            17.0,
+            -4.0
+          ],
+          [
+            17.0,
+            -8.0
+          ],
+          [
+            13.0,
+            -8.5
+          ],
+          [
+            12.0,
+            -6.0
+          ],
+          [
+            12.0,
+            -4.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "luba-kingdom",
@@ -89225,7 +94225,37 @@
       "de": "Zentralafrikanisches Koenigreich im heutigen suedlichen Kongo, bekannt fuer seine ausgefeilte politische Organisation und Kunst.",
       "en": "Central African kingdom in present-day southern Congo, known for its sophisticated political organization and art."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            24.0,
+            -5.0
+          ],
+          [
+            29.0,
+            -5.0
+          ],
+          [
+            29.0,
+            -10.0
+          ],
+          [
+            26.0,
+            -11.0
+          ],
+          [
+            24.0,
+            -8.0
+          ],
+          [
+            24.0,
+            -5.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "lunda-empire",
@@ -89245,7 +94275,37 @@
       "de": "Zentralafrikanische Konfoderation im heutigen Kongo, Angola und Sambia. Entstand aus dem Luba-Koenigreich.",
       "en": "Central African confederation in present-day Congo, Angola, and Zambia. Originated from the Luba Kingdom."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            20.0,
+            -7.0
+          ],
+          [
+            27.0,
+            -7.0
+          ],
+          [
+            27.0,
+            -12.0
+          ],
+          [
+            22.0,
+            -13.0
+          ],
+          [
+            20.0,
+            -10.0
+          ],
+          [
+            20.0,
+            -7.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "rozvi-empire",
@@ -89265,7 +94325,37 @@
       "de": "Shona-Staat auf dem Simbabwe-Hochplateau, Nachfolger von Gross-Simbabwe. Bekannt als maechtigste Kriegermacht der Region.",
       "en": "Shona state on the Zimbabwean Plateau, successor to Great Zimbabwe. Known as the most powerful warrior force in the region."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            27.0,
+            -17.0
+          ],
+          [
+            33.0,
+            -17.0
+          ],
+          [
+            33.0,
+            -22.0
+          ],
+          [
+            28.0,
+            -22.0
+          ],
+          [
+            27.0,
+            -20.0
+          ],
+          [
+            27.0,
+            -17.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "ashanti-empire",
@@ -89285,7 +94375,33 @@
       "de": "Maechtiges westafrikanisches Reich im heutigen Ghana, vereint durch den Goldenen Stuhl. Fuehrte fuenf Kriege gegen das Britische Empire.",
       "en": "Powerful West African empire in present-day Ghana, united by the Golden Stool. Fought five wars against the British Empire."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.0,
+            8.0
+          ],
+          [
+            0.0,
+            8.0
+          ],
+          [
+            0.0,
+            5.5
+          ],
+          [
+            -3.0,
+            5.0
+          ],
+          [
+            -3.0,
+            8.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "kingdom-of-dahomey",
@@ -89305,7 +94421,33 @@
       "de": "Westafrikanisches Koenigreich im heutigen Benin, bekannt fuer seine Amazonenarmee und den Vodun-Kult.",
       "en": "West African kingdom in present-day Benin, known for its all-female military unit (the Amazons) and Vodun religious practices."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            1.5,
+            8.0
+          ],
+          [
+            3.0,
+            8.0
+          ],
+          [
+            3.0,
+            6.0
+          ],
+          [
+            1.5,
+            6.0
+          ],
+          [
+            1.5,
+            8.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "sokoto-caliphate",
@@ -89477,7 +94619,33 @@
       "de": "Maechtigstes ostafrikanisches Koenigreich im Gebiet des heutigen Uganda, gegruendet im 13. Jahrhundert.",
       "en": "Most powerful East African kingdom in the area of present-day Uganda, founded in the 13th century."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            31.5,
+            1.0
+          ],
+          [
+            33.0,
+            1.0
+          ],
+          [
+            33.0,
+            -1.0
+          ],
+          [
+            31.5,
+            -1.0
+          ],
+          [
+            31.5,
+            1.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "zulu-kingdom",
@@ -90321,7 +95489,33 @@
       "de": "Bedeutende praekolumbische Zivilisation am Titicacasee im heutigen Bolivien mit monumentaler Megalith-Architektur.",
       "en": "Major pre-Columbian civilization at Lake Titicaca in present-day Bolivia with monumental megalithic architecture."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.0,
+            -15.0
+          ],
+          [
+            -66.0,
+            -15.5
+          ],
+          [
+            -66.0,
+            -19.0
+          ],
+          [
+            -69.0,
+            -19.5
+          ],
+          [
+            -70.0,
+            -15.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "wari-empire",
@@ -90641,7 +95835,37 @@
       "de": "Spaete Maya-Periode mit dem Aufstieg von Chichen Itza und Mayapan im Norden Yucatans nach dem Kollaps der klassischen Zentren.",
       "en": "Late Maya period with the rise of Chichen Itza and Mayapan in northern Yucatan after the Classic collapse."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -91.0,
+            21.0
+          ],
+          [
+            -87.0,
+            21.5
+          ],
+          [
+            -87.0,
+            15.0
+          ],
+          [
+            -91.5,
+            14.5
+          ],
+          [
+            -92.0,
+            17.0
+          ],
+          [
+            -91.0,
+            21.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "chimu-empire",
@@ -90989,7 +96213,33 @@
       "de": "Zweitmaechtigster Stadtstaat der aztekischen Dreierkonfoderation, bekannt als intellektuelles Zentrum.",
       "en": "Second most powerful city-state of the Aztec Triple Alliance, known as an intellectual center."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -99.5,
+            20.0
+          ],
+          [
+            -98.5,
+            20.0
+          ],
+          [
+            -98.0,
+            19.0
+          ],
+          [
+            -99.0,
+            19.0
+          ],
+          [
+            -99.5,
+            20.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "aztec-tlacopan",
@@ -91009,7 +96259,33 @@
       "de": "Dritter Stadtstaat der aztekischen Dreierkonfoderation, der einen geringeren Anteil an Tributen erhielt.",
       "en": "Third city-state of the Aztec Triple Alliance, which received a smaller share of tribute."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -100.0,
+            20.0
+          ],
+          [
+            -99.5,
+            20.0
+          ],
+          [
+            -99.2,
+            19.0
+          ],
+          [
+            -100.0,
+            19.0
+          ],
+          [
+            -100.0,
+            20.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "aztec-xoconochco",
@@ -91029,7 +96305,33 @@
       "de": "Entfernte aztekische Exklave nahe der guatemaltekischen Grenze, wichtig fuer den Kakaohandel.",
       "en": "Distant Aztec exclave near the Guatemalan border, important for the cacao trade."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -93.0,
+            16.0
+          ],
+          [
+            -91.0,
+            16.0
+          ],
+          [
+            -91.0,
+            14.5
+          ],
+          [
+            -93.0,
+            14.5
+          ],
+          [
+            -93.0,
+            16.0
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "tarascan-state",
@@ -91049,7 +96351,33 @@
       "de": "Zweitgroesster Staat Mesoamerikas zur Zeit der spanischen Eroberung, Rivale der Azteken. Bemerkenswert fuer Metallverarbeitung.",
       "en": "Second-largest state in Mesoamerica at the time of the Spanish conquest, rival of the Aztecs. Notable for metalworking."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -103.0,
+            20.5
+          ],
+          [
+            -100.0,
+            20.5
+          ],
+          [
+            -100.0,
+            18.5
+          ],
+          [
+            -102.5,
+            18.5
+          ],
+          [
+            -103.0,
+            20.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "inca-empire",
@@ -94589,7 +99917,33 @@
       "de": "Lose Konfoderation der Muisca-Hauptlinge im Hochland des heutigen Kolumbien, Ursprung der El-Dorado-Legende.",
       "en": "Loose confederation of Muisca chiefdoms in the highlands of present-day Colombia, origin of the El Dorado legend."
     },
-    "geometry": null
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.5,
+            7.5
+          ],
+          [
+            -72.5,
+            7.5
+          ],
+          [
+            -72.5,
+            5.0
+          ],
+          [
+            -74.0,
+            4.5
+          ],
+          [
+            -74.5,
+            7.5
+          ]
+        ]
+      ]
+    }
   },
   {
     "id": "carolingian-empire",
