@@ -2,9 +2,9 @@
   "version": 8,
   "name": "HistoryMap Base",
   "sources": {
-    "ocean": {
+    "land": {
       "type": "geojson",
-      "data": "/ne_110m_ocean.geojson"
+      "data": "/ne_110m_land.geojson"
     },
     "rivers": {
       "type": "geojson",
@@ -20,22 +20,22 @@
       "id": "background",
       "type": "background",
       "paint": {
-        "background-color": "#f5f5f3"
+        "background-color": "#e8eef4"
       }
     },
     {
-      "id": "ocean-fill",
+      "id": "land-fill",
       "type": "fill",
-      "source": "ocean",
+      "source": "land",
       "paint": {
-        "fill-color": "#e8eef4",
+        "fill-color": "#f5f5f3",
         "fill-opacity": 1
       }
     },
     {
-      "id": "ocean-shore",
+      "id": "coastline",
       "type": "line",
-      "source": "ocean",
+      "source": "land",
       "paint": {
         "line-color": "#d0d8e0",
         "line-width": 0.5,
