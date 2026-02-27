@@ -6154,5 +6154,239 @@
       "de": "Lose Konfoderation der Muisca-Hauptlinge im Hochland des heutigen Kolumbien, Ursprung der El-Dorado-Legende.",
       "en": "Loose confederation of Muisca chiefdoms in the highlands of present-day Colombia, origin of the El Dorado legend."
     }
+  },
+  {
+    "id": "carolingian-empire",
+    "startYear": 768,
+    "endYear": 888,
+    "peakStartYear": 800,
+    "peakEndYear": 843,
+    "culturalSphere": "European",
+    "color": "#5B8C5A",
+    "opacity": 0.25,
+    "labels": {
+      "de": "Karolingerreich",
+      "en": "Carolingian Empire"
+    },
+    "description": {
+      "de": "Das Reich Karls des Großen und seiner Nachfolger, das weite Teile West- und Mitteleuropas umfasste.",
+      "en": "The empire of Charlemagne and his successors, spanning much of Western and Central Europe."
+    }
+  },
+  {
+    "id": "himyarite-kingdom",
+    "startYear": -110,
+    "endYear": 525,
+    "peakStartYear": 100,
+    "peakEndYear": 400,
+    "culturalSphere": "Arabian",
+    "color": "#DAA520",
+    "opacity": 0.25,
+    "labels": {
+      "de": "Himjaritisches Reich",
+      "en": "Himyarite Kingdom"
+    },
+    "description": {
+      "de": "Antikes südarabisches Königreich im heutigen Jemen, bedeutende Handelsmacht.",
+      "en": "Ancient South Arabian kingdom in present-day Yemen, a major trading power."
+    }
+  },
+  {
+    "id": "empire-of-alexander",
+    "startYear": -336,
+    "endYear": -323,
+    "peakStartYear": -330,
+    "peakEndYear": -323,
+    "culturalSphere": "Hellenistic",
+    "color": "#9370DB",
+    "opacity": 0.25,
+    "labels": {
+      "de": "Reich Alexanders des Großen",
+      "en": "Empire of Alexander the Great"
+    },
+    "description": {
+      "de": "Das kurzlebige aber riesige Reich Alexanders des Großen von Makedonien bis Indien.",
+      "en": "The short-lived but vast empire of Alexander the Great from Macedonia to India."
+    }
+  },
+  {
+    "id": "carthaginian-empire",
+    "startYear": -814,
+    "endYear": -146,
+    "peakStartYear": -400,
+    "peakEndYear": -264,
+    "culturalSphere": "Phoenician",
+    "color": "#800080",
+    "opacity": 0.25,
+    "labels": {
+      "de": "Karthagisches Reich",
+      "en": "Carthaginian Empire"
+    },
+    "description": {
+      "de": "Phönizische Seemacht im westlichen Mittelmeer mit Zentrum im heutigen Tunesien.",
+      "en": "Phoenician maritime power in the western Mediterranean, centered in present-day Tunisia."
+    }
+  },
+  {
+    "id": "bosporan-kingdom",
+    "startYear": -480,
+    "endYear": 370,
+    "peakStartYear": -300,
+    "peakEndYear": 100,
+    "culturalSphere": "Hellenistic",
+    "color": "#20B2AA",
+    "opacity": 0.2,
+    "labels": {
+      "de": "Bosporanisches Reich",
+      "en": "Bosporan Kingdom"
+    },
+    "description": {
+      "de": "Griechisch-hellenistisches Königreich an der Nordküste des Schwarzen Meeres (Krim).",
+      "en": "Greco-Hellenistic kingdom on the northern shores of the Black Sea (Crimea)."
+    }
+  },
+  {
+    "id": "bulgarian-empire",
+    "startYear": 681,
+    "endYear": 1396,
+    "peakStartYear": 900,
+    "peakEndYear": 1200,
+    "culturalSphere": "Slavic",
+    "color": "#556B2F",
+    "opacity": 0.25,
+    "labels": {
+      "de": "Bulgarisches Reich",
+      "en": "Bulgarian Empire"
+    },
+    "description": {
+      "de": "Mittelalterliches Reich auf dem Balkan, umfasste das Erste und Zweite Bulgarische Reich.",
+      "en": "Medieval Balkan empire, encompassing the First and Second Bulgarian Empires."
+    }
+  },
+  {
+    "id": "tibet-kingdom",
+    "startYear": 618,
+    "endYear": 1720,
+    "peakStartYear": 1000,
+    "peakEndYear": 1600,
+    "culturalSphere": "East Asian",
+    "color": "#B22222",
+    "opacity": 0.2,
+    "labels": {
+      "de": "Tibet",
+      "en": "Tibet"
+    },
+    "description": {
+      "de": "Buddhistisches Königreich auf dem Hochplateau Zentralasiens.",
+      "en": "Buddhist kingdom on the high plateau of Central Asia."
+    }
+  },
+  {
+    "id": "caliphate-of-cordoba",
+    "startYear": 756,
+    "endYear": 1031,
+    "peakStartYear": 929,
+    "peakEndYear": 1002,
+    "culturalSphere": "Islamic",
+    "color": "#228B22",
+    "opacity": 0.25,
+    "labels": {
+      "de": "Kalifat von Córdoba",
+      "en": "Caliphate of Córdoba"
+    },
+    "description": {
+      "de": "Islamisches Reich auf der Iberischen Halbinsel, Zentrum von Wissenschaft und Kultur.",
+      "en": "Islamic state on the Iberian Peninsula, a center of science and culture."
+    }
+  },
+  {
+    "id": "hafsid-caliphate",
+    "startYear": 1229,
+    "endYear": 1574,
+    "peakStartYear": 1300,
+    "peakEndYear": 1400,
+    "culturalSphere": "Islamic",
+    "color": "#2E8B57",
+    "opacity": 0.2,
+    "labels": {
+      "de": "Hafsiden-Kalifat",
+      "en": "Hafsid Caliphate"
+    },
+    "description": {
+      "de": "Nordafrikanische Dynastie mit Sitz in Tunis, Nachfolger der Almohaden in Ifriqiya.",
+      "en": "North African dynasty based in Tunis, successors of the Almohads in Ifriqiya."
+    }
+  },
+  {
+    "id": "kingdom-of-croatia",
+    "startYear": 925,
+    "endYear": 1102,
+    "peakStartYear": 1000,
+    "peakEndYear": 1100,
+    "culturalSphere": "European",
+    "color": "#4682B4",
+    "opacity": 0.2,
+    "labels": {
+      "de": "Königreich Kroatien",
+      "en": "Kingdom of Croatia"
+    },
+    "description": {
+      "de": "Mittelalterliches Königreich an der östlichen Adriaküste.",
+      "en": "Medieval kingdom on the eastern Adriatic coast."
+    }
+  },
+  {
+    "id": "swiss-confederation",
+    "startYear": 1291,
+    "endYear": null,
+    "peakStartYear": 1500,
+    "peakEndYear": 1700,
+    "culturalSphere": "European",
+    "color": "#DC143C",
+    "opacity": 0.2,
+    "labels": {
+      "de": "Eidgenossenschaft",
+      "en": "Swiss Confederation"
+    },
+    "description": {
+      "de": "Bund der Schweizer Kantone, eine der ältesten Republiken Europas.",
+      "en": "Alliance of Swiss cantons, one of Europe's oldest republics."
+    }
+  },
+  {
+    "id": "hausa-states",
+    "startYear": 1000,
+    "endYear": 1804,
+    "peakStartYear": 1400,
+    "peakEndYear": 1700,
+    "culturalSphere": "African",
+    "color": "#B8860B",
+    "opacity": 0.2,
+    "labels": {
+      "de": "Hausa-Stadtstaaten",
+      "en": "Hausa States"
+    },
+    "description": {
+      "de": "Westafrikanische Stadtstaaten im heutigen Nordnigeria, wichtige Handelszentren der Sahel-Zone.",
+      "en": "West African city-states in present-day northern Nigeria, major trade centers of the Sahel."
+    }
+  },
+  {
+    "id": "mossi-states",
+    "startYear": 1100,
+    "endYear": 1896,
+    "peakStartYear": 1500,
+    "peakEndYear": 1800,
+    "culturalSphere": "African",
+    "color": "#CD8500",
+    "opacity": 0.2,
+    "labels": {
+      "de": "Mossi-Reiche",
+      "en": "Mossi States"
+    },
+    "description": {
+      "de": "Westafrikanische Königreiche im heutigen Burkina Faso, bekannt für ihre Widerstandsfähigkeit gegen Islamisierung.",
+      "en": "West African kingdoms in present-day Burkina Faso, known for resisting Islamization."
+    }
   }
 ]

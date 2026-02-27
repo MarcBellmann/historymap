@@ -6316,6 +6316,92 @@
           "en": "Andean empire centered in the Ayacucho Basin that controlled much of Peru and developed significant administrative structures."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.640350637427211,
+                41.532035166009734
+              ],
+              [
+                13.07397654700461,
+                43.76800875575248
+              ],
+              [
+                13.600871119005927,
+                43.53480490322771
+              ],
+              [
+                13.73155692528034,
+                43.37416037197771
+              ],
+              [
+                13.791634592516669,
+                43.123344026762865
+              ],
+              [
+                13.915090593798407,
+                42.87276419277849
+              ],
+              [
+                14.076401988771625,
+                42.633776395633475
+              ],
+              [
+                13.906235436490105,
+                41.86503637239754
+              ],
+              [
+                13.760507236067033,
+                41.20669841656926
+              ],
+              [
+                13.498390230639227,
+                41.301864229399584
+              ],
+              [
+                13.271446260912665,
+                41.31423910732927
+              ],
+              [
+                12.976777109606513,
+                41.3713756429738
+              ],
+              [
+                12.641516718371161,
+                41.53109701748552
+              ],
+              [
+                12.640350637427211,
+                41.532035166009734
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "carolingian-empire",
+        "startYear": 768,
+        "endYear": 888,
+        "peakStartYear": 800,
+        "peakEndYear": 843,
+        "culturalSphere": "European",
+        "color": "#5B8C5A",
+        "opacity": 0.25,
+        "labels": {
+          "de": "Karolingerreich",
+          "en": "Carolingian Empire"
+        },
+        "description": {
+          "de": "Das Reich Karls des Großen und seiner Nachfolger, das weite Teile West- und Mitteleuropas umfasste.",
+          "en": "The empire of Charlemagne and his successors, spanning much of Western and Central Europe."
+        }
+      }
     }
   ]
 }
