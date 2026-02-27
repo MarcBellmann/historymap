@@ -6636,6 +6636,1098 @@
           "en": "West African kingdoms in present-day Burkina Faso, known for resisting Islamization."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.3,
+              41.7
+            ],
+            [
+              11.5,
+              42
+            ],
+            [
+              11.2,
+              42.5
+            ],
+            [
+              11.5,
+              43.2
+            ],
+            [
+              12,
+              43.8
+            ],
+            [
+              12.4,
+              44
+            ],
+            [
+              12.7,
+              44.1
+            ],
+            [
+              13.5,
+              43.8
+            ],
+            [
+              14,
+              43.5
+            ],
+            [
+              14.2,
+              43
+            ],
+            [
+              13.8,
+              42.5
+            ],
+            [
+              13.6,
+              42
+            ],
+            [
+              13.2,
+              41.8
+            ],
+            [
+              12.8,
+              41.6
+            ],
+            [
+              12.3,
+              41.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "papal-states",
+        "parentId": null,
+        "startYear": 756,
+        "endYear": 1870,
+        "peakStartYear": 1000,
+        "peakEndYear": 1790,
+        "culturalSphere": "roman",
+        "color": "#cc9933",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Kirchenstaat",
+          "en": "Papal States"
+        },
+        "description": {
+          "de": "Der Kirchenstaat war ein souveränes Territorium auf der italienischen Halbinsel unter der direkten weltlichen Herrschaft des Papstes von 756 bis 1870. Auf seinem Höhepunkt umfasste er die heutigen Regionen Latium, Marken, Umbrien und die Romagna und machte den Papst zu einem der mächtigsten Fürsten Italiens.",
+          "en": "The Papal States were a sovereign territory on the Italian peninsula under the direct temporal rule of the pope from 756 to 1870. At their zenith they encompassed modern Lazio, Marche, Umbria, and Romagna, making the pope one of Italy's most powerful rulers alongside his ecclesiastical primacy."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5,
+              51.5
+            ],
+            [
+              12,
+              51.8
+            ],
+            [
+              13,
+              52
+            ],
+            [
+              14,
+              52.2
+            ],
+            [
+              14.7,
+              52.5
+            ],
+            [
+              14.8,
+              53
+            ],
+            [
+              14.5,
+              53.5
+            ],
+            [
+              13.8,
+              53.5
+            ],
+            [
+              13,
+              53.3
+            ],
+            [
+              12,
+              53.2
+            ],
+            [
+              11.5,
+              53
+            ],
+            [
+              11,
+              52.5
+            ],
+            [
+              11,
+              52
+            ],
+            [
+              11.5,
+              51.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "electorate-of-brandenburg",
+        "parentId": "holy-roman-empire",
+        "startYear": 1157,
+        "endYear": 1701,
+        "peakStartYear": 1415,
+        "peakEndYear": 1701,
+        "culturalSphere": "germanic",
+        "color": "#666699",
+        "opacity": 0.2,
+        "labels": {
+          "de": "Kurfürstentum Brandenburg",
+          "en": "Electorate of Brandenburg"
+        },
+        "description": {
+          "de": "Das Kurfürstentum Brandenburg war ein bedeutendes Territorium des Heiligen Römischen Reiches, das seit 1356 Kurfürstenwürde besaß. Unter den Hohenzollern, die 1415 an die Macht kamen, wurde es zur Keimzelle des preußischen Staates und erlangte 1701 als Königreich Preußen internationale Bedeutung.",
+          "en": "The Electorate of Brandenburg was a major principality of the Holy Roman Empire, holding electoral status since 1356. Under the Hohenzollerns, who came to power in 1415, it became the nucleus of the Prussian state and was elevated to the Kingdom of Prussia in 1701."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.1,
+              32.5
+            ],
+            [
+              -111,
+              31.3
+            ],
+            [
+              -106.5,
+              31.8
+            ],
+            [
+              -104,
+              29.6
+            ],
+            [
+              -100.5,
+              28
+            ],
+            [
+              -97.3,
+              25.9
+            ],
+            [
+              -97.2,
+              28
+            ],
+            [
+              -94,
+              29.7
+            ],
+            [
+              -90,
+              29.5
+            ],
+            [
+              -89.5,
+              29
+            ],
+            [
+              -87.5,
+              30.3
+            ],
+            [
+              -84.5,
+              30
+            ],
+            [
+              -81.5,
+              30.3
+            ],
+            [
+              -80.5,
+              25.5
+            ],
+            [
+              -81.8,
+              24.5
+            ],
+            [
+              -84,
+              23
+            ],
+            [
+              -87,
+              21.5
+            ],
+            [
+              -86.8,
+              18.5
+            ],
+            [
+              -88,
+              16
+            ],
+            [
+              -89.2,
+              15.9
+            ],
+            [
+              -92,
+              16
+            ],
+            [
+              -92.2,
+              14.5
+            ],
+            [
+              -90.5,
+              13
+            ],
+            [
+              -87.5,
+              13
+            ],
+            [
+              -83.7,
+              10.8
+            ],
+            [
+              -83.5,
+              9.5
+            ],
+            [
+              -85,
+              9
+            ],
+            [
+              -85,
+              11
+            ],
+            [
+              -87.5,
+              11
+            ],
+            [
+              -90,
+              13.9
+            ],
+            [
+              -91,
+              16
+            ],
+            [
+              -92.5,
+              16.5
+            ],
+            [
+              -94.5,
+              17.5
+            ],
+            [
+              -96,
+              16.5
+            ],
+            [
+              -95.5,
+              15.5
+            ],
+            [
+              -93,
+              15
+            ],
+            [
+              -93,
+              17
+            ],
+            [
+              -96.5,
+              19.5
+            ],
+            [
+              -97,
+              22
+            ],
+            [
+              -98.5,
+              22.5
+            ],
+            [
+              -99.5,
+              23
+            ],
+            [
+              -102,
+              21.5
+            ],
+            [
+              -104.5,
+              20.5
+            ],
+            [
+              -105.7,
+              21.5
+            ],
+            [
+              -108,
+              22.5
+            ],
+            [
+              -109.5,
+              23.5
+            ],
+            [
+              -110,
+              24
+            ],
+            [
+              -110.5,
+              24
+            ],
+            [
+              -110.3,
+              26
+            ],
+            [
+              -111,
+              27
+            ],
+            [
+              -112,
+              27.5
+            ],
+            [
+              -113,
+              28.5
+            ],
+            [
+              -114,
+              29.5
+            ],
+            [
+              -114.5,
+              30.8
+            ],
+            [
+              -115,
+              32
+            ],
+            [
+              -116.5,
+              32.5
+            ],
+            [
+              -117.1,
+              32.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "viceroyalty-of-new-spain",
+        "parentId": "spanish-empire",
+        "startYear": 1521,
+        "endYear": 1821,
+        "peakStartYear": 1600,
+        "peakEndYear": 1800,
+        "culturalSphere": "mesoamerican",
+        "color": "#cc6633",
+        "opacity": 0.2,
+        "labels": {
+          "de": "Vizekönigreich Neuspanien",
+          "en": "Viceroyalty of New Spain"
+        },
+        "description": {
+          "de": "Nach der spanischen Eroberung des Aztekenreiches 1521 gegründetes Vizekönigreich mit Sitz in Mexiko-Stadt. Es umfasste Mexiko, Mittelamerika, den Südwesten der heutigen USA sowie Kuba und Hispaniola und war das reichste und bevölkerungsreichste Territorium des spanischen Imperiums in Amerika.",
+          "en": "Viceroyalty founded after the Spanish conquest of the Aztec Empire in 1521, with its capital at Mexico City. It encompassed Mexico, Central America, the southwestern present-day United States, Cuba, and Hispaniola, and was the wealthiest and most populous territory of the Spanish Empire in the Americas."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.5,
+              0.5
+            ],
+            [
+              -78,
+              -1.5
+            ],
+            [
+              -80.5,
+              -2
+            ],
+            [
+              -80,
+              -3.5
+            ],
+            [
+              -79.5,
+              -5
+            ],
+            [
+              -81,
+              -6
+            ],
+            [
+              -80.7,
+              -8
+            ],
+            [
+              -80,
+              -9
+            ],
+            [
+              -78,
+              -10
+            ],
+            [
+              -77.5,
+              -12
+            ],
+            [
+              -76.5,
+              -14
+            ],
+            [
+              -76,
+              -15
+            ],
+            [
+              -75,
+              -16
+            ],
+            [
+              -70,
+              -18.5
+            ],
+            [
+              -70.5,
+              -17.5
+            ],
+            [
+              -68.5,
+              -19
+            ],
+            [
+              -67,
+              -22.5
+            ],
+            [
+              -68.5,
+              -21.5
+            ],
+            [
+              -69.6,
+              -17.5
+            ],
+            [
+              -65,
+              -22
+            ],
+            [
+              -63.5,
+              -22.5
+            ],
+            [
+              -62,
+              -22
+            ],
+            [
+              -60,
+              -23
+            ],
+            [
+              -58.5,
+              -20
+            ],
+            [
+              -57.8,
+              -20.5
+            ],
+            [
+              -57.5,
+              -22
+            ],
+            [
+              -58.5,
+              -24
+            ],
+            [
+              -57.5,
+              -25.5
+            ],
+            [
+              -56,
+              -27.5
+            ],
+            [
+              -57.5,
+              -30.5
+            ],
+            [
+              -58,
+              -34
+            ],
+            [
+              -64,
+              -40
+            ],
+            [
+              -65.5,
+              -43
+            ],
+            [
+              -66.5,
+              -46
+            ],
+            [
+              -67,
+              -50
+            ],
+            [
+              -68,
+              -52.5
+            ],
+            [
+              -69,
+              -54.8
+            ],
+            [
+              -73,
+              -52
+            ],
+            [
+              -75.5,
+              -48
+            ],
+            [
+              -76,
+              -46
+            ],
+            [
+              -74.5,
+              -43
+            ],
+            [
+              -72,
+              -40
+            ],
+            [
+              -72,
+              -37.5
+            ],
+            [
+              -71.5,
+              -35
+            ],
+            [
+              -70,
+              -33.5
+            ],
+            [
+              -71,
+              -30
+            ],
+            [
+              -70.5,
+              -27.5
+            ],
+            [
+              -69.5,
+              -24
+            ],
+            [
+              -69.5,
+              -21.5
+            ],
+            [
+              -70,
+              -18
+            ],
+            [
+              -71.5,
+              -16
+            ],
+            [
+              -73,
+              -12
+            ],
+            [
+              -74.5,
+              -8
+            ],
+            [
+              -76,
+              -4
+            ],
+            [
+              -77,
+              -2
+            ],
+            [
+              -76.5,
+              0
+            ],
+            [
+              -75.5,
+              0.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "viceroyalty-of-peru",
+        "parentId": "spanish-empire",
+        "startYear": 1542,
+        "endYear": 1824,
+        "peakStartYear": 1600,
+        "peakEndYear": 1776,
+        "culturalSphere": "andean",
+        "color": "#996633",
+        "opacity": 0.2,
+        "labels": {
+          "de": "Vizekönigreich Peru",
+          "en": "Viceroyalty of Peru"
+        },
+        "description": {
+          "de": "1542 gegründetes spanisches Vizekönigreich mit Sitz in Lima, das ursprünglich fast ganz spanisch-Südamerika umfasste. Im 18. Jahrhundert auf den westlichen Teil des Kontinents reduziert, blieb es das wichtigste Zentrum des Silberbergbaus und der kolonialspanischen Verwaltung in Südamerika.",
+          "en": "Spanish viceroyalty founded in 1542 with its capital at Lima, originally encompassing almost all of Spanish South America. Reduced in the 18th century to the western portion of the continent, it remained the foremost center of silver mining and colonial Spanish administration in South America."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57,
+              37.5
+            ],
+            [
+              60,
+              36.5
+            ],
+            [
+              63,
+              36
+            ],
+            [
+              66,
+              36.5
+            ],
+            [
+              68,
+              37
+            ],
+            [
+              70,
+              37.5
+            ],
+            [
+              72,
+              38.5
+            ],
+            [
+              72.5,
+              40
+            ],
+            [
+              71.5,
+              41.5
+            ],
+            [
+              70,
+              42.5
+            ],
+            [
+              67,
+              43
+            ],
+            [
+              64,
+              42.5
+            ],
+            [
+              61,
+              42
+            ],
+            [
+              58.5,
+              41.5
+            ],
+            [
+              57.5,
+              40
+            ],
+            [
+              56.5,
+              38.5
+            ],
+            [
+              57,
+              37.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "khanate-of-bukhara",
+        "parentId": null,
+        "startYear": 1500,
+        "endYear": 1785,
+        "peakStartYear": 1550,
+        "peakEndYear": 1700,
+        "culturalSphere": "persian",
+        "color": "#8e6b5a",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Khanat von Buchara",
+          "en": "Khanate of Bukhara"
+        },
+        "description": {
+          "de": "Das Khanat von Buchara war eine usbekische Monarchie in Transoxanien, die die großen Handelsstädte Buchara, Samarkand, Taschkent und Balkh umfasste. Als bedeutendes Zentrum islamischer Kultur und Gelehrsamkeit bewahrte das Khanat die timuridische Kulturtradition und kontrollierte wichtige Abschnitte der Seidenstraße über drei Jahrhunderte.",
+          "en": "The Khanate of Bukhara was an Uzbek monarchy in Transoxiana encompassing the great trading cities of Bukhara, Samarkand, Tashkent, and Balkh. A major center of Islamic culture and scholarship, the Khanate preserved the Timurid cultural tradition and controlled vital segments of the Silk Road for nearly three centuries."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.2,
+              6.4
+            ],
+            [
+              2.5,
+              6.2
+            ],
+            [
+              3.5,
+              6
+            ],
+            [
+              4.5,
+              6.2
+            ],
+            [
+              5.5,
+              6.5
+            ],
+            [
+              5.8,
+              7.2
+            ],
+            [
+              5.6,
+              8
+            ],
+            [
+              5.2,
+              8.8
+            ],
+            [
+              4.8,
+              9.5
+            ],
+            [
+              4,
+              9.8
+            ],
+            [
+              3.2,
+              9.6
+            ],
+            [
+              2.4,
+              9.2
+            ],
+            [
+              1.6,
+              8.8
+            ],
+            [
+              0.8,
+              8.2
+            ],
+            [
+              0.5,
+              7.5
+            ],
+            [
+              0.7,
+              6.8
+            ],
+            [
+              1.2,
+              6.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "oyo-empire",
+        "parentId": null,
+        "startYear": 1400,
+        "endYear": 1896,
+        "peakStartYear": 1600,
+        "peakEndYear": 1790,
+        "culturalSphere": "african",
+        "color": "#b8860b",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Oyo-Reich",
+          "en": "Oyo Empire"
+        },
+        "description": {
+          "de": "Das Oyo-Reich war das mächtigste Yoruba-Staatswesen in Westafrika und beherrschte zur Hochzeit im 17.–18. Jahrhundert weite Teile des heutigen Nigerias sowie das Königreich Dahomey. Sein politisches System mit dem Alafin als König und dem Oyo Mesi als Kontrollrat galt als eines der ausgefeiltesten im vorkolonialen Afrika.",
+          "en": "The Oyo Empire was the most powerful Yoruba state in West Africa, dominating much of present-day Nigeria and the Kingdom of Dahomey at its height in the 17th–18th centuries. Its political system, balancing the Alaafin as king against the Oyo Mesi council, was one of the most sophisticated in pre-colonial Africa."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              95.1,
+              5.9
+            ],
+            [
+              95.6,
+              5.7
+            ],
+            [
+              96.2,
+              5.5
+            ],
+            [
+              96.8,
+              5.2
+            ],
+            [
+              97.3,
+              4.8
+            ],
+            [
+              97.7,
+              4.2
+            ],
+            [
+              97.9,
+              3.6
+            ],
+            [
+              97.8,
+              3
+            ],
+            [
+              97.5,
+              2.5
+            ],
+            [
+              97,
+              2.2
+            ],
+            [
+              96.5,
+              2
+            ],
+            [
+              96,
+              2.1
+            ],
+            [
+              95.5,
+              2.4
+            ],
+            [
+              95.2,
+              2.9
+            ],
+            [
+              95,
+              3.5
+            ],
+            [
+              94.9,
+              4.2
+            ],
+            [
+              95,
+              4.9
+            ],
+            [
+              95.1,
+              5.4
+            ],
+            [
+              95.1,
+              5.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "aceh-sultanate",
+        "parentId": null,
+        "startYear": 1496,
+        "endYear": 1903,
+        "peakStartYear": 1520,
+        "peakEndYear": 1650,
+        "culturalSphere": "southeast-asian",
+        "color": "#5a8e7a",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Sultanat Aceh",
+          "en": "Aceh Sultanate"
+        },
+        "description": {
+          "de": "Mächtiges islamisches Sultanat an der Nordspitze Sumatras, das den Eingang zur Straße von Malakka kontrollierte. Bekannt als 'Vorhalle Mekkas', war es ein bedeutendes Zentrum islamischer Gelehrsamkeit und des Pfefferhandels im 16. und 17. Jahrhundert.",
+          "en": "Powerful Islamic sultanate at the northern tip of Sumatra that controlled the entrance to the Strait of Malacca. Known as the 'Porch of Mecca', it was a major center of Islamic scholarship and the pepper trade in the 16th and 17th centuries."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74,
+              42.8
+            ],
+            [
+              -73.5,
+              43.5
+            ],
+            [
+              -73.8,
+              44
+            ],
+            [
+              -74.5,
+              44.5
+            ],
+            [
+              -75.5,
+              44.8
+            ],
+            [
+              -76.2,
+              44.7
+            ],
+            [
+              -76.8,
+              44.2
+            ],
+            [
+              -77.5,
+              43.8
+            ],
+            [
+              -78.2,
+              43.5
+            ],
+            [
+              -79,
+              43.2
+            ],
+            [
+              -79.5,
+              42.8
+            ],
+            [
+              -79.2,
+              42.4
+            ],
+            [
+              -78.5,
+              42.2
+            ],
+            [
+              -77.5,
+              42.1
+            ],
+            [
+              -76.5,
+              42
+            ],
+            [
+              -75.5,
+              42.1
+            ],
+            [
+              -74.8,
+              42.3
+            ],
+            [
+              -74.2,
+              42.5
+            ],
+            [
+              -74,
+              42.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "iroquois-confederacy",
+        "parentId": null,
+        "startYear": 1450,
+        "endYear": 1900,
+        "peakStartYear": 1600,
+        "peakEndYear": 1780,
+        "culturalSphere": "american",
+        "color": "#6b5a3e",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Irokesenbund (Haudenosaunee)",
+          "en": "Iroquois Confederacy (Haudenosaunee)"
+        },
+        "description": {
+          "de": "Mächtiger Bund der Haudenosaunee (Volk des Langhauses), bestehend aus den Völkern der Mohawk, Oneida, Onondaga, Cayuga und Seneca im heutigen Bundesstaat New York. Einer der ältesten demokratischen Staatenbünde der Welt, der von den Finger Lakes bis zum Hudson River reichte.",
+          "en": "Powerful confederacy of the Haudenosaunee (People of the Longhouse), comprising the Mohawk, Oneida, Onondaga, Cayuga, and Seneca peoples across present-day upstate New York. One of the world's oldest democratic confederacies, spanning from the Finger Lakes to the Hudson River and influencing the governance models of later republics."
+        }
+      }
     }
   ]
 }

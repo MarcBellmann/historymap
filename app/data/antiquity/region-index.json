@@ -6388,5 +6388,480 @@
       "de": "Westafrikanische Königreiche im heutigen Burkina Faso, bekannt für ihre Widerstandsfähigkeit gegen Islamisierung.",
       "en": "West African kingdoms in present-day Burkina Faso, known for resisting Islamization."
     }
+  },
+  {
+    "id": "papal-states",
+    "parentId": null,
+    "startYear": 756,
+    "endYear": 1870,
+    "peakStartYear": 1000,
+    "peakEndYear": 1790,
+    "culturalSphere": "roman",
+    "color": "#cc9933",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Kirchenstaat",
+      "en": "Papal States"
+    },
+    "description": {
+      "de": "Der Kirchenstaat war ein souveränes Territorium auf der italienischen Halbinsel unter der direkten weltlichen Herrschaft des Papstes von 756 bis 1870. Auf seinem Höhepunkt umfasste er die heutigen Regionen Latium, Marken, Umbrien und die Romagna und machte den Papst zu einem der mächtigsten Fürsten Italiens.",
+      "en": "The Papal States were a sovereign territory on the Italian peninsula under the direct temporal rule of the pope from 756 to 1870. At their zenith they encompassed modern Lazio, Marche, Umbria, and Romagna, making the pope one of Italy's most powerful rulers alongside his ecclesiastical primacy."
+    }
+  },
+  {
+    "id": "kingdom-of-naples",
+    "parentId": null,
+    "startYear": 1282,
+    "endYear": 1816,
+    "peakStartYear": 1282,
+    "peakEndYear": 1500,
+    "culturalSphere": "roman",
+    "color": "#d4764e",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Königreich Neapel",
+      "en": "Kingdom of Naples"
+    },
+    "description": {
+      "de": "Das Königreich Neapel beherrschte den südlichen Teil der Apenninenhalbinsel von der Gründung nach den Sizilianischen Vespern 1282 bis zur Vereinigung mit Sizilien 1816. Sein Gebiet entsprach den heutigen Regionen Kampanien, Kalabrien, Apulien, Basilikata, Abruzzen und Molise.",
+      "en": "The Kingdom of Naples ruled the southern part of the Italian Peninsula from its establishment after the Sicilian Vespers in 1282 until its merger with Sicily in 1816. Its territory corresponded to the modern regions of Campania, Calabria, Apulia, Basilicata, Abruzzo, and Molise."
+    }
+  },
+  {
+    "id": "kingdom-of-sardinia",
+    "parentId": null,
+    "startYear": 1720,
+    "endYear": 1861,
+    "peakStartYear": 1815,
+    "peakEndYear": 1861,
+    "culturalSphere": "roman",
+    "color": "#5a8a6e",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Königreich Sardinien",
+      "en": "Kingdom of Sardinia"
+    },
+    "description": {
+      "de": "Das Königreich Sardinien unter dem Haus Savoyen umfasste ab 1720 die Insel Sardinien sowie das piemontesische Kernland mit Savoyen und Nizza auf dem Festland. Es wurde nach dem Wiener Kongress 1815 zur treibenden Kraft der italienischen Einigung und ging 1861 im Königreich Italien auf.",
+      "en": "The Kingdom of Sardinia under the House of Savoy comprised the island of Sardinia from 1720 alongside the Piedmontese mainland with Savoy and Nice. Rebuilt after the Congress of Vienna in 1815, it became the engine of Italian unification and transformed into the Kingdom of Italy in 1861."
+    }
+  },
+  {
+    "id": "duchy-of-milan",
+    "parentId": null,
+    "startYear": 1395,
+    "endYear": 1535,
+    "peakStartYear": 1395,
+    "peakEndYear": 1500,
+    "culturalSphere": "roman",
+    "color": "#7a6b8e",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Herzogtum Mailand",
+      "en": "Duchy of Milan"
+    },
+    "description": {
+      "de": "Das Herzogtum Mailand wurde 1395 von Gian Galeazzo Visconti gegründet und umfasste nahezu ganz Lombardien. Es zählte zu den wohlhabendsten und kulturell bedeutendsten Staaten der italienischen Renaissance, bevor es 1535 unter habsburgische Herrschaft fiel.",
+      "en": "The Duchy of Milan was founded in 1395 by Gian Galeazzo Visconti and encompassed nearly all of Lombardy. It became one of the wealthiest and culturally most significant states of the Italian Renaissance, falling under Habsburg rule in 1535."
+    }
+  },
+  {
+    "id": "electorate-of-brandenburg",
+    "parentId": "holy-roman-empire",
+    "startYear": 1157,
+    "endYear": 1701,
+    "peakStartYear": 1415,
+    "peakEndYear": 1701,
+    "culturalSphere": "germanic",
+    "color": "#666699",
+    "opacity": 0.2,
+    "labels": {
+      "de": "Kurfürstentum Brandenburg",
+      "en": "Electorate of Brandenburg"
+    },
+    "description": {
+      "de": "Das Kurfürstentum Brandenburg war ein bedeutendes Territorium des Heiligen Römischen Reiches, das seit 1356 Kurfürstenwürde besaß. Unter den Hohenzollern, die 1415 an die Macht kamen, wurde es zur Keimzelle des preußischen Staates und erlangte 1701 als Königreich Preußen internationale Bedeutung.",
+      "en": "The Electorate of Brandenburg was a major principality of the Holy Roman Empire, holding electoral status since 1356. Under the Hohenzollerns, who came to power in 1415, it became the nucleus of the Prussian state and was elevated to the Kingdom of Prussia in 1701."
+    }
+  },
+  {
+    "id": "principality-of-wallachia",
+    "parentId": null,
+    "startYear": 1330,
+    "endYear": 1859,
+    "peakStartYear": 1380,
+    "peakEndYear": 1600,
+    "culturalSphere": "slavic",
+    "color": "#8b6e4e",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Fürstentum Walachei",
+      "en": "Principality of Wallachia"
+    },
+    "description": {
+      "de": "Die Walachei entstand als eigenständiges Fürstentum nach dem Sieg Basarabs I. über Ungarn 1330 und lag zwischen den Südkarpaten und der Donau. Trotz osmanischer Suzeränität ab 1417 bewahrte sie weitgehende Autonomie und stellte Herrscher wie Vlad den Pfähler hervor, bevor sie 1859 mit der Moldau zum modernen Rumänien vereinigt wurde.",
+      "en": "Wallachia emerged as an independent principality after Basarab I's victory over Hungary in 1330, situated between the Southern Carpathians and the Danube. Despite Ottoman suzerainty from 1417, it maintained significant autonomy and produced celebrated rulers such as Vlad the Impaler, before uniting with Moldavia to form modern Romania in 1859."
+    }
+  },
+  {
+    "id": "principality-of-moldavia",
+    "parentId": null,
+    "startYear": 1346,
+    "endYear": 1859,
+    "peakStartYear": 1400,
+    "peakEndYear": 1600,
+    "culturalSphere": "slavic",
+    "color": "#6e8b5e",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Fürstentum Moldau",
+      "en": "Principality of Moldavia"
+    },
+    "description": {
+      "de": "Das Fürstentum Moldau entstand im 14. Jahrhundert zwischen den Ostkarpaten und dem Dnjestr und erlebte unter Stephan dem Großen (1457–1504) seine Blütezeit als eigenständige Macht. Trotz wachsender osmanischer Oberhoheit bewahrte es seine Eigenständigkeit bis zur Vereinigung mit der Walachei 1859, dem Kern des modernen rumänischen Staates.",
+      "en": "The Principality of Moldavia emerged in the 14th century between the Eastern Carpathians and the Dniester River, reaching its height under Stephen the Great (1457–1504) as an independent power. Despite growing Ottoman suzerainty it preserved its identity until uniting with Wallachia in 1859 to form the nucleus of the modern Romanian state."
+    }
+  },
+  {
+    "id": "united-states-of-america",
+    "parentId": null,
+    "startYear": 1776,
+    "endYear": null,
+    "peakStartYear": 1776,
+    "peakEndYear": 1900,
+    "culturalSphere": "western",
+    "color": "#3b5998",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Vereinigte Staaten von Amerika",
+      "en": "United States of America"
+    },
+    "description": {
+      "de": "1776 nach der Unabhängigkeitserklärung von Großbritannien gegründete Bundesrepublik. Durch Landkäufe, Verträge und den Mexikanisch-Amerikanischen Krieg erstreckte sich das Territorium bis 1850 von der Atlantikküste bis zum Pazifik und umfasste die zusammenhängenden 48 Bundesstaaten.",
+      "en": "Federal republic founded in 1776 following the Declaration of Independence from Britain. Through land purchases, treaties, and the Mexican-American War, by 1850 its territory stretched from the Atlantic coast to the Pacific, encompassing the contiguous 48 states."
+    }
+  },
+  {
+    "id": "empire-of-brazil",
+    "parentId": null,
+    "startYear": 1500,
+    "endYear": 1889,
+    "peakStartYear": 1822,
+    "peakEndYear": 1889,
+    "culturalSphere": "western",
+    "color": "#2d8c3c",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Kaiserreich Brasilien",
+      "en": "Empire of Brazil"
+    },
+    "description": {
+      "de": "Portugiesische Kolonie ab 1500, die 1822 als unabhängiges Kaiserreich unter Pedro I. ausgerufen wurde. Das größte Land Südamerikas umfasste rund die Hälfte des Kontinents und war die einzige konstitutionelle Monarchie in Amerika, bis sie 1889 zur Republik wurde.",
+      "en": "Portuguese colony from 1500, proclaimed an independent empire in 1822 under Pedro I. The largest country in South America, covering roughly half the continent, it was the only constitutional monarchy in the Americas until the republic was proclaimed in 1889."
+    }
+  },
+  {
+    "id": "viceroyalty-of-new-spain",
+    "parentId": "spanish-empire",
+    "startYear": 1521,
+    "endYear": 1821,
+    "peakStartYear": 1600,
+    "peakEndYear": 1800,
+    "culturalSphere": "mesoamerican",
+    "color": "#cc6633",
+    "opacity": 0.2,
+    "labels": {
+      "de": "Vizekönigreich Neuspanien",
+      "en": "Viceroyalty of New Spain"
+    },
+    "description": {
+      "de": "Nach der spanischen Eroberung des Aztekenreiches 1521 gegründetes Vizekönigreich mit Sitz in Mexiko-Stadt. Es umfasste Mexiko, Mittelamerika, den Südwesten der heutigen USA sowie Kuba und Hispaniola und war das reichste und bevölkerungsreichste Territorium des spanischen Imperiums in Amerika.",
+      "en": "Viceroyalty founded after the Spanish conquest of the Aztec Empire in 1521, with its capital at Mexico City. It encompassed Mexico, Central America, the southwestern present-day United States, Cuba, and Hispaniola, and was the wealthiest and most populous territory of the Spanish Empire in the Americas."
+    }
+  },
+  {
+    "id": "viceroyalty-of-peru",
+    "parentId": "spanish-empire",
+    "startYear": 1542,
+    "endYear": 1824,
+    "peakStartYear": 1600,
+    "peakEndYear": 1776,
+    "culturalSphere": "andean",
+    "color": "#996633",
+    "opacity": 0.2,
+    "labels": {
+      "de": "Vizekönigreich Peru",
+      "en": "Viceroyalty of Peru"
+    },
+    "description": {
+      "de": "1542 gegründetes spanisches Vizekönigreich mit Sitz in Lima, das ursprünglich fast ganz spanisch-Südamerika umfasste. Im 18. Jahrhundert auf den westlichen Teil des Kontinents reduziert, blieb es das wichtigste Zentrum des Silberbergbaus und der kolonialspanischen Verwaltung in Südamerika.",
+      "en": "Spanish viceroyalty founded in 1542 with its capital at Lima, originally encompassing almost all of Spanish South America. Reduced in the 18th century to the western portion of the continent, it remained the foremost center of silver mining and colonial Spanish administration in South America."
+    }
+  },
+  {
+    "id": "republic-of-haiti",
+    "parentId": null,
+    "startYear": 1804,
+    "endYear": null,
+    "peakStartYear": 1804,
+    "peakEndYear": 1900,
+    "culturalSphere": "western",
+    "color": "#1a1a8c",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Republik Haiti",
+      "en": "Republic of Haiti"
+    },
+    "description": {
+      "de": "Am 1. Januar 1804 nach der erfolgreichen Haitianischen Revolution ausgerufen, war Haiti die erste von ehemals versklavten Menschen gegründete Republik und der erste unabhängige Staat Lateinamerikas. Das Land umfasst das westliche Drittel der Insel Hispaniola in der Karibik.",
+      "en": "Proclaimed on 1 January 1804 following the successful Haitian Revolution, Haiti was the first republic founded by formerly enslaved people and the first independent state in Latin America. The country occupies the western third of the island of Hispaniola in the Caribbean."
+    }
+  },
+  {
+    "id": "gokturk-khaganate",
+    "parentId": null,
+    "startYear": 552,
+    "endYear": 744,
+    "peakStartYear": 552,
+    "peakEndYear": 630,
+    "culturalSphere": "turkic",
+    "color": "#7a9e5a",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Göktürken-Khaganat",
+      "en": "Göktürk Khaganate"
+    },
+    "description": {
+      "de": "Das Göktürken-Khaganat war eines der mächtigsten Steppenimperien Innerasiens und erstreckte sich auf seinem Höhepunkt vom Mongolischen Plateau bis zum Kaspischen Meer. Unter Bumin Qaghan gegründet, übernahmen die Göktürken die Kontrolle über die Seidenstraße und prägten die kulturelle und politische Entwicklung der Turkvölker nachhaltig.",
+      "en": "The Göktürk Khaganate was one of the most powerful steppe empires of Inner Asia, stretching at its peak from the Mongolian Plateau to the Caspian Sea. Founded by Bumin Qaghan, the Göktürks dominated the Silk Road trade routes and profoundly shaped the cultural and political identity of future Turkic peoples."
+    }
+  },
+  {
+    "id": "khazar-khaganate",
+    "parentId": null,
+    "startYear": 650,
+    "endYear": 969,
+    "peakStartYear": 700,
+    "peakEndYear": 900,
+    "culturalSphere": "turkic",
+    "color": "#8b7355",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Khasarisches Khaganat",
+      "en": "Khazar Khaganate"
+    },
+    "description": {
+      "de": "Das Khasarische Khaganat war ein mächtiges Handelsimperium auf der pontisch-kaspischen Steppe, das für drei Jahrhunderte die Routen zwischen Europa, dem Nahen Osten und China kontrollierte. Bemerkenswert ist die Konversion der Herrscherdynastie zum Judentum im 8. Jahrhundert sowie die Rolle der Khasaren als Bollwerk gegen arabische Expansionen nach Nordeuropa.",
+      "en": "The Khazar Khaganate was a powerful commercial empire on the Pontic-Caspian steppe that for three centuries controlled trade arteries between Europe, the Middle East, and China. Remarkable for the ruling dynasty's conversion to Judaism in the 8th century, the Khazars also served as a key bulwark halting Arab expansion into northern Europe."
+    }
+  },
+  {
+    "id": "dzungar-khanate",
+    "parentId": null,
+    "startYear": 1634,
+    "endYear": 1755,
+    "peakStartYear": 1680,
+    "peakEndYear": 1745,
+    "culturalSphere": "mongol",
+    "color": "#6b8e6b",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Dsungarisches Khanat",
+      "en": "Dzungar Khanate"
+    },
+    "description": {
+      "de": "Das Dsungarische Khanat war das letzte große Nomadenreich mongolischer Herkunft und beherrschte ein riesiges Territorium von der Dzungareichene (Nordxinjiang) bis ins westliche Mongolien und nach Kasachstan. Es stellte die Qing-Dynastie vor ihre größte militärische Herausforderung, bevor es 1755–1758 durch einen Vernichtungsfeldzug zerstört wurde, bei dem 70–80 % der Bevölkerung umkamen.",
+      "en": "The Dzungar Khanate was the last great nomadic empire of Mongolian origin, controlling a vast territory stretching from the Dzungarian Basin (northern Xinjiang) into western Mongolia and Kazakhstan. It posed the Qing dynasty's greatest military challenge before being destroyed in a genocidal campaign from 1755–1758 that killed 70–80% of its population."
+    }
+  },
+  {
+    "id": "khanate-of-bukhara",
+    "parentId": null,
+    "startYear": 1500,
+    "endYear": 1785,
+    "peakStartYear": 1550,
+    "peakEndYear": 1700,
+    "culturalSphere": "persian",
+    "color": "#8e6b5a",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Khanat von Buchara",
+      "en": "Khanate of Bukhara"
+    },
+    "description": {
+      "de": "Das Khanat von Buchara war eine usbekische Monarchie in Transoxanien, die die großen Handelsstädte Buchara, Samarkand, Taschkent und Balkh umfasste. Als bedeutendes Zentrum islamischer Kultur und Gelehrsamkeit bewahrte das Khanat die timuridische Kulturtradition und kontrollierte wichtige Abschnitte der Seidenstraße über drei Jahrhunderte.",
+      "en": "The Khanate of Bukhara was an Uzbek monarchy in Transoxiana encompassing the great trading cities of Bukhara, Samarkand, Tashkent, and Balkh. A major center of Islamic culture and scholarship, the Khanate preserved the Timurid cultural tradition and controlled vital segments of the Silk Road for nearly three centuries."
+    }
+  },
+  {
+    "id": "durrani-empire",
+    "parentId": null,
+    "startYear": 1747,
+    "endYear": 1826,
+    "peakStartYear": 1747,
+    "peakEndYear": 1793,
+    "culturalSphere": "persian",
+    "color": "#5a7a8e",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Durranisches Reich",
+      "en": "Durrani Empire"
+    },
+    "description": {
+      "de": "Das Durranische Reich, gegründet 1747 von Ahmad Schah Durrani, war das erste moderne Staatsgebilde Afghanistans und erstreckte sich von Khorasan im Westen bis nach Kaschmir und Punjab im Osten. Als eines der bedeutendsten islamischen Reiche des 18. Jahrhunderts verband es persische Kulturtradition mit paschtuner Stammesführerschaft und legte den Grundstein für den modernen afghanischen Staat.",
+      "en": "The Durrani Empire, founded in 1747 by Ahmad Shah Durrani, was the first modern state of Afghanistan, stretching from Khorasan in the west to Kashmir and Punjab in the east. Considered one of the most significant Islamic empires of the 18th century, it blended Persian cultural tradition with Pashtun tribal leadership and laid the foundation for the modern Afghan state."
+    }
+  },
+  {
+    "id": "oyo-empire",
+    "parentId": null,
+    "startYear": 1400,
+    "endYear": 1896,
+    "peakStartYear": 1600,
+    "peakEndYear": 1790,
+    "culturalSphere": "african",
+    "color": "#b8860b",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Oyo-Reich",
+      "en": "Oyo Empire"
+    },
+    "description": {
+      "de": "Das Oyo-Reich war das mächtigste Yoruba-Staatswesen in Westafrika und beherrschte zur Hochzeit im 17.–18. Jahrhundert weite Teile des heutigen Nigerias sowie das Königreich Dahomey. Sein politisches System mit dem Alafin als König und dem Oyo Mesi als Kontrollrat galt als eines der ausgefeiltesten im vorkolonialen Afrika.",
+      "en": "The Oyo Empire was the most powerful Yoruba state in West Africa, dominating much of present-day Nigeria and the Kingdom of Dahomey at its height in the 17th–18th centuries. Its political system, balancing the Alaafin as king against the Oyo Mesi council, was one of the most sophisticated in pre-colonial Africa."
+    }
+  },
+  {
+    "id": "numidia",
+    "parentId": null,
+    "startYear": -202,
+    "endYear": -46,
+    "peakStartYear": -202,
+    "peakEndYear": -112,
+    "culturalSphere": "african",
+    "color": "#c4a35a",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Numidien",
+      "en": "Numidia"
+    },
+    "description": {
+      "de": "Das numidische Königreich war der erste vereinte Berberstaat in Nordafrika, gegründet von König Masinissa nach dem Zweiten Punischen Krieg. Es erstreckte sich von der Moulouya im Westen bis nahe Karthago im Osten und war zunächst ein mächtiger römischer Verbündeter, bevor es zur römischen Provinz wurde.",
+      "en": "The Numidian kingdom was the first unified Berber state in North Africa, established by King Masinissa after the Second Punic War. Stretching from the Moulouya River in the west to near Carthage in the east, it was initially a powerful Roman ally before eventually becoming a Roman province."
+    }
+  },
+  {
+    "id": "mutapa-empire",
+    "parentId": null,
+    "startYear": 1430,
+    "endYear": 1760,
+    "peakStartYear": 1450,
+    "peakEndYear": 1600,
+    "culturalSphere": "african",
+    "color": "#8b6914",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Mutapa-Reich",
+      "en": "Mutapa Empire"
+    },
+    "description": {
+      "de": "Das Mutapa-Reich, auch Mwenemutapa oder Monomotapa genannt, war ein Shona-Reich auf dem Zimbabwischen Hochplateau zwischen Sambesi und Limpopo. Als Nachfolger des Reiches von Groß-Simbabwe kontrollierte es wichtige Handelswege mit dem Goldhandel zur ostafrikanischen Küste und war eine bedeutende Macht in der Region bis zur Ankunft der Portugiesen.",
+      "en": "The Mutapa Empire, also known as Mwenemutapa or Monomotapa, was a Shona empire on the Zimbabwean Plateau between the Zambezi and Limpopo rivers. Successor to Great Zimbabwe, it controlled vital gold trade routes to the East African coast and remained a dominant regional power until Portuguese interference from the 16th century onward."
+    }
+  },
+  {
+    "id": "adal-sultanate",
+    "parentId": null,
+    "startYear": 1415,
+    "endYear": 1577,
+    "peakStartYear": 1520,
+    "peakEndYear": 1543,
+    "culturalSphere": "islamic",
+    "color": "#6b8e6b",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Sultanat Adal",
+      "en": "Adal Sultanate"
+    },
+    "description": {
+      "de": "Das Sultanat Adal war ein sunnitisches muslimisches Reich am Horn von Afrika mit Zentrum auf dem Harar-Plateau. Auf dem Höhepunkt seiner Macht unter Imam Ahmad ibn Ibrahim al-Ghazi (genannt Grañ) errang es bedeutende Siege gegen das christliche Äthiopien und kontrollierte ein riesiges Gebiet von der Küste Somalias bis in den Djibuti und nach Ostäthiopien.",
+      "en": "The Adal Sultanate was a Sunni Muslim empire in the Horn of Africa centered on the Harar plateau. At its peak under Imam Ahmad ibn Ibrahim al-Ghazi (known as Gragn), it achieved sweeping conquests against Christian Ethiopia, controlling a vast territory from the Somali coast through Djibouti and into eastern Ethiopia."
+    }
+  },
+  {
+    "id": "aceh-sultanate",
+    "parentId": null,
+    "startYear": 1496,
+    "endYear": 1903,
+    "peakStartYear": 1520,
+    "peakEndYear": 1650,
+    "culturalSphere": "southeast-asian",
+    "color": "#5a8e7a",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Sultanat Aceh",
+      "en": "Aceh Sultanate"
+    },
+    "description": {
+      "de": "Mächtiges islamisches Sultanat an der Nordspitze Sumatras, das den Eingang zur Straße von Malakka kontrollierte. Bekannt als 'Vorhalle Mekkas', war es ein bedeutendes Zentrum islamischer Gelehrsamkeit und des Pfefferhandels im 16. und 17. Jahrhundert.",
+      "en": "Powerful Islamic sultanate at the northern tip of Sumatra that controlled the entrance to the Strait of Malacca. Known as the 'Porch of Mecca', it was a major center of Islamic scholarship and the pepper trade in the 16th and 17th centuries."
+    }
+  },
+  {
+    "id": "bengal-sultanate",
+    "parentId": null,
+    "startYear": 1352,
+    "endYear": 1576,
+    "peakStartYear": 1400,
+    "peakEndYear": 1538,
+    "culturalSphere": "indian",
+    "color": "#7a5a8e",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Sultanat Bengalen",
+      "en": "Bengal Sultanate"
+    },
+    "description": {
+      "de": "Bedeutendes spätmittelalterliches Sultanat im Ganges-Brahmaputra-Delta, das große Teile des heutigen Bangladeschs und Westbengalens umfasste. Es war die fünftgrößte Stadt der Welt um 1500 und ein blühendes Handelszentrum am Golf von Bengalen.",
+      "en": "Prominent late medieval sultanate dominating the Ganges-Brahmaputra Delta, encompassing much of modern Bangladesh and West Bengal. Its capital Gaur was among the world's most populous cities around 1500, and the sultanate was a thriving maritime trading power on the Bay of Bengal."
+    }
+  },
+  {
+    "id": "bamana-empire-segou",
+    "parentId": null,
+    "startYear": 1712,
+    "endYear": 1861,
+    "peakStartYear": 1750,
+    "peakEndYear": 1840,
+    "culturalSphere": "african",
+    "color": "#a0782c",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Bamana-Reich (Ségou)",
+      "en": "Bamana Empire (Ségou)"
+    },
+    "description": {
+      "de": "Eines der mächtigsten Reiche Westafrikas im 18. Jahrhundert, zentriert auf Ségou am Niger. Das Bamana-Reich kontrollierte den mittleren Nigertal und war ein bedeutender Nachfolgestaat des Songhai-Reiches, bekannt für seine militärische Kanuflotte und Kauri-basierte Wirtschaft.",
+      "en": "One of the most powerful states of West Africa in the 18th century, centered on Ségou on the Niger River. The Bamana Empire controlled the middle Niger valley and was a major successor to the Songhai Empire, known for its war canoe navy and cowrie-shell economy."
+    }
+  },
+  {
+    "id": "iroquois-confederacy",
+    "parentId": null,
+    "startYear": 1450,
+    "endYear": 1900,
+    "peakStartYear": 1600,
+    "peakEndYear": 1780,
+    "culturalSphere": "american",
+    "color": "#6b5a3e",
+    "opacity": 0.3,
+    "labels": {
+      "de": "Irokesenbund (Haudenosaunee)",
+      "en": "Iroquois Confederacy (Haudenosaunee)"
+    },
+    "description": {
+      "de": "Mächtiger Bund der Haudenosaunee (Volk des Langhauses), bestehend aus den Völkern der Mohawk, Oneida, Onondaga, Cayuga und Seneca im heutigen Bundesstaat New York. Einer der ältesten demokratischen Staatenbünde der Welt, der von den Finger Lakes bis zum Hudson River reichte.",
+      "en": "Powerful confederacy of the Haudenosaunee (People of the Longhouse), comprising the Mohawk, Oneida, Onondaga, Cayuga, and Seneca peoples across present-day upstate New York. One of the world's oldest democratic confederacies, spanning from the Finger Lakes to the Hudson River and influencing the governance models of later republics."
+    }
   }
 ]

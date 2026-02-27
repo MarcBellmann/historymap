@@ -4723,6 +4723,564 @@
           "en": "Southern African monarchy under Shaka Zulu that consolidated rival clans and ruled a wide expanse along the eastern coast."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.1,
+                38.9
+              ],
+              [
+                8.5,
+                39
+              ],
+              [
+                9.2,
+                39.1
+              ],
+              [
+                9.8,
+                39.5
+              ],
+              [
+                9.9,
+                40
+              ],
+              [
+                9.7,
+                40.6
+              ],
+              [
+                9.6,
+                41
+              ],
+              [
+                9.4,
+                41.3
+              ],
+              [
+                9,
+                41.2
+              ],
+              [
+                8.5,
+                41
+              ],
+              [
+                8.2,
+                40.5
+              ],
+              [
+                8,
+                40
+              ],
+              [
+                8.1,
+                39.5
+              ],
+              [
+                8.1,
+                38.9
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                6.6,
+                45.1
+              ],
+              [
+                7,
+                45.9
+              ],
+              [
+                7.5,
+                46.4
+              ],
+              [
+                8,
+                46.5
+              ],
+              [
+                8.5,
+                46.2
+              ],
+              [
+                9,
+                46
+              ],
+              [
+                9.2,
+                45.5
+              ],
+              [
+                8.8,
+                45
+              ],
+              [
+                8.2,
+                44.5
+              ],
+              [
+                7.8,
+                44.1
+              ],
+              [
+                7.4,
+                43.8
+              ],
+              [
+                6.9,
+                43.9
+              ],
+              [
+                6.7,
+                44.4
+              ],
+              [
+                6.6,
+                45.1
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-sardinia",
+        "parentId": null,
+        "startYear": 1720,
+        "endYear": 1861,
+        "peakStartYear": 1815,
+        "peakEndYear": 1861,
+        "culturalSphere": "roman",
+        "color": "#5a8a6e",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Königreich Sardinien",
+          "en": "Kingdom of Sardinia"
+        },
+        "description": {
+          "de": "Das Königreich Sardinien unter dem Haus Savoyen umfasste ab 1720 die Insel Sardinien sowie das piemontesische Kernland mit Savoyen und Nizza auf dem Festland. Es wurde nach dem Wiener Kongress 1815 zur treibenden Kraft der italienischen Einigung und ging 1861 im Königreich Italien auf.",
+          "en": "The Kingdom of Sardinia under the House of Savoy comprised the island of Sardinia from 1720 alongside the Piedmontese mainland with Savoy and Nice. Rebuilt after the Congress of Vienna in 1815, it became the engine of Italian unification and transformed into the Kingdom of Italy in 1861."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -124.7,
+              48.4
+            ],
+            [
+              -123,
+              49
+            ],
+            [
+              -110,
+              49
+            ],
+            [
+              -100,
+              49
+            ],
+            [
+              -95.2,
+              49
+            ],
+            [
+              -88,
+              48
+            ],
+            [
+              -83,
+              45.9
+            ],
+            [
+              -82.5,
+              43.5
+            ],
+            [
+              -79,
+              43.1
+            ],
+            [
+              -76,
+              44
+            ],
+            [
+              -72.5,
+              45
+            ],
+            [
+              -70,
+              47.5
+            ],
+            [
+              -67,
+              47.1
+            ],
+            [
+              -66.9,
+              44.8
+            ],
+            [
+              -70.7,
+              43.1
+            ],
+            [
+              -73.9,
+              40.6
+            ],
+            [
+              -75.5,
+              38
+            ],
+            [
+              -76.3,
+              35
+            ],
+            [
+              -81,
+              31
+            ],
+            [
+              -81.5,
+              30.3
+            ],
+            [
+              -82,
+              29.5
+            ],
+            [
+              -80,
+              25.1
+            ],
+            [
+              -81.8,
+              24.5
+            ],
+            [
+              -87.5,
+              30.3
+            ],
+            [
+              -89.5,
+              29
+            ],
+            [
+              -90,
+              29.5
+            ],
+            [
+              -94,
+              29.7
+            ],
+            [
+              -96.5,
+              26
+            ],
+            [
+              -97.3,
+              25.9
+            ],
+            [
+              -97.2,
+              28
+            ],
+            [
+              -100.5,
+              28
+            ],
+            [
+              -104,
+              29.6
+            ],
+            [
+              -106.5,
+              31.8
+            ],
+            [
+              -111,
+              31.3
+            ],
+            [
+              -117.1,
+              32.5
+            ],
+            [
+              -120.5,
+              34.5
+            ],
+            [
+              -122.4,
+              37.8
+            ],
+            [
+              -124.3,
+              40.4
+            ],
+            [
+              -124.5,
+              43
+            ],
+            [
+              -124.6,
+              46.2
+            ],
+            [
+              -124.7,
+              48.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "united-states-of-america",
+        "parentId": null,
+        "startYear": 1776,
+        "endYear": null,
+        "peakStartYear": 1776,
+        "peakEndYear": 1900,
+        "culturalSphere": "western",
+        "color": "#3b5998",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Vereinigte Staaten von Amerika",
+          "en": "United States of America"
+        },
+        "description": {
+          "de": "1776 nach der Unabhängigkeitserklärung von Großbritannien gegründete Bundesrepublik. Durch Landkäufe, Verträge und den Mexikanisch-Amerikanischen Krieg erstreckte sich das Territorium bis 1850 von der Atlantikküste bis zum Pazifik und umfasste die zusammenhängenden 48 Bundesstaaten.",
+          "en": "Federal republic founded in 1776 following the Declaration of Independence from Britain. Through land purchases, treaties, and the Mexican-American War, by 1850 its territory stretched from the Atlantic coast to the Pacific, encompassing the contiguous 48 states."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.5,
+              19.9
+            ],
+            [
+              -73.8,
+              20
+            ],
+            [
+              -73.4,
+              19.9
+            ],
+            [
+              -73.1,
+              19.7
+            ],
+            [
+              -72.5,
+              19.8
+            ],
+            [
+              -72,
+              19.6
+            ],
+            [
+              -71.8,
+              19.5
+            ],
+            [
+              -71.9,
+              18.6
+            ],
+            [
+              -72,
+              18.5
+            ],
+            [
+              -72.2,
+              18.2
+            ],
+            [
+              -72.8,
+              18.2
+            ],
+            [
+              -73.4,
+              18
+            ],
+            [
+              -74,
+              18.3
+            ],
+            [
+              -74.4,
+              18.6
+            ],
+            [
+              -74.5,
+              18.8
+            ],
+            [
+              -73.9,
+              18.5
+            ],
+            [
+              -74.1,
+              19
+            ],
+            [
+              -74,
+              19.3
+            ],
+            [
+              -74.4,
+              19.6
+            ],
+            [
+              -74.5,
+              19.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "republic-of-haiti",
+        "parentId": null,
+        "startYear": 1804,
+        "endYear": null,
+        "peakStartYear": 1804,
+        "peakEndYear": 1900,
+        "culturalSphere": "western",
+        "color": "#1a1a8c",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Republik Haiti",
+          "en": "Republic of Haiti"
+        },
+        "description": {
+          "de": "Am 1. Januar 1804 nach der erfolgreichen Haitianischen Revolution ausgerufen, war Haiti die erste von ehemals versklavten Menschen gegründete Republik und der erste unabhängige Staat Lateinamerikas. Das Land umfasst das westliche Drittel der Insel Hispaniola in der Karibik.",
+          "en": "Proclaimed on 1 January 1804 following the successful Haitian Revolution, Haiti was the first republic founded by formerly enslaved people and the first independent state in Latin America. The country occupies the western third of the island of Hispaniola in the Caribbean."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.5,
+              13.5
+            ],
+            [
+              -7.5,
+              14.2
+            ],
+            [
+              -6.5,
+              14.8
+            ],
+            [
+              -5.5,
+              15.2
+            ],
+            [
+              -4.5,
+              15.5
+            ],
+            [
+              -3.5,
+              15.8
+            ],
+            [
+              -2.5,
+              16
+            ],
+            [
+              -1.8,
+              15.5
+            ],
+            [
+              -1.5,
+              14.8
+            ],
+            [
+              -2,
+              14
+            ],
+            [
+              -2.5,
+              13.5
+            ],
+            [
+              -3,
+              12.8
+            ],
+            [
+              -3.5,
+              12.2
+            ],
+            [
+              -4.5,
+              11.8
+            ],
+            [
+              -5.5,
+              11.5
+            ],
+            [
+              -6.5,
+              11.8
+            ],
+            [
+              -7.2,
+              12.2
+            ],
+            [
+              -7.8,
+              12.8
+            ],
+            [
+              -8.2,
+              13
+            ],
+            [
+              -8.5,
+              13.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bamana-empire-segou",
+        "parentId": null,
+        "startYear": 1712,
+        "endYear": 1861,
+        "peakStartYear": 1750,
+        "peakEndYear": 1840,
+        "culturalSphere": "african",
+        "color": "#a0782c",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Bamana-Reich (Ségou)",
+          "en": "Bamana Empire (Ségou)"
+        },
+        "description": {
+          "de": "Eines der mächtigsten Reiche Westafrikas im 18. Jahrhundert, zentriert auf Ségou am Niger. Das Bamana-Reich kontrollierte den mittleren Nigertal und war ein bedeutender Nachfolgestaat des Songhai-Reiches, bekannt für seine militärische Kanuflotte und Kauri-basierte Wirtschaft.",
+          "en": "One of the most powerful states of West Africa in the 18th century, centered on Ségou on the Niger River. The Bamana Empire controlled the middle Niger valley and was a major successor to the Songhai Empire, known for its war canoe navy and cowrie-shell economy."
+        }
+      }
     }
   ]
 }

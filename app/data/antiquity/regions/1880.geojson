@@ -4589,6 +4589,545 @@
           "en": "Most powerful East African kingdom in the area of present-day Uganda, founded in the 13th century."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -124.7,
+              48.4
+            ],
+            [
+              -123,
+              49
+            ],
+            [
+              -110,
+              49
+            ],
+            [
+              -100,
+              49
+            ],
+            [
+              -95.2,
+              49
+            ],
+            [
+              -88,
+              48
+            ],
+            [
+              -83,
+              45.9
+            ],
+            [
+              -82.5,
+              43.5
+            ],
+            [
+              -79,
+              43.1
+            ],
+            [
+              -76,
+              44
+            ],
+            [
+              -72.5,
+              45
+            ],
+            [
+              -70,
+              47.5
+            ],
+            [
+              -67,
+              47.1
+            ],
+            [
+              -66.9,
+              44.8
+            ],
+            [
+              -70.7,
+              43.1
+            ],
+            [
+              -73.9,
+              40.6
+            ],
+            [
+              -75.5,
+              38
+            ],
+            [
+              -76.3,
+              35
+            ],
+            [
+              -81,
+              31
+            ],
+            [
+              -81.5,
+              30.3
+            ],
+            [
+              -82,
+              29.5
+            ],
+            [
+              -80,
+              25.1
+            ],
+            [
+              -81.8,
+              24.5
+            ],
+            [
+              -87.5,
+              30.3
+            ],
+            [
+              -89.5,
+              29
+            ],
+            [
+              -90,
+              29.5
+            ],
+            [
+              -94,
+              29.7
+            ],
+            [
+              -96.5,
+              26
+            ],
+            [
+              -97.3,
+              25.9
+            ],
+            [
+              -97.2,
+              28
+            ],
+            [
+              -100.5,
+              28
+            ],
+            [
+              -104,
+              29.6
+            ],
+            [
+              -106.5,
+              31.8
+            ],
+            [
+              -111,
+              31.3
+            ],
+            [
+              -117.1,
+              32.5
+            ],
+            [
+              -120.5,
+              34.5
+            ],
+            [
+              -122.4,
+              37.8
+            ],
+            [
+              -124.3,
+              40.4
+            ],
+            [
+              -124.5,
+              43
+            ],
+            [
+              -124.6,
+              46.2
+            ],
+            [
+              -124.7,
+              48.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "united-states-of-america",
+        "parentId": null,
+        "startYear": 1776,
+        "endYear": null,
+        "peakStartYear": 1776,
+        "peakEndYear": 1900,
+        "culturalSphere": "western",
+        "color": "#3b5998",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Vereinigte Staaten von Amerika",
+          "en": "United States of America"
+        },
+        "description": {
+          "de": "1776 nach der Unabhängigkeitserklärung von Großbritannien gegründete Bundesrepublik. Durch Landkäufe, Verträge und den Mexikanisch-Amerikanischen Krieg erstreckte sich das Territorium bis 1850 von der Atlantikküste bis zum Pazifik und umfasste die zusammenhängenden 48 Bundesstaaten.",
+          "en": "Federal republic founded in 1776 following the Declaration of Independence from Britain. Through land purchases, treaties, and the Mexican-American War, by 1850 its territory stretched from the Atlantic coast to the Pacific, encompassing the contiguous 48 states."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8,
+              -3.5
+            ],
+            [
+              -35.5,
+              -5
+            ],
+            [
+              -37,
+              -11
+            ],
+            [
+              -38.5,
+              -15
+            ],
+            [
+              -39,
+              -17
+            ],
+            [
+              -41,
+              -20.5
+            ],
+            [
+              -44,
+              -23
+            ],
+            [
+              -48.5,
+              -26
+            ],
+            [
+              -48.6,
+              -28
+            ],
+            [
+              -51,
+              -30
+            ],
+            [
+              -53.5,
+              -33.8
+            ],
+            [
+              -53.2,
+              -33.1
+            ],
+            [
+              -58,
+              -34
+            ],
+            [
+              -58.5,
+              -31
+            ],
+            [
+              -57.5,
+              -30.5
+            ],
+            [
+              -55.5,
+              -28.2
+            ],
+            [
+              -55.8,
+              -27
+            ],
+            [
+              -54.5,
+              -25.5
+            ],
+            [
+              -57.5,
+              -20
+            ],
+            [
+              -58,
+              -17.5
+            ],
+            [
+              -59,
+              -15
+            ],
+            [
+              -60,
+              -13
+            ],
+            [
+              -60.5,
+              -10
+            ],
+            [
+              -65,
+              -10
+            ],
+            [
+              -68.8,
+              -11
+            ],
+            [
+              -70,
+              -11
+            ],
+            [
+              -73.5,
+              -10
+            ],
+            [
+              -74,
+              -7
+            ],
+            [
+              -73.5,
+              -4
+            ],
+            [
+              -70.5,
+              -2.5
+            ],
+            [
+              -70,
+              -0.5
+            ],
+            [
+              -72.9,
+              1.2
+            ],
+            [
+              -70,
+              2.2
+            ],
+            [
+              -66.8,
+              1.2
+            ],
+            [
+              -60.5,
+              4.5
+            ],
+            [
+              -60,
+              5
+            ],
+            [
+              -61,
+              4
+            ],
+            [
+              -61.5,
+              3.5
+            ],
+            [
+              -59.8,
+              3
+            ],
+            [
+              -59.9,
+              2
+            ],
+            [
+              -61.5,
+              0.5
+            ],
+            [
+              -64,
+              1
+            ],
+            [
+              -62,
+              -0.5
+            ],
+            [
+              -61,
+              -2
+            ],
+            [
+              -55,
+              -1.5
+            ],
+            [
+              -52,
+              4
+            ],
+            [
+              -51.5,
+              4.2
+            ],
+            [
+              -50,
+              1.8
+            ],
+            [
+              -44,
+              2.5
+            ],
+            [
+              -40.5,
+              2
+            ],
+            [
+              -37,
+              -2.5
+            ],
+            [
+              -34.8,
+              -3.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "empire-of-brazil",
+        "parentId": null,
+        "startYear": 1500,
+        "endYear": 1889,
+        "peakStartYear": 1822,
+        "peakEndYear": 1889,
+        "culturalSphere": "western",
+        "color": "#2d8c3c",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Kaiserreich Brasilien",
+          "en": "Empire of Brazil"
+        },
+        "description": {
+          "de": "Portugiesische Kolonie ab 1500, die 1822 als unabhängiges Kaiserreich unter Pedro I. ausgerufen wurde. Das größte Land Südamerikas umfasste rund die Hälfte des Kontinents und war die einzige konstitutionelle Monarchie in Amerika, bis sie 1889 zur Republik wurde.",
+          "en": "Portuguese colony from 1500, proclaimed an independent empire in 1822 under Pedro I. The largest country in South America, covering roughly half the continent, it was the only constitutional monarchy in the Americas until the republic was proclaimed in 1889."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.5,
+              19.9
+            ],
+            [
+              -73.8,
+              20
+            ],
+            [
+              -73.4,
+              19.9
+            ],
+            [
+              -73.1,
+              19.7
+            ],
+            [
+              -72.5,
+              19.8
+            ],
+            [
+              -72,
+              19.6
+            ],
+            [
+              -71.8,
+              19.5
+            ],
+            [
+              -71.9,
+              18.6
+            ],
+            [
+              -72,
+              18.5
+            ],
+            [
+              -72.2,
+              18.2
+            ],
+            [
+              -72.8,
+              18.2
+            ],
+            [
+              -73.4,
+              18
+            ],
+            [
+              -74,
+              18.3
+            ],
+            [
+              -74.4,
+              18.6
+            ],
+            [
+              -74.5,
+              18.8
+            ],
+            [
+              -73.9,
+              18.5
+            ],
+            [
+              -74.1,
+              19
+            ],
+            [
+              -74,
+              19.3
+            ],
+            [
+              -74.4,
+              19.6
+            ],
+            [
+              -74.5,
+              19.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "republic-of-haiti",
+        "parentId": null,
+        "startYear": 1804,
+        "endYear": null,
+        "peakStartYear": 1804,
+        "peakEndYear": 1900,
+        "culturalSphere": "western",
+        "color": "#1a1a8c",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Republik Haiti",
+          "en": "Republic of Haiti"
+        },
+        "description": {
+          "de": "Am 1. Januar 1804 nach der erfolgreichen Haitianischen Revolution ausgerufen, war Haiti die erste von ehemals versklavten Menschen gegründete Republik und der erste unabhängige Staat Lateinamerikas. Das Land umfasst das westliche Drittel der Insel Hispaniola in der Karibik.",
+          "en": "Proclaimed on 1 January 1804 following the successful Haitian Revolution, Haiti was the first republic founded by formerly enslaved people and the first independent state in Latin America. The country occupies the western third of the island of Hispaniola in the Caribbean."
+        }
+      }
     }
   ]
 }

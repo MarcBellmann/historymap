@@ -8831,6 +8831,127 @@
           "en": "Major pre-Columbian civilization at Lake Titicaca in present-day Bolivia with monumental megalithic architecture."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45,
+              43
+            ],
+            [
+              52,
+              46
+            ],
+            [
+              58,
+              46.5
+            ],
+            [
+              65,
+              45
+            ],
+            [
+              72,
+              43
+            ],
+            [
+              80,
+              42
+            ],
+            [
+              88,
+              42.5
+            ],
+            [
+              95,
+              43
+            ],
+            [
+              102,
+              44
+            ],
+            [
+              108,
+              45
+            ],
+            [
+              115,
+              48
+            ],
+            [
+              120,
+              48.5
+            ],
+            [
+              118,
+              50.5
+            ],
+            [
+              110,
+              52
+            ],
+            [
+              100,
+              54
+            ],
+            [
+              90,
+              55
+            ],
+            [
+              80,
+              54.5
+            ],
+            [
+              70,
+              53
+            ],
+            [
+              60,
+              52
+            ],
+            [
+              50,
+              50
+            ],
+            [
+              44,
+              47
+            ],
+            [
+              42,
+              44.5
+            ],
+            [
+              45,
+              43
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "gokturk-khaganate",
+        "parentId": null,
+        "startYear": 552,
+        "endYear": 744,
+        "peakStartYear": 552,
+        "peakEndYear": 630,
+        "culturalSphere": "turkic",
+        "color": "#7a9e5a",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Göktürken-Khaganat",
+          "en": "Göktürk Khaganate"
+        },
+        "description": {
+          "de": "Das Göktürken-Khaganat war eines der mächtigsten Steppenimperien Innerasiens und erstreckte sich auf seinem Höhepunkt vom Mongolischen Plateau bis zum Kaspischen Meer. Unter Bumin Qaghan gegründet, übernahmen die Göktürken die Kontrolle über die Seidenstraße und prägten die kulturelle und politische Entwicklung der Turkvölker nachhaltig.",
+          "en": "The Göktürk Khaganate was one of the most powerful steppe empires of Inner Asia, stretching at its peak from the Mongolian Plateau to the Caspian Sea. Founded by Bumin Qaghan, the Göktürks dominated the Silk Road trade routes and profoundly shaped the cultural and political identity of future Turkic peoples."
+        }
+      }
     }
   ]
 }

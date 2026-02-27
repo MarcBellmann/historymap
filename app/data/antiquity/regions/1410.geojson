@@ -12150,6 +12150,636 @@
           "en": "West African city-states in present-day northern Nigeria, major trade centers of the Sahel."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.3,
+              41.7
+            ],
+            [
+              11.5,
+              42
+            ],
+            [
+              11.2,
+              42.5
+            ],
+            [
+              11.5,
+              43.2
+            ],
+            [
+              12,
+              43.8
+            ],
+            [
+              12.4,
+              44
+            ],
+            [
+              12.7,
+              44.1
+            ],
+            [
+              13.5,
+              43.8
+            ],
+            [
+              14,
+              43.5
+            ],
+            [
+              14.2,
+              43
+            ],
+            [
+              13.8,
+              42.5
+            ],
+            [
+              13.6,
+              42
+            ],
+            [
+              13.2,
+              41.8
+            ],
+            [
+              12.8,
+              41.6
+            ],
+            [
+              12.3,
+              41.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "papal-states",
+        "parentId": null,
+        "startYear": 756,
+        "endYear": 1870,
+        "peakStartYear": 1000,
+        "peakEndYear": 1790,
+        "culturalSphere": "roman",
+        "color": "#cc9933",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Kirchenstaat",
+          "en": "Papal States"
+        },
+        "description": {
+          "de": "Der Kirchenstaat war ein souveränes Territorium auf der italienischen Halbinsel unter der direkten weltlichen Herrschaft des Papstes von 756 bis 1870. Auf seinem Höhepunkt umfasste er die heutigen Regionen Latium, Marken, Umbrien und die Romagna und machte den Papst zu einem der mächtigsten Fürsten Italiens.",
+          "en": "The Papal States were a sovereign territory on the Italian peninsula under the direct temporal rule of the pope from 756 to 1870. At their zenith they encompassed modern Lazio, Marche, Umbria, and Romagna, making the pope one of Italy's most powerful rulers alongside his ecclesiastical primacy."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.4,
+              42.2
+            ],
+            [
+              14,
+              42.1
+            ],
+            [
+              14.8,
+              42
+            ],
+            [
+              15.5,
+              41.8
+            ],
+            [
+              15.8,
+              41.2
+            ],
+            [
+              16.5,
+              41
+            ],
+            [
+              17.2,
+              40.8
+            ],
+            [
+              18,
+              40.5
+            ],
+            [
+              18.5,
+              40
+            ],
+            [
+              18.2,
+              39.5
+            ],
+            [
+              17.8,
+              39
+            ],
+            [
+              17,
+              38.5
+            ],
+            [
+              16.5,
+              38
+            ],
+            [
+              16,
+              37.8
+            ],
+            [
+              15.7,
+              37.9
+            ],
+            [
+              15.8,
+              38.5
+            ],
+            [
+              15.6,
+              39
+            ],
+            [
+              15.8,
+              39.5
+            ],
+            [
+              15.5,
+              40
+            ],
+            [
+              14.8,
+              40.2
+            ],
+            [
+              14.2,
+              40.5
+            ],
+            [
+              13.8,
+              40.8
+            ],
+            [
+              13.5,
+              41
+            ],
+            [
+              13.2,
+              41.5
+            ],
+            [
+              13.4,
+              42.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-naples",
+        "parentId": null,
+        "startYear": 1282,
+        "endYear": 1816,
+        "peakStartYear": 1282,
+        "peakEndYear": 1500,
+        "culturalSphere": "roman",
+        "color": "#d4764e",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Königreich Neapel",
+          "en": "Kingdom of Naples"
+        },
+        "description": {
+          "de": "Das Königreich Neapel beherrschte den südlichen Teil der Apenninenhalbinsel von der Gründung nach den Sizilianischen Vespern 1282 bis zur Vereinigung mit Sizilien 1816. Sein Gebiet entsprach den heutigen Regionen Kampanien, Kalabrien, Apulien, Basilikata, Abruzzen und Molise.",
+          "en": "The Kingdom of Naples ruled the southern part of the Italian Peninsula from its establishment after the Sicilian Vespers in 1282 until its merger with Sicily in 1816. Its territory corresponded to the modern regions of Campania, Calabria, Apulia, Basilicata, Abruzzo, and Molise."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6,
+              46
+            ],
+            [
+              9.2,
+              46.5
+            ],
+            [
+              9.8,
+              46.5
+            ],
+            [
+              10.5,
+              46.3
+            ],
+            [
+              11,
+              46
+            ],
+            [
+              11.3,
+              45.5
+            ],
+            [
+              11,
+              45
+            ],
+            [
+              10.5,
+              44.8
+            ],
+            [
+              9.8,
+              44.7
+            ],
+            [
+              9.2,
+              44.8
+            ],
+            [
+              8.8,
+              45
+            ],
+            [
+              8.5,
+              45.3
+            ],
+            [
+              8.4,
+              45.7
+            ],
+            [
+              8.6,
+              46
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "duchy-of-milan",
+        "parentId": null,
+        "startYear": 1395,
+        "endYear": 1535,
+        "peakStartYear": 1395,
+        "peakEndYear": 1500,
+        "culturalSphere": "roman",
+        "color": "#7a6b8e",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Herzogtum Mailand",
+          "en": "Duchy of Milan"
+        },
+        "description": {
+          "de": "Das Herzogtum Mailand wurde 1395 von Gian Galeazzo Visconti gegründet und umfasste nahezu ganz Lombardien. Es zählte zu den wohlhabendsten und kulturell bedeutendsten Staaten der italienischen Renaissance, bevor es 1535 unter habsburgische Herrschaft fiel.",
+          "en": "The Duchy of Milan was founded in 1395 by Gian Galeazzo Visconti and encompassed nearly all of Lombardy. It became one of the wealthiest and culturally most significant states of the Italian Renaissance, falling under Habsburg rule in 1535."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.5,
+              45.4
+            ],
+            [
+              23,
+              45.5
+            ],
+            [
+              24,
+              45.6
+            ],
+            [
+              25,
+              45.5
+            ],
+            [
+              26,
+              45.5
+            ],
+            [
+              26.8,
+              45.3
+            ],
+            [
+              27.5,
+              45.2
+            ],
+            [
+              27.8,
+              44.8
+            ],
+            [
+              27.5,
+              44.2
+            ],
+            [
+              27,
+              43.9
+            ],
+            [
+              26,
+              43.8
+            ],
+            [
+              25,
+              43.7
+            ],
+            [
+              24,
+              43.8
+            ],
+            [
+              23,
+              43.9
+            ],
+            [
+              22.5,
+              44.2
+            ],
+            [
+              22.2,
+              44.8
+            ],
+            [
+              22.5,
+              45.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "principality-of-wallachia",
+        "parentId": null,
+        "startYear": 1330,
+        "endYear": 1859,
+        "peakStartYear": 1380,
+        "peakEndYear": 1600,
+        "culturalSphere": "slavic",
+        "color": "#8b6e4e",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Fürstentum Walachei",
+          "en": "Principality of Wallachia"
+        },
+        "description": {
+          "de": "Die Walachei entstand als eigenständiges Fürstentum nach dem Sieg Basarabs I. über Ungarn 1330 und lag zwischen den Südkarpaten und der Donau. Trotz osmanischer Suzeränität ab 1417 bewahrte sie weitgehende Autonomie und stellte Herrscher wie Vlad den Pfähler hervor, bevor sie 1859 mit der Moldau zum modernen Rumänien vereinigt wurde.",
+          "en": "Wallachia emerged as an independent principality after Basarab I's victory over Hungary in 1330, situated between the Southern Carpathians and the Danube. Despite Ottoman suzerainty from 1417, it maintained significant autonomy and produced celebrated rulers such as Vlad the Impaler, before uniting with Moldavia to form modern Romania in 1859."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              48.5
+            ],
+            [
+              26.5,
+              48.5
+            ],
+            [
+              27.5,
+              48.4
+            ],
+            [
+              28.5,
+              48.2
+            ],
+            [
+              29.5,
+              47.8
+            ],
+            [
+              30.2,
+              47.2
+            ],
+            [
+              30,
+              46.5
+            ],
+            [
+              29.5,
+              46.2
+            ],
+            [
+              28.5,
+              46
+            ],
+            [
+              27.5,
+              45.8
+            ],
+            [
+              27,
+              45.5
+            ],
+            [
+              26.8,
+              45.5
+            ],
+            [
+              26.2,
+              45.8
+            ],
+            [
+              25.8,
+              46.5
+            ],
+            [
+              25.5,
+              47
+            ],
+            [
+              25,
+              47.5
+            ],
+            [
+              25.2,
+              48
+            ],
+            [
+              25.8,
+              48.3
+            ],
+            [
+              26,
+              48.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "principality-of-moldavia",
+        "parentId": null,
+        "startYear": 1346,
+        "endYear": 1859,
+        "peakStartYear": 1400,
+        "peakEndYear": 1600,
+        "culturalSphere": "slavic",
+        "color": "#6e8b5e",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Fürstentum Moldau",
+          "en": "Principality of Moldavia"
+        },
+        "description": {
+          "de": "Das Fürstentum Moldau entstand im 14. Jahrhundert zwischen den Ostkarpaten und dem Dnjestr und erlebte unter Stephan dem Großen (1457–1504) seine Blütezeit als eigenständige Macht. Trotz wachsender osmanischer Oberhoheit bewahrte es seine Eigenständigkeit bis zur Vereinigung mit der Walachei 1859, dem Kern des modernen rumänischen Staates.",
+          "en": "The Principality of Moldavia emerged in the 14th century between the Eastern Carpathians and the Dniester River, reaching its height under Stephen the Great (1457–1504) as an independent power. Despite growing Ottoman suzerainty it preserved its identity until uniting with Wallachia in 1859 to form the nucleus of the modern Romanian state."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.8,
+              27
+            ],
+            [
+              87,
+              27.2
+            ],
+            [
+              88.2,
+              27
+            ],
+            [
+              89.5,
+              26.5
+            ],
+            [
+              90.5,
+              26.2
+            ],
+            [
+              91.5,
+              26.5
+            ],
+            [
+              92.3,
+              26
+            ],
+            [
+              92.8,
+              25
+            ],
+            [
+              92.5,
+              24
+            ],
+            [
+              92.2,
+              23.2
+            ],
+            [
+              92.6,
+              22.5
+            ],
+            [
+              92.4,
+              21.8
+            ],
+            [
+              91.8,
+              21.2
+            ],
+            [
+              91,
+              21
+            ],
+            [
+              90.2,
+              21.3
+            ],
+            [
+              89.5,
+              21.7
+            ],
+            [
+              88.5,
+              21.5
+            ],
+            [
+              87.8,
+              22
+            ],
+            [
+              87.2,
+              22.6
+            ],
+            [
+              86.8,
+              23.5
+            ],
+            [
+              86.2,
+              24.2
+            ],
+            [
+              85.8,
+              25
+            ],
+            [
+              85.5,
+              25.8
+            ],
+            [
+              85.8,
+              27
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bengal-sultanate",
+        "parentId": null,
+        "startYear": 1352,
+        "endYear": 1576,
+        "peakStartYear": 1400,
+        "peakEndYear": 1538,
+        "culturalSphere": "indian",
+        "color": "#7a5a8e",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Sultanat Bengalen",
+          "en": "Bengal Sultanate"
+        },
+        "description": {
+          "de": "Bedeutendes spätmittelalterliches Sultanat im Ganges-Brahmaputra-Delta, das große Teile des heutigen Bangladeschs und Westbengalens umfasste. Es war die fünftgrößte Stadt der Welt um 1500 und ein blühendes Handelszentrum am Golf von Bengalen.",
+          "en": "Prominent late medieval sultanate dominating the Ganges-Brahmaputra Delta, encompassing much of modern Bangladesh and West Bengal. Its capital Gaur was among the world's most populous cities around 1500, and the sultanate was a thriving maritime trading power on the Bay of Bengal."
+        }
+      }
     }
   ]
 }

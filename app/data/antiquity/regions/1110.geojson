@@ -9645,6 +9645,95 @@
           "en": "Buddhist kingdom on the high plateau of Central Asia."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.3,
+              41.7
+            ],
+            [
+              11.5,
+              42
+            ],
+            [
+              11.2,
+              42.5
+            ],
+            [
+              11.5,
+              43.2
+            ],
+            [
+              12,
+              43.8
+            ],
+            [
+              12.4,
+              44
+            ],
+            [
+              12.7,
+              44.1
+            ],
+            [
+              13.5,
+              43.8
+            ],
+            [
+              14,
+              43.5
+            ],
+            [
+              14.2,
+              43
+            ],
+            [
+              13.8,
+              42.5
+            ],
+            [
+              13.6,
+              42
+            ],
+            [
+              13.2,
+              41.8
+            ],
+            [
+              12.8,
+              41.6
+            ],
+            [
+              12.3,
+              41.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "papal-states",
+        "parentId": null,
+        "startYear": 756,
+        "endYear": 1870,
+        "peakStartYear": 1000,
+        "peakEndYear": 1790,
+        "culturalSphere": "roman",
+        "color": "#cc9933",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Kirchenstaat",
+          "en": "Papal States"
+        },
+        "description": {
+          "de": "Der Kirchenstaat war ein souveränes Territorium auf der italienischen Halbinsel unter der direkten weltlichen Herrschaft des Papstes von 756 bis 1870. Auf seinem Höhepunkt umfasste er die heutigen Regionen Latium, Marken, Umbrien und die Romagna und machte den Papst zu einem der mächtigsten Fürsten Italiens.",
+          "en": "The Papal States were a sovereign territory on the Italian peninsula under the direct temporal rule of the pope from 756 to 1870. At their zenith they encompassed modern Lazio, Marche, Umbria, and Romagna, making the pope one of Italy's most powerful rulers alongside his ecclesiastical primacy."
+        }
+      }
     }
   ]
 }

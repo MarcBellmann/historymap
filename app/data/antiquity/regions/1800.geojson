@@ -3950,6 +3950,565 @@
           "en": "West African kingdoms in present-day Burkina Faso, known for resisting Islamization."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -124.7,
+              48.4
+            ],
+            [
+              -123,
+              49
+            ],
+            [
+              -110,
+              49
+            ],
+            [
+              -100,
+              49
+            ],
+            [
+              -95.2,
+              49
+            ],
+            [
+              -88,
+              48
+            ],
+            [
+              -83,
+              45.9
+            ],
+            [
+              -82.5,
+              43.5
+            ],
+            [
+              -79,
+              43.1
+            ],
+            [
+              -76,
+              44
+            ],
+            [
+              -72.5,
+              45
+            ],
+            [
+              -70,
+              47.5
+            ],
+            [
+              -67,
+              47.1
+            ],
+            [
+              -66.9,
+              44.8
+            ],
+            [
+              -70.7,
+              43.1
+            ],
+            [
+              -73.9,
+              40.6
+            ],
+            [
+              -75.5,
+              38
+            ],
+            [
+              -76.3,
+              35
+            ],
+            [
+              -81,
+              31
+            ],
+            [
+              -81.5,
+              30.3
+            ],
+            [
+              -82,
+              29.5
+            ],
+            [
+              -80,
+              25.1
+            ],
+            [
+              -81.8,
+              24.5
+            ],
+            [
+              -87.5,
+              30.3
+            ],
+            [
+              -89.5,
+              29
+            ],
+            [
+              -90,
+              29.5
+            ],
+            [
+              -94,
+              29.7
+            ],
+            [
+              -96.5,
+              26
+            ],
+            [
+              -97.3,
+              25.9
+            ],
+            [
+              -97.2,
+              28
+            ],
+            [
+              -100.5,
+              28
+            ],
+            [
+              -104,
+              29.6
+            ],
+            [
+              -106.5,
+              31.8
+            ],
+            [
+              -111,
+              31.3
+            ],
+            [
+              -117.1,
+              32.5
+            ],
+            [
+              -120.5,
+              34.5
+            ],
+            [
+              -122.4,
+              37.8
+            ],
+            [
+              -124.3,
+              40.4
+            ],
+            [
+              -124.5,
+              43
+            ],
+            [
+              -124.6,
+              46.2
+            ],
+            [
+              -124.7,
+              48.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "united-states-of-america",
+        "parentId": null,
+        "startYear": 1776,
+        "endYear": null,
+        "peakStartYear": 1776,
+        "peakEndYear": 1900,
+        "culturalSphere": "western",
+        "color": "#3b5998",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Vereinigte Staaten von Amerika",
+          "en": "United States of America"
+        },
+        "description": {
+          "de": "1776 nach der Unabhängigkeitserklärung von Großbritannien gegründete Bundesrepublik. Durch Landkäufe, Verträge und den Mexikanisch-Amerikanischen Krieg erstreckte sich das Territorium bis 1850 von der Atlantikküste bis zum Pazifik und umfasste die zusammenhängenden 48 Bundesstaaten.",
+          "en": "Federal republic founded in 1776 following the Declaration of Independence from Britain. Through land purchases, treaties, and the Mexican-American War, by 1850 its territory stretched from the Atlantic coast to the Pacific, encompassing the contiguous 48 states."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.1,
+              32.5
+            ],
+            [
+              -111,
+              31.3
+            ],
+            [
+              -106.5,
+              31.8
+            ],
+            [
+              -104,
+              29.6
+            ],
+            [
+              -100.5,
+              28
+            ],
+            [
+              -97.3,
+              25.9
+            ],
+            [
+              -97.2,
+              28
+            ],
+            [
+              -94,
+              29.7
+            ],
+            [
+              -90,
+              29.5
+            ],
+            [
+              -89.5,
+              29
+            ],
+            [
+              -87.5,
+              30.3
+            ],
+            [
+              -84.5,
+              30
+            ],
+            [
+              -81.5,
+              30.3
+            ],
+            [
+              -80.5,
+              25.5
+            ],
+            [
+              -81.8,
+              24.5
+            ],
+            [
+              -84,
+              23
+            ],
+            [
+              -87,
+              21.5
+            ],
+            [
+              -86.8,
+              18.5
+            ],
+            [
+              -88,
+              16
+            ],
+            [
+              -89.2,
+              15.9
+            ],
+            [
+              -92,
+              16
+            ],
+            [
+              -92.2,
+              14.5
+            ],
+            [
+              -90.5,
+              13
+            ],
+            [
+              -87.5,
+              13
+            ],
+            [
+              -83.7,
+              10.8
+            ],
+            [
+              -83.5,
+              9.5
+            ],
+            [
+              -85,
+              9
+            ],
+            [
+              -85,
+              11
+            ],
+            [
+              -87.5,
+              11
+            ],
+            [
+              -90,
+              13.9
+            ],
+            [
+              -91,
+              16
+            ],
+            [
+              -92.5,
+              16.5
+            ],
+            [
+              -94.5,
+              17.5
+            ],
+            [
+              -96,
+              16.5
+            ],
+            [
+              -95.5,
+              15.5
+            ],
+            [
+              -93,
+              15
+            ],
+            [
+              -93,
+              17
+            ],
+            [
+              -96.5,
+              19.5
+            ],
+            [
+              -97,
+              22
+            ],
+            [
+              -98.5,
+              22.5
+            ],
+            [
+              -99.5,
+              23
+            ],
+            [
+              -102,
+              21.5
+            ],
+            [
+              -104.5,
+              20.5
+            ],
+            [
+              -105.7,
+              21.5
+            ],
+            [
+              -108,
+              22.5
+            ],
+            [
+              -109.5,
+              23.5
+            ],
+            [
+              -110,
+              24
+            ],
+            [
+              -110.5,
+              24
+            ],
+            [
+              -110.3,
+              26
+            ],
+            [
+              -111,
+              27
+            ],
+            [
+              -112,
+              27.5
+            ],
+            [
+              -113,
+              28.5
+            ],
+            [
+              -114,
+              29.5
+            ],
+            [
+              -114.5,
+              30.8
+            ],
+            [
+              -115,
+              32
+            ],
+            [
+              -116.5,
+              32.5
+            ],
+            [
+              -117.1,
+              32.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "viceroyalty-of-new-spain",
+        "parentId": "spanish-empire",
+        "startYear": 1521,
+        "endYear": 1821,
+        "peakStartYear": 1600,
+        "peakEndYear": 1800,
+        "culturalSphere": "mesoamerican",
+        "color": "#cc6633",
+        "opacity": 0.2,
+        "labels": {
+          "de": "Vizekönigreich Neuspanien",
+          "en": "Viceroyalty of New Spain"
+        },
+        "description": {
+          "de": "Nach der spanischen Eroberung des Aztekenreiches 1521 gegründetes Vizekönigreich mit Sitz in Mexiko-Stadt. Es umfasste Mexiko, Mittelamerika, den Südwesten der heutigen USA sowie Kuba und Hispaniola und war das reichste und bevölkerungsreichste Territorium des spanischen Imperiums in Amerika.",
+          "en": "Viceroyalty founded after the Spanish conquest of the Aztec Empire in 1521, with its capital at Mexico City. It encompassed Mexico, Central America, the southwestern present-day United States, Cuba, and Hispaniola, and was the wealthiest and most populous territory of the Spanish Empire in the Americas."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.5,
+              13.5
+            ],
+            [
+              -7.5,
+              14.2
+            ],
+            [
+              -6.5,
+              14.8
+            ],
+            [
+              -5.5,
+              15.2
+            ],
+            [
+              -4.5,
+              15.5
+            ],
+            [
+              -3.5,
+              15.8
+            ],
+            [
+              -2.5,
+              16
+            ],
+            [
+              -1.8,
+              15.5
+            ],
+            [
+              -1.5,
+              14.8
+            ],
+            [
+              -2,
+              14
+            ],
+            [
+              -2.5,
+              13.5
+            ],
+            [
+              -3,
+              12.8
+            ],
+            [
+              -3.5,
+              12.2
+            ],
+            [
+              -4.5,
+              11.8
+            ],
+            [
+              -5.5,
+              11.5
+            ],
+            [
+              -6.5,
+              11.8
+            ],
+            [
+              -7.2,
+              12.2
+            ],
+            [
+              -7.8,
+              12.8
+            ],
+            [
+              -8.2,
+              13
+            ],
+            [
+              -8.5,
+              13.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bamana-empire-segou",
+        "parentId": null,
+        "startYear": 1712,
+        "endYear": 1861,
+        "peakStartYear": 1750,
+        "peakEndYear": 1840,
+        "culturalSphere": "african",
+        "color": "#a0782c",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Bamana-Reich (Ségou)",
+          "en": "Bamana Empire (Ségou)"
+        },
+        "description": {
+          "de": "Eines der mächtigsten Reiche Westafrikas im 18. Jahrhundert, zentriert auf Ségou am Niger. Das Bamana-Reich kontrollierte den mittleren Nigertal und war ein bedeutender Nachfolgestaat des Songhai-Reiches, bekannt für seine militärische Kanuflotte und Kauri-basierte Wirtschaft.",
+          "en": "One of the most powerful states of West Africa in the 18th century, centered on Ségou on the Niger River. The Bamana Empire controlled the middle Niger valley and was a major successor to the Songhai Empire, known for its war canoe navy and cowrie-shell economy."
+        }
+      }
     }
   ]
 }

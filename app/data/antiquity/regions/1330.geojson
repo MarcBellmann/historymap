@@ -7329,6 +7329,224 @@
           "en": "North African dynasty based in Tunis, successors of the Almohads in Ifriqiya."
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.3,
+              41.7
+            ],
+            [
+              11.5,
+              42
+            ],
+            [
+              11.2,
+              42.5
+            ],
+            [
+              11.5,
+              43.2
+            ],
+            [
+              12,
+              43.8
+            ],
+            [
+              12.4,
+              44
+            ],
+            [
+              12.7,
+              44.1
+            ],
+            [
+              13.5,
+              43.8
+            ],
+            [
+              14,
+              43.5
+            ],
+            [
+              14.2,
+              43
+            ],
+            [
+              13.8,
+              42.5
+            ],
+            [
+              13.6,
+              42
+            ],
+            [
+              13.2,
+              41.8
+            ],
+            [
+              12.8,
+              41.6
+            ],
+            [
+              12.3,
+              41.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "papal-states",
+        "parentId": null,
+        "startYear": 756,
+        "endYear": 1870,
+        "peakStartYear": 1000,
+        "peakEndYear": 1790,
+        "culturalSphere": "roman",
+        "color": "#cc9933",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Kirchenstaat",
+          "en": "Papal States"
+        },
+        "description": {
+          "de": "Der Kirchenstaat war ein souveränes Territorium auf der italienischen Halbinsel unter der direkten weltlichen Herrschaft des Papstes von 756 bis 1870. Auf seinem Höhepunkt umfasste er die heutigen Regionen Latium, Marken, Umbrien und die Romagna und machte den Papst zu einem der mächtigsten Fürsten Italiens.",
+          "en": "The Papal States were a sovereign territory on the Italian peninsula under the direct temporal rule of the pope from 756 to 1870. At their zenith they encompassed modern Lazio, Marche, Umbria, and Romagna, making the pope one of Italy's most powerful rulers alongside his ecclesiastical primacy."
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.4,
+              42.2
+            ],
+            [
+              14,
+              42.1
+            ],
+            [
+              14.8,
+              42
+            ],
+            [
+              15.5,
+              41.8
+            ],
+            [
+              15.8,
+              41.2
+            ],
+            [
+              16.5,
+              41
+            ],
+            [
+              17.2,
+              40.8
+            ],
+            [
+              18,
+              40.5
+            ],
+            [
+              18.5,
+              40
+            ],
+            [
+              18.2,
+              39.5
+            ],
+            [
+              17.8,
+              39
+            ],
+            [
+              17,
+              38.5
+            ],
+            [
+              16.5,
+              38
+            ],
+            [
+              16,
+              37.8
+            ],
+            [
+              15.7,
+              37.9
+            ],
+            [
+              15.8,
+              38.5
+            ],
+            [
+              15.6,
+              39
+            ],
+            [
+              15.8,
+              39.5
+            ],
+            [
+              15.5,
+              40
+            ],
+            [
+              14.8,
+              40.2
+            ],
+            [
+              14.2,
+              40.5
+            ],
+            [
+              13.8,
+              40.8
+            ],
+            [
+              13.5,
+              41
+            ],
+            [
+              13.2,
+              41.5
+            ],
+            [
+              13.4,
+              42.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "kingdom-of-naples",
+        "parentId": null,
+        "startYear": 1282,
+        "endYear": 1816,
+        "peakStartYear": 1282,
+        "peakEndYear": 1500,
+        "culturalSphere": "roman",
+        "color": "#d4764e",
+        "opacity": 0.3,
+        "labels": {
+          "de": "Königreich Neapel",
+          "en": "Kingdom of Naples"
+        },
+        "description": {
+          "de": "Das Königreich Neapel beherrschte den südlichen Teil der Apenninenhalbinsel von der Gründung nach den Sizilianischen Vespern 1282 bis zur Vereinigung mit Sizilien 1816. Sein Gebiet entsprach den heutigen Regionen Kampanien, Kalabrien, Apulien, Basilikata, Abruzzen und Molise.",
+          "en": "The Kingdom of Naples ruled the southern part of the Italian Peninsula from its establishment after the Sicilian Vespers in 1282 until its merger with Sicily in 1816. Its territory corresponded to the modern regions of Campania, Calabria, Apulia, Basilicata, Abruzzo, and Molise."
+        }
+      }
     }
   ]
 }
