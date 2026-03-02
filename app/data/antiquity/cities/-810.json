@@ -1,44 +1,205 @@
 [
   {
-    "id": "sparta",
+    "id": "erbil",
     "coordinates": [
-      22.4305,
-      37.0755
+      44.0092,
+      36.1912
     ],
-    "startYear": -900,
-    "endYear": -146,
+    "startYear": -5000,
+    "endYear": null,
     "importance": 2,
     "culturalSphere": [
-      "greek"
+      "mesopotamian",
+      "assyrian",
+      "persian",
+      "islamic"
     ],
     "labels": {
-      "de": "Sparta",
-      "en": "Sparta"
+      "de": "Erbil",
+      "en": "Erbil"
     },
     "description": {
-      "de": "Militärisch dominante Polis im antiken Griechenland. Führte die Griechen gegen Persien bei den Thermopylen und besiegte Athen im Peloponnesischen Krieg.",
-      "en": "Militarily dominant polis in ancient Greece. Led the Greeks against Persia at Thermopylae and defeated Athens in the Peloponnesian War."
+      "de": "Erbil gehört zu den ältesten kontinuierlich bewohnten Städten der Welt mit nachgewiesener Besiedlung seit dem 5. Jahrtausend v. Chr. Die Stadt, bekannt als Arbela in der Antike, war ein wichtiges religiöses Zentrum der Assyrer und der Ort der entscheidenden Schlacht von Gaugamela, wo Alexander der Große 331 v. Chr. das Achämenidenreich besiegte.",
+      "en": "Erbil is one of the oldest continuously inhabited cities in the world with documented settlement dating back to the 5th millennium BC. Known as Arbela in antiquity, the city was an important religious center for the Assyrians and the location of the decisive Battle of Gaugamela, where Alexander the Great defeated the Achaemenid Empire in 331 BC."
     }
   },
   {
-    "id": "argos",
+    "id": "amman-philadelphia",
     "coordinates": [
-      22.7194,
-      37.6317
+      35.9106,
+      31.9539
     ],
-    "startYear": -900,
+    "startYear": -5000,
     "endYear": null,
-    "importance": 3,
+    "importance": 2,
     "culturalSphere": [
-      "greek"
+      "hellenistic",
+      "roman",
+      "byzantine",
+      "islamic"
     ],
     "labels": {
-      "de": "Argos",
-      "en": "Argos"
+      "de": "Amman (Philadelphia)",
+      "en": "Amman (Philadelphia)"
     },
     "description": {
-      "de": "Eine der ältesten durchgängig bewohnten Städte Europas. Dominierte die Argolis-Ebene und war ein wichtiger Rivale Spartas im archaischen Griechenland.",
-      "en": "One of the oldest continuously inhabited cities in Europe. Dominated the Argolid plain and was an important rival of Sparta in Archaic Greece."
+      "de": "Amman, das antike Rabbat Ammon und spätere Philadelphia, ist eine der ältesten Städte der Welt mit kontinuierlicher Besiedlung seit dem 8. Jahrtausend v. Chr. Die Stadt wurde im 3. Jahrhundert v. Chr. von Ptolemaios II. in Philadelphia umbenannt und war eine bedeutende Stadt der römischen Dekapolis, bevor sie in der islamischen Zeit ihren antiken Namen Amman zurückerhielt.",
+      "en": "Amman, the ancient Rabbath Ammon and later Philadelphia, is one of the world's oldest cities with continuous habitation since the 8th millennium BC. The city was renamed Philadelphia by Ptolemy II in the 3rd century BC and was an important city of the Roman Decapolis before recovering its ancient name Amman in the Islamic era."
+    }
+  },
+  {
+    "id": "babylon",
+    "coordinates": [
+      44.4211,
+      32.5425
+    ],
+    "startYear": -1894,
+    "endYear": -275,
+    "importance": 1,
+    "culturalSphere": [
+      "mesopotamian",
+      "persian"
+    ],
+    "labels": {
+      "de": "Babylon",
+      "en": "Babylon"
+    },
+    "description": {
+      "de": "Hauptstadt des altbabylonischen und neubabylonischen Reiches. Unter Nebukadnezar II. eine der größten Städte der Welt mit den legendären Hängenden Gärten.",
+      "en": "Capital of the Old Babylonian and Neo-Babylonian empires. Under Nebuchadnezzar II, one of the world's largest cities, famed for its legendary Hanging Gardens."
+    }
+  },
+  {
+    "id": "ye-shang",
+    "coordinates": [
+      114.52,
+      36.12
+    ],
+    "startYear": -1300,
+    "endYear": 580,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Ye",
+      "en": "Ye"
+    },
+    "description": {
+      "de": "Ye war eine historisch bedeutsame Stadt im nördlichen Zentralchina und diente mehrfach als Kaiserhauptstadt, darunter als Hauptstadt des Staates Wei im 3. Jahrhundert n. Chr. Die strategische Lage am Übergang zwischen der Nordchinesischen Ebene und dem Bergland machte sie zu einem militärischen und politischen Schlüsselpunkt. Ye war ein wichtiges Zentrum für die Verbreitung des Buddhismus in Nordchina.",
+      "en": "Ye was a historically significant city in northern central China and served repeatedly as an imperial capital, including as the capital of the state of Wei in the 3rd century AD. Its strategic location at the transition between the North China Plain and the uplands made it a key military and political point. Ye was an important center for the spread of Buddhism in northern China."
+    }
+  },
+  {
+    "id": "cadiz",
+    "coordinates": [
+      -6.2926,
+      36.5271
+    ],
+    "startYear": -1104,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "phoenician",
+      "roman",
+      "iberian"
+    ],
+    "labels": {
+      "de": "Cádiz (Gadir)",
+      "en": "Cádiz (Gadir)"
+    },
+    "description": {
+      "de": "Um 1104 v. Chr. von Phöniziern als Gadir gegründet, eine der ältesten Städte Westeuropas. Wichtiger Atlantikhafen für Handel mit Zinn und Silber.",
+      "en": "Founded by Phoenicians as Gadir around 1104 BC, one of the oldest cities in Western Europe. Important Atlantic port for tin and silver trade."
+    }
+  },
+  {
+    "id": "cadiz-medieval",
+    "coordinates": [
+      -6.2934,
+      36.5271
+    ],
+    "startYear": -1100,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "phoenician",
+      "roman",
+      "medieval-european",
+      "early-modern"
+    ],
+    "labels": {
+      "de": "Cádiz (Gades)",
+      "en": "Cádiz (Gades)"
+    },
+    "description": {
+      "de": "Cádiz, das phönizische Gadir (um 1100 v. Chr.) und später das römische Gades, gilt als eine der ältesten dauerhaft bewohnten Städte Westeuropas. Als wichtigster Atlantikhafen wurde es nach der Entdeckung Amerikas zum Tor zu den spanischen Kolonien und im 17. und 18. Jahrhundert zur wohlhabendsten Stadt Spaniens. Der Hafen kontrollierte den Handel zwischen Europa und der Neuen Welt.",
+      "en": "Cádiz, the Phoenician Gadir (c. 1100 BC) and later the Roman Gades, is considered one of the oldest continuously inhabited cities in Western Europe. As the foremost Atlantic port, it became the gateway to Spanish colonies after the discovery of the Americas and in the 17th and 18th centuries was the wealthiest city in Spain, controlling the trade between Europe and the New World."
+    }
+  },
+  {
+    "id": "fenghao",
+    "coordinates": [
+      108.71,
+      34.18
+    ],
+    "startYear": -1046,
+    "endYear": -771,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Fenghao",
+      "en": "Fenghao"
+    },
+    "description": {
+      "de": "Doppelhauptstadt der Westlichen Zhou-Dynastie am Feng-Fluss nahe dem heutigen Xi'an. Politisches und zeremonielles Zentrum des Zhou-Königreichs.",
+      "en": "Twin capital of the Western Zhou dynasty on the Feng River near modern Xi'an. Political and ceremonial center of the Zhou kingdom."
+    }
+  },
+  {
+    "id": "luoyang",
+    "coordinates": [
+      112.4539,
+      34.6197
+    ],
+    "startYear": -1046,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Luoyang",
+      "en": "Luoyang"
+    },
+    "description": {
+      "de": "Eine der ältesten chinesischen Hauptstädte, Sitz der Östlichen Zhou, Östlichen Han, Wei und Tang. Zentrum des frühen Buddhismus in China.",
+      "en": "One of China's oldest capitals, seat of the Eastern Zhou, Eastern Han, Wei, and Tang dynasties. Center of early Buddhism in China."
+    }
+  },
+  {
+    "id": "beijing",
+    "coordinates": [
+      116.4074,
+      39.9042
+    ],
+    "startYear": -1046,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "chinese",
+      "mongol",
+      "manchu"
+    ],
+    "labels": {
+      "de": "Peking",
+      "en": "Beijing"
+    },
+    "description": {
+      "de": "Hauptstadt der Yuan-, Ming- und Qing-Dynastien. Als Khanbaliq unter den Mongolen erbaut, wurde sie zum dauerhaften Machtzentrum des chinesischen Kaiserreichs. Sitz der Verbotenen Stadt.",
+      "en": "Capital of the Yuan, Ming, and Qing dynasties. Built as Khanbaliq under the Mongols, it became the permanent seat of Chinese imperial power. Home to the Forbidden City."
     }
   },
   {
@@ -83,51 +244,6 @@
     "description": {
       "de": "Legendäres Handelsreich im Südwesten der Iberischen Halbinsel, berühmt für Metallreichtum. Handelspartner der Phönizier und Griechen.",
       "en": "Legendary trading kingdom in southwestern Iberia, famous for its metal wealth. Trading partner of the Phoenicians and Greeks."
-    }
-  },
-  {
-    "id": "cadiz",
-    "coordinates": [
-      -6.2926,
-      36.5271
-    ],
-    "startYear": -1104,
-    "endYear": null,
-    "importance": 2,
-    "culturalSphere": [
-      "phoenician",
-      "roman",
-      "iberian"
-    ],
-    "labels": {
-      "de": "Cádiz (Gadir)",
-      "en": "Cádiz (Gadir)"
-    },
-    "description": {
-      "de": "Um 1104 v. Chr. von Phöniziern als Gadir gegründet, eine der ältesten Städte Westeuropas. Wichtiger Atlantikhafen für Handel mit Zinn und Silber.",
-      "en": "Founded by Phoenicians as Gadir around 1104 BC, one of the oldest cities in Western Europe. Important Atlantic port for tin and silver trade."
-    }
-  },
-  {
-    "id": "babylon",
-    "coordinates": [
-      44.4211,
-      32.5425
-    ],
-    "startYear": -1894,
-    "endYear": -275,
-    "importance": 1,
-    "culturalSphere": [
-      "mesopotamian",
-      "persian"
-    ],
-    "labels": {
-      "de": "Babylon",
-      "en": "Babylon"
-    },
-    "description": {
-      "de": "Hauptstadt des altbabylonischen und neubabylonischen Reiches. Unter Nebukadnezar II. eine der größten Städte der Welt mit den legendären Hängenden Gärten.",
-      "en": "Capital of the Old Babylonian and Neo-Babylonian empires. Under Nebuchadnezzar II, one of the world's largest cities, famed for its legendary Hanging Gardens."
     }
   },
   {
@@ -324,48 +440,6 @@
     "description": {
       "de": "Antike Hauptstadt Elams und Winterresidenz der Achaemeniden. Fundort des Codex Hammurabi und wichtiges Verwaltungszentrum des Perserreiches.",
       "en": "Ancient capital of Elam and winter residence of the Achaemenids. Where the Code of Hammurabi was found and a key administrative center of the Persian Empire."
-    }
-  },
-  {
-    "id": "samaria",
-    "coordinates": [
-      35.1903,
-      32.2775
-    ],
-    "startYear": -880,
-    "endYear": -720,
-    "importance": 2,
-    "culturalSphere": [
-      "israelite"
-    ],
-    "labels": {
-      "de": "Samaria",
-      "en": "Samaria"
-    },
-    "description": {
-      "de": "Hauptstadt des Nordreiches Israel, gegründet von König Omri um 880 v. Chr. Von den Assyrern 720 v. Chr. erobert und zerstört.",
-      "en": "Capital of the northern Kingdom of Israel, founded by King Omri around 880 BC. Conquered and destroyed by the Assyrians in 720 BC."
-    }
-  },
-  {
-    "id": "tushpa",
-    "coordinates": [
-      43.35,
-      38.5
-    ],
-    "startYear": -850,
-    "endYear": -590,
-    "importance": 2,
-    "culturalSphere": [
-      "urartian"
-    ],
-    "labels": {
-      "de": "Tushpa (Van)",
-      "en": "Tushpa (Van)"
-    },
-    "description": {
-      "de": "Hauptstadt des Königreiches Urartu am Vansee. Bedeutende Festungsstadt und Rivale der Assyrer im 9.-7. Jh. v. Chr.",
-      "en": "Capital of the Kingdom of Urartu on Lake Van. Major fortress city and rival of the Assyrians in the 9th-7th centuries BC."
     }
   },
   {
@@ -579,69 +653,6 @@
     }
   },
   {
-    "id": "fenghao",
-    "coordinates": [
-      108.71,
-      34.18
-    ],
-    "startYear": -1046,
-    "endYear": -771,
-    "importance": 2,
-    "culturalSphere": [
-      "chinese"
-    ],
-    "labels": {
-      "de": "Fenghao",
-      "en": "Fenghao"
-    },
-    "description": {
-      "de": "Doppelhauptstadt der Westlichen Zhou-Dynastie am Feng-Fluss nahe dem heutigen Xi'an. Politisches und zeremonielles Zentrum des Zhou-Königreichs.",
-      "en": "Twin capital of the Western Zhou dynasty on the Feng River near modern Xi'an. Political and ceremonial center of the Zhou kingdom."
-    }
-  },
-  {
-    "id": "luoyang",
-    "coordinates": [
-      112.4539,
-      34.6197
-    ],
-    "startYear": -1046,
-    "endYear": null,
-    "importance": 1,
-    "culturalSphere": [
-      "chinese"
-    ],
-    "labels": {
-      "de": "Luoyang",
-      "en": "Luoyang"
-    },
-    "description": {
-      "de": "Eine der ältesten chinesischen Hauptstädte, Sitz der Östlichen Zhou, Östlichen Han, Wei und Tang. Zentrum des frühen Buddhismus in China.",
-      "en": "One of China's oldest capitals, seat of the Eastern Zhou, Eastern Han, Wei, and Tang dynasties. Center of early Buddhism in China."
-    }
-  },
-  {
-    "id": "linzi",
-    "coordinates": [
-      118.31,
-      36.88
-    ],
-    "startYear": -859,
-    "endYear": -221,
-    "importance": 2,
-    "culturalSphere": [
-      "chinese"
-    ],
-    "labels": {
-      "de": "Linzi",
-      "en": "Linzi"
-    },
-    "description": {
-      "de": "Hauptstadt des Staates Qi während der Frühlings- und Herbstperiode sowie der Zeit der Streitenden Reiche. Mit geschätzt 300.000 Einwohnern eine der größten Städte der damaligen Welt.",
-      "en": "Capital of the State of Qi during the Spring and Autumn and Warring States periods. With an estimated 300,000 inhabitants, one of the largest cities in the world at the time."
-    }
-  },
-  {
     "id": "qufu",
     "coordinates": [
       116.9864,
@@ -663,26 +674,111 @@
     }
   },
   {
-    "id": "beijing",
+    "id": "taxila",
     "coordinates": [
-      116.4074,
-      39.9042
+      72.7896,
+      33.7463
     ],
-    "startYear": -1046,
+    "startYear": -1000,
+    "endYear": 500,
+    "importance": 1,
+    "culturalSphere": [
+      "indian",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Taxila (Takshashila)",
+      "en": "Taxila (Takshashila)"
+    },
+    "description": {
+      "de": "Eines der aeltesten Bildungszentren der Welt und Hauptstadt des antiken Gandhara. Knotenpunkt zwischen indischer, persischer und griechischer Zivilisation, beruehmte Universaet seit dem 6. Jh. v. Chr.",
+      "en": "One of the oldest centers of learning in the world and capital of ancient Gandhara. A crossroads of Indian, Persian, and Greek civilizations, with a famous university since the 6th century BC."
+    }
+  },
+  {
+    "id": "tonga-nuku-alofa",
+    "coordinates": [
+      -175.2167,
+      -21.1367
+    ],
+    "startYear": -1000,
+    "endYear": null,
+    "importance": 2,
+    "culturalSphere": [
+      "southeast-asian"
+    ],
+    "labels": {
+      "de": "Nuku'alofa (Tonga)",
+      "en": "Nuku'alofa (Tonga)"
+    },
+    "description": {
+      "de": "Das Königreich Tonga war eines der mächtigsten politischen Zentren des Pazifiks und entwickelte ab ca. 1000 v. Chr. eines der frühesten polynesischen Häuptlingstümer. Die Tu'i-Tonga-Dynastie, mit ihren zeremoniellen Hauptstädten auf Tongatapu, herrschte zeitweise über ein weitreichendes maritimes Imperium von Fidschi bis zu den Salomoninseln. Tonga war ein wichtiger Dreh- und Angelpunkt für die polynesische Expansion im Pazifik.",
+      "en": "The Kingdom of Tonga was one of the most powerful political centers in the Pacific, developing one of the earliest Polynesian chiefdoms from around 1000 BC. The Tu'i Tonga dynasty, with its ceremonial capitals on Tongatapu, at times ruled over an extensive maritime empire stretching from Fiji to the Solomon Islands. Tonga was an important hub for Polynesian expansion throughout the Pacific."
+    }
+  },
+  {
+    "id": "jerusalem",
+    "coordinates": [
+      35.2137,
+      31.7683
+    ],
+    "startYear": -1000,
     "endYear": null,
     "importance": 1,
     "culturalSphere": [
-      "chinese",
-      "mongol",
-      "manchu"
+      "jewish",
+      "roman",
+      "islamic"
     ],
     "labels": {
-      "de": "Peking",
-      "en": "Beijing"
+      "de": "Jerusalem",
+      "en": "Jerusalem"
     },
     "description": {
-      "de": "Hauptstadt der Yuan-, Ming- und Qing-Dynastien. Als Khanbaliq unter den Mongolen erbaut, wurde sie zum dauerhaften Machtzentrum des chinesischen Kaiserreichs. Sitz der Verbotenen Stadt.",
-      "en": "Capital of the Yuan, Ming, and Qing dynasties. Built as Khanbaliq under the Mongols, it became the permanent seat of Chinese imperial power. Home to the Forbidden City."
+      "de": "Heilige Stadt dreier Weltreligionen. Unter König David um 1000 v. Chr. zur Hauptstadt Israels erhoben, beherbergte sie den Ersten und Zweiten Tempel. Über Jahrtausende umkämpft und von verschiedenen Imperien beherrscht.",
+      "en": "Holy city of three world religions. Made capital of Israel by King David around 1000 BC, it housed the First and Second Temples. Contested and ruled by various empires over millennia."
+    }
+  },
+  {
+    "id": "sparta",
+    "coordinates": [
+      22.4305,
+      37.0755
+    ],
+    "startYear": -900,
+    "endYear": -146,
+    "importance": 2,
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Sparta",
+      "en": "Sparta"
+    },
+    "description": {
+      "de": "Militärisch dominante Polis im antiken Griechenland. Führte die Griechen gegen Persien bei den Thermopylen und besiegte Athen im Peloponnesischen Krieg.",
+      "en": "Militarily dominant polis in ancient Greece. Led the Greeks against Persia at Thermopylae and defeated Athens in the Peloponnesian War."
+    }
+  },
+  {
+    "id": "argos",
+    "coordinates": [
+      22.7194,
+      37.6317
+    ],
+    "startYear": -900,
+    "endYear": null,
+    "importance": 3,
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Argos",
+      "en": "Argos"
+    },
+    "description": {
+      "de": "Eine der ältesten durchgängig bewohnten Städte Europas. Dominierte die Argolis-Ebene und war ein wichtiger Rivale Spartas im archaischen Griechenland.",
+      "en": "One of the oldest continuously inhabited cities in Europe. Dominated the Argolid plain and was an important rival of Sparta in Archaic Greece."
     }
   },
   {
@@ -728,25 +824,89 @@
     }
   },
   {
-    "id": "taxila",
+    "id": "samaria",
     "coordinates": [
-      72.7896,
-      33.7463
+      35.1903,
+      32.2775
     ],
-    "startYear": -1000,
-    "endYear": 500,
-    "importance": 1,
+    "startYear": -880,
+    "endYear": -720,
+    "importance": 2,
     "culturalSphere": [
-      "indian",
-      "buddhist"
+      "israelite"
     ],
     "labels": {
-      "de": "Taxila (Takshashila)",
-      "en": "Taxila (Takshashila)"
+      "de": "Samaria",
+      "en": "Samaria"
     },
     "description": {
-      "de": "Eines der aeltesten Bildungszentren der Welt und Hauptstadt des antiken Gandhara. Knotenpunkt zwischen indischer, persischer und griechischer Zivilisation, beruehmte Universaet seit dem 6. Jh. v. Chr.",
-      "en": "One of the oldest centers of learning in the world and capital of ancient Gandhara. A crossroads of Indian, Persian, and Greek civilizations, with a famous university since the 6th century BC."
+      "de": "Hauptstadt des Nordreiches Israel, gegründet von König Omri um 880 v. Chr. Von den Assyrern 720 v. Chr. erobert und zerstört.",
+      "en": "Capital of the northern Kingdom of Israel, founded by King Omri around 880 BC. Conquered and destroyed by the Assyrians in 720 BC."
+    }
+  },
+  {
+    "id": "linzi",
+    "coordinates": [
+      118.31,
+      36.88
+    ],
+    "startYear": -859,
+    "endYear": -221,
+    "importance": 2,
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Linzi",
+      "en": "Linzi"
+    },
+    "description": {
+      "de": "Hauptstadt des Staates Qi während der Frühlings- und Herbstperiode sowie der Zeit der Streitenden Reiche. Mit geschätzt 300.000 Einwohnern eine der größten Städte der damaligen Welt.",
+      "en": "Capital of the State of Qi during the Spring and Autumn and Warring States periods. With an estimated 300,000 inhabitants, one of the largest cities in the world at the time."
+    }
+  },
+  {
+    "id": "tushpa",
+    "coordinates": [
+      43.35,
+      38.5
+    ],
+    "startYear": -850,
+    "endYear": -590,
+    "importance": 2,
+    "culturalSphere": [
+      "urartian"
+    ],
+    "labels": {
+      "de": "Tushpa (Van)",
+      "en": "Tushpa (Van)"
+    },
+    "description": {
+      "de": "Hauptstadt des Königreiches Urartu am Vansee. Bedeutende Festungsstadt und Rivale der Assyrer im 9.-7. Jh. v. Chr.",
+      "en": "Capital of the Kingdom of Urartu on Lake Van. Major fortress city and rival of the Assyrians in the 9th-7th centuries BC."
+    }
+  },
+  {
+    "id": "carthage",
+    "coordinates": [
+      10.3232,
+      36.8528
+    ],
+    "startYear": -814,
+    "endYear": null,
+    "importance": 1,
+    "culturalSphere": [
+      "phoenician",
+      "roman",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Karthago",
+      "en": "Carthage"
+    },
+    "description": {
+      "de": "814 v. Chr. von phönizischen Siedlern aus Tyros gegründet, stieg Karthago zur dominierenden Seemacht des westlichen Mittelmeers auf. Nach den Punischen Kriegen 146 v. Chr. von Rom zerstört, später als römische Kolonie wiederaufgebaut.",
+      "en": "Founded in 814 BC by Phoenician settlers from Tyre, Carthage rose to become the dominant naval power of the western Mediterranean. Destroyed by Rome in 146 BC after the Punic Wars, later rebuilt as a Roman colony."
     }
   }
 ]
