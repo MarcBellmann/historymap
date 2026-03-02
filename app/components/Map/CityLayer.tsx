@@ -41,6 +41,18 @@ export function CityLayer({ cities, currentYear, lang }: CityLayerProps) {
       "circle-color": "#1a1a1a",
       "circle-stroke-width": 1,
       "circle-stroke-color": "#ffffff",
+      "circle-opacity": [
+        "step", ["zoom"],
+        ["case", ["==", ["get", "importance"], 1], 1, 0],
+        3, ["case", ["<=", ["get", "importance"], 2], 1, 0],
+        5, 1,
+      ] as any,
+      "circle-stroke-opacity": [
+        "step", ["zoom"],
+        ["case", ["==", ["get", "importance"], 1], 1, 0],
+        3, ["case", ["<=", ["get", "importance"], 2], 1, 0],
+        5, 1,
+      ] as any,
     },
   };
 
@@ -63,6 +75,12 @@ export function CityLayer({ cities, currentYear, lang }: CityLayerProps) {
       "text-color": "#374151",
       "text-halo-color": "#ffffff",
       "text-halo-width": 1.5,
+      "text-opacity": [
+        "step", ["zoom"],
+        ["case", ["==", ["get", "importance"], 1], 1, 0],
+        3, ["case", ["<=", ["get", "importance"], 2], 1, 0],
+        5, 1,
+      ] as any,
     },
   };
 
