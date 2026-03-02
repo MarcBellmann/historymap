@@ -44,6 +44,13 @@
     "noResults": "No regions found",
     "showList": "Region List"
   },
+  "eventSearch": {
+    "title": "Events",
+    "search": "Search events...",
+    "noResults": "No events found",
+    "results": "events",
+    "showSearch": "Event Search"
+  },
   "language": {
     "switch": "DE"
   }

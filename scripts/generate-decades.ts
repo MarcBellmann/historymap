@@ -78,4 +78,19 @@ writeFileSync(
   JSON.stringify(regionIndex, null, 2)
 );
 
-console.log(`Done! Generated ${regionFiles} region files, ${cityFiles} city files, ${eventFiles} event files, plus region-index.json (${regionIndex.length} regions).`);
+// Generate event-index.json (all events — for the event search panel)
+const eventIndex = events.map((e: any) => ({
+  id: e.id,
+  coordinates: e.coordinates,
+  year: e.year,
+  type: e.type,
+  culturalSphere: e.culturalSphere,
+  labels: e.labels,
+  description: e.description,
+}));
+writeFileSync(
+  join(dataDir, "event-index.json"),
+  JSON.stringify(eventIndex, null, 2)
+);
+
+console.log(`Done! Generated ${regionFiles} region files, ${cityFiles} city files, ${eventFiles} event files, plus region-index.json (${regionIndex.length} regions), event-index.json (${eventIndex.length} events).`);

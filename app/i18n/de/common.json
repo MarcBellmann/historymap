@@ -44,6 +44,13 @@
     "noResults": "Keine Regionen gefunden",
     "showList": "Regionenliste"
   },
+  "eventSearch": {
+    "title": "Ereignisse",
+    "search": "Ereignisse suchen...",
+    "noResults": "Keine Ereignisse gefunden",
+    "results": "Ereignisse",
+    "showSearch": "Ereignissuche"
+  },
   "language": {
     "switch": "EN"
   }

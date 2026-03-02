@@ -6,6 +6,7 @@ import { MapView } from "~/components/Map/MapView";
 import { TimelineSlider } from "~/components/Timeline/TimelineSlider";
 import { DetailPanel } from "~/components/Detail/DetailPanel";
 import { RegionListPanel } from "~/components/RegionList/RegionListPanel";
+import { EventSearchPanel } from "~/components/EventSearch/EventSearchPanel";
 import { epochs, defaultEpoch } from "~/data/config";
 import { yearToDecade } from "~/lib/decadeUtils";
 import type { SelectedItem, City, HistoricalEvent, RegionProperties } from "~/types/history";
@@ -87,6 +88,14 @@ function HomePage() {
     [navigate]
   );
 
+  const handleEventFromSearch = useCallback(
+    (event: HistoricalEvent, year: number) => {
+      navigate({ search: { year }, replace: true });
+      setSelectedItem({ type: "event", data: event });
+    },
+    [navigate]
+  );
+
   const toggleLanguage = useCallback(() => {
     i18n.changeLanguage(lang === "de" ? "en" : "de");
   }, [lang, i18n]);
@@ -136,6 +145,13 @@ function HomePage() {
       <RegionListPanel
         lang={lang}
         onSelectRegion={handleRegionFromList}
+        visible={selectedItem === null}
+      />
+
+      {/* Event Search Panel (bottom-right, hidden when DetailPanel is open) */}
+      <EventSearchPanel
+        lang={lang}
+        onSelectEvent={handleEventFromSearch}
         visible={selectedItem === null}
       />
 
