@@ -70,6 +70,7 @@ export function CityLayer({ cities, currentYear, lang }: CityLayerProps) {
       "text-offset": [0, 1.2] as any,
       "text-anchor": "top" as const,
       "text-allow-overlap": false,
+      "symbol-sort-key": ["get", "importance"] as any,
     },
     paint: {
       "text-color": "#374151",
