@@ -1,5 +1,25 @@
 [
   {
+    "id": "fall-of-qin-dynasty",
+    "coordinates": [
+      108.94,
+      34.27
+    ],
+    "year": -206,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Fall der Qin-Dynastie",
+      "en": "Fall of the Qin Dynasty"
+    },
+    "description": {
+      "de": "Nach nur 15 Jahren brach die Qin-Dynastie unter Bauernaufständen zusammen. Der Bürgerkrieg zwischen Xiang Yu und Liu Bang folgte.",
+      "en": "After only 15 years, the Qin dynasty collapsed under peasant revolts. Civil war between Xiang Yu and Liu Bang followed."
+    }
+  },
+  {
     "id": "battle-of-zama",
     "coordinates": [
       8.55,
@@ -18,26 +38,6 @@
     "description": {
       "de": "Scipio Africanus besiegte Hannibal in der entscheidenden Schlacht des Zweiten Punischen Krieges bei Zama. Der Sieg machte Rom zur unangefochtenen Vormacht im westlichen Mittelmeer.",
       "en": "Scipio Africanus defeated Hannibal in the decisive battle of the Second Punic War at Zama. The victory made Rome the undisputed dominant power in the western Mediterranean."
-    }
-  },
-  {
-    "id": "fall-of-qin-dynasty",
-    "coordinates": [
-      108.94,
-      34.27
-    ],
-    "year": -206,
-    "type": "political",
-    "culturalSphere": [
-      "chinese"
-    ],
-    "labels": {
-      "de": "Fall der Qin-Dynastie",
-      "en": "Fall of the Qin Dynasty"
-    },
-    "description": {
-      "de": "Nach nur 15 Jahren brach die Qin-Dynastie unter Bauernaufständen zusammen. Der Bürgerkrieg zwischen Xiang Yu und Liu Bang folgte.",
-      "en": "After only 15 years, the Qin dynasty collapsed under peasant revolts. Civil war between Xiang Yu and Liu Bang followed."
     }
   },
   {

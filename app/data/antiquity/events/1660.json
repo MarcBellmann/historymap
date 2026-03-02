@@ -1,5 +1,25 @@
 [
   {
+    "id": "koxinga-captures-taiwan",
+    "coordinates": [
+      120.2,
+      23
+    ],
+    "year": 1662,
+    "type": "battle",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Koxinga erobert Taiwan",
+      "en": "Koxinga Captures Taiwan"
+    },
+    "description": {
+      "de": "Der Ming-Loyalist Zheng Chenggong (Koxinga) vertrieb die Niederländer aus Taiwan und gründete das Königreich Tungning als letzten Ming-Widerstandsstaat.",
+      "en": "Ming loyalist Zheng Chenggong (Koxinga) expelled the Dutch from Taiwan and founded the Kingdom of Tungning as the last Ming resistance state."
+    }
+  },
+  {
     "id": "great-fire-of-london",
     "coordinates": [
       -0.08,
@@ -20,23 +40,23 @@
     }
   },
   {
-    "id": "koxinga-captures-taiwan",
+    "id": "great-fire-london-1666",
     "coordinates": [
-      120.2,
-      23
+      -0.09,
+      51.51
     ],
-    "year": 1662,
-    "type": "battle",
+    "year": 1666,
+    "type": "natural",
     "culturalSphere": [
-      "chinese"
+      "english"
     ],
     "labels": {
-      "de": "Koxinga erobert Taiwan",
-      "en": "Koxinga Captures Taiwan"
+      "de": "Großer Brand von London",
+      "en": "Great Fire of London"
     },
     "description": {
-      "de": "Der Ming-Loyalist Zheng Chenggong (Koxinga) vertrieb die Niederländer aus Taiwan und gründete das Königreich Tungning als letzten Ming-Widerstandsstaat.",
-      "en": "Ming loyalist Zheng Chenggong (Koxinga) expelled the Dutch from Taiwan and founded the Kingdom of Tungning as the last Ming resistance state."
+      "de": "Der Große Brand vom 2. bis 5. September 1666 vernichtete 13.000 Häuser und 87 Kirchen im Herzen Londons. Aus der Katastrophe entstand ein neues London: Christopher Wren entwarf über 50 neue Kirchen, darunter die St.-Paul's-Kathedrale. Der Brand beschleunigte auch die Entstehung der modernen Versicherungswirtschaft.",
+      "en": "The Great Fire of 2–5 September 1666 destroyed 13,000 houses and 87 churches in the heart of London. From the catastrophe arose a new London: Christopher Wren designed over 50 new churches, including St. Paul's Cathedral. The fire also accelerated the birth of modern insurance."
     }
   }
 ]

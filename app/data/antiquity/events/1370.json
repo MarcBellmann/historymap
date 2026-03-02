@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "battle-of-maritsa-1371",
+    "coordinates": [
+      26.35,
+      41.7
+    ],
+    "year": 1371,
+    "type": "battle",
+    "culturalSphere": [
+      "ottoman",
+      "serbian"
+    ],
+    "labels": {
+      "de": "Osmanen siegen an der Marica – Balkan unter osmanischem Einfluss",
+      "en": "Battle of Maritsa – Balkans Under Ottoman Influence"
+    },
+    "description": {
+      "de": "Die Osmanen besiegten eine serbische Koalition an der Marica vernichtend, was die osmanische Vorherrschaft auf dem südlichen Balkan sicherte. Die serbischen Fürsten wurden osmanische Vasallen, und der Weg zur weiteren Expansion auf dem Balkan war frei.",
+      "en": "The Ottomans decisively defeated a Serbian coalition at the Maritsa River, securing Ottoman supremacy in the southern Balkans. Serbian princes became Ottoman vassals, and the path was open for further expansion in the Balkans."
+    }
+  },
+  {
+    "id": "great-wall-of-china-jiayuguan",
+    "coordinates": [
+      98.3,
+      39.77
+    ],
+    "year": 1372,
+    "type": "foundation",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Jiayu-Pass – Westlicher Endpunkt der Ming-Mauer",
+      "en": "Jiayuguan Pass – Western End of the Ming Great Wall"
+    },
+    "description": {
+      "de": "Der Jiayu-Pass wurde 1372 unter der Ming-Dynastie als westlichstes Bollwerk der Chinesischen Mauer gebaut. Diese strategische Festung kontrollierte die Route nach Zentralasien an der Grenze zu den Wüstenwüsten Gobi und markierte in der chinesischen Wahrnehmung das Ende der zivilisierten Welt.",
+      "en": "The Jiayuguan Pass was built in 1372 under the Ming Dynasty as the westernmost fortification of the Great Wall of China. This strategic fortress controlled the route to Central Asia at the edge of the Gobi Desert, marking in Chinese perception the end of the civilized world."
+    }
+  }
+]

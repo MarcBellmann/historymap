@@ -1,5 +1,26 @@
 [
   {
+    "id": "founding-of-althing-iceland",
+    "coordinates": [
+      -21.13,
+      64.26
+    ],
+    "year": 930,
+    "type": "political",
+    "culturalSphere": [
+      "viking",
+      "norse"
+    ],
+    "labels": {
+      "de": "Gründung des Althing",
+      "en": "Founding of the Althing"
+    },
+    "description": {
+      "de": "Island gründet das Althing, eines der ältesten Parlamente der Welt, am Þingvellir. Die jährliche Versammlung aller freien Isländer entschied über Recht und Streitigkeiten ohne König — ein einzigartiges Experiment in der Selbstverwaltung.",
+      "en": "Iceland establishes the Althing, one of the world's oldest parliaments, at Þingvellir. The annual assembly of all free Icelanders decided law and disputes without a king — a unique experiment in self-governance."
+    }
+  },
+  {
     "id": "battle-of-bach-dang-938",
     "coordinates": [
       106.75,

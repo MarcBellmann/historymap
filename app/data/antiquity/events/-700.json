@@ -18,5 +18,45 @@
       "de": "Go-Joseon, das erste koreanische Königreich, entwickelte sich im Nordwesten der koreanischen Halbinsel zu einem bedeutenden Staatswesen mit Zentrum nahe dem heutigen Pjöngjang.",
       "en": "Gojoseon, the first Korean kingdom, developed into a significant polity in the northwest of the Korean Peninsula, centered near modern Pyongyang."
     }
+  },
+  {
+    "id": "scythian-dominance-steppe-700bc",
+    "coordinates": [
+      35,
+      47
+    ],
+    "year": -700,
+    "type": "political",
+    "culturalSphere": [
+      "scythian"
+    ],
+    "labels": {
+      "de": "Skythische Vorherrschaft über die eurasische Steppe",
+      "en": "Scythian Dominance over the Eurasian Steppe"
+    },
+    "description": {
+      "de": "Die Skythen, reitende Nomaden iranischer Abstammung, beherrschten im 7. Jahrhundert v. Chr. die Steppengebiete vom Schwarzen Meer bis Zentralasien. Ihre fortgeschrittene Reitertaktik und metallverarbeitende Kunst beeinflussten Kulturen von Persien bis China.",
+      "en": "The Scythians, mounted nomads of Iranian origin, dominated the steppe from the Black Sea to Central Asia in the 7th century BC. Their advanced cavalry tactics and metalworking art influenced cultures from Persia to China."
+    }
+  },
+  {
+    "id": "etruscan-peak-power-italy",
+    "coordinates": [
+      10.82,
+      43.47
+    ],
+    "year": -700,
+    "type": "political",
+    "culturalSphere": [
+      "etruscan"
+    ],
+    "labels": {
+      "de": "Höhepunkt der etruskischen Macht in Italien",
+      "en": "Peak of Etruscan Power in Italy"
+    },
+    "description": {
+      "de": "Die Etrusker beherrschten im 7. und 6. Jahrhundert v. Chr. Mittelitalien und prägten die frühe römische Zivilisation entscheidend. Ihre Stadtstaaten, ihre Kunst und ihre religiösen Praktiken beeinflussten das aufsteigende Rom in nahezu allen Lebensbereichen.",
+      "en": "The Etruscans dominated central Italy in the 7th and 6th centuries BC and profoundly shaped early Roman civilization. Their city-states, art, and religious practices influenced the rising Rome in nearly every aspect of life."
+    }
   }
 ]

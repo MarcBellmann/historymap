@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "third-century-plague",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 249,
+    "type": "natural",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Pest des Cyprian",
+      "en": "Plague of Cyprian"
+    },
+    "description": {
+      "de": "Eine verheerende Epidemie, benannt nach dem Kirchenvater Cyprian von Karthago, wütete fast 20 Jahre lang und tötete täglich Tausende im Römischen Reich. Die Seuche beschleunigte die Krise des 3. Jahrhunderts und förderte zugleich die Ausbreitung des Christentums, das die Kranken pflegte und dabei neue Anhänger gewann.",
+      "en": "A devastating epidemic, named after the Church Father Cyprian of Carthage, ravaged the Roman Empire for nearly 20 years, killing thousands daily. The plague accelerated the crisis of the third century while also promoting the spread of Christianity, which cared for the sick and gained new followers in the process."
+    }
+  }
+]

@@ -18,5 +18,26 @@
       "de": "Kujula Kadphises vereint die Yuezhi-Stämme und gründet das Kushan-Reich, das Zentralasien und Nordindien verbindet.",
       "en": "Kujula Kadphises unites the Yuezhi tribes, founding the Kushan Empire linking Central Asia with northern India."
     }
+  },
+  {
+    "id": "birth-of-christianity-jerusalem",
+    "coordinates": [
+      35.21,
+      31.77
+    ],
+    "year": 30,
+    "type": "foundation",
+    "culturalSphere": [
+      "jewish",
+      "roman"
+    ],
+    "labels": {
+      "de": "Kreuzigung Jesu und Entstehung des Christentums",
+      "en": "Crucifixion of Jesus and Rise of Christianity"
+    },
+    "description": {
+      "de": "Die Kreuzigung Jesu von Nazareth in Jerusalem und der Glaube an seine Auferstehung bildeten die Grundlage der christlichen Religion. Was als jüdische Erneuerungsbewegung begann, verbreitete sich in den folgenden Jahrhunderten über das Römische Reich und schließlich über die ganze Welt.",
+      "en": "The crucifixion of Jesus of Nazareth in Jerusalem and belief in his resurrection formed the foundation of the Christian religion. What began as a Jewish renewal movement spread across the Roman Empire in subsequent centuries and eventually throughout the world."
+    }
   }
 ]

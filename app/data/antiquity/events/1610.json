@@ -1,5 +1,25 @@
 [
   {
+    "id": "japanese-edo-period-culture",
+    "coordinates": [
+      139.69,
+      35.69
+    ],
+    "year": 1615,
+    "type": "cultural",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Edo-Periode – Japanische Kulturblüte",
+      "en": "Edo Period – Japanese Cultural Flourishing"
+    },
+    "description": {
+      "de": "Nach dem Fall der Burg Osaka 1615 und der Elimination der letzten Rivalen begann das Tokugawa-Shogunat seine vollständige Herrschaft und die Friedenszeit der Edo-Periode. In den folgenden 250 Jahren entstand eine einzigartige japanische Hochkultur mit Kabuki-Theater, Ukiyo-e-Holzschnitten und Haiku-Dichtung.",
+      "en": "After the fall of Osaka Castle in 1615 and elimination of the last rivals, the Tokugawa Shogunate began its complete rule and the peaceful Edo period. Over the following 250 years, a unique Japanese high culture emerged with Kabuki theater, Ukiyo-e woodblock prints, and Haiku poetry."
+    }
+  },
+  {
     "id": "defenestration-of-prague",
     "coordinates": [
       14.42,
@@ -17,6 +37,27 @@
     "description": {
       "de": "Protestantische böhmische Adlige warfen kaiserliche Statthalter aus dem Fenster der Prager Burg. Das Ereignis löste den Dreißigjährigen Krieg aus — den verheerendsten Konflikt in der europäischen Geschichte bis dahin.",
       "en": "Protestant Bohemian nobles threw imperial governors from the windows of Prague Castle. The event triggered the Thirty Years' War — the most devastating conflict in European history until then."
+    }
+  },
+  {
+    "id": "thirty-years-war-beginning",
+    "coordinates": [
+      14.42,
+      50.08
+    ],
+    "year": 1618,
+    "type": "political",
+    "culturalSphere": [
+      "european",
+      "habsburg"
+    ],
+    "labels": {
+      "de": "Dreißigjähriger Krieg – Beginn",
+      "en": "Thirty Years' War – Outbreak"
+    },
+    "description": {
+      "de": "Der Prager Fenstersturz 1618 löste den Dreißigjährigen Krieg aus, einen der verheerendsten Konflikte in der europäischen Geschichte. Was als Religionsstreit im Heiligen Römischen Reich begann, wurde zum gesamteuropäischen Machtkampf, der bis zu einem Drittel der deutschen Bevölkerung das Leben kostete.",
+      "en": "The Defenestration of Prague in 1618 triggered the Thirty Years' War, one of the most devastating conflicts in European history. What began as a religious dispute in the Holy Roman Empire became a pan-European power struggle that cost up to a third of Germany's population their lives."
     }
   },
   {

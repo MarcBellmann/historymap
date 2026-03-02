@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "turko-mongol-sultanate-of-mali",
+    "coordinates": [
+      -8,
+      12.5
+    ],
+    "year": 1312,
+    "type": "political",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Mansa Musa besteigt den Thron Malis",
+      "en": "Mansa Musa Ascends the Throne of Mali"
+    },
+    "description": {
+      "de": "Mansa Musa I. bestieg 1312 den Thron des Mali-Reiches und regierte bis 1337 eines der wohlhabendsten Reiche der Welt. Als einer der reichsten Menschen in der Geschichte kontrollierte er immense Goldvorkommen und demonstrierte Malis Macht durch seine legendäre Pilgerfahrt nach Mekka.",
+      "en": "Mansa Musa I ascended the throne of the Mali Empire in 1312 and ruled one of the wealthiest empires in the world until 1337. As one of the richest people in history, he controlled immense gold resources and demonstrated Mali's power through his legendary pilgrimage to Mecca."
+    }
+  }
+]

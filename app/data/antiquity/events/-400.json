@@ -18,5 +18,25 @@
       "de": "Die olmekische Zivilisation, Mutter der mesoamerikanischen Kulturen, geht im Gebiet von La Venta unter.",
       "en": "The Olmec civilization, mother culture of Mesoamerica, declines in the La Venta region."
     }
+  },
+  {
+    "id": "death-of-socrates-399bc",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": -399,
+    "type": "cultural",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Tod des Sokrates",
+      "en": "Death of Socrates"
+    },
+    "description": {
+      "de": "Sokrates wurde in Athen wegen Gottlosigkeit und Verderbung der Jugend zum Tode verurteilt und trank den Schierlingsbecher. Sein Tod und die Aufzeichnungen seines Schülers Platon begründeten die westliche Philosophie als intellektuelle Disziplin.",
+      "en": "Socrates was condemned to death in Athens for impiety and corrupting the youth and drank hemlock. His death and the writings of his student Plato established Western philosophy as an intellectual discipline."
+    }
   }
 ]

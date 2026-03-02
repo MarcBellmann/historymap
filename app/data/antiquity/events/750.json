@@ -22,6 +22,49 @@
     }
   },
   {
+    "id": "pala-dynasty-founded",
+    "coordinates": [
+      88.37,
+      22.57
+    ],
+    "year": 750,
+    "type": "foundation",
+    "culturalSphere": [
+      "indian",
+      "bengali",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Gründung der Pala-Dynastie",
+      "en": "Founding of the Pala Dynasty"
+    },
+    "description": {
+      "de": "Gopala wird zum König gewählt und begründet die Pala-Dynastie in Bengalen — der letzten großen buddhistischen Herrscher-Dynastie Indiens. Die Palas förderten die Universitäten von Nalanda und Vikramashila und verbreiteten den Mahayana-Buddhismus nach Tibet.",
+      "en": "Gopala is elected king and establishes the Pala dynasty in Bengal — the last great Buddhist ruling dynasty of India. The Palas patronized the universities of Nalanda and Vikramashila and spread Mahayana Buddhism to Tibet."
+    }
+  },
+  {
+    "id": "khazar-khaganate-peak",
+    "coordinates": [
+      47.5,
+      43
+    ],
+    "year": 750,
+    "type": "political",
+    "culturalSphere": [
+      "khazar",
+      "central-asian"
+    ],
+    "labels": {
+      "de": "Höhepunkt des Chasarenreichs",
+      "en": "Peak of the Khazar Khaganate"
+    },
+    "description": {
+      "de": "Das Chasarenreich zwischen Kaukasus und Wolga kontrolliert wichtige Handelsrouten und nimmt als einziges großes Herrscherhaus das Judentum als Staatsreligion an. Als Puffer zwischen islamischer Expansion und osteuropäischen Völkern spielten die Chasaren eine entscheidende geopolitische Rolle.",
+      "en": "The Khazar Khaganate between the Caucasus and Volga controls key trade routes and adopts Judaism as state religion — the only major ruling house to do so. As a buffer between Islamic expansion and East European peoples, the Khazars played a crucial geopolitical role."
+    }
+  },
+  {
     "id": "battle-of-talas",
     "coordinates": [
       71.234,
@@ -44,6 +87,69 @@
     }
   },
   {
+    "id": "spread-of-papermaking-islamic-world",
+    "coordinates": [
+      66.98,
+      39.64
+    ],
+    "year": 751,
+    "type": "cultural",
+    "culturalSphere": [
+      "islamic",
+      "chinese",
+      "abbasid"
+    ],
+    "labels": {
+      "de": "Ausbreitung der Papierherstellung in der islamischen Welt",
+      "en": "Spread of Papermaking to the Islamic World"
+    },
+    "description": {
+      "de": "Nach der Gefangennahme chinesischer Handwerker bei der Schlacht am Talas-Fluss verbreitet sich die Papierherstellungstechnik über Samarkand in die islamische Welt. In wenigen Jahrhunderten ersetzt Papier Papyrus und Pergament und ermöglicht eine Explosion des Wissens.",
+      "en": "Following the capture of Chinese craftsmen at the Battle of the Talas River, papermaking technology spreads through Samarkand into the Islamic world. Within a few centuries, paper replaces papyrus and parchment, enabling an explosion of knowledge."
+    }
+  },
+  {
+    "id": "nara-buddhist-culture",
+    "coordinates": [
+      135.83,
+      34.69
+    ],
+    "year": 752,
+    "type": "cultural",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Weihe des Tōdai-ji und Nara-Buddhismus",
+      "en": "Consecration of Tōdai-ji and Nara Buddhism"
+    },
+    "description": {
+      "de": "Kaiser Shōmu weiht den riesigen Tōdai-ji-Tempel in Nara mit dem 15 Meter hohen Buddha-Standbild Daibutsu ein. Das Nara-Zeitalter verankerte den Buddhismus als Staatsreligion Japans und prägte seine Kunst, Architektur und Literatur grundlegend.",
+      "en": "Emperor Shōmu consecrates the enormous Tōdai-ji temple in Nara with the 15-meter Daibutsu Buddha statue. The Nara period established Buddhism as Japan's state religion and fundamentally shaped its art, architecture, and literature."
+    }
+  },
+  {
+    "id": "rise-of-rashtrakuta",
+    "coordinates": [
+      76.82,
+      17.38
+    ],
+    "year": 753,
+    "type": "political",
+    "culturalSphere": [
+      "indian",
+      "deccan"
+    ],
+    "labels": {
+      "de": "Aufstieg der Rashtrakuta-Dynastie",
+      "en": "Rise of the Rashtrakuta Dynasty"
+    },
+    "description": {
+      "de": "Dantidurga besiegt das Chalukya-Reich und gründet die Rashtrakuta-Dynastie im Dekkan. Die Rashtrakutas wurden zu einem der mächtigsten Reiche Indiens und kontrollierten Handelsrouten vom Arabischen Meer bis zum Ganges.",
+      "en": "Dantidurga defeats the Chalukya Empire and founds the Rashtrakuta dynasty in the Deccan. The Rashtrakutas became one of the most powerful empires in India, controlling trade routes from the Arabian Sea to the Ganges."
+    }
+  },
+  {
     "id": "an-lushan-rebellion",
     "coordinates": [
       108.94,
@@ -61,6 +167,27 @@
     "description": {
       "de": "General An Lushan erhob sich gegen die Tang-Dynastie und löste einen verheerenden Bürgerkrieg aus (755–763), der Millionen Tote forderte und den Niedergang der Tang einleitete.",
       "en": "General An Lushan rose against the Tang dynasty and sparked a devastating civil war (755–763) that killed millions and initiated the decline of the Tang."
+    }
+  },
+  {
+    "id": "an-lushan-rebellion-effects",
+    "coordinates": [
+      116.39,
+      39.93
+    ],
+    "year": 755,
+    "type": "political",
+    "culturalSphere": [
+      "chinese",
+      "tang"
+    ],
+    "labels": {
+      "de": "An-Lushan-Rebellion",
+      "en": "An Lushan Rebellion"
+    },
+    "description": {
+      "de": "General An Lushans Aufstand gegen die Tang-Dynastie führt zu einer der verheerendsten Bürgerkriege der chinesischen Geschichte mit Millionen Toten. Die Tang erholen sich nie vollständig — das Gleichgewicht verlagert sich zum Süden, und die Gunst des Nordens wird nie wiederhergestellt.",
+      "en": "General An Lushan's revolt against the Tang dynasty leads to one of the most devastating civil wars in Chinese history, with millions of casualties. The Tang never fully recover — the economic balance shifts southward and the empire's cohesion is permanently weakened."
     }
   }
 ]

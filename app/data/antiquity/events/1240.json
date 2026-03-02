@@ -1,5 +1,26 @@
 [
   {
+    "id": "mongol-yoke-russia-begins",
+    "coordinates": [
+      37.62,
+      55.75
+    ],
+    "year": 1240,
+    "type": "political",
+    "culturalSphere": [
+      "mongol",
+      "russian"
+    ],
+    "labels": {
+      "de": "Mongolen zerstören Kiew – Beginn des Tatarenjochs",
+      "en": "Mongols Destroy Kyiv – Beginning of the Tatar Yoke"
+    },
+    "description": {
+      "de": "Die mongolische Zerstörung Kiews 1240 beendete die Kiewer Rus und leitete das sogenannte Tatarenjoch ein – eine Periode der mongolischen Oberherrschaft über russische Fürstentümer, die bis 1480 andauerte. Das Trauma prägte das russische Selbstbild und Verhältnis zur Außenwelt tief.",
+      "en": "The Mongol destruction of Kyiv in 1240 ended the Kievan Rus and initiated the so-called Tatar Yoke – a period of Mongol suzerainty over Russian principalities lasting until 1480. The trauma deeply shaped the Russian self-image and relationship with the outside world."
+    }
+  },
+  {
     "id": "battle-of-legnica",
     "coordinates": [
       16.16,
@@ -18,6 +39,68 @@
     "description": {
       "de": "Die Mongolen unter Baidar besiegten ein polnisch-deutsches Ritterheer bei Liegnitz. Der Mongolensturm verwüstete Osteuropa, doch die Mongolen zogen sich bald darauf zurück.",
       "en": "The Mongols under Baidar defeated a Polish-German knightly army at Legnica. The Mongol invasion devastated Eastern Europe, though the Mongols soon withdrew."
+    }
+  },
+  {
+    "id": "battle-of-mohi",
+    "coordinates": [
+      21.17,
+      48.03
+    ],
+    "year": 1241,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "hungarian"
+    ],
+    "labels": {
+      "de": "Schlacht auf dem Sajó – Mongolensturm auf Ungarn",
+      "en": "Battle of Mohi – Mongol Invasion of Hungary"
+    },
+    "description": {
+      "de": "Die Mongolen unter Batu Khan und Subutai vernichteten das ungarische Heer am Sajófluss vollständig und brannten danach großflächig ungarische Städte nieder. Mitteleuropa stand kurzzeitig am Rande einer Mongolenherrschaft, bevor der Tod Ögedei Khans den Rückzug erzwang.",
+      "en": "The Mongols under Batu Khan and Subutai annihilated the Hungarian army at the Sajó River and subsequently burned Hungarian cities on a large scale. Central Europe briefly stood on the brink of Mongol rule before the death of Ögedei Khan forced their withdrawal."
+    }
+  },
+  {
+    "id": "mongol-invasion-of-poland",
+    "coordinates": [
+      16.92,
+      51.1
+    ],
+    "year": 1241,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "polish"
+    ],
+    "labels": {
+      "de": "Mongolischer Einfall in Polen – Wahlstatt",
+      "en": "Mongol Invasion of Poland – Battle of Legnica"
+    },
+    "description": {
+      "de": "Die Mongolen besiegten ein polnisch-deutsches Heer bei Legnica (Wahlstatt) und demonstrierten damit ihre militärische Überlegenheit über europäische Ritter. Nur der Tod Ögedei Khans verhinderte eine vollständige Mongoleneroberung Mitteleuropas.",
+      "en": "The Mongols defeated a Polish-German army at Legnica, demonstrating their military superiority over European knights. Only the death of Ögedei Khan prevented a complete Mongol conquest of Central Europe."
+    }
+  },
+  {
+    "id": "golden-horde-founding",
+    "coordinates": [
+      47,
+      48.5
+    ],
+    "year": 1242,
+    "type": "foundation",
+    "culturalSphere": [
+      "mongol"
+    ],
+    "labels": {
+      "de": "Gründung der Goldenen Horde",
+      "en": "Founding of the Golden Horde"
+    },
+    "description": {
+      "de": "Batu Khan gründete die Goldene Horde als Khanat über die Steppen Russlands und Osteuropas, nachdem seine Armeen Russland, Polen und Ungarn verwüstet hatten. Das Khanat herrschte über zweeinhalb Jahrhunderte über die russischen Fürstentümer und prägte die russische Geschichte nachhaltig.",
+      "en": "Batu Khan founded the Golden Horde as a khanate over the steppes of Russia and Eastern Europe after his armies had devastated Russia, Poland, and Hungary. The khanate ruled over the Russian principalities for two and a half centuries and left a lasting mark on Russian history."
     }
   }
 ]

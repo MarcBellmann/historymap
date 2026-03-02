@@ -20,6 +20,28 @@
     }
   },
   {
+    "id": "battle-of-nicopolis-1396",
+    "coordinates": [
+      24.9,
+      43.7
+    ],
+    "year": 1396,
+    "type": "battle",
+    "culturalSphere": [
+      "ottoman",
+      "crusader",
+      "european"
+    ],
+    "labels": {
+      "de": "Osmanische Niederschlagung des letzten Kreuzzugs – Nikopolis",
+      "en": "Battle of Nicopolis – Ottoman Defeat of the Last Crusade"
+    },
+    "description": {
+      "de": "Sultan Bayezid I. besiegte bei Nikopolis am Donau ein europäisches Kreuzritterheer aus Franzosen, Ungarn, Deutschen und anderen Nationen vernichtend. Die Niederlage beendete den letzten großen Kreuzzug und sicherte die osmanische Vorherrschaft auf dem Balkan für weitere Generationen.",
+      "en": "Sultan Bayezid I decisively defeated a European crusader army of French, Hungarians, Germans, and others at Nicopolis on the Danube. The defeat ended the last great crusade and secured Ottoman supremacy in the Balkans for further generations."
+    }
+  },
+  {
     "id": "timur-sacks-delhi",
     "coordinates": [
       77.23,
@@ -37,6 +59,27 @@
     "description": {
       "de": "Timur Lenk plündert Delhi und richtet ein Massaker an, das das Sultanat von Delhi nachhaltig schwächt.",
       "en": "Timur sacks Delhi and massacres its inhabitants, fatally weakening the Delhi Sultanate."
+    }
+  },
+  {
+    "id": "timur-invasion-india-1398",
+    "coordinates": [
+      77.22,
+      28.63
+    ],
+    "year": 1398,
+    "type": "battle",
+    "culturalSphere": [
+      "timurid",
+      "indian"
+    ],
+    "labels": {
+      "de": "Timur überfällt das Delhi-Sultanat",
+      "en": "Timur Invades the Delhi Sultanate"
+    },
+    "description": {
+      "de": "Timur Lenk führte 1398 eine verheerende Invasion Indiens durch, plünderte Delhi und ließ ein Massaker an der Bevölkerung anrichten. Der Angriff schwächte das Delhi-Sultanat dauerhaft und ebnete den Weg für den späteren Aufstieg der Moguln.",
+      "en": "Timur Lenk carried out a devastating invasion of India in 1398, sacking Delhi and massacring its population. The attack permanently weakened the Delhi Sultanate and paved the way for the later rise of the Mughals."
     }
   }
 ]

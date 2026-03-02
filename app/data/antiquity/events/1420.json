@@ -1,23 +1,22 @@
 [
   {
-    "id": "siege-of-orleans",
+    "id": "forbidden-city-completed",
     "coordinates": [
-      1.9,
-      47.9
+      116.39,
+      39.92
     ],
-    "year": 1429,
-    "type": "battle",
+    "year": 1420,
+    "type": "cultural",
     "culturalSphere": [
-      "french",
-      "english"
+      "chinese"
     ],
     "labels": {
-      "de": "Befreiung von Orléans",
-      "en": "Siege of Orléans"
+      "de": "Vollendung der Verbotenen Stadt in Peking",
+      "en": "Completion of the Forbidden City in Beijing"
     },
     "description": {
-      "de": "Jeanne d'Arc führte die französischen Truppen zur Befreiung von Orléans von der englischen Belagerung. Der Sieg war der Wendepunkt des Hundertjährigen Krieges zugunsten Frankreichs.",
-      "en": "Joan of Arc led French troops to lift the English siege of Orléans. The victory was the turning point of the Hundred Years' War in France's favor."
+      "de": "Nach fast 15 Jahren Bauzeit wurde die Verbotene Stadt 1420 fertiggestellt – ein Palastkomplex mit fast 1.000 Gebäuden und Wohnort der chinesischen Kaiser bis 1912. Das Ensemble verkörpert die Kosmologie und Hierarchie der chinesischen Kaiserherrschaft und ist heute das größte erhaltene Palastgebäude der Welt.",
+      "en": "After nearly 15 years of construction, the Forbidden City was completed in 1420 – a palace complex with nearly 1,000 buildings and home to Chinese emperors until 1912. The ensemble embodies the cosmology and hierarchy of Chinese imperial rule and is today the world's largest surviving palace complex."
     }
   },
   {
@@ -38,6 +37,26 @@
     "description": {
       "de": "Der Yongle-Kaiser verlegte die Hauptstadt der Ming-Dynastie von Nanjing nach Peking und ließ die Verbotene Stadt als neuen Kaiserpalast errichten.",
       "en": "The Yongle Emperor moved the Ming dynasty capital from Nanjing to Beijing and had the Forbidden City built as the new imperial palace."
+    }
+  },
+  {
+    "id": "ming-moves-capital-beijing",
+    "coordinates": [
+      116.39,
+      39.93
+    ],
+    "year": 1421,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Ming-Kaiser verlegt Hauptstadt nach Peking",
+      "en": "Ming Emperor Moves Capital to Beijing"
+    },
+    "description": {
+      "de": "Der Yongle-Kaiser verlegte 1421 die Hauptstadt der Ming-Dynastie von Nanjing nach Peking und vollendete damit den Bau der Verbotenen Stadt. Peking blieb bis heute Chinas Hauptstadt und symbolisiert die nach Norden ausgerichtete Machtpolitik der frühen Ming.",
+      "en": "The Yongle Emperor moved the Ming dynasty capital from Nanjing to Beijing in 1421, completing the construction of the Forbidden City. Beijing has remained China's capital to this day and symbolizes the northward-oriented power politics of the early Ming."
     }
   },
   {
@@ -78,6 +97,27 @@
     "description": {
       "de": "Tenochtitlan, Texcoco und Tlacopan bilden den Dreibund und beginnen die systematische Expansion des Azteken-Reiches.",
       "en": "Tenochtitlan, Texcoco, and Tlacopan form the Triple Alliance, beginning the systematic expansion of the Aztec Empire."
+    }
+  },
+  {
+    "id": "siege-of-orleans",
+    "coordinates": [
+      1.9,
+      47.9
+    ],
+    "year": 1429,
+    "type": "battle",
+    "culturalSphere": [
+      "french",
+      "english"
+    ],
+    "labels": {
+      "de": "Befreiung von Orléans",
+      "en": "Siege of Orléans"
+    },
+    "description": {
+      "de": "Jeanne d'Arc führte die französischen Truppen zur Befreiung von Orléans von der englischen Belagerung. Der Sieg war der Wendepunkt des Hundertjährigen Krieges zugunsten Frankreichs.",
+      "en": "Joan of Arc led French troops to lift the English siege of Orléans. The victory was the turning point of the Hundred Years' War in France's favor."
     }
   }
 ]

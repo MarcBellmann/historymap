@@ -39,5 +39,25 @@
       "de": "Die Mongolen unter Dschingis Khan eroberten und plünderten Zhongdu, die Hauptstadt der Jurchen-Jin-Dynastie. Die Stadt wurde weitgehend zerstört.",
       "en": "The Mongols under Genghis Khan captured and sacked Zhongdu, the capital of the Jurchen Jin dynasty. The city was largely destroyed."
     }
+  },
+  {
+    "id": "fourth-lateran-council",
+    "coordinates": [
+      12.49,
+      41.9
+    ],
+    "year": 1215,
+    "type": "political",
+    "culturalSphere": [
+      "roman-catholic"
+    ],
+    "labels": {
+      "de": "Viertes Laterankonzil",
+      "en": "Fourth Lateran Council"
+    },
+    "description": {
+      "de": "Das Vierte Laterankonzil unter Papst Innozenz III. erließ rund 70 Kanones, die das kirchliche Leben, die Sakramente und das Verhältnis zu Juden und Häretikern regelten. Die Kirchenreform stärkte die päpstliche Autorität und prägte das mittelalterliche Christentum tiefgreifend.",
+      "en": "The Fourth Lateran Council under Pope Innocent III issued around 70 canons regulating church life, the sacraments, and relations with Jews and heretics. The church reform strengthened papal authority and profoundly shaped medieval Christianity."
+    }
   }
 ]

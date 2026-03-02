@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "nubian-kingdom-napata-expansion",
+    "coordinates": [
+      31.83,
+      18.53
+    ],
+    "year": -900,
+    "type": "political",
+    "culturalSphere": [
+      "nubian"
+    ],
+    "labels": {
+      "de": "Aufstieg des Königreichs Kush in Napata",
+      "en": "Rise of the Kingdom of Kush at Napata"
+    },
+    "description": {
+      "de": "Nach dem Rückzug der Ägypter aus Nubien entwickelte sich das Königreich Kush mit der Hauptstadt Napata zu einer eigenständigen Großmacht. Die Kushiten bewahrten und pflegten ägyptische Kultur, Sprache und Religion, während sie eine eigene nubische Identität entwickelten.",
+      "en": "After Egyptian withdrawal from Nubia, the Kingdom of Kush with its capital at Napata emerged as an independent great power. The Kushites preserved and cultivated Egyptian culture, language, and religion while developing a distinct Nubian identity."
+    }
+  }
+]

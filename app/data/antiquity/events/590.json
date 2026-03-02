@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "pope-gregory-missions",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 596,
+    "type": "cultural",
+    "culturalSphere": [
+      "christian",
+      "roman"
+    ],
+    "labels": {
+      "de": "Gregor der Große – Augustinische Mission nach England",
+      "en": "Gregory the Great – Augustinian Mission to England"
+    },
+    "description": {
+      "de": "Papst Gregor I. sendet Augustinus von Canterbury nach England, um die heidnischen Angelsachsen zu christianisieren. Diese Mission prägte die englische Kirchenkultur grundlegend und stärkte den päpstlichen Einfluss weit über das ehemalige Weströmische Reich hinaus.",
+      "en": "Pope Gregory I sends Augustine of Canterbury to England to Christianize the pagan Anglo-Saxons. This mission profoundly shaped English church culture and extended papal influence far beyond the former Western Roman Empire."
+    }
+  }
+]

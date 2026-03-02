@@ -1,5 +1,26 @@
 [
   {
+    "id": "boudica-revolt-britain",
+    "coordinates": [
+      0.9,
+      52.6
+    ],
+    "year": 60,
+    "type": "battle",
+    "culturalSphere": [
+      "celtic",
+      "roman"
+    ],
+    "labels": {
+      "de": "Boudicas Aufstand gegen Rom",
+      "en": "Boudica's Revolt Against Rome"
+    },
+    "description": {
+      "de": "Königin Boudica der Icener führte einen der größten Aufstände gegen die römische Herrschaft in Britannien an, zerstörte Colchester, London und Verulamium (St. Albans) und soll Hunderttausende getötet haben. Obwohl Rom den Aufstand letztlich niederschlug, zeigte er die tiefe Ressentiments gegen die koloniale Ausbeutung.",
+      "en": "Queen Boudica of the Iceni led one of the greatest revolts against Roman rule in Britain, destroying Colchester, London, and Verulamium (St. Albans) and reportedly killing hundreds of thousands. Though Rome ultimately suppressed the revolt, it revealed deep resentment of colonial exploitation."
+    }
+  },
+  {
     "id": "jewish-revolt-66ad",
     "coordinates": [
       35.232,

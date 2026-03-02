@@ -18,5 +18,47 @@
       "de": "Die Stadt Tiwanaku am Titicacasee erreicht ihren Höhepunkt als religiöses und politisches Zentrum der Anden.",
       "en": "The city of Tiwanaku on Lake Titicaca reaches its peak as a religious and political center of the Andes."
     }
+  },
+  {
+    "id": "ghana-empire-trans-saharan-trade",
+    "coordinates": [
+      -9.16,
+      15.55
+    ],
+    "year": 700,
+    "type": "cultural",
+    "culturalSphere": [
+      "west-african",
+      "soninke"
+    ],
+    "labels": {
+      "de": "Ghana-Reich und transsaharischer Handel",
+      "en": "Ghana Empire and Trans-Saharan Trade"
+    },
+    "description": {
+      "de": "Das Ghana-Reich in Westafrika (Wagadou) kontrolliert die Goldrouten durch die Sahara und vermittelt zwischen den Goldminen des Südens und den arabischen Händlern des Nordens. Diese Handelsströme machten Ghana zum wohlhabendsten Reich in Westafrika.",
+      "en": "The Ghana Empire in West Africa (Wagadou) controls the gold routes through the Sahara, mediating between the gold mines of the south and Arab merchants of the north. These trade flows made Ghana the wealthiest empire in West Africa."
+    }
+  },
+  {
+    "id": "maya-classic-period-culture",
+    "coordinates": [
+      -89.62,
+      17.25
+    ],
+    "year": 700,
+    "type": "cultural",
+    "culturalSphere": [
+      "maya",
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Blütezeit der Klassischen Maya-Zivilisation",
+      "en": "Classic Maya Civilization at its Peak"
+    },
+    "description": {
+      "de": "Im frühen 8. Jahrhundert erreicht die Maya-Zivilisation ihre höchste Entwicklung in Städten wie Tikal, Copán, Palenque und Calakmul. Astronomie, Mathematik, Schrift und Architektur erreichen ein Niveau, das in der Neuen Welt unerreicht bleibt.",
+      "en": "In the early 8th century, Maya civilization reaches its highest development in cities like Tikal, Copan, Palenque, and Calakmul. Astronomy, mathematics, writing, and architecture reach a level unmatched in the New World."
+    }
   }
 ]

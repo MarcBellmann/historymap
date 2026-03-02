@@ -1,25 +1,5 @@
 [
   {
-    "id": "battle-of-lechfeld",
-    "coordinates": [
-      10.89,
-      48.37
-    ],
-    "year": 955,
-    "type": "battle",
-    "culturalSphere": [
-      "germanic"
-    ],
-    "labels": {
-      "de": "Schlacht auf dem Lechfeld",
-      "en": "Battle of Lechfeld"
-    },
-    "description": {
-      "de": "König Otto I. besiegte die Magyaren in der Schlacht auf dem Lechfeld bei Augsburg entscheidend. Der Sieg beendete die ungarischen Raubzüge in Mitteleuropa und festigte das ostfränkische Reich.",
-      "en": "King Otto I decisively defeated the Magyars at the Battle of Lechfeld near Augsburg. The victory ended Hungarian raids into Central Europe and consolidated the East Frankish kingdom."
-    }
-  },
-  {
     "id": "toltec-rise",
     "coordinates": [
       -99.23,
@@ -37,6 +17,26 @@
     "description": {
       "de": "Die Tolteken errichten in Tula ein mächtiges Reich, das zur kulturellen Referenz für spätere mesoamerikanische Zivilisationen wird.",
       "en": "The Toltecs establish a powerful state at Tula, becoming the cultural reference for later Mesoamerican civilizations."
+    }
+  },
+  {
+    "id": "battle-of-lechfeld",
+    "coordinates": [
+      10.89,
+      48.37
+    ],
+    "year": 955,
+    "type": "battle",
+    "culturalSphere": [
+      "germanic"
+    ],
+    "labels": {
+      "de": "Schlacht auf dem Lechfeld",
+      "en": "Battle of Lechfeld"
+    },
+    "description": {
+      "de": "König Otto I. besiegte die Magyaren in der Schlacht auf dem Lechfeld bei Augsburg entscheidend. Der Sieg beendete die ungarischen Raubzüge in Mitteleuropa und festigte das ostfränkische Reich.",
+      "en": "King Otto I decisively defeated the Magyars at the Battle of Lechfeld near Augsburg. The victory ended Hungarian raids into Central Europe and consolidated the East Frankish kingdom."
     }
   }
 ]

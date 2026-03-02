@@ -21,26 +21,6 @@
     }
   },
   {
-    "id": "glorious-revolution",
-    "coordinates": [
-      -0.13,
-      51.5
-    ],
-    "year": 1688,
-    "type": "political",
-    "culturalSphere": [
-      "english"
-    ],
-    "labels": {
-      "de": "Glorreiche Revolution",
-      "en": "Glorious Revolution"
-    },
-    "description": {
-      "de": "Wilhelm von Oranien verdrängte König Jakob II. und bestieg den englischen Thron. Die Glorreiche Revolution etablierte die parlamentarische Monarchie und die Bill of Rights.",
-      "en": "William of Orange deposed King James II and ascended to the English throne. The Glorious Revolution established parliamentary monarchy and the Bill of Rights."
-    }
-  },
-  {
     "id": "qing-conquest-taiwan",
     "coordinates": [
       119.51,
@@ -62,24 +42,45 @@
     }
   },
   {
-    "id": "kangxi-treaty-nerchinsk",
+    "id": "ottoman-second-siege-vienna",
     "coordinates": [
-      116.4,
-      39.9
+      16.37,
+      48.21
     ],
-    "year": 1689,
-    "type": "political",
+    "year": 1683,
+    "type": "battle",
     "culturalSphere": [
-      "chinese",
-      "manchu"
+      "ottoman",
+      "habsburg",
+      "polish"
     ],
     "labels": {
-      "de": "Vertrag von Nertschinsk",
-      "en": "Treaty of Nerchinsk"
+      "de": "Zweite Türkenbelagerung Wiens – Wendepunkt in Europa",
+      "en": "Second Ottoman Siege of Vienna – European Turning Point"
     },
     "description": {
-      "de": "Der Vertrag von Nertschinsk zwischen Qing-China und Russland war der erste formelle Vertrag zwischen China und einer europäischen Macht und legte die Grenzen in der Mandschurei fest.",
-      "en": "The Treaty of Nerchinsk between Qing China and Russia was the first formal treaty between China and a European power, establishing borders in Manchuria."
+      "de": "Das osmanische Heer unter Kara Mustafa Pascha belagerte 1683 Wien, doch das Entsatzheer unter König Johann III. Sobieski von Polen trieb die Osmanen in die Flucht. Die Niederlage markierte den Beginn des osmanischen Rückzugs aus Mitteleuropa und den Aufstieg Österreichs zur Großmacht.",
+      "en": "The Ottoman army under Kara Mustafa Pasha besieged Vienna in 1683, but the relief force under King John III Sobieski of Poland routed the Ottomans. The defeat marked the beginning of Ottoman retreat from Central Europe and Austria's rise as a major power."
+    }
+  },
+  {
+    "id": "edict-of-nantes-revocation",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "year": 1685,
+    "type": "political",
+    "culturalSphere": [
+      "french"
+    ],
+    "labels": {
+      "de": "Widerruf des Edikts von Nantes",
+      "en": "Revocation of the Edict of Nantes"
+    },
+    "description": {
+      "de": "Ludwig XIV. widerrief 1685 das Edikt von Nantes, das den Hugenotten religiöse Toleranz garantiert hatte. Etwa 400.000 Protestanten flohen aus Frankreich, was dem Land wichtige Handwerker, Kaufleute und Intellektuelle entzog und die protestantischen Staaten Europas stärkte.",
+      "en": "Louis XIV revoked the Edict of Nantes in 1685, which had guaranteed religious tolerance to the Huguenots. About 400,000 Protestants fled France, depriving the country of skilled craftsmen, merchants, and intellectuals while strengthening Protestant states across Europe."
     }
   },
   {
@@ -100,6 +101,68 @@
     "description": {
       "de": "Mogulkaiser Aurangzeb erobert die Dekkan-Sultanate Bijapur und Golkonda, doch der jahrzehntelange Krieg gegen die Marathen erschöpft das Reich.",
       "en": "Mughal emperor Aurangzeb conquers the Deccan sultanates of Bijapur and Golkonda, but decades of war against the Marathas exhaust the empire."
+    }
+  },
+  {
+    "id": "newton-principia-mathematica",
+    "coordinates": [
+      -0.12,
+      51.51
+    ],
+    "year": 1687,
+    "type": "cultural",
+    "culturalSphere": [
+      "english",
+      "european"
+    ],
+    "labels": {
+      "de": "Newtons Principia Mathematica",
+      "en": "Newton's Principia Mathematica"
+    },
+    "description": {
+      "de": "Isaac Newton veröffentlichte 1687 die 'Philosophiae Naturalis Principia Mathematica' und formulierte darin die drei Bewegungsgesetze sowie das Gravitationsgesetz. Dieses Werk vollendete die Wissenschaftliche Revolution und begründete die klassische Mechanik als Grundlage der modernen Physik.",
+      "en": "Isaac Newton published the 'Philosophiae Naturalis Principia Mathematica' in 1687, formulating the three laws of motion and the law of universal gravitation. This work completed the Scientific Revolution and established classical mechanics as the foundation of modern physics."
+    }
+  },
+  {
+    "id": "glorious-revolution",
+    "coordinates": [
+      -0.13,
+      51.5
+    ],
+    "year": 1688,
+    "type": "political",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Glorreiche Revolution",
+      "en": "Glorious Revolution"
+    },
+    "description": {
+      "de": "Wilhelm von Oranien verdrängte König Jakob II. und bestieg den englischen Thron. Die Glorreiche Revolution etablierte die parlamentarische Monarchie und die Bill of Rights.",
+      "en": "William of Orange deposed King James II and ascended to the English throne. The Glorious Revolution established parliamentary monarchy and the Bill of Rights."
+    }
+  },
+  {
+    "id": "kangxi-treaty-nerchinsk",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "year": 1689,
+    "type": "political",
+    "culturalSphere": [
+      "chinese",
+      "manchu"
+    ],
+    "labels": {
+      "de": "Vertrag von Nertschinsk",
+      "en": "Treaty of Nerchinsk"
+    },
+    "description": {
+      "de": "Der Vertrag von Nertschinsk zwischen Qing-China und Russland war der erste formelle Vertrag zwischen China und einer europäischen Macht und legte die Grenzen in der Mandschurei fest.",
+      "en": "The Treaty of Nerchinsk between Qing China and Russia was the first formal treaty between China and a European power, establishing borders in Manchuria."
     }
   }
 ]

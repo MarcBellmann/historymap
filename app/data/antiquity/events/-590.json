@@ -1,5 +1,25 @@
 [
   {
+    "id": "meroe-becomes-capital",
+    "coordinates": [
+      33.75,
+      16.94
+    ],
+    "year": -590,
+    "type": "political",
+    "culturalSphere": [
+      "east-african"
+    ],
+    "labels": {
+      "de": "Meroë wird Hauptstadt von Kusch",
+      "en": "Meroë Becomes Capital of Kush"
+    },
+    "description": {
+      "de": "Nach dem Rückzug aus Ägypten verlegen die kuschitischen Könige ihre Hauptstadt südwärts nach Meroë am Nil.",
+      "en": "After retreating from Egypt, the Kushite kings move their capital south to Meroë on the Nile."
+    }
+  },
+  {
     "id": "destruction-of-jerusalem-586bc",
     "coordinates": [
       35.235,
@@ -21,23 +41,23 @@
     }
   },
   {
-    "id": "meroe-becomes-capital",
+    "id": "thales-ionian-philosophy-585bc",
     "coordinates": [
-      33.75,
-      16.94
+      27.32,
+      37.47
     ],
-    "year": -590,
-    "type": "political",
+    "year": -585,
+    "type": "cultural",
     "culturalSphere": [
-      "east-african"
+      "greek"
     ],
     "labels": {
-      "de": "Meroë wird Hauptstadt von Kusch",
-      "en": "Meroë Becomes Capital of Kush"
+      "de": "Thales und die Geburt der Naturphilosophie",
+      "en": "Thales and the Birth of Natural Philosophy"
     },
     "description": {
-      "de": "Nach dem Rückzug aus Ägypten verlegen die kuschitischen Könige ihre Hauptstadt südwärts nach Meroë am Nil.",
-      "en": "After retreating from Egypt, the Kushite kings move their capital south to Meroë on the Nile."
+      "de": "Der Ionische Philosoph Thales von Milet versuchte erstmals, die Welt durch rationale Prinzipien statt durch Mythologie zu erklären, und prophezeite eine Sonnenfinsternis. Er gilt als Begründer der westlichen Philosophie und Naturwissenschaft.",
+      "en": "The Ionian philosopher Thales of Miletus first attempted to explain the world through rational principles rather than mythology, famously predicting a solar eclipse. He is regarded as the founder of Western philosophy and natural science."
     }
   }
 ]

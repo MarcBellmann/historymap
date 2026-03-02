@@ -42,6 +42,27 @@
     }
   },
   {
+    "id": "persian-burning-athens-480bc",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": -480,
+    "type": "battle",
+    "culturalSphere": [
+      "persian",
+      "greek"
+    ],
+    "labels": {
+      "de": "Persische Verbrennung Athens",
+      "en": "Persian Burning of Athens"
+    },
+    "description": {
+      "de": "Xerxes' persisches Heer besetzte das verlassene Athen und zerstörte die Akropolis mit dem Hekatompedon und den Tempelanlagen. Die Griechen hatten die Stadt evakuiert — der anschließende Seesieg bei Salamis machte diesen Pyrrhussieg bedeutungslos.",
+      "en": "Xerxes' Persian army occupied the evacuated Athens and destroyed the Acropolis with the Hekatompedon and its temple complexes. The Greeks had evacuated the city — the subsequent naval victory at Salamis rendered this Persian success meaningless."
+    }
+  },
+  {
     "id": "battle-of-plataea",
     "coordinates": [
       23.27,
@@ -60,6 +81,46 @@
     "description": {
       "de": "Ein vereintes griechisches Heer besiegte die verbliebene persische Armee unter Mardonios bei Platää. Der Sieg beendete endgültig die persische Invasion Griechenlands.",
       "en": "A united Greek army defeated the remaining Persian force under Mardonius at Plataea. The victory definitively ended the Persian invasion of Greece."
+    }
+  },
+  {
+    "id": "hundred-schools-of-thought-china",
+    "coordinates": [
+      114.31,
+      30.58
+    ],
+    "year": -479,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Hundert Schulen des Denkens — chinesische Philosophieblüte",
+      "en": "Hundred Schools of Thought — Chinese Philosophical Flourishing"
+    },
+    "description": {
+      "de": "In der Zeit der Streitenden Reiche entfaltete sich in China eine außerordentliche intellektuelle Vielfalt: Konfuzianismus, Taoismus, Legalismus und viele andere Denkschulen boten rivalisierende Antworten auf politische und ethische Fragen. Diese Blütezeit prägte chinesische Kultur bis in die Gegenwart.",
+      "en": "During the Warring States period, extraordinary intellectual diversity flourished in China: Confucianism, Taoism, Legalism and many other schools offered competing answers to political and ethical questions. This golden age shaped Chinese culture to this day."
+    }
+  },
+  {
+    "id": "athens-delian-league-founded",
+    "coordinates": [
+      25.88,
+      37.84
+    ],
+    "year": -478,
+    "type": "political",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Gründung des Delisch-Attischen Seebundes",
+      "en": "Founding of the Delian League"
+    },
+    "description": {
+      "de": "Athen gründete nach den Perserkriegen den Delisch-Attischen Seebund als Verteidigungsbündnis gegen Persien. Was als Allianz unter gleichen Partnern begann, entwickelte sich zunehmend zu einem athenischen Imperium mit Tribut zahlenden Verbündeten.",
+      "en": "Athens founded the Delian League after the Persian Wars as a defensive alliance against Persia. What began as an alliance among equal partners increasingly became an Athenian empire with tribute-paying allies."
     }
   },
   {

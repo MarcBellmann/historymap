@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "paul-missions-to-gentiles",
+    "coordinates": [
+      28.97,
+      41.01
+    ],
+    "year": 50,
+    "type": "cultural",
+    "culturalSphere": [
+      "roman",
+      "greek",
+      "jewish"
+    ],
+    "labels": {
+      "de": "Paulusreisen – Ausbreitung des Christentums",
+      "en": "Paul's Missionary Journeys"
+    },
+    "description": {
+      "de": "Der Apostel Paulus unternahm mehrere Reisen durch das östliche Mittelmeergebiet, gründete Gemeinden in Anatolien, Griechenland und Rom und verfasste Briefe, die die Theologie des Christentums grundlegend prägten. Seine Missionsarbeit öffnete das Christentum über die jüdische Gemeinschaft hinaus für alle Völker.",
+      "en": "The Apostle Paul undertook multiple journeys through the eastern Mediterranean, founded communities in Anatolia, Greece, and Rome, and wrote letters that fundamentally shaped Christian theology. His missionary work opened Christianity beyond the Jewish community to all peoples."
+    }
+  }
+]

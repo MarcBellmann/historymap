@@ -20,5 +20,25 @@
       "de": "Kalif al-Mansur gründet die Rundstadt Bagdad als neue Hauptstadt des Abbasiden-Kalifats. Bagdad wird zum größten und gelehrtesten Zentrum der mittelalterlichen Welt.",
       "en": "Caliph al-Mansur founds the Round City of Baghdad as the new Abbasid capital. Baghdad becomes the largest and most learned center of the medieval world."
     }
+  },
+  {
+    "id": "empress-shotoku-japan",
+    "coordinates": [
+      135.83,
+      34.69
+    ],
+    "year": 762,
+    "type": "political",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Kaiserin Shōtoku und buddhistischer Einfluss",
+      "en": "Empress Shōtoku and Buddhist Influence"
+    },
+    "description": {
+      "de": "Kaiserin Shōtoku regiert Japan zweimal und ist eines der wenigen Beispiele einer Herrscherin in der japanischen Geschichte. Ihr Verhältnis zum buddhistischen Mönch Dōkyō und die Frage seiner Machtstellung löste eine politische Krise aus, die zur Verlegung der Hauptstadt nach Nagaoka führte.",
+      "en": "Empress Shōtoku rules Japan twice and is one of the rare examples of a female ruler in Japanese history. Her relationship with Buddhist monk Dōkyō and questions about his power triggered a political crisis that led to the relocation of the capital to Nagaoka."
+    }
   }
 ]

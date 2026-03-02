@@ -1,5 +1,25 @@
 [
   {
+    "id": "kingdom-of-kush-conquers-egypt",
+    "coordinates": [
+      31.82,
+      18.49
+    ],
+    "year": -750,
+    "type": "political",
+    "culturalSphere": [
+      "east-african"
+    ],
+    "labels": {
+      "de": "Kusch erobert Ägypten",
+      "en": "Kush Conquers Egypt"
+    },
+    "description": {
+      "de": "König Kashta von Kusch erobert Oberägypten und begründet die 25. Dynastie der Pharaonen.",
+      "en": "King Kashta of Kush conquers Upper Egypt, founding the 25th Dynasty of Pharaohs."
+    }
+  },
+  {
     "id": "kushite-pharaohs-of-egypt",
     "coordinates": [
       31.236,
@@ -21,23 +41,23 @@
     }
   },
   {
-    "id": "kingdom-of-kush-conquers-egypt",
+    "id": "tiglath-pileser-iii-reforms-745bc",
     "coordinates": [
-      31.82,
-      18.49
+      43.33,
+      35.93
     ],
-    "year": -750,
+    "year": -745,
     "type": "political",
     "culturalSphere": [
-      "east-african"
+      "assyrian"
     ],
     "labels": {
-      "de": "Kusch erobert Ägypten",
-      "en": "Kush Conquers Egypt"
+      "de": "Tiglat-Pileser III. — Militärreform des Assyrerreichs",
+      "en": "Tiglath-Pileser III — Military Reform of the Assyrian Empire"
     },
     "description": {
-      "de": "König Kashta von Kusch erobert Oberägypten und begründet die 25. Dynastie der Pharaonen.",
-      "en": "King Kashta of Kush conquers Upper Egypt, founding the 25th Dynasty of Pharaohs."
+      "de": "Tiglat-Pileser III. schuf durch radikale Heeresreformen das effizienteste Militär seiner Zeit, ersetzt durch ein stehendes Berufsheer anstelle von Stammesaufgeboten. Seine Reformen und Massendeportationen zur Beherrschung der Bevölkerung machten Assyrien zur absoluten Großmacht des Nahen Ostens.",
+      "en": "Tiglath-Pileser III created the most efficient military of his time through radical army reforms, replacing tribal levies with a standing professional force. His reforms and mass deportations for population control made Assyria the supreme great power of the Near East."
     }
   }
 ]

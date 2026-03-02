@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "shapur-i-captures-valerian",
+    "coordinates": [
+      36.29,
+      36.82
+    ],
+    "year": 260,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "persian"
+    ],
+    "labels": {
+      "de": "Schapur I. gefangennahme Kaiser Valerians",
+      "en": "Shapur I Captures Emperor Valerian"
+    },
+    "description": {
+      "de": "In der Nähe von Edessa (heute Şanlıurfa) besiegte der persische König Schapur I. das römische Heer und machm Kaiser Valerian gefangen — das erste Mal in der Geschichte, dass ein regierender römischer Kaiser in Feindeshand geriet. Das Ereignis wurde in monumentalen Felsreliefs in Persien verewigt und signalisierte ein gewandeltes Machtgleichgewicht zwischen Rom und dem Sassanidenreich.",
+      "en": "Near Edessa (modern Şanlıurfa), the Persian king Shapur I defeated the Roman army and captured Emperor Valerian — the first time in history that a reigning Roman emperor fell into enemy hands. The event was immortalized in monumental rock reliefs in Persia and signaled a shift in the balance of power between Rome and the Sassanid Empire."
+    }
+  },
+  {
+    "id": "wei-jin-reunification",
+    "coordinates": [
+      116.3,
+      39.9
+    ],
+    "year": 265,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Gründung der Jin-Dynastie",
+      "en": "Founding of the Jin Dynasty"
+    },
+    "description": {
+      "de": "Sima Yan gründete die Jin-Dynastie und einte China nach Jahrzehnten der Drei-Königreiche-Zeit erneut unter einer Herrschaft. Die Wiedervereinigung war jedoch kurzlebig: Bürgerkriege und Nomadeninvasionen führten bald zur Spaltung in Nord- und Süd-China.",
+      "en": "Sima Yan founded the Jin Dynasty and reunified China under a single rule after decades of the Three Kingdoms period. The reunification was short-lived, however: civil wars and nomadic invasions soon led to the division into northern and southern China."
+    }
+  }
+]

@@ -1,25 +1,5 @@
 [
   {
-    "id": "grand-canal-construction",
-    "coordinates": [
-      120.15,
-      30.25
-    ],
-    "year": 605,
-    "type": "cultural",
-    "culturalSphere": [
-      "chinese"
-    ],
-    "labels": {
-      "de": "Bau des Großen Kanals",
-      "en": "Construction of the Grand Canal"
-    },
-    "description": {
-      "de": "Kaiser Yang der Sui ordnete den massiven Ausbau des Kaiserkanals an, der den Jangtse mit dem Gelben Fluss verband. Millionen Zwangsarbeiter schufen eine der größten Ingenieurleistungen der Geschichte.",
-      "en": "Emperor Yang of Sui ordered the massive expansion of the Grand Canal connecting the Yangtze to the Yellow River. Millions of forced laborers created one of history's greatest engineering feats."
-    }
-  },
-  {
     "id": "pallava-dynasty-peak",
     "coordinates": [
       80.19,
@@ -40,26 +20,6 @@
     }
   },
   {
-    "id": "harsha-empire",
-    "coordinates": [
-      76.97,
-      30.38
-    ],
-    "year": 606,
-    "type": "political",
-    "culturalSphere": [
-      "indian"
-    ],
-    "labels": {
-      "de": "Harshas Reichsgründung",
-      "en": "Harsha's Empire Founded"
-    },
-    "description": {
-      "de": "Kaiser Harsha vereint Nordindien von Kannauj aus und fördert Buddhismus sowie Gelehrsamkeit, bevor sein Reich nach seinem Tod 647 zerfällt.",
-      "en": "Emperor Harsha unites northern India from Kannauj, patronizing Buddhism and scholarship before his empire fragments after his death in 647."
-    }
-  },
-  {
     "id": "wari-empire-expansion",
     "coordinates": [
       -74.22,
@@ -77,6 +37,67 @@
     "description": {
       "de": "Das Wari-Reich expandiert in den peruanischen Anden und wird zum ersten großflächigen Reichs in Südamerika.",
       "en": "The Wari Empire expands across the Peruvian Andes, becoming the first large-scale empire in South America."
+    }
+  },
+  {
+    "id": "nalanda-university-peak",
+    "coordinates": [
+      85.44,
+      25.14
+    ],
+    "year": 600,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Nalanda – Zentrum buddhistischer Gelehrsamkeit",
+      "en": "Nalanda – Center of Buddhist Scholarship"
+    },
+    "description": {
+      "de": "Nalanda in Bihar erreicht unter Harsha im 7. Jahrhundert seinen Höhepunkt als internationale Universität mit bis zu 10.000 Studierenden aus ganz Asien. Der chinesische Pilger Xuanzang beschrieb es als das bedeutendste Gelehrtenzentrum der Welt seiner Zeit.",
+      "en": "Nalanda in Bihar reaches its peak under Harsha in the 7th century as an international university with up to 10,000 students from across Asia. The Chinese pilgrim Xuanzang described it as the most important center of scholarship in the world of his time."
+    }
+  },
+  {
+    "id": "grand-canal-construction",
+    "coordinates": [
+      120.15,
+      30.25
+    ],
+    "year": 605,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Bau des Großen Kanals",
+      "en": "Construction of the Grand Canal"
+    },
+    "description": {
+      "de": "Kaiser Yang der Sui ordnete den massiven Ausbau des Kaiserkanals an, der den Jangtse mit dem Gelben Fluss verband. Millionen Zwangsarbeiter schufen eine der größten Ingenieurleistungen der Geschichte.",
+      "en": "Emperor Yang of Sui ordered the massive expansion of the Grand Canal connecting the Yangtze to the Yellow River. Millions of forced laborers created one of history's greatest engineering feats."
+    }
+  },
+  {
+    "id": "harsha-empire",
+    "coordinates": [
+      76.97,
+      30.38
+    ],
+    "year": 606,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Harshas Reichsgründung",
+      "en": "Harsha's Empire Founded"
+    },
+    "description": {
+      "de": "Kaiser Harsha vereint Nordindien von Kannauj aus und fördert Buddhismus sowie Gelehrsamkeit, bevor sein Reich nach seinem Tod 647 zerfällt.",
+      "en": "Emperor Harsha unites northern India from Kannauj, patronizing Buddhism and scholarship before his empire fragments after his death in 647."
     }
   }
 ]

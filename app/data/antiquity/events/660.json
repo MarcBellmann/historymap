@@ -21,6 +21,49 @@
     }
   },
   {
+    "id": "battle-of-baekgang",
+    "coordinates": [
+      126.75,
+      35.95
+    ],
+    "year": 663,
+    "type": "battle",
+    "culturalSphere": [
+      "korean",
+      "chinese",
+      "japanese"
+    ],
+    "labels": {
+      "de": "Seeschlacht am Baekgang",
+      "en": "Battle of Baekgang"
+    },
+    "description": {
+      "de": "Die verbündeten Streitkräfte von Tang-China und Silla vernichten die japanische Flotte auf dem Geum-Fluss und beenden damit die Wiederherstellung des Königreichs Baekje. Japans schwerste Niederlage der Vormoderne zwang das Yamato-Reich zur innenpolitischen Neuausrichtung.",
+      "en": "Allied forces of Tang China and Silla annihilate the Japanese fleet on the Geum River, ending the restoration movement of the Baekje Kingdom. Japan's worst pre-modern defeat forced the Yamato state into a major domestic reorientation."
+    }
+  },
+  {
+    "id": "umayyad-caliphate-expansion-east",
+    "coordinates": [
+      58.38,
+      23.59
+    ],
+    "year": 664,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "umayyad"
+    ],
+    "labels": {
+      "de": "Islamische Expansion nach Zentralasien",
+      "en": "Islamic Expansion into Central Asia"
+    },
+    "description": {
+      "de": "Arabische Truppen unter dem Umayyaden-Feldherrn Ziyad ibn Abi Sufyan stoßen tief nach Khorasan und Transoxanien vor. Die Islamisierung Zentralasiens veränderte den Schnittpunkt der eurasischen Handelswege dauerhaft.",
+      "en": "Arab forces under Umayyad commander Ziyad ibn Abi Sufyan push deep into Khorasan and Transoxiana. The Islamization of Central Asia permanently transformed the crossroads of Eurasian trade routes."
+    }
+  },
+  {
     "id": "silla-unification-korea",
     "coordinates": [
       129.22,
@@ -38,6 +81,27 @@
     "description": {
       "de": "Das Königreich Silla vereinigte mit Unterstützung der Tang-Dynastie die koreanische Halbinsel, nachdem es Goguryeo und Baekje besiegt hatte.",
       "en": "The kingdom of Silla, with Tang dynasty support, unified the Korean Peninsula after defeating Goguryeo and Baekje."
+    }
+  },
+  {
+    "id": "silla-three-kingdoms-unification",
+    "coordinates": [
+      129.22,
+      35.83
+    ],
+    "year": 668,
+    "type": "political",
+    "culturalSphere": [
+      "korean",
+      "silla"
+    ],
+    "labels": {
+      "de": "Silla einigt die Drei Königreiche Koreas",
+      "en": "Silla Unifies the Three Kingdoms of Korea"
+    },
+    "description": {
+      "de": "Das Königreich Silla, verbündet mit Tang-China, besiegt Goguryeo und schafft damit eine erste koreanische Einheit. Die vereinte Silla-Ära prägte koreanische Kultur, Sprache und Buddhismus nachhaltig und legte die Grundlagen des modernen Korea.",
+      "en": "The Silla kingdom, allied with Tang China, defeats Goguryeo and creates a first Korean unity. The unified Silla era profoundly shaped Korean culture, language, and Buddhism, laying the foundations of modern Korea."
     }
   }
 ]

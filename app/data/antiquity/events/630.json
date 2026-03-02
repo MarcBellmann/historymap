@@ -21,6 +21,27 @@
     }
   },
   {
+    "id": "death-of-muhammad",
+    "coordinates": [
+      39.61,
+      21.39
+    ],
+    "year": 632,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "arab"
+    ],
+    "labels": {
+      "de": "Tod des Propheten Muhammad",
+      "en": "Death of the Prophet Muhammad"
+    },
+    "description": {
+      "de": "Muhammad, der Gründer des Islams, stirbt in Medina und hinterlässt ein geeintes arabisches Halbinsel unter islamischer Führung. Sein Tod löste die Frage der Nachfolge (Khalifa) aus, die zur dauerhaften sunnitisch-schiitischen Spaltung führen sollte.",
+      "en": "Muhammad, founder of Islam, dies in Medina having united the Arabian Peninsula under Islamic leadership. His death triggered the question of succession (Khalifa), which would lead to the lasting Sunni-Shia split."
+    }
+  },
+  {
     "id": "battle-of-yarmouk",
     "coordinates": [
       36.037,
@@ -62,6 +83,28 @@
     "description": {
       "de": "Die arabisch-muslimische Armee besiegt das sassanidische Heer bei Qadisiyya im Irak. Der Sieg öffnet den Weg zur Eroberung des gesamten Perserreiches.",
       "en": "The Arab Muslim army defeats the Sassanid forces at Qadisiyyah in Iraq. The victory opens the way to the conquest of the entire Persian Empire."
+    }
+  },
+  {
+    "id": "arab-conquest-persia-636",
+    "coordinates": [
+      44.38,
+      32.53
+    ],
+    "year": 636,
+    "type": "battle",
+    "culturalSphere": [
+      "islamic",
+      "arab",
+      "persian"
+    ],
+    "labels": {
+      "de": "Arabische Eroberung Persiens",
+      "en": "Arab Conquest of Persia"
+    },
+    "description": {
+      "de": "Die arabisch-islamischen Streitkräfte besiegen das sassanidische Heer bei al-Qadisiyya und öffnen den Weg nach Mesopotamien. Das Ende des Sassanidenreichs nach jahrtausendealter persischer Herrschaft über den Nahen Osten markiert eine Weltzäsur.",
+      "en": "Arab-Islamic forces defeat the Sassanid army at al-Qadisiyya, opening the way into Mesopotamia. The end of the Sassanid Empire after millennia of Persian dominance over the Near East marks a world-historic turning point."
     }
   }
 ]

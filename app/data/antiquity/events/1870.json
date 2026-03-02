@@ -61,6 +61,26 @@
     }
   },
   {
+    "id": "ashanti-wars",
+    "coordinates": [
+      -1.62,
+      6.69
+    ],
+    "year": 1874,
+    "type": "battle",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Dritter Aschanti-Krieg",
+      "en": "Third Anglo-Ashanti War"
+    },
+    "description": {
+      "de": "Die Briten besiegen das mächtige Aschanti-Reich in Westafrika und plündern die Hauptstadt Kumasi.",
+      "en": "The British defeat the powerful Ashanti Empire in West Africa and sack the capital Kumasi."
+    }
+  },
+  {
     "id": "first-ottoman-constitution",
     "coordinates": [
       28.978,
@@ -103,6 +123,26 @@
     }
   },
   {
+    "id": "scramble-for-africa-brussels",
+    "coordinates": [
+      4.35,
+      50.85
+    ],
+    "year": 1876,
+    "type": "political",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Brüsseler Geographische Konferenz – Beginn des Wettlaufs um Afrika",
+      "en": "Brussels Geographical Conference – Beginning of the Scramble for Africa"
+    },
+    "description": {
+      "de": "Die von König Leopold II. einberufene Brüsseler Konferenz 1876 koordinierte europäische Interessen in Afrika unter dem Deckmantel der 'Zivilisierung'. Sie leitete eine Periode intensiver Kolonisierung ein, in der europäische Mächte bis 1900 über 90% Afrikas unter ihre Kontrolle brachten.",
+      "en": "The Brussels conference convened by King Leopold II in 1876 coordinated European interests in Africa under the guise of 'civilization.' It initiated a period of intense colonization in which European powers brought over 90% of Africa under their control by 1900."
+    }
+  },
+  {
     "id": "satsuma-rebellion",
     "coordinates": [
       130.56,
@@ -120,26 +160,6 @@
     "description": {
       "de": "Saigō Takamori führte den letzten Samurai-Aufstand gegen die Meiji-Regierung. Die Niederlage markierte das endgültige Ende der Samurai-Klasse in Japan.",
       "en": "Saigō Takamori led the last samurai rebellion against the Meiji government. The defeat marked the definitive end of the samurai class in Japan."
-    }
-  },
-  {
-    "id": "ashanti-wars",
-    "coordinates": [
-      -1.62,
-      6.69
-    ],
-    "year": 1874,
-    "type": "battle",
-    "culturalSphere": [
-      "west-african"
-    ],
-    "labels": {
-      "de": "Dritter Aschanti-Krieg",
-      "en": "Third Anglo-Ashanti War"
-    },
-    "description": {
-      "de": "Die Briten besiegen das mächtige Aschanti-Reich in Westafrika und plündern die Hauptstadt Kumasi.",
-      "en": "The British defeat the powerful Ashanti Empire in West Africa and sack the capital Kumasi."
     }
   },
   {

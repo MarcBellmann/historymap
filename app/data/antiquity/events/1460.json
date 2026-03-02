@@ -1,5 +1,25 @@
 [
   {
+    "id": "songhai-empire-sonni-ali",
+    "coordinates": [
+      -0.05,
+      16.27
+    ],
+    "year": 1464,
+    "type": "political",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Aufstieg des Songhai-Reiches unter Sonni Ali",
+      "en": "Rise of Songhai Empire Under Sonni Ali"
+    },
+    "description": {
+      "de": "Sonni Ali erobert Timbuktu und Djenné und verwandelt Songhai in das größte Reich der westafrikanischen Geschichte.",
+      "en": "Sonni Ali conquers Timbuktu and Djenné, transforming Songhai into the largest empire in West African history."
+    }
+  },
+  {
     "id": "onin-war-japan",
     "coordinates": [
       135.77,
@@ -37,26 +57,6 @@
     "description": {
       "de": "Guru Nanak wird in Talwandi (heute Nankana Sahib) geboren und begründet später den Sikhismus.",
       "en": "Guru Nanak is born at Talwandi (now Nankana Sahib), later founding Sikhism."
-    }
-  },
-  {
-    "id": "songhai-empire-sonni-ali",
-    "coordinates": [
-      -0.05,
-      16.27
-    ],
-    "year": 1464,
-    "type": "political",
-    "culturalSphere": [
-      "west-african"
-    ],
-    "labels": {
-      "de": "Aufstieg des Songhai-Reiches unter Sonni Ali",
-      "en": "Rise of Songhai Empire Under Sonni Ali"
-    },
-    "description": {
-      "de": "Sonni Ali erobert Timbuktu und Djenné und verwandelt Songhai in das größte Reich der westafrikanischen Geschichte.",
-      "en": "Sonni Ali conquers Timbuktu and Djenné, transforming Songhai into the largest empire in West African history."
     }
   }
 ]

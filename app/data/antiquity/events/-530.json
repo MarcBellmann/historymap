@@ -1,23 +1,22 @@
 [
   {
-    "id": "persian-conquest-of-egypt",
+    "id": "pythagoras-mathematics-530bc",
     "coordinates": [
-      30.08,
-      30.4
+      15.55,
+      37.57
     ],
-    "year": -525,
-    "type": "political",
+    "year": -530,
+    "type": "cultural",
     "culturalSphere": [
-      "persian",
-      "egyptian"
+      "greek"
     ],
     "labels": {
-      "de": "Persische Eroberung Ägyptens",
-      "en": "Persian Conquest of Egypt"
+      "de": "Pythagoras und die Mathematik-Schule in Kroton",
+      "en": "Pythagoras and the Mathematics School at Croton"
     },
     "description": {
-      "de": "Kambyses II. besiegt Pharao Psammetich III. bei Pelusium und erobert Ägypten für das Achämenidenreich. Ägypten wird persische Satrapie.",
-      "en": "Cambyses II defeats Pharaoh Psamtik III at Pelusium and conquers Egypt for the Achaemenid Empire. Egypt becomes a Persian satrapy."
+      "de": "Pythagoras gründete in Kroton (Süditalien) eine philosophisch-religiöse Gemeinschaft, die Mathematik als Schlüssel zur Wirklichkeit verstand. Seine Lehren über Zahlen, Geometrie und die harmonische Struktur des Kosmos legten das Fundament für die westliche Mathematik.",
+      "en": "Pythagoras founded a philosophical-religious community at Croton (southern Italy) that understood mathematics as the key to reality. His teachings on numbers, geometry, and the harmonic structure of the cosmos laid the foundation for Western mathematics."
     }
   },
   {
@@ -41,6 +40,26 @@
     }
   },
   {
+    "id": "buddhas-first-sermon-sarnath",
+    "coordinates": [
+      83.02,
+      25.38
+    ],
+    "year": -528,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Erste Predigt des Buddha in Sarnath",
+      "en": "Buddha's First Sermon at Sarnath"
+    },
+    "description": {
+      "de": "Im Hirschpark von Sarnath hielt der Buddha seine erste Predigt und setzte das 'Rad der Lehre' in Bewegung. Er verkündete den fünf Asketen die Vier Edlen Wahrheiten und den Achtfachen Pfad — die Grundlagen einer neuen Weltreligion.",
+      "en": "In the Deer Park at Sarnath, the Buddha gave his first sermon and 'set the Wheel of the Dhamma in motion'. He proclaimed the Four Noble Truths and Eightfold Path to five ascetics — establishing the foundations of a new world religion."
+    }
+  },
+  {
     "id": "mahavira-nirvana",
     "coordinates": [
       85.52,
@@ -58,6 +77,27 @@
     "description": {
       "de": "Mahavira, der 24. Tirthankara des Jainismus, erreicht in Pawapuri das Nirvana und hinterlässt eine wachsende religiöse Gemeinschaft.",
       "en": "Mahavira, the 24th Tirthankara of Jainism, attains nirvana at Pawapuri, leaving behind a growing religious community."
+    }
+  },
+  {
+    "id": "persian-conquest-of-egypt",
+    "coordinates": [
+      30.08,
+      30.4
+    ],
+    "year": -525,
+    "type": "political",
+    "culturalSphere": [
+      "persian",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Persische Eroberung Ägyptens",
+      "en": "Persian Conquest of Egypt"
+    },
+    "description": {
+      "de": "Kambyses II. besiegt Pharao Psammetich III. bei Pelusium und erobert Ägypten für das Achämenidenreich. Ägypten wird persische Satrapie.",
+      "en": "Cambyses II defeats Pharaoh Psamtik III at Pelusium and conquers Egypt for the Achaemenid Empire. Egypt becomes a Persian satrapy."
     }
   }
 ]

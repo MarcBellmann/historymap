@@ -1,5 +1,45 @@
 [
   {
+    "id": "parthian-empire-zenith",
+    "coordinates": [
+      44.58,
+      33.09
+    ],
+    "year": -50,
+    "type": "political",
+    "culturalSphere": [
+      "persian"
+    ],
+    "labels": {
+      "de": "Höhepunkt des Partherreichs",
+      "en": "Zenith of the Parthian Empire"
+    },
+    "description": {
+      "de": "Das Partherreich unter den Arsakiden kontrollierte auf seinem Höhepunkt die Handelsrouten zwischen dem Mittelmeer und dem Fernen Osten. Als Pufferstaat zwischen dem Römischen Reich und der Han-Dynastie spielten die Parther eine entscheidende Rolle im kulturellen und wirtschaftlichen Austausch der antiken Welt.",
+      "en": "The Parthian Empire under the Arsacids controlled at its height the trade routes between the Mediterranean and the Far East. As a buffer state between the Roman Empire and the Han Dynasty, the Parthians played a crucial role in the cultural and economic exchange of the ancient world."
+    }
+  },
+  {
+    "id": "roman-republic-civil-war-caesar",
+    "coordinates": [
+      12.34,
+      44.36
+    ],
+    "year": -49,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Caesar überschreitet den Rubikon",
+      "en": "Caesar Crosses the Rubicon"
+    },
+    "description": {
+      "de": "Indem Julius Caesar im Januar 49 v. Chr. mit seinen Truppen den Grenzfluss Rubikon überschritt, begann er den römischen Bürgerkrieg gegen den Senat und Pompeius. Das Ereignis markierte das de facto Ende der Römischen Republik und leitete Caesars Alleinherrschaft ein.",
+      "en": "By crossing the frontier river Rubicon with his troops in January 49 BC, Julius Caesar began the Roman civil war against the Senate and Pompey. The event marked the de facto end of the Roman Republic and initiated Caesar's path to sole rule."
+    }
+  },
+  {
     "id": "assassination-julius-caesar",
     "coordinates": [
       12.48,

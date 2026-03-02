@@ -1,25 +1,5 @@
 [
   {
-    "id": "berlin-conference",
-    "coordinates": [
-      13.38,
-      52.52
-    ],
-    "year": 1884,
-    "type": "political",
-    "culturalSphere": [
-      "european"
-    ],
-    "labels": {
-      "de": "Berliner Konferenz (Kongokonferenz)",
-      "en": "Berlin Conference"
-    },
-    "description": {
-      "de": "Auf der Berliner Konferenz teilten die europäischen Mächte Afrika unter sich auf. Die Beschlüsse legalisierten den Kolonialismus und zogen willkürliche Grenzen, deren Folgen bis heute nachwirken.",
-      "en": "At the Berlin Conference, European powers partitioned Africa among themselves. The agreements legitimized colonialism and drew arbitrary borders whose consequences persist to this day."
-    }
-  },
-  {
     "id": "assassination-alexander-ii",
     "coordinates": [
       30.33,
@@ -61,6 +41,26 @@
     }
   },
   {
+    "id": "panama-canal-construction",
+    "coordinates": [
+      -79.68,
+      9.08
+    ],
+    "year": 1881,
+    "type": "foundation",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Baubeginn des Panamakanals",
+      "en": "Panama Canal Construction Begins"
+    },
+    "description": {
+      "de": "Frankreich beginnt den Bau des Panamakanals; nach dem Scheitern übernehmen die USA 1904 das Projekt.",
+      "en": "France begins construction of the Panama Canal; after failure, the US takes over the project in 1904."
+    }
+  },
+  {
     "id": "british-occupation-of-egypt",
     "coordinates": [
       31.236,
@@ -78,6 +78,26 @@
     "description": {
       "de": "Großbritannien besetzt Ägypten nach der Niederschlagung des Urabi-Aufstands, um den Suezkanal zu sichern. Ägypten bleibt formell osmanisch, wird aber de facto britisch kontrolliert.",
       "en": "Britain occupies Egypt after suppressing the Urabi Revolt, to secure the Suez Canal. Egypt remains formally Ottoman but is de facto controlled by Britain."
+    }
+  },
+  {
+    "id": "berlin-conference",
+    "coordinates": [
+      13.38,
+      52.52
+    ],
+    "year": 1884,
+    "type": "political",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Berliner Konferenz (Kongokonferenz)",
+      "en": "Berlin Conference"
+    },
+    "description": {
+      "de": "Auf der Berliner Konferenz teilten die europäischen Mächte Afrika unter sich auf. Die Beschlüsse legalisierten den Kolonialismus und zogen willkürliche Grenzen, deren Folgen bis heute nachwirken.",
+      "en": "At the Berlin Conference, European powers partitioned Africa among themselves. The agreements legitimized colonialism and drew arbitrary borders whose consequences persist to this day."
     }
   },
   {
@@ -201,26 +221,6 @@
     "description": {
       "de": "Brasilien schafft als letztes Land der westlichen Hemisphäre die Sklaverei ab (Lei Áurea).",
       "en": "Brazil becomes the last country in the Western Hemisphere to abolish slavery (Lei Áurea)."
-    }
-  },
-  {
-    "id": "panama-canal-construction",
-    "coordinates": [
-      -79.68,
-      9.08
-    ],
-    "year": 1881,
-    "type": "foundation",
-    "culturalSphere": [
-      "mesoamerican"
-    ],
-    "labels": {
-      "de": "Baubeginn des Panamakanals",
-      "en": "Panama Canal Construction Begins"
-    },
-    "description": {
-      "de": "Frankreich beginnt den Bau des Panamakanals; nach dem Scheitern übernehmen die USA 1904 das Projekt.",
-      "en": "France begins construction of the Panama Canal; after failure, the US takes over the project in 1904."
     }
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "hadrian-wall-construction",
+    "coordinates": [
+      -2.35,
+      55
+    ],
+    "year": 122,
+    "type": "foundation",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Bau des Hadrianswalls",
+      "en": "Construction of Hadrian's Wall"
+    },
+    "description": {
+      "de": "Kaiser Hadrian ordnete den Bau einer 117 km langen Grenzbefestigung quer durch Nordengland an. Der Wall markierte die Nordgrenze des Römischen Reiches in Britannien, trennte romanisierte Stämme von unerobertem schottischem Gebiet und diente gleichzeitig als Zollstation und Militärlager.",
+      "en": "Emperor Hadrian ordered the construction of a 117 km frontier fortification across northern England. The wall marked the northern limit of the Roman Empire in Britain, separated romanized tribes from unconquered Scottish territory, and served as both a customs post and military base."
+    }
+  },
+  {
     "id": "kanishka-kushan-golden-age",
     "coordinates": [
       71.5,

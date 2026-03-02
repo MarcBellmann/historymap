@@ -39,5 +39,26 @@
       "de": "Die Almoraviden erobern die Hauptstadt Kumbi Saleh und beschleunigen den Niedergang des Ghana-Reiches.",
       "en": "The Almoravids capture the capital Kumbi Saleh, accelerating the decline of the Ghana Empire."
     }
+  },
+  {
+    "id": "henry-iv-walk-to-canossa",
+    "coordinates": [
+      10.48,
+      44.59
+    ],
+    "year": 1077,
+    "type": "political",
+    "culturalSphere": [
+      "roman-catholic",
+      "german"
+    ],
+    "labels": {
+      "de": "Heinrich IV. – Gang nach Canossa",
+      "en": "Henry IV – Walk to Canossa"
+    },
+    "description": {
+      "de": "Der exkommunizierte König Heinrich IV. stand drei Tage barfuß im Schnee vor der Burg Canossa, um Papst Gregor VII. um Absolution zu bitten. Das Ereignis markiert den Höhepunkt des Investiturstreits und demonstriert die spirituelle Autorität des Papsttums über weltliche Herrscher.",
+      "en": "The excommunicated King Henry IV stood barefoot in the snow for three days before Canossa Castle to beg Pope Gregory VII for absolution. The event marks the climax of the Investiture Controversy and demonstrates the spiritual authority of the papacy over secular rulers."
+    }
   }
 ]

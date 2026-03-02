@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "peloponnesian-war-ends-athens-defeat",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": -404,
+    "type": "political",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Ende des Peloponnesischen Krieges — Niederlage Athens",
+      "en": "End of the Peloponnesian War — Athens Defeated"
+    },
+    "description": {
+      "de": "Nach 27 Jahren Krieg kapitulierte Athen vor Sparta und seinen Verbündeten. Die langen Mauern wurden geschleift, die Flotte ausgeliefert und eine spartanfreundliche Oligarchie, die 'Dreißig Tyrannen', eingesetzt — eine demütigende Niederlage für die Demokratie.",
+      "en": "After 27 years of war, Athens surrendered to Sparta and its allies. The long walls were torn down, the fleet surrendered, and a pro-Spartan oligarchy — the 'Thirty Tyrants' — was installed, a humiliating defeat for democracy."
+    }
+  },
+  {
+    "id": "xenophons-anabasis-march-ten-thousand",
+    "coordinates": [
+      38.46,
+      37.15
+    ],
+    "year": -401,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "persian"
+    ],
+    "labels": {
+      "de": "Anabasis — Rückzug der Zehntausend",
+      "en": "Anabasis — Retreat of the Ten Thousand"
+    },
+    "description": {
+      "de": "Nach der Niederlage des persischen Prätendenten Kyros II. bei Kunaxa führte Xenophon 10.000 griechische Söldner durch feindliches persisches Territorium bis ans Schwarze Meer. Der legendäre Rückzug zeigte die Verwundbarkeit des Persischen Reiches und wurde ein Klassiker der Militärliteratur.",
+      "en": "After the defeat of Persian pretender Cyrus II at Cunaxa, Xenophon led 10,000 Greek mercenaries through hostile Persian territory to the Black Sea. The legendary retreat demonstrated the vulnerability of the Persian Empire and became a classic of military literature."
+    }
+  }
+]

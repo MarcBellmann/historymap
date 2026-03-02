@@ -40,63 +40,43 @@
     }
   },
   {
-    "id": "suez-canal-opening",
+    "id": "us-civil-war-begins",
     "coordinates": [
-      32.303,
-      30.585
+      -79.87,
+      32.75
     ],
-    "year": 1869,
-    "type": "cultural",
-    "culturalSphere": [
-      "egyptian"
-    ],
-    "labels": {
-      "de": "Eröffnung des Suezkanals",
-      "en": "Opening of the Suez Canal"
-    },
-    "description": {
-      "de": "Der Suezkanal wird nach zehnjähriger Bauzeit eröffnet und verbindet Mittelmeer und Rotes Meer. Er verändert den Welthandel und macht Ägypten zum Mittelpunkt geopolitischer Rivalitäten.",
-      "en": "The Suez Canal opens after ten years of construction, linking the Mediterranean and Red Sea. It transforms world trade and makes Egypt the focus of geopolitical rivalry."
-    }
-  },
-  {
-    "id": "meiji-restoration",
-    "coordinates": [
-      135.77,
-      35.01
-    ],
-    "year": 1868,
-    "type": "political",
-    "culturalSphere": [
-      "japanese"
-    ],
-    "labels": {
-      "de": "Meiji-Restauration",
-      "en": "Meiji Restoration"
-    },
-    "description": {
-      "de": "Das Tokugawa-Shogunat wurde gestürzt und die kaiserliche Macht unter Kaiser Meiji wiederhergestellt. Japan begann eine rasante Modernisierung und Industrialisierung nach westlichem Vorbild.",
-      "en": "The Tokugawa Shogunate was overthrown and imperial power restored under Emperor Meiji. Japan began rapid modernization and industrialization along Western lines."
-    }
-  },
-  {
-    "id": "boshin-war",
-    "coordinates": [
-      139.93,
-      41.77
-    ],
-    "year": 1869,
+    "year": 1861,
     "type": "battle",
     "culturalSphere": [
-      "japanese"
+      "north-american"
     ],
     "labels": {
-      "de": "Boshin-Krieg – Ende der Republik Ezo",
-      "en": "Boshin War – Fall of the Republic of Ezo"
+      "de": "Beginn des Amerikanischen Bürgerkriegs",
+      "en": "American Civil War Begins"
     },
     "description": {
-      "de": "Die kaiserlichen Truppen besiegten die letzte Tokugawa-Widerstandsbewegung in der Festung Goryōkaku in Hakodate und vollendeten die Meiji-Restauration.",
-      "en": "Imperial forces defeated the last Tokugawa resistance at Goryōkaku fortress in Hakodate, completing the Meiji Restoration."
+      "de": "Der Beschuss von Fort Sumter markiert den Beginn des Amerikanischen Bürgerkriegs zwischen Nord- und Südstaaten.",
+      "en": "The bombardment of Fort Sumter marks the beginning of the American Civil War between the Union and Confederacy."
+    }
+  },
+  {
+    "id": "russian-serfdom-abolition",
+    "coordinates": [
+      37.62,
+      55.75
+    ],
+    "year": 1861,
+    "type": "political",
+    "culturalSphere": [
+      "russian"
+    ],
+    "labels": {
+      "de": "Aufhebung der Leibeigenschaft in Russland",
+      "en": "Abolition of Serfdom in Russia"
+    },
+    "description": {
+      "de": "Zar Alexander II. unterzeichnete 1861 das Emanzipationsedikt, das die Leibeigenschaft in Russland abschaffte und 23 Millionen Bauern formal die Freiheit gab. Obwohl die sozialen und wirtschaftlichen Ungleichheiten blieben, markierte die Reform eine grundlegende Transformation der russischen Gesellschaft.",
+      "en": "Tsar Alexander II signed the Emancipation Edict in 1861, abolishing serfdom in Russia and formally granting freedom to 23 million peasants. Though social and economic inequalities remained, the reform marked a fundamental transformation of Russian society."
     }
   },
   {
@@ -120,23 +100,83 @@
     }
   },
   {
-    "id": "us-civil-war-begins",
+    "id": "meiji-restoration",
     "coordinates": [
-      -79.87,
-      32.75
+      135.77,
+      35.01
     ],
-    "year": 1861,
-    "type": "battle",
+    "year": 1868,
+    "type": "political",
     "culturalSphere": [
-      "north-american"
+      "japanese"
     ],
     "labels": {
-      "de": "Beginn des Amerikanischen Bürgerkriegs",
-      "en": "American Civil War Begins"
+      "de": "Meiji-Restauration",
+      "en": "Meiji Restoration"
     },
     "description": {
-      "de": "Der Beschuss von Fort Sumter markiert den Beginn des Amerikanischen Bürgerkriegs zwischen Nord- und Südstaaten.",
-      "en": "The bombardment of Fort Sumter marks the beginning of the American Civil War between the Union and Confederacy."
+      "de": "Das Tokugawa-Shogunat wurde gestürzt und die kaiserliche Macht unter Kaiser Meiji wiederhergestellt. Japan begann eine rasante Modernisierung und Industrialisierung nach westlichem Vorbild.",
+      "en": "The Tokugawa Shogunate was overthrown and imperial power restored under Emperor Meiji. Japan began rapid modernization and industrialization along Western lines."
+    }
+  },
+  {
+    "id": "meiji-restoration-japan",
+    "coordinates": [
+      135.77,
+      34.69
+    ],
+    "year": 1868,
+    "type": "political",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Meiji-Restauration",
+      "en": "Meiji Restoration"
+    },
+    "description": {
+      "de": "1868 wurde mit der Meiji-Restauration in Kyoto die imperiale Herrschaft wiederhergestellt und das Tokugawa-Shogunat abgelöst. Japan begann eine rasche Industrialisierung und Modernisierung nach westlichem Vorbild, die das Land binnen einer Generation von einem Feudalstaat zur Großmacht transformierte.",
+      "en": "The Meiji Restoration in 1868 reestablished imperial rule and replaced the Tokugawa Shogunate. Japan began rapid industrialization and modernization on Western models, transforming the country from a feudal state to a major power within a single generation."
+    }
+  },
+  {
+    "id": "suez-canal-opening",
+    "coordinates": [
+      32.303,
+      30.585
+    ],
+    "year": 1869,
+    "type": "cultural",
+    "culturalSphere": [
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Eröffnung des Suezkanals",
+      "en": "Opening of the Suez Canal"
+    },
+    "description": {
+      "de": "Der Suezkanal wird nach zehnjähriger Bauzeit eröffnet und verbindet Mittelmeer und Rotes Meer. Er verändert den Welthandel und macht Ägypten zum Mittelpunkt geopolitischer Rivalitäten.",
+      "en": "The Suez Canal opens after ten years of construction, linking the Mediterranean and Red Sea. It transforms world trade and makes Egypt the focus of geopolitical rivalry."
+    }
+  },
+  {
+    "id": "boshin-war",
+    "coordinates": [
+      139.93,
+      41.77
+    ],
+    "year": 1869,
+    "type": "battle",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Boshin-Krieg – Ende der Republik Ezo",
+      "en": "Boshin War – Fall of the Republic of Ezo"
+    },
+    "description": {
+      "de": "Die kaiserlichen Truppen besiegten die letzte Tokugawa-Widerstandsbewegung in der Festung Goryōkaku in Hakodate und vollendeten die Meiji-Restauration.",
+      "en": "Imperial forces defeated the last Tokugawa resistance at Goryōkaku fortress in Hakodate, completing the Meiji Restoration."
     }
   }
 ]

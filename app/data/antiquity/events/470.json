@@ -19,5 +19,26 @@
       "de": "Der germanische Heerführer Odoaker setzte den letzten weströmischen Kaiser Romulus Augustulus in Ravenna ab. Das Ereignis gilt als traditionelles Ende der Antike und Beginn des Mittelalters.",
       "en": "The Germanic chieftain Odoacer deposed the last Western Roman emperor Romulus Augustulus at Ravenna. The event traditionally marks the end of antiquity and the beginning of the Middle Ages."
     }
+  },
+  {
+    "id": "odoacer-deposes-last-roman-emperor",
+    "coordinates": [
+      12.02,
+      45.43
+    ],
+    "year": 476,
+    "type": "political",
+    "culturalSphere": [
+      "roman",
+      "germanic"
+    ],
+    "labels": {
+      "de": "Odoaker setzt den letzten weströmischen Kaiser ab",
+      "en": "Odoacer Deposes the Last Western Roman Emperor"
+    },
+    "description": {
+      "de": "Der germanische Heerführer Odoaker zwang den 16-jährigen Kaiser Romulus Augustulus zur Abdankung und schickte die kaiserlichen Insignien nach Konstantinopel zurück. Das Ereignis gilt traditionell als Ende des Weströmischen Reiches und der Antike.",
+      "en": "The Germanic warlord Odoacer forced the 16-year-old Emperor Romulus Augustulus to abdicate and returned the imperial regalia to Constantinople. The event is traditionally regarded as the end of the Western Roman Empire and of antiquity."
+    }
   }
 ]

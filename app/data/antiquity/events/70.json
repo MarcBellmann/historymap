@@ -1,5 +1,26 @@
 [
   {
+    "id": "siege-of-jerusalem-70ad",
+    "coordinates": [
+      35.23,
+      31.78
+    ],
+    "year": 70,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "jewish"
+    ],
+    "labels": {
+      "de": "Zerstörung des Zweiten Tempels",
+      "en": "Destruction of the Second Temple"
+    },
+    "description": {
+      "de": "Der römische General Titus belagerte und zerstörte Jerusalem und brannte den Zweiten Tempel nieder. Das katastrophale Ereignis beendete das jüdische Staatswesen für fast zwei Jahrtausende, trieb Millionen Juden in die Diaspora und veränderte das Judentum tiefgreifend.",
+      "en": "The Roman general Titus besieged and destroyed Jerusalem and burned down the Second Temple. The catastrophic event ended Jewish statehood for nearly two millennia, drove millions of Jews into the diaspora, and profoundly transformed Judaism."
+    }
+  },
+  {
     "id": "eruption-of-vesuvius",
     "coordinates": [
       14.43,
@@ -17,6 +38,26 @@
     "description": {
       "de": "Der Vesuv brach aus und begrub die Städte Pompeji und Herculaneum unter Asche und Lava. Die konservierten Ruinen bieten heute einzigartige Einblicke in das römische Alltagsleben.",
       "en": "Mount Vesuvius erupted and buried the cities of Pompeii and Herculaneum under ash and lava. The preserved ruins provide unique insights into daily Roman life."
+    }
+  },
+  {
+    "id": "eruption-vesuvius",
+    "coordinates": [
+      14.43,
+      40.82
+    ],
+    "year": 79,
+    "type": "natural",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Ausbruch des Vesuvs – Untergang Pompejis",
+      "en": "Eruption of Vesuvius – Destruction of Pompeii"
+    },
+    "description": {
+      "de": "Der Ausbruch des Vesuvs am 24. August 79 n. Chr. begrub Pompeji, Herculaneum und weitere Städte unter Asche und pyroklastischen Strömen. Die gut erhaltenen Ruinen geben heute einen einzigartigen Einblick in das Alltagsleben einer römischen Stadtgesellschaft des 1. Jahrhunderts n. Chr.",
+      "en": "The eruption of Vesuvius on 24 August 79 AD buried Pompeii, Herculaneum, and other towns under ash and pyroclastic flows. The well-preserved ruins today provide a unique window into everyday life in a Roman city of the first century AD."
     }
   }
 ]

@@ -19,5 +19,47 @@
       "de": "Eine römisch-westgotische Koalition unter Aetius und Theoderich I. stoppte Attilas Hunnen in Gallien. Die Schlacht verhinderte eine hunnische Vorherrschaft über Westeuropa.",
       "en": "A Roman-Visigothic coalition under Aetius and Theodoric I stopped Attila's Huns in Gaul. The battle prevented Hunnic domination of Western Europe."
     }
+  },
+  {
+    "id": "council-of-chalcedon",
+    "coordinates": [
+      29.03,
+      40.98
+    ],
+    "year": 451,
+    "type": "cultural",
+    "culturalSphere": [
+      "roman",
+      "greek"
+    ],
+    "labels": {
+      "de": "Konzil von Chalcedon",
+      "en": "Council of Chalcedon"
+    },
+    "description": {
+      "de": "Das Vierte Ökumenische Konzil in Chalcedon (heute Kadıköy) legte die christologische Zwei-Naturen-Lehre fest. Das Konzil spaltete die Christenheit: Ägyptische und syrische Christen lehnten seine Beschlüsse ab und bildeten eigenständige Kirchentraditionen, die bis heute bestehen.",
+      "en": "The Fourth Ecumenical Council at Chalcedon (modern Kadıköy) established the Chalcedonian definition of Christ's two natures. The council split Christendom: Egyptian and Syrian Christians rejected its decisions and formed distinct church traditions that persist to this day."
+    }
+  },
+  {
+    "id": "attila-hun-invasion-gaul",
+    "coordinates": [
+      4.83,
+      47.32
+    ],
+    "year": 451,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "germanic"
+    ],
+    "labels": {
+      "de": "Attilas Invasion Galliens",
+      "en": "Attila's Invasion of Gaul"
+    },
+    "description": {
+      "de": "Attila, der Herrscher der Hunnen, führte sein Reiterheer tief nach Gallien vor, verwüstete Städte wie Metz und Reims und bedrohte das Herz des Weströmischen Reiches. Nur das Bündnis zwischen dem römischen General Aetius und den Westgoten unter König Theoderich stoppte die Hunnen an den Katalaunischen Feldern.",
+      "en": "Attila, ruler of the Huns, led his cavalry deep into Gaul, devastating cities like Metz and Reims and threatening the heart of the Western Roman Empire. Only the alliance between Roman general Aetius and the Visigoths under King Theoderic stopped the Huns at the Catalaunian Plains."
+    }
   }
 ]

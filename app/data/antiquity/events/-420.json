@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "democritus-atomic-theory-420bc",
+    "coordinates": [
+      25.36,
+      41.13
+    ],
+    "year": -420,
+    "type": "cultural",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Atomtheorie des Demokrit",
+      "en": "Democritus' Atomic Theory"
+    },
+    "description": {
+      "de": "Der Philosoph Demokrit aus Abdera entwickelte die Atomtheorie — die Idee, dass alle Materie aus unteilbaren Teilchen (Atomen) besteht. Diese revolutionäre Erkenntnis blieb 2.000 Jahre lang wenig beachtet, war aber ein Vorläufer der modernen Physik.",
+      "en": "The philosopher Democritus of Abdera developed atomic theory — the idea that all matter consists of indivisible particles (atoms). This revolutionary insight went largely unnoticed for 2,000 years but was a forerunner of modern physics."
+    }
+  },
+  {
+    "id": "syracuse-expedition-athenians-415bc",
+    "coordinates": [
+      15.29,
+      37.07
+    ],
+    "year": -415,
+    "type": "battle",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Sizilische Expedition — Athens größte Katastrophe",
+      "en": "Sicilian Expedition — Athens' Greatest Disaster"
+    },
+    "description": {
+      "de": "Athen schickte eine massive Flotte nach Sizilien mit dem Ziel, Syrakus zu unterwerfen. Die Expedition endete in einer vollständigen militärischen Katastrophe — fast 40.000 Soldaten und Ruderer wurden getötet oder versklavt und Athens Seemacht erheblich geschwächt.",
+      "en": "Athens dispatched a massive fleet to Sicily with the goal of subjugating Syracuse. The expedition ended in complete military catastrophe — nearly 40,000 soldiers and rowers were killed or enslaved and Athens' sea power was severely weakened."
+    }
+  }
+]

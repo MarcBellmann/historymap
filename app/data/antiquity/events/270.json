@@ -1,5 +1,26 @@
 [
   {
+    "id": "queen-zenobia-palmyra",
+    "coordinates": [
+      38.27,
+      34.55
+    ],
+    "year": 270,
+    "type": "political",
+    "culturalSphere": [
+      "roman",
+      "arabic"
+    ],
+    "labels": {
+      "de": "Königin Zenobia von Palmyra",
+      "en": "Queen Zenobia of Palmyra"
+    },
+    "description": {
+      "de": "Königin Zenobia regierte das Palmyrenische Reich, das sich auf dem Höhepunkt seiner Macht über Syrien, Ägypten und Teile Kleinasiens erstreckte. Sie forderte Roms Hegemonie im Osten heraus und definierte Palmyra als eigenständiges Reich, bis Kaiser Aurelian sie 272 n. Chr. militärisch besiegte.",
+      "en": "Queen Zenobia ruled the Palmyrene Empire, which at its height encompassed Syria, Egypt, and parts of Asia Minor. She challenged Rome's hegemony in the east and defined Palmyra as an independent realm until Emperor Aurelian militarily defeated her in 272 AD."
+    }
+  },
+  {
     "id": "fall-of-palmyra",
     "coordinates": [
       38.267,

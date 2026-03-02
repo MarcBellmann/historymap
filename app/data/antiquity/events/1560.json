@@ -1,25 +1,5 @@
 [
   {
-    "id": "oda-nobunaga-unification",
-    "coordinates": [
-      136.91,
-      35.18
-    ],
-    "year": 1568,
-    "type": "political",
-    "culturalSphere": [
-      "japanese"
-    ],
-    "labels": {
-      "de": "Oda Nobunagas Marsch auf Kyoto",
-      "en": "Oda Nobunaga's March on Kyoto"
-    },
-    "description": {
-      "de": "Oda Nobunaga marschierte in Kyoto ein und begann die Wiedervereinigung Japans nach über einem Jahrhundert Bürgerkrieg in der Sengoku-Zeit.",
-      "en": "Oda Nobunaga marched into Kyoto and began the reunification of Japan after over a century of civil war in the Sengoku period."
-    }
-  },
-  {
     "id": "spanish-colonization-philippines",
     "coordinates": [
       120.98,
@@ -57,6 +37,26 @@
     "description": {
       "de": "Eine Koalition der Dekkan-Sultanate besiegt das Vijayanagara-Reich vernichtend; die prächtige Hauptstadt wird zerstört.",
       "en": "A coalition of Deccan sultanates decisively defeats the Vijayanagara Empire; its magnificent capital is destroyed."
+    }
+  },
+  {
+    "id": "oda-nobunaga-unification",
+    "coordinates": [
+      136.91,
+      35.18
+    ],
+    "year": 1568,
+    "type": "political",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Oda Nobunagas Marsch auf Kyoto",
+      "en": "Oda Nobunaga's March on Kyoto"
+    },
+    "description": {
+      "de": "Oda Nobunaga marschierte in Kyoto ein und begann die Wiedervereinigung Japans nach über einem Jahrhundert Bürgerkrieg in der Sengoku-Zeit.",
+      "en": "Oda Nobunaga marched into Kyoto and began the reunification of Japan after over a century of civil war in the Sengoku period."
     }
   },
   {

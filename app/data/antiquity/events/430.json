@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "vandal-kingdom-carthage",
+    "coordinates": [
+      10.32,
+      36.85
+    ],
+    "year": 439,
+    "type": "foundation",
+    "culturalSphere": [
+      "germanic"
+    ],
+    "labels": {
+      "de": "Vandalenreich in Nordafrika",
+      "en": "Vandal Kingdom in North Africa"
+    },
+    "description": {
+      "de": "König Geiserich führte die Vandalen von Spanien nach Nordafrika und nahm 439 n. Chr. Karthago ein, die wichtigste Getreideversorgungsstadt des Weströmischen Reiches. Das Vandalenreich kontrollierte anschließend das westliche Mittelmeer und schlug die gesamte Kornversorgung Roms ab.",
+      "en": "King Gaiseric led the Vandals from Spain to North Africa and captured Carthage in 439 AD, the most important grain supply city of the Western Roman Empire. The Vandal kingdom thereafter controlled the western Mediterranean and cut off Rome's entire grain supply."
+    }
+  }
+]

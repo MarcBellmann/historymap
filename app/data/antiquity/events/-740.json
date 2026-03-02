@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "greek-colonization-mediterranean",
+    "coordinates": [
+      15.09,
+      37.5
+    ],
+    "year": -734,
+    "type": "foundation",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Griechische Koloniegründungen im Mittelmeerraum",
+      "en": "Greek Colonization of the Mediterranean"
+    },
+    "description": {
+      "de": "Im 8. und 7. Jahrhundert v. Chr. gründeten griechische Städte Hunderte von Kolonien von Spanien bis zum Schwarzen Meer. Syrakus auf Sizilien war eine der bedeutendsten — die Kolonisierung verwandelte den Mittelmeerraum in eine vernetzt griechische Welt.",
+      "en": "In the 8th and 7th centuries BC, Greek cities founded hundreds of colonies from Spain to the Black Sea. Syracuse in Sicily was among the most significant — the colonization transformed the Mediterranean into an interconnected Greek world."
+    }
+  }
+]

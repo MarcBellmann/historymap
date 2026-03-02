@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "id": "sack-of-rome-gauls-390bc",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": -390,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "celtic"
+    ],
+    "labels": {
+      "de": "Plünderung Roms durch die Gallier",
+      "en": "Gallic Sack of Rome"
+    },
+    "description": {
+      "de": "Der gallische Heerführer Brennus besiegte die Römer am Fluss Allia und plünderte anschließend Rom — die schwerste Niederlage der jungen Republik. Das Trauma prägte Roms Militärreformen grundlegend und ließ die Römer niemals wieder ihre Verteidigungsanlagen vernachlässigen.",
+      "en": "The Gallic chieftain Brennus defeated the Romans at the river Allia and then sacked Rome — the gravest defeat of the young Republic. The trauma fundamentally shaped Rome's military reforms and ensured the Romans never again neglected their defenses."
+    }
+  },
+  {
+    "id": "gallic-sack-of-rome",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": -390,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "celtic"
+    ],
+    "labels": {
+      "de": "Gallicher Überfall auf Rom",
+      "en": "Gallic Sack of Rome"
+    },
+    "description": {
+      "de": "Die Senonen-Gallier unter Brennus schlugen das römische Heer an der Allia und plünderten Rom. Das traumatische Ereignis trieb Rom zu militärischen Reformen und zu einem strategischen Expansionswillen an, um künftige Bedrohungen aus dem Norden abzuwehren.",
+      "en": "Senonian Gauls under Brennus defeated the Roman army at the Allia River and sacked Rome. The traumatic event spurred Rome to military reforms and a strategic drive for expansion to ward off future threats from the north."
+    }
+  },
+  {
+    "id": "plato-founds-academy-athens",
+    "coordinates": [
+      23.72,
+      37.98
+    ],
+    "year": -387,
+    "type": "cultural",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Platon gründet die Akademie in Athen",
+      "en": "Plato Founds the Academy in Athens"
+    },
+    "description": {
+      "de": "Platon gründete in Athen die Akademie, die erste Hochschule der westlichen Welt. Die Institution prägte die Philosophie, Mathematik und Wissenschaft des antiken Griechenlands und blieb fast 900 Jahre lang ein Zentrum des Lernens.",
+      "en": "Plato founded the Academy in Athens, the first institution of higher learning in the Western world. The institution shaped the philosophy, mathematics, and science of ancient Greece and remained a center of learning for nearly 900 years."
+    }
+  }
+]

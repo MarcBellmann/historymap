@@ -1,45 +1,42 @@
 [
   {
-    "id": "crimean-war-sevastopol",
+    "id": "taiping-rebellion",
     "coordinates": [
-      33.53,
-      44.62
+      118.8,
+      32.06
     ],
-    "year": 1854,
-    "type": "battle",
+    "year": 1850,
+    "type": "political",
     "culturalSphere": [
-      "russian",
-      "european"
+      "chinese"
     ],
     "labels": {
-      "de": "Belagerung von Sewastopol (Krimkrieg)",
-      "en": "Siege of Sevastopol (Crimean War)"
+      "de": "Taiping-Aufstand",
+      "en": "Taiping Rebellion"
     },
     "description": {
-      "de": "Britische, französische und osmanische Truppen belagerten Sewastopol auf der Krim. Der Krimkrieg war der erste moderne Industriekrieg und erschütterte das Machtgefüge in Europa.",
-      "en": "British, French, and Ottoman forces besieged Sevastopol in Crimea. The Crimean War was the first modern industrialized war and shook the balance of power in Europe."
+      "de": "Hong Xiuquan gründete das Taiping-Himmlische Königreich und besetzte Nanjing. Der Bürgerkrieg (1850–1864) kostete 20–30 Millionen Menschenleben.",
+      "en": "Hong Xiuquan founded the Taiping Heavenly Kingdom and occupied Nanjing. The civil war (1850–1864) cost 20–30 million lives."
     }
   },
   {
-    "id": "battle-of-solferino",
+    "id": "taiping-heavenly-kingdom",
     "coordinates": [
-      10.57,
-      45.37
+      118.8,
+      32.06
     ],
-    "year": 1859,
-    "type": "battle",
+    "year": 1851,
+    "type": "political",
     "culturalSphere": [
-      "italian",
-      "french",
-      "habsburg"
+      "chinese"
     ],
     "labels": {
-      "de": "Schlacht von Solferino",
-      "en": "Battle of Solferino"
+      "de": "Taiping-Aufstand – Blutigster Bürgerkrieg der Geschichte",
+      "en": "Taiping Rebellion – Bloodiest Civil War in History"
     },
     "description": {
-      "de": "Die französisch-sardische Armee besiegte Österreich bei Solferino im italienischen Einigungskrieg. Die Schrecken der Schlacht inspirierten Henry Dunant zur Gründung des Roten Kreuzes.",
-      "en": "The Franco-Sardinian army defeated Austria at Solferino in the Italian unification war. The horrors of the battle inspired Henry Dunant to found the Red Cross."
+      "de": "Der Taiping-Aufstand (1850–1864) unter Hong Xiuquan erschütterte die Qing-Herrschaft in China. Der Gründer des Himmlischen Königreiches des großen Friedens predigte eine christlich inspierte Gesellschaftsutopie. Mit 20–30 Millionen Toten war es einer der blutigsten Konflikte der Weltgeschichte.",
+      "en": "The Taiping Rebellion (1850–1864) under Hong Xiuquan shook Qing rule in China. The founder of the Heavenly Kingdom of Great Peace preached a Christian-inspired social utopia. With 20–30 million dead, it was one of the bloodiest conflicts in world history."
     }
   },
   {
@@ -64,6 +61,70 @@
     }
   },
   {
+    "id": "perry-expedition-japan",
+    "coordinates": [
+      139.67,
+      35.28
+    ],
+    "year": 1853,
+    "type": "political",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Perrys schwarze Schiffe erzwingen Öffnung Japans",
+      "en": "Perry's Black Ships Force Opening of Japan"
+    },
+    "description": {
+      "de": "Commodore Matthew Perry erschien mit einer US-Flotte in der Bucht von Edo und erzwang das Ende der über 200-jährigen japanischen Isolation.",
+      "en": "Commodore Matthew Perry appeared with a US fleet in Edo Bay and forced the end of Japan's over 200 years of isolation."
+    }
+  },
+  {
+    "id": "crimean-war-sevastopol",
+    "coordinates": [
+      33.53,
+      44.62
+    ],
+    "year": 1854,
+    "type": "battle",
+    "culturalSphere": [
+      "russian",
+      "european"
+    ],
+    "labels": {
+      "de": "Belagerung von Sewastopol (Krimkrieg)",
+      "en": "Siege of Sevastopol (Crimean War)"
+    },
+    "description": {
+      "de": "Britische, französische und osmanische Truppen belagerten Sewastopol auf der Krim. Der Krimkrieg war der erste moderne Industriekrieg und erschütterte das Machtgefüge in Europa.",
+      "en": "British, French, and Ottoman forces besieged Sevastopol in Crimea. The Crimean War was the first modern industrialized war and shook the balance of power in Europe."
+    }
+  },
+  {
+    "id": "crimean-war-florence-nightingale",
+    "coordinates": [
+      34.35,
+      44.95
+    ],
+    "year": 1854,
+    "type": "battle",
+    "culturalSphere": [
+      "russian",
+      "ottoman",
+      "english",
+      "french"
+    ],
+    "labels": {
+      "de": "Krimkrieg – Konflikt der Großmächte",
+      "en": "Crimean War – Great Power Conflict"
+    },
+    "description": {
+      "de": "Der Krimkrieg (1853–1856) brachte Russland, das Osmanische Reich, Frankreich und Großbritannien auf der Halbinsel Krim in Konflikt. Neben seinen militärischen Folgen revolutionierte Florence Nightingales Pflegeeinsatz die moderne Krankenpflege, und die ersten Kriegsfotos veränderten die öffentliche Wahrnehmung von Krieg.",
+      "en": "The Crimean War (1853–1856) brought Russia, the Ottoman Empire, France, and Britain into conflict on the Crimean Peninsula. Beyond its military consequences, Florence Nightingale's nursing revolutionized modern healthcare, and the first war photographs transformed public perception of warfare."
+    }
+  },
+  {
     "id": "ottoman-tanzimat-edict",
     "coordinates": [
       28.978,
@@ -82,46 +143,6 @@
     "description": {
       "de": "Das Reformedikt von 1856 garantiert die volle Gleichberechtigung aller osmanischen Untertanen unabhängig von der Religion — ein Meilenstein der Tanzimat-Reformen.",
       "en": "The Reform Edict of 1856 guarantees full equality for all Ottoman subjects regardless of religion — a milestone of the Tanzimat reforms."
-    }
-  },
-  {
-    "id": "taiping-rebellion",
-    "coordinates": [
-      118.8,
-      32.06
-    ],
-    "year": 1850,
-    "type": "political",
-    "culturalSphere": [
-      "chinese"
-    ],
-    "labels": {
-      "de": "Taiping-Aufstand",
-      "en": "Taiping Rebellion"
-    },
-    "description": {
-      "de": "Hong Xiuquan gründete das Taiping-Himmlische Königreich und besetzte Nanjing. Der Bürgerkrieg (1850–1864) kostete 20–30 Millionen Menschenleben.",
-      "en": "Hong Xiuquan founded the Taiping Heavenly Kingdom and occupied Nanjing. The civil war (1850–1864) cost 20–30 million lives."
-    }
-  },
-  {
-    "id": "perry-expedition-japan",
-    "coordinates": [
-      139.67,
-      35.28
-    ],
-    "year": 1853,
-    "type": "political",
-    "culturalSphere": [
-      "japanese"
-    ],
-    "labels": {
-      "de": "Perrys schwarze Schiffe erzwingen Öffnung Japans",
-      "en": "Perry's Black Ships Force Opening of Japan"
-    },
-    "description": {
-      "de": "Commodore Matthew Perry erschien mit einer US-Flotte in der Bucht von Edo und erzwang das Ende der über 200-jährigen japanischen Isolation.",
-      "en": "Commodore Matthew Perry appeared with a US fleet in Edo Bay and forced the end of Japan's over 200 years of isolation."
     }
   },
   {
@@ -166,6 +187,27 @@
     }
   },
   {
+    "id": "sepoy-mutiny-india-1857",
+    "coordinates": [
+      77.01,
+      28.61
+    ],
+    "year": 1857,
+    "type": "political",
+    "culturalSphere": [
+      "indian",
+      "mughal"
+    ],
+    "labels": {
+      "de": "Indischer Aufstand von 1857",
+      "en": "Indian Rebellion of 1857"
+    },
+    "description": {
+      "de": "Der Aufstand von 1857, von Briten als 'Sepoy-Meuterei' bezeichnet, war ein massiver Volksaufstand gegen die britische East India Company. Er begann bei den Sepoy-Soldaten in Meerut und erfasste weite Teile Nordindiens; sein Scheitern führte zur direkten Übernahme Indiens durch die britische Krone.",
+      "en": "The 1857 revolt, called the 'Sepoy Mutiny' by the British, was a massive popular uprising against the British East India Company. Beginning with Sepoy soldiers in Meerut, it swept across northern India; its failure led to the direct takeover of India by the British Crown."
+    }
+  },
+  {
     "id": "british-raj-proclaimed",
     "coordinates": [
       88.36,
@@ -183,6 +225,28 @@
     "description": {
       "de": "Königin Victoria wird Kaiserin von Indien; die britische Krone übernimmt die Verwaltung von der Ostindien-Kompanie.",
       "en": "Queen Victoria is proclaimed Empress of India; the British Crown takes over administration from the East India Company."
+    }
+  },
+  {
+    "id": "battle-of-solferino",
+    "coordinates": [
+      10.57,
+      45.37
+    ],
+    "year": 1859,
+    "type": "battle",
+    "culturalSphere": [
+      "italian",
+      "french",
+      "habsburg"
+    ],
+    "labels": {
+      "de": "Schlacht von Solferino",
+      "en": "Battle of Solferino"
+    },
+    "description": {
+      "de": "Die französisch-sardische Armee besiegte Österreich bei Solferino im italienischen Einigungskrieg. Die Schrecken der Schlacht inspirierten Henry Dunant zur Gründung des Roten Kreuzes.",
+      "en": "The Franco-Sardinian army defeated Austria at Solferino in the Italian unification war. The horrors of the battle inspired Henry Dunant to found the Red Cross."
     }
   }
 ]

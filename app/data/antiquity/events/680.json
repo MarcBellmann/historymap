@@ -21,6 +21,27 @@
     }
   },
   {
+    "id": "bulgars-kingdom-founded",
+    "coordinates": [
+      27.92,
+      43.21
+    ],
+    "year": 681,
+    "type": "foundation",
+    "culturalSphere": [
+      "bulgar",
+      "slavic"
+    ],
+    "labels": {
+      "de": "Gründung des Ersten Bulgarischen Reichs",
+      "en": "Founding of the First Bulgarian Empire"
+    },
+    "description": {
+      "de": "Chan Asparuh gründet nach dem Sieg über Byzanz das Erste Bulgarische Reich an der Donau. Als eines der ersten slawischen Königreiche Osteuropas formte Bulgarien die Geschichte des Balkans und nahm 864 das Christentum an, was zur Entwicklung der slawischen Schriftkultur beitrug.",
+      "en": "Khan Asparuh founds the First Bulgarian Empire on the Danube after victory over Byzantium. As one of the first Slavic kingdoms of Eastern Europe, Bulgaria shaped Balkan history and adopted Christianity in 864, contributing to the development of Slavic literacy."
+    }
+  },
+  {
     "id": "rise-of-srivijaya",
     "coordinates": [
       104.75,
@@ -39,6 +60,28 @@
     "description": {
       "de": "Das Srivijaya-Reich mit Zentrum in Palembang auf Sumatra stieg zur maritimen Großmacht auf und kontrollierte die Meerenge von Malakka sowie den Seehandel Südostasiens.",
       "en": "The Srivijaya Empire, centered in Palembang on Sumatra, rose to become a maritime power controlling the Strait of Malacca and Southeast Asian sea trade."
+    }
+  },
+  {
+    "id": "srivijaya-maritime-empire",
+    "coordinates": [
+      104.77,
+      -2.99
+    ],
+    "year": 683,
+    "type": "foundation",
+    "culturalSphere": [
+      "srivijayan",
+      "southeast-asian",
+      "buddhist"
+    ],
+    "labels": {
+      "de": "Srivijaya – Buddhistische Seefahrernation",
+      "en": "Srivijaya – Buddhist Maritime Empire"
+    },
+    "description": {
+      "de": "Die Kedukan-Bukit-Inschrift belegt die Gründung Srivijayas in der Nähe des heutigen Palembang auf Sumatra. Als Kontrolleur der Straße von Malakka wurde Srivijaya zum dominanten Handelszentrum Südostasiens und einem wichtigen Zentrum des Buddhismus.",
+      "en": "The Kedukan Bukit inscription documents the founding of Srivijaya near present-day Palembang on Sumatra. As controller of the Strait of Malacca, Srivijaya became the dominant trading hub of Southeast Asia and an important center of Buddhism."
     }
   }
 ]

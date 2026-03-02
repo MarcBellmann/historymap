@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "rome-five-good-emperors",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 96,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Ära der Fünf Guten Kaiser",
+      "en": "Era of the Five Good Emperors"
+    },
+    "description": {
+      "de": "Von Nerva bis Marcus Aurelius regierten fünf Kaiser, die von Zeitgenossen und der Nachwelt als die Besten der römischen Geschichte gelobt wurden. In dieser Epoche expandierte das Reich auf seine größte Ausdehnung, die öffentliche Verwaltung verbesserte sich, und Philosophie und Literatur erlebten eine Blüte.",
+      "en": "From Nerva to Marcus Aurelius, five emperors ruled who were praised by contemporaries and posterity as the finest in Roman history. During this period the empire expanded to its greatest extent, public administration improved, and philosophy and literature flourished."
+    }
+  }
+]

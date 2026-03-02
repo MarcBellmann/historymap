@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "al-azhar-university-founded",
+    "coordinates": [
+      31.26,
+      30.05
+    ],
+    "year": 970,
+    "type": "foundation",
+    "culturalSphere": [
+      "islamic",
+      "fatimid"
+    ],
+    "labels": {
+      "de": "Gründung der Al-Azhar-Universität",
+      "en": "Founding of Al-Azhar University"
+    },
+    "description": {
+      "de": "Die Fatimiden gründen in Kairo die Al-Azhar-Moschee und Universität als ismailitisches Bildungszentrum. Al-Azhar ist eine der ältesten kontinuierlich betriebenen Universitäten der Welt und gilt noch heute als höchste islamische Lehrautorität.",
+      "en": "The Fatimids establish the Al-Azhar mosque and university in Cairo as an Ismaili center of learning. Al-Azhar is one of the oldest continuously operating universities in the world and remains the highest Islamic teaching authority today."
+    }
+  },
+  {
+    "id": "first-crusade-precursor-byzantine-appeal",
+    "coordinates": [
+      28.97,
+      41.01
+    ],
+    "year": 975,
+    "type": "political",
+    "culturalSphere": [
+      "byzantine",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Byzantinische Rückeroberungen in Syrien",
+      "en": "Byzantine Reconquests in Syria"
+    },
+    "description": {
+      "de": "Kaiser Johannes I. Tzimiskes führt Byzanz auf dem Höhepunkt seiner mittelalterlichen Macht und gewinnt Teile Syriens und des Heiligen Landes zurück. Diese kurzlebige Wiederherstellung byzantinischer Macht im Nahen Osten legte den Boden für spätere Kreuzzugs-Ideologie.",
+      "en": "Emperor John I Tzimiskes leads Byzantium at the peak of its medieval power, reconquering parts of Syria and the Holy Land. This brief restoration of Byzantine influence in the Near East planted seeds for later Crusade ideology."
+    }
+  }
+]

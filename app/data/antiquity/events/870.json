@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "viking-settlement-iceland",
+    "coordinates": [
+      -21.95,
+      64.13
+    ],
+    "year": 874,
+    "type": "foundation",
+    "culturalSphere": [
+      "viking",
+      "norse"
+    ],
+    "labels": {
+      "de": "Wikingersiedlung auf Island",
+      "en": "Viking Settlement of Iceland"
+    },
+    "description": {
+      "de": "Ingólfr Arnarson gründet die erste dauerhafte norwegische Siedlung auf Island und legt den Grundstein für Reykjavík. Island wurde zur letzten größeren menschlichen Besiedlung Europas und entwickelte eine der frühesten demokratischen Versammlungen — das Althing (930).",
+      "en": "Ingólfr Arnarson establishes the first permanent Norse settlement in Iceland, laying the foundation for Reykjavík. Iceland became Europe's last major human settlement and developed one of the earliest democratic assemblies — the Althing (930)."
+    }
+  }
+]

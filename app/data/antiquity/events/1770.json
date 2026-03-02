@@ -1,23 +1,22 @@
 [
   {
-    "id": "first-partition-of-poland",
+    "id": "bengal-famine-1770",
     "coordinates": [
-      21.01,
-      52.23
+      88.36,
+      22.57
     ],
-    "year": 1772,
-    "type": "political",
+    "year": 1770,
+    "type": "natural",
     "culturalSphere": [
-      "slavic",
-      "european"
+      "indian"
     ],
     "labels": {
-      "de": "Erste Teilung Polens",
-      "en": "First Partition of Poland"
+      "de": "Große Hungersnot in Bengalen",
+      "en": "Great Bengal Famine"
     },
     "description": {
-      "de": "Russland, Preußen und Österreich teilten große Gebiete Polen-Litauens unter sich auf. Die Erste Teilung leitete die vollständige Auflösung des polnisch-litauischen Staates ein.",
-      "en": "Russia, Prussia, and Austria divided large territories of Poland-Lithuania among themselves. The First Partition initiated the complete dissolution of the Polish-Lithuanian state."
+      "de": "Eine verheerende Hungersnot tötet etwa 10 Millionen Menschen in Bengalen unter der Verwaltung der Britischen Ostindien-Kompanie.",
+      "en": "A devastating famine kills approximately 10 million people in Bengal under British East India Company administration."
     }
   },
   {
@@ -41,23 +40,66 @@
     }
   },
   {
-    "id": "bengal-famine-1770",
+    "id": "first-partition-of-poland",
     "coordinates": [
-      88.36,
-      22.57
+      21.01,
+      52.23
     ],
-    "year": 1770,
-    "type": "natural",
+    "year": 1772,
+    "type": "political",
     "culturalSphere": [
-      "indian"
+      "slavic",
+      "european"
     ],
     "labels": {
-      "de": "Große Hungersnot in Bengalen",
-      "en": "Great Bengal Famine"
+      "de": "Erste Teilung Polens",
+      "en": "First Partition of Poland"
     },
     "description": {
-      "de": "Eine verheerende Hungersnot tötet etwa 10 Millionen Menschen in Bengalen unter der Verwaltung der Britischen Ostindien-Kompanie.",
-      "en": "A devastating famine kills approximately 10 million people in Bengal under British East India Company administration."
+      "de": "Russland, Preußen und Österreich teilten große Gebiete Polen-Litauens unter sich auf. Die Erste Teilung leitete die vollständige Auflösung des polnisch-litauischen Staates ein.",
+      "en": "Russia, Prussia, and Austria divided large territories of Poland-Lithuania among themselves. The First Partition initiated the complete dissolution of the Polish-Lithuanian state."
+    }
+  },
+  {
+    "id": "boston-tea-party",
+    "coordinates": [
+      -71.06,
+      42.36
+    ],
+    "year": 1773,
+    "type": "political",
+    "culturalSphere": [
+      "north-american",
+      "english"
+    ],
+    "labels": {
+      "de": "Boston Tea Party",
+      "en": "Boston Tea Party"
+    },
+    "description": {
+      "de": "Am 16. Dezember 1773 warfen amerikanische Kolonisten als Protest gegen britische Steuern 342 Kisten Tee in den Hafen von Boston. Das Ereignis wurde zum Katalysator für die Amerikanische Revolution und verdeutlichte die zunehmende Entfremdung zwischen den Kolonien und der britischen Krone.",
+      "en": "On 16 December 1773, American colonists threw 342 chests of tea into Boston Harbor to protest British taxation without representation. The event catalyzed the American Revolution and illustrated the growing rift between the colonies and the British Crown."
+    }
+  },
+  {
+    "id": "american-independence-declaration",
+    "coordinates": [
+      -75.16,
+      39.95
+    ],
+    "year": 1776,
+    "type": "political",
+    "culturalSphere": [
+      "north-american",
+      "english"
+    ],
+    "labels": {
+      "de": "Amerikanische Unabhängigkeitserklärung",
+      "en": "American Declaration of Independence"
+    },
+    "description": {
+      "de": "Am 4. Juli 1776 erklärten die 13 britischen Kolonien in Philadelphia ihre Unabhängigkeit von Großbritannien. Verfasst von Thomas Jefferson, stützte sich das Dokument auf Lockes Naturrechtstheorie und schuf erstmals eine Republik, die Volkssouveränität und individuelle Rechte als Staatsgrundlage verankerte.",
+      "en": "On 4 July 1776, the 13 British colonies in Philadelphia declared independence from Great Britain. Authored by Thomas Jefferson and grounded in Locke's natural rights theory, the document created a republic that established popular sovereignty and individual rights as foundations of government."
     }
   }
 ]

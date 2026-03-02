@@ -1,5 +1,45 @@
 [
   {
+    "id": "tupac-amaru-rebellion",
+    "coordinates": [
+      -71.97,
+      -13.52
+    ],
+    "year": 1780,
+    "type": "battle",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Aufstand von Túpac Amaru II.",
+      "en": "Túpac Amaru II Rebellion"
+    },
+    "description": {
+      "de": "Túpac Amaru II. führt den größten Aufstand gegen die spanische Kolonialherrschaft in Südamerika an.",
+      "en": "Túpac Amaru II leads the largest rebellion against Spanish colonial rule in South America."
+    }
+  },
+  {
+    "id": "founding-of-bangkok",
+    "coordinates": [
+      100.5,
+      13.76
+    ],
+    "year": 1782,
+    "type": "foundation",
+    "culturalSphere": [
+      "thai"
+    ],
+    "labels": {
+      "de": "Gründung von Bangkok – Chakri-Dynastie",
+      "en": "Founding of Bangkok – Chakri Dynasty"
+    },
+    "description": {
+      "de": "König Rama I. gründete die Chakri-Dynastie und verlegte die Hauptstadt nach Bangkok. Die neue Dynastie regiert Thailand bis heute.",
+      "en": "King Rama I founded the Chakri dynasty and moved the capital to Bangkok. The new dynasty rules Thailand to this day."
+    }
+  },
+  {
     "id": "storming-of-the-bastille",
     "coordinates": [
       2.37,
@@ -40,43 +80,65 @@
     }
   },
   {
-    "id": "founding-of-bangkok",
+    "id": "battle-of-dong-da-1789",
     "coordinates": [
-      100.5,
-      13.76
+      105.83,
+      21.03
     ],
-    "year": 1782,
-    "type": "foundation",
+    "year": 1789,
+    "type": "battle",
     "culturalSphere": [
-      "thai"
+      "vietnamese",
+      "chinese"
     ],
     "labels": {
-      "de": "Gründung von Bangkok – Chakri-Dynastie",
-      "en": "Founding of Bangkok – Chakri Dynasty"
+      "de": "Schlacht von Dong Da – Tay-Son-Aufstand besiegt Qing",
+      "en": "Battle of Dong Da – Tay Son Victory over Qing"
     },
     "description": {
-      "de": "König Rama I. gründete die Chakri-Dynastie und verlegte die Hauptstadt nach Bangkok. Die neue Dynastie regiert Thailand bis heute.",
-      "en": "King Rama I founded the Chakri dynasty and moved the capital to Bangkok. The new dynasty rules Thailand to this day."
+      "de": "Kaiser Quang Trung (Nguyen Hue) überfiel in der Neujahrsnacht 1789 die in Hanoi stationierten Qing-Truppen mit einem Blitzangriff und vernichtete ein 290.000 Mann starkes Invasionsheer in wenigen Tagen. Dieser Sieg sicherte Vietnams Unabhängigkeit von China und beendete zwei Jahrhunderte geteilter Herrschaft.",
+      "en": "Emperor Quang Trung (Nguyen Hue) launched a surprise attack on Qing troops stationed in Hanoi on New Year's night 1789, annihilating a 290,000-strong invasion force within days. This victory secured Vietnam's independence from China and ended two centuries of divided rule."
     }
   },
   {
-    "id": "tupac-amaru-rebellion",
+    "id": "french-revolution-declaration-rights",
     "coordinates": [
-      -71.97,
-      -13.52
+      2.35,
+      48.86
     ],
-    "year": 1780,
-    "type": "battle",
+    "year": 1789,
+    "type": "political",
     "culturalSphere": [
-      "andean"
+      "french",
+      "european"
     ],
     "labels": {
-      "de": "Aufstand von Túpac Amaru II.",
-      "en": "Túpac Amaru II Rebellion"
+      "de": "Erklärung der Menschen- und Bürgerrechte",
+      "en": "Declaration of the Rights of Man and Citizen"
     },
     "description": {
-      "de": "Túpac Amaru II. führt den größten Aufstand gegen die spanische Kolonialherrschaft in Südamerika an.",
-      "en": "Túpac Amaru II leads the largest rebellion against Spanish colonial rule in South America."
+      "de": "Die französische Nationalversammlung verabschiedete am 26. August 1789 die Erklärung der Menschen- und Bürgerrechte. Inspiriert von Aufklärungsideen und der amerikanischen Unabhängigkeitserklärung setzte das Dokument die Prinzipien Freiheit, Gleichheit und Volkssouveränität als Grundlagen moderner Demokratien.",
+      "en": "The French National Assembly adopted the Declaration of the Rights of Man and Citizen on 26 August 1789. Inspired by Enlightenment ideas and the American Declaration of Independence, the document established liberty, equality, and popular sovereignty as foundations of modern democracies."
+    }
+  },
+  {
+    "id": "french-revolution-storming-bastille",
+    "coordinates": [
+      2.37,
+      48.85
+    ],
+    "year": 1789,
+    "type": "political",
+    "culturalSphere": [
+      "french"
+    ],
+    "labels": {
+      "de": "Sturm auf die Bastille",
+      "en": "Storming of the Bastille"
+    },
+    "description": {
+      "de": "Am 14. Juli 1789 stürmten Pariser Bürger die Bastille, das Symbol der königlichen Tyrannei. Dieses Ereignis markiert den Beginn der Französischen Revolution, die die absolutistische Monarchie stürzte und Ideen von Freiheit, Gleichheit und Brüderlichkeit in die Welt trug.",
+      "en": "On 14 July 1789, Parisian citizens stormed the Bastille, the symbol of royal tyranny. This event marks the beginning of the French Revolution, which overthrew absolute monarchy and carried ideals of liberty, equality, and fraternity across the world."
     }
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "id": "goguryeo-sui-war",
+    "coordinates": [
+      125.75,
+      39.02
+    ],
+    "year": 612,
+    "type": "battle",
+    "culturalSphere": [
+      "korean",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Goguryeo-Sui-Krieg",
+      "en": "Goguryeo–Sui War"
+    },
+    "description": {
+      "de": "Goguryeo wehrte die massive Invasion Kaiser Yangs mit über einer Million Soldaten ab. Die katastrophale Niederlage der Sui trug maßgeblich zum Zusammenbruch der Sui-Dynastie bei.",
+      "en": "Goguryeo repelled Emperor Yang's massive invasion of over a million soldiers. The catastrophic Sui defeat was a major factor in the collapse of the Sui dynasty."
+    }
+  },
+  {
     "id": "sasanian-capture-of-jerusalem",
     "coordinates": [
       35.232,
@@ -19,27 +40,6 @@
     "description": {
       "de": "Die Sassaniden unter Khosrau II. erobern Jerusalem von Byzanz und verschleppen das Heilige Kreuz nach Ktesiphon. Tausende Christen werden getötet.",
       "en": "The Sassanids under Khosrow II capture Jerusalem from Byzantium and carry off the True Cross to Ctesiphon. Thousands of Christians are killed."
-    }
-  },
-  {
-    "id": "goguryeo-sui-war",
-    "coordinates": [
-      125.75,
-      39.02
-    ],
-    "year": 612,
-    "type": "battle",
-    "culturalSphere": [
-      "korean",
-      "chinese"
-    ],
-    "labels": {
-      "de": "Goguryeo-Sui-Krieg",
-      "en": "Goguryeo–Sui War"
-    },
-    "description": {
-      "de": "Goguryeo wehrte die massive Invasion Kaiser Yangs mit über einer Million Soldaten ab. Die katastrophale Niederlage der Sui trug maßgeblich zum Zusammenbruch der Sui-Dynastie bei.",
-      "en": "Goguryeo repelled Emperor Yang's massive invasion of over a million soldiers. The catastrophic Sui defeat was a major factor in the collapse of the Sui dynasty."
     }
   },
   {

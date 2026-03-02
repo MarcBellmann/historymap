@@ -1,5 +1,25 @@
 [
   {
+    "id": "wounded-knee-massacre",
+    "coordinates": [
+      -102.36,
+      43.15
+    ],
+    "year": 1890,
+    "type": "battle",
+    "culturalSphere": [
+      "north-american"
+    ],
+    "labels": {
+      "de": "Massaker von Wounded Knee",
+      "en": "Wounded Knee Massacre"
+    },
+    "description": {
+      "de": "US-Truppen töten über 250 Lakota-Sioux bei Wounded Knee; das Massaker markiert das Ende der indianischen Widerstandskriege.",
+      "en": "US troops kill over 250 Lakota Sioux at Wounded Knee; the massacre marks the end of the Native American resistance wars."
+    }
+  },
+  {
     "id": "dreyfus-affair",
     "coordinates": [
       2.35,
@@ -17,27 +37,6 @@
     "description": {
       "de": "Der jüdische Offizier Alfred Dreyfus wurde zu Unrecht des Hochverrats verurteilt. Die Affäre spaltete die französische Gesellschaft und wurde zum Wendepunkt im Kampf gegen Antisemitismus und für Bürgerrechte.",
       "en": "Jewish officer Alfred Dreyfus was unjustly convicted of treason. The affair divided French society and became a turning point in the fight against antisemitism and for civil rights."
-    }
-  },
-  {
-    "id": "battle-of-omdurman",
-    "coordinates": [
-      32.487,
-      15.645
-    ],
-    "year": 1898,
-    "type": "battle",
-    "culturalSphere": [
-      "north-african",
-      "islamic"
-    ],
-    "labels": {
-      "de": "Schlacht von Omdurman",
-      "en": "Battle of Omdurman"
-    },
-    "description": {
-      "de": "Britische und ägyptische Truppen unter Kitchener vernichten das Heer des Mahdisten-Staates bei Omdurman. Der Sudan kommt unter anglo-ägyptische Kontrolle.",
-      "en": "British and Egyptian forces under Kitchener destroy the Mahdist army at Omdurman. Sudan comes under Anglo-Egyptian control."
     }
   },
   {
@@ -60,26 +59,6 @@
     "description": {
       "de": "Japan besiegte China in einem Krieg um Einfluss in Korea. Der Vertrag von Shimonoseki zwang China zur Abtretung Taiwans und beendete die chinesische Dominanz in Ostasien.",
       "en": "Japan defeated China in a war over influence in Korea. The Treaty of Shimonoseki forced China to cede Taiwan and ended Chinese dominance in East Asia."
-    }
-  },
-  {
-    "id": "hundred-days-reform",
-    "coordinates": [
-      116.4,
-      39.9
-    ],
-    "year": 1898,
-    "type": "political",
-    "culturalSphere": [
-      "chinese"
-    ],
-    "labels": {
-      "de": "Hundert-Tage-Reform",
-      "en": "Hundred Days' Reform"
-    },
-    "description": {
-      "de": "Kaiser Guangxu versuchte umfassende Modernisierungsreformen, die jedoch von der konservativen Kaiserinwitwe Cixi nach nur 103 Tagen durch einen Staatsstreich beendet wurden.",
-      "en": "Emperor Guangxu attempted comprehensive modernization reforms, which were ended after only 103 days by a coup led by the conservative Empress Dowager Cixi."
     }
   },
   {
@@ -143,23 +122,65 @@
     }
   },
   {
-    "id": "wounded-knee-massacre",
+    "id": "battle-of-adwa-ethiopia",
     "coordinates": [
-      -102.36,
-      43.15
+      38.9,
+      14.17
     ],
-    "year": 1890,
+    "year": 1896,
     "type": "battle",
     "culturalSphere": [
-      "north-american"
+      "ethiopian",
+      "east-african"
     ],
     "labels": {
-      "de": "Massaker von Wounded Knee",
-      "en": "Wounded Knee Massacre"
+      "de": "Schlacht von Adua – Äthiopien besiegt Italien",
+      "en": "Battle of Adwa – Ethiopia Defeats Italy"
     },
     "description": {
-      "de": "US-Truppen töten über 250 Lakota-Sioux bei Wounded Knee; das Massaker markiert das Ende der indianischen Widerstandskriege.",
-      "en": "US troops kill over 250 Lakota Sioux at Wounded Knee; the massacre marks the end of the Native American resistance wars."
+      "de": "Am 1. März 1896 schlug Kaiser Menelik II. mit seiner äthiopischen Armee die 14.500 Mann starke italienische Invasionstruppe bei Adua vernichtend. Dies war die erste vollständige Niederlage einer europäischen Kolonialmacht durch eine afrikanische Nation und machte Äthiopien zum Symbol des afrikanischen Widerstands gegen den Kolonialismus.",
+      "en": "On 1 March 1896, Emperor Menelik II decisively defeated the 14,500-strong Italian invasion force at Adwa with his Ethiopian army. This was the first complete defeat of a European colonial power by an African nation, making Ethiopia a symbol of African resistance to colonialism."
+    }
+  },
+  {
+    "id": "battle-of-omdurman",
+    "coordinates": [
+      32.487,
+      15.645
+    ],
+    "year": 1898,
+    "type": "battle",
+    "culturalSphere": [
+      "north-african",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Schlacht von Omdurman",
+      "en": "Battle of Omdurman"
+    },
+    "description": {
+      "de": "Britische und ägyptische Truppen unter Kitchener vernichten das Heer des Mahdisten-Staates bei Omdurman. Der Sudan kommt unter anglo-ägyptische Kontrolle.",
+      "en": "British and Egyptian forces under Kitchener destroy the Mahdist army at Omdurman. Sudan comes under Anglo-Egyptian control."
+    }
+  },
+  {
+    "id": "hundred-days-reform",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "year": 1898,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Hundert-Tage-Reform",
+      "en": "Hundred Days' Reform"
+    },
+    "description": {
+      "de": "Kaiser Guangxu versuchte umfassende Modernisierungsreformen, die jedoch von der konservativen Kaiserinwitwe Cixi nach nur 103 Tagen durch einen Staatsstreich beendet wurden.",
+      "en": "Emperor Guangxu attempted comprehensive modernization reforms, which were ended after only 103 days by a coup led by the conservative Empress Dowager Cixi."
     }
   },
   {

@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "university-of-bologna-founded",
+    "coordinates": [
+      11.34,
+      44.49
+    ],
+    "year": 1088,
+    "type": "foundation",
+    "culturalSphere": [
+      "european",
+      "italian"
+    ],
+    "labels": {
+      "de": "Gründung der Universität Bologna",
+      "en": "Founding of the University of Bologna"
+    },
+    "description": {
+      "de": "Die Universität Bologna gilt als älteste Universität der westlichen Welt und war zunächst spezialisiert auf Rechtsstudien. Sie wurde zum Modell für die europäische Universitätsbewegung des Hochmittelalters und legte Grundlagen des westlichen Bildungssystems.",
+      "en": "The University of Bologna is considered the oldest university in the Western world and was initially specialized in legal studies. It became the model for the European university movement of the High Middle Ages and laid foundations of the Western educational system."
+    }
+  }
+]

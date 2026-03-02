@@ -1,5 +1,26 @@
 [
   {
+    "id": "hun-invasion-europe",
+    "coordinates": [
+      37,
+      48
+    ],
+    "year": 370,
+    "type": "political",
+    "culturalSphere": [
+      "germanic",
+      "steppe"
+    ],
+    "labels": {
+      "de": "Hunneneinfall in Europa",
+      "en": "Hun Invasion of Europe"
+    },
+    "description": {
+      "de": "Die Hunnen, ein nomadisches Reitervolk aus den eurasischen Steppen, überquerten die Wolga und griffen die Ostgoten an. Die Erschütterungen durch den Hunneneinfall lösten eine Kettenreaktion von Völkerwanderungen aus, die das Weströmische Reich destabilisieren sollten.",
+      "en": "The Huns, a nomadic equestrian people from the Eurasian steppes, crossed the Volga and attacked the Ostrogoths. The shock of the Hun invasion triggered a cascade of migrations that would ultimately destabilize the Western Roman Empire."
+    }
+  },
+  {
     "id": "introduction-of-buddhism-korea",
     "coordinates": [
       126.07,
@@ -17,6 +38,47 @@
     "description": {
       "de": "Der Mönch Sundo brachte den Buddhismus aus dem chinesischen Staat Qian Qin nach Goguryeo und begründete eine der wichtigsten religiösen Traditionen Koreas.",
       "en": "The monk Sundo brought Buddhism from the Chinese state of Former Qin to Goguryeo, establishing one of Korea's most important religious traditions."
+    }
+  },
+  {
+    "id": "chandragupta-ii-expansion",
+    "coordinates": [
+      77,
+      28.6
+    ],
+    "year": 375,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Chandragupta II. vereint Nordindien",
+      "en": "Chandragupta II Unifies Northern India"
+    },
+    "description": {
+      "de": "Chandragupta II. dehnte das Guptareich durch Feldzüge und diplomatische Heiraten aus und schuf ein Reich, das von Bengalen bis nach Westindien reichte. Seine Herrschaft brachte eine Ära des Friedens und der Prosperität, in der Handel, Kunst und Wissenschaft in ganz Nordindien aufblühten.",
+      "en": "Chandragupta II extended the Gupta Empire through military campaigns and diplomatic marriages, creating an empire stretching from Bengal to western India. His reign brought an era of peace and prosperity in which trade, art, and scholarship flourished across northern India."
+    }
+  },
+  {
+    "id": "battle-of-adrianople",
+    "coordinates": [
+      26.56,
+      41.68
+    ],
+    "year": 378,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "germanic"
+    ],
+    "labels": {
+      "de": "Katastrophe von Adrianopel",
+      "en": "Battle of Adrianople"
+    },
+    "description": {
+      "de": "Das westgotische Heer vernichtete eine römische Armee und tötete Kaiser Valens bei Adrianopel. Die verheerende Niederlage zwang Rom, germanische Föderaten als autonome Verbände auf eigenem Reichsboden anzusiedeln — ein Präzedenzfall, der zur schrittweisen Auflösung der weströmischen Militärstruktur führte.",
+      "en": "The Visigoth army annihilated a Roman army and killed Emperor Valens at Adrianople. The devastating defeat forced Rome to settle Germanic federates as autonomous units on imperial soil — a precedent that contributed to the gradual dissolution of the Western Roman military structure."
     }
   }
 ]

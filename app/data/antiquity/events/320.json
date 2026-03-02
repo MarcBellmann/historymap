@@ -1,5 +1,25 @@
 [
   {
+    "id": "gupta-empire-founded",
+    "coordinates": [
+      85.14,
+      25.61
+    ],
+    "year": 320,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Gründung des Gupta-Reiches",
+      "en": "Gupta Empire Founded"
+    },
+    "description": {
+      "de": "Chandragupta I. gründet das Gupta-Reich in Pataliputra und leitet ein goldenes Zeitalter der indischen Kultur ein.",
+      "en": "Chandragupta I founds the Gupta Empire at Pataliputra, ushering in a golden age of Indian culture."
+    }
+  },
+  {
     "id": "council-of-nicaea",
     "coordinates": [
       29.72,
@@ -20,23 +40,23 @@
     }
   },
   {
-    "id": "gupta-empire-founded",
+    "id": "constantine-nicene-council",
     "coordinates": [
-      85.14,
-      25.61
+      29.72,
+      40.42
     ],
-    "year": 320,
-    "type": "political",
+    "year": 325,
+    "type": "cultural",
     "culturalSphere": [
-      "indian"
+      "roman"
     ],
     "labels": {
-      "de": "Gründung des Gupta-Reiches",
-      "en": "Gupta Empire Founded"
+      "de": "Erstes Konzil von Nicaea",
+      "en": "First Council of Nicaea"
     },
     "description": {
-      "de": "Chandragupta I. gründet das Gupta-Reich in Pataliputra und leitet ein goldenes Zeitalter der indischen Kultur ein.",
-      "en": "Chandragupta I founds the Gupta Empire at Pataliputra, ushering in a golden age of Indian culture."
+      "de": "Kaiser Konstantin berief das erste ökumenische Konzil in Nicaea ein, um Streitfragen der christlichen Theologie zu klären — vor allem den Arianismus. Das Nicaeische Glaubensbekenntnis definierte die Grundlehren des Christentums und legte die Basis für die spätere Kirchenstruktur.",
+      "en": "Emperor Constantine convened the first ecumenical council at Nicaea to resolve disputes in Christian theology — especially Arianism. The Nicene Creed defined the core doctrines of Christianity and laid the foundation for the later church structure."
     }
   }
 ]

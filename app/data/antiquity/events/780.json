@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "id": "great-mosque-cordoba",
+    "coordinates": [
+      -4.78,
+      37.88
+    ],
+    "year": 785,
+    "type": "cultural",
+    "culturalSphere": [
+      "islamic",
+      "umayyad",
+      "andalusian"
+    ],
+    "labels": {
+      "de": "Große Moschee von Córdoba",
+      "en": "Great Mosque of Córdoba"
+    },
+    "description": {
+      "de": "Abd ar-Rahman I. beginnt den Bau der Großen Moschee in Córdoba als Symbol des unabhängigen Umayyaden-Emirats in Al-Andalus. Das Bauwerk gilt als Meisterwerk islamischer Architektur und wurde zum religiösen und kulturellen Herz der islamischen iberischen Halbinsel.",
+      "en": "Abd ar-Rahman I begins construction of the Great Mosque in Córdoba as a symbol of the independent Umayyad emirate in Al-Andalus. The building is considered a masterpiece of Islamic architecture and became the religious and cultural heart of Islamic Iberia."
+    }
+  },
+  {
+    "id": "harun-al-rashid-reign",
+    "coordinates": [
+      44.36,
+      33.34
+    ],
+    "year": 786,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "abbasid"
+    ],
+    "labels": {
+      "de": "Harun al-Rashid – Höhepunkt des Abbasidenreichs",
+      "en": "Harun al-Rashid – Peak of the Abbasid Caliphate"
+    },
+    "description": {
+      "de": "Kalif Harun al-Rashid besteigt in Bagdad den Thron und führt das Abbasidenreich in seine goldene Ära. Sein Hof wurde zum leuchtenden Zentrum der Wissenschaften, Literatur und Medizin – verewigt in Tausendundeine Nacht.",
+      "en": "Caliph Harun al-Rashid ascends the throne in Baghdad and leads the Abbasid Caliphate into its golden age. His court became a brilliant center of science, literature, and medicine — immortalized in One Thousand and One Nights."
+    }
+  }
+]

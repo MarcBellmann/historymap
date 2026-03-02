@@ -1,5 +1,46 @@
 [
   {
+    "id": "founding-of-song-dynasty",
+    "coordinates": [
+      114.31,
+      34.8
+    ],
+    "year": 960,
+    "type": "foundation",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Gründung der Song-Dynastie",
+      "en": "Founding of the Song Dynasty"
+    },
+    "description": {
+      "de": "Zhao Kuangyin gründete die Song-Dynastie und vereinigte den Großteil Chinas. Die Song-Ära brachte bedeutende technologische Innovationen wie Buchdruck, Schießpulver und Kompass hervor.",
+      "en": "Zhao Kuangyin founded the Song dynasty and unified most of China. The Song era produced major technological innovations including printing, gunpowder, and the compass."
+    }
+  },
+  {
+    "id": "song-dynasty-founded",
+    "coordinates": [
+      113.65,
+      34.75
+    ],
+    "year": 960,
+    "type": "foundation",
+    "culturalSphere": [
+      "chinese",
+      "song"
+    ],
+    "labels": {
+      "de": "Gründung der Song-Dynastie",
+      "en": "Founding of the Song Dynasty"
+    },
+    "description": {
+      "de": "General Zhao Kuangyin übernimmt die Herrschaft und gründet die Song-Dynastie, die nach den Wirren der Fünf Dynastien China befriedet. Die Song-Ära brachte bahnbrechende Erfindungen — Kompass, Schießpulver, beweglicher Drucktyp — und eine blühende Wirtschaft.",
+      "en": "General Zhao Kuangyin seizes power and founds the Song dynasty, pacifying China after the turbulence of the Five Dynasties period. The Song era produced groundbreaking inventions — compass, gunpowder, movable type — and a flourishing economy."
+    }
+  },
+  {
     "id": "founding-of-cairo",
     "coordinates": [
       31.236,
@@ -22,23 +63,24 @@
     }
   },
   {
-    "id": "founding-of-song-dynasty",
+    "id": "fatimid-cairo-founded",
     "coordinates": [
-      114.31,
-      34.8
+      31.24,
+      30.06
     ],
-    "year": 960,
+    "year": 969,
     "type": "foundation",
     "culturalSphere": [
-      "chinese"
+      "islamic",
+      "fatimid"
     ],
     "labels": {
-      "de": "Gründung der Song-Dynastie",
-      "en": "Founding of the Song Dynasty"
+      "de": "Gründung von Kairo durch die Fatimiden",
+      "en": "Founding of Cairo by the Fatimids"
     },
     "description": {
-      "de": "Zhao Kuangyin gründete die Song-Dynastie und vereinigte den Großteil Chinas. Die Song-Ära brachte bedeutende technologische Innovationen wie Buchdruck, Schießpulver und Kompass hervor.",
-      "en": "Zhao Kuangyin founded the Song dynasty and unified most of China. The Song era produced major technological innovations including printing, gunpowder, and the compass."
+      "de": "General Jawhar al-Siqilli gründet im Auftrag des fatimidischen Kalifen al-Mu'izz die Hauptstadt al-Qahira (Kairo) als Rivale zu Bagdad. Als schiitische Gegenherrschaft zum sunnitischen Abbasidenreich wurde Kairo zum Zentrum einer rivalisierenden islamischen Zivilisation.",
+      "en": "General Jawhar al-Siqilli founds the capital al-Qahira (Cairo) on behalf of Fatimid Caliph al-Mu'izz as a rival to Baghdad. As a Shia counterpoint to the Sunni Abbasid empire, Cairo became the center of a rival Islamic civilization."
     }
   }
 ]

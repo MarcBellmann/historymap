@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "fall-of-western-rome-barbarian-kingdoms",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 480,
+    "type": "political",
+    "culturalSphere": [
+      "roman",
+      "germanic"
+    ],
+    "labels": {
+      "de": "Entstehung germanischer Nachfolgestaaten",
+      "en": "Rise of Germanic Successor Kingdoms"
+    },
+    "description": {
+      "de": "Nach dem Untergang des Weströmischen Reiches 476 n. Chr. entstanden auf ehemals römischem Gebiet germanische Königreiche: Westgoten in Spanien, Franken in Gallien, Ostgoten in Italien, Vandalen in Nordafrika. Diese Reiche übernahmen viele römische Verwaltungsstrukturen und bildeten die Grundlage der mittelalterlichen europäischen Staatenwelt.",
+      "en": "After the fall of the Western Roman Empire in 476 AD, Germanic kingdoms emerged on formerly Roman territory: Visigoths in Spain, Franks in Gaul, Ostrogoths in Italy, Vandals in North Africa. These kingdoms adopted many Roman administrative structures and formed the foundation of the medieval European state system."
+    }
+  }
+]

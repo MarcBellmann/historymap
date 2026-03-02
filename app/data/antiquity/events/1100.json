@@ -18,5 +18,25 @@
       "de": "Cahokia in der Nähe des heutigen St. Louis erreicht mit über 20.000 Einwohnern seinen Höhepunkt als größte Stadt Nordamerikas.",
       "en": "Cahokia near modern-day St. Louis reaches its peak with over 20,000 inhabitants, the largest city in North America."
     }
+  },
+  {
+    "id": "crusader-states-peak-outremer",
+    "coordinates": [
+      35.5,
+      32.1
+    ],
+    "year": 1100,
+    "type": "political",
+    "culturalSphere": [
+      "crusader"
+    ],
+    "labels": {
+      "de": "Blüte der Kreuzfahrerstaaten Outremer",
+      "en": "Peak of the Crusader States Outremer"
+    },
+    "description": {
+      "de": "Im frühen 12. Jahrhundert bildeten die vier Kreuzfahrerstaaten – Königreich Jerusalem, Grafschaft Tripolis, Fürstentum Antiochia und Grafschaft Edessa – eine eigenständige politische und kulturelle Zone an der Schnittstelle von Christentum und Islam. Outremer entwickelte eine hybride Kultur, die westliche, byzantinische und arabische Elemente verband.",
+      "en": "In the early 12th century, the four Crusader states – Kingdom of Jerusalem, County of Tripoli, Principality of Antioch, and County of Edessa – formed a distinct political and cultural zone at the intersection of Christianity and Islam. Outremer developed a hybrid culture blending Western, Byzantine, and Arab elements."
+    }
   }
 ]

@@ -1,23 +1,23 @@
 [
   {
-    "id": "spanish-armada-defeat",
+    "id": "dutch-revolt-spain-independence",
     "coordinates": [
-      -5.3,
-      50.1
+      4.9,
+      52.37
     ],
-    "year": 1588,
-    "type": "battle",
+    "year": 1581,
+    "type": "political",
     "culturalSphere": [
-      "spanish",
-      "english"
+      "dutch",
+      "habsburg"
     ],
     "labels": {
-      "de": "Niederlage der Spanischen Armada",
-      "en": "Defeat of the Spanish Armada"
+      "de": "Niederländische Unabhängigkeitserklärung von Spanien",
+      "en": "Dutch Declaration of Independence from Spain"
     },
     "description": {
-      "de": "Die englische Flotte und schwere Stürme vernichteten die Spanische Armada im Ärmelkanal. Die Niederlage beendete Spaniens Traum einer Invasion Englands und markierte den Aufstieg der englischen Seemacht.",
-      "en": "The English fleet and fierce storms destroyed the Spanish Armada in the English Channel. The defeat ended Spain's dream of invading England and marked the rise of English naval power."
+      "de": "Mit der Akte der Verlassung erklärten die sieben nördlichen niederländischen Provinzen 1581 die Absetzung Philipps II. von Spanien. Der Achtzigjährige Krieg endete 1648 mit der spanischen Anerkennung der Republik der Sieben Vereinigten Provinzen – Pionier republikanischer Staatsform und kommerzieller Freiheit.",
+      "en": "With the Act of Abjuration, the seven northern Dutch provinces declared the deposition of Philip II of Spain in 1581. The Eighty Years' War ended in 1648 with Spanish recognition of the Republic of the Seven United Provinces – a pioneer of republican governance and commercial freedom."
     }
   },
   {
@@ -38,6 +38,68 @@
     "description": {
       "de": "Mogulkaiser Akbar verkündet in Fatehpur Sikri den Din-i Ilahi, einen synkretistischen Glauben, der Elemente verschiedener Religionen vereint.",
       "en": "Mughal emperor Akbar proclaims Din-i Ilahi at Fatehpur Sikri, a syncretic faith blending elements of various religions."
+    }
+  },
+  {
+    "id": "yermak-conquest-siberia",
+    "coordinates": [
+      68.99,
+      58.21
+    ],
+    "year": 1582,
+    "type": "political",
+    "culturalSphere": [
+      "russian"
+    ],
+    "labels": {
+      "de": "Jermak – Russische Eroberung Sibiriens",
+      "en": "Yermak – Russian Conquest of Siberia"
+    },
+    "description": {
+      "de": "Der Kosakenführer Jermak Timofejewitsch überwand 1582 die Streitkräfte des Sibirischen Khanats und nahm dessen Hauptstadt Qashliq ein. Dieser Feldzug leitete die russische Expansion nach Osten ein und eröffnete Jahrzehnte der Eroberung riesiger Territorien, die das heutige Sibirien umfassen.",
+      "en": "Cossack leader Yermak Timofeyevich defeated the forces of the Siberian Khanate in 1582 and captured its capital Qashliq. This campaign initiated Russian expansion eastward, opening decades of conquest over vast territories comprising modern-day Siberia."
+    }
+  },
+  {
+    "id": "safavid-persia-golden-age-isfahan",
+    "coordinates": [
+      51.67,
+      32.66
+    ],
+    "year": 1587,
+    "type": "cultural",
+    "culturalSphere": [
+      "persian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Safawidisches Persien – Goldenes Zeitalter Isfahans",
+      "en": "Safavid Persia – Golden Age of Isfahan"
+    },
+    "description": {
+      "de": "Shah Abbas I. (1587–1629) machte Isfahan zur prächtigen Hauptstadt des Safawidenreiches und förderte Architektur, Kunst und Handel. Der Naqsh-e Jahan-Platz, der Prunkbazaar und die Shah-Moschee entstanden – Isfahan wurde zum Zentrum persischer Hochkultur und des Seidenhandels mit Europa.",
+      "en": "Shah Abbas I (1587–1629) made Isfahan the magnificent capital of the Safavid Empire, patronizing architecture, art, and commerce. The Naqsh-e Jahan square, grand bazaar, and Shah Mosque were built – Isfahan became the center of Persian high culture and silk trade with Europe."
+    }
+  },
+  {
+    "id": "spanish-armada-defeat",
+    "coordinates": [
+      -5.3,
+      50.1
+    ],
+    "year": 1588,
+    "type": "battle",
+    "culturalSphere": [
+      "spanish",
+      "english"
+    ],
+    "labels": {
+      "de": "Niederlage der Spanischen Armada",
+      "en": "Defeat of the Spanish Armada"
+    },
+    "description": {
+      "de": "Die englische Flotte und schwere Stürme vernichteten die Spanische Armada im Ärmelkanal. Die Niederlage beendete Spaniens Traum einer Invasion Englands und markierte den Aufstieg der englischen Seemacht.",
+      "en": "The English fleet and fierce storms destroyed the Spanish Armada in the English Channel. The defeat ended Spain's dream of invading England and marked the rise of English naval power."
     }
   }
 ]

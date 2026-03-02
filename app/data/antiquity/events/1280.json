@@ -21,27 +21,6 @@
     }
   },
   {
-    "id": "mongol-invasion-vietnam",
-    "coordinates": [
-      105.85,
-      21.03
-    ],
-    "year": 1288,
-    "type": "battle",
-    "culturalSphere": [
-      "vietnamese",
-      "mongol"
-    ],
-    "labels": {
-      "de": "Trần-Sieg über die Mongolen in Vietnam",
-      "en": "Trần Victory over Mongols in Vietnam"
-    },
-    "description": {
-      "de": "Die Trần-Dynastie unter General Trần Hưng Đạo besiegte die dritte mongolische Invasion am Bạch Đằng. Vietnam bewahrte seine Unabhängigkeit.",
-      "en": "The Trần dynasty under General Trần Hưng Đạo defeated the third Mongol invasion at the Bạch Đằng River. Vietnam preserved its independence."
-    }
-  },
-  {
     "id": "mongol-invasion-burma",
     "coordinates": [
       94.86,
@@ -60,6 +39,27 @@
     "description": {
       "de": "Die Mongolen fielen in Burma ein und zerstörten das Königreich Bagan. Myanmar zerfiel in mehrere rivalisierende Kleinstaaten.",
       "en": "The Mongols invaded Burma and destroyed the Pagan Kingdom. Myanmar fragmented into several rival small states."
+    }
+  },
+  {
+    "id": "mongol-invasion-vietnam",
+    "coordinates": [
+      105.85,
+      21.03
+    ],
+    "year": 1288,
+    "type": "battle",
+    "culturalSphere": [
+      "vietnamese",
+      "mongol"
+    ],
+    "labels": {
+      "de": "Trần-Sieg über die Mongolen in Vietnam",
+      "en": "Trần Victory over Mongols in Vietnam"
+    },
+    "description": {
+      "de": "Die Trần-Dynastie unter General Trần Hưng Đạo besiegte die dritte mongolische Invasion am Bạch Đằng. Vietnam bewahrte seine Unabhängigkeit.",
+      "en": "The Trần dynasty under General Trần Hưng Đạo defeated the third Mongol invasion at the Bạch Đằng River. Vietnam preserved its independence."
     }
   }
 ]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "birth-of-buddha-lumbini",
+    "coordinates": [
+      83.28,
+      27.47
+    ],
+    "year": -563,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Geburt des Buddha in Lumbini",
+      "en": "Birth of the Buddha in Lumbini"
+    },
+    "description": {
+      "de": "Siddhartha Gautama wurde in Lumbini im heutigen Nepal als Prinz des Shakya-Clans geboren. Obwohl sein Vater ihn vor dem Leid der Welt abschirmte, verließ er mit 29 Jahren den Palast und begab sich auf einen geistigen Weg, der ihn zur Erleuchtung führte.",
+      "en": "Siddhartha Gautama was born in Lumbini in modern Nepal as a prince of the Shakya clan. Though his father shielded him from the world's suffering, at age 29 he left the palace and began a spiritual journey that led him to enlightenment."
+    }
+  }
+]

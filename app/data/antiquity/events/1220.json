@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "id": "mongol-sack-of-samarkand",
+    "coordinates": [
+      66.98,
+      39.67
+    ],
+    "year": 1220,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "central-asian"
+    ],
+    "labels": {
+      "de": "Mongolen plündern Samarkand",
+      "en": "Mongols Sack Samarkand"
+    },
+    "description": {
+      "de": "Dschingis Khan zerstörte Samarkand, das blühende Zentrum des Khwarezm-Reiches, nach kurzer Belagerung. Die Vernichtung der Seidenstraßenmetropole und ihrer Bevölkerung war Teil des systematischen Feldzugs gegen das Khwarezm-Sultanat und veränderte Zentralasiens Machtverhältnisse dauerhaft.",
+      "en": "Genghis Khan destroyed Samarkand, the flourishing center of the Khwarezm Empire, after a brief siege. The destruction of the Silk Road metropolis and its population was part of the systematic campaign against the Khwarezm Sultanate and permanently altered Central Asia's power structure."
+    }
+  },
+  {
+    "id": "mongol-sack-of-bukhara",
+    "coordinates": [
+      64.42,
+      39.77
+    ],
+    "year": 1220,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "central-asian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Mongolen plündern Buchara",
+      "en": "Mongols Sack Bukhara"
+    },
+    "description": {
+      "de": "Buchara, eines der führenden intellektuellen und kulturellen Zentren des Islam, fiel im Februar 1220 an Dschingis Khans Truppen. Der Schatz islamischer Manuskripte, Moscheen und Schulen wurde größtenteils vernichtet und symbolisiert die verheerende Wirkung der Mongoleneroberung auf die islamische Welt.",
+      "en": "Bukhara, one of the leading intellectual and cultural centers of Islam, fell to Genghis Khan's forces in February 1220. The treasury of Islamic manuscripts, mosques, and schools was largely destroyed, symbolizing the devastating impact of Mongol conquest on the Islamic world."
+    }
+  },
+  {
+    "id": "mongol-conquest-of-khwarezm",
+    "coordinates": [
+      60.36,
+      41.55
+    ],
+    "year": 1221,
+    "type": "political",
+    "culturalSphere": [
+      "mongol",
+      "central-asian"
+    ],
+    "labels": {
+      "de": "Mongolische Eroberung des Khwarezm-Reiches",
+      "en": "Mongol Conquest of the Khwarezm Empire"
+    },
+    "description": {
+      "de": "Innerhalb von zwei Jahren vernichteten die Mongolen das blühende Khwarezm-Reich, das von Persien bis Zentralasien reichte. Der Feldzug löschte floriegende Städte wie Merv, Urgench und Nishapur aus und kostete Millionen Menschen das Leben.",
+      "en": "Within two years, the Mongols destroyed the thriving Khwarezm Empire, stretching from Persia to Central Asia. The campaign wiped out flourishing cities like Merv, Urgench, and Nishapur and cost millions of lives."
+    }
+  },
+  {
+    "id": "mongol-destruction-of-merv",
+    "coordinates": [
+      62.16,
+      37.62
+    ],
+    "year": 1221,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "central-asian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Mongolen zerstören Merw",
+      "en": "Mongols Destroy Merv"
+    },
+    "description": {
+      "de": "Merw, einstmals eine der größten Städte der Welt und bedeutendes Zentrum islamischer Wissenschaft, wurde von den Mongolen vollständig ausgelöscht. Berichte von Hundertausenden Todesopfern zeigen das Ausmaß der Zerstörung, die das Zentrum Chorāsāns nie wieder erholte.",
+      "en": "Merv, once one of the world's largest cities and a major center of Islamic learning, was completely annihilated by the Mongols. Reports of hundreds of thousands of deaths reflect the extent of destruction from which the heart of Khorasan never recovered."
+    }
+  },
+  {
+    "id": "mongol-sack-of-nishapur",
+    "coordinates": [
+      58.8,
+      36.21
+    ],
+    "year": 1221,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Mongolen zerstören Nischapur",
+      "en": "Mongols Destroy Nishapur"
+    },
+    "description": {
+      "de": "Nischapur, eine der ältesten und blühendsten Städte Persiens und Geburtsort von Omar Khayyam, wurde von den Mongolen vollständig zerstört. Die Geschichte der totalen Vernichtung – der Befehl lautete, nicht einmal Hunde oder Katzen zu verschonen – steht stellvertretend für den Untergang der klassischen persischen Stadtkultur.",
+      "en": "Nishapur, one of Persia's oldest and most flourishing cities and birthplace of Omar Khayyam, was completely destroyed by the Mongols. The story of total annihilation – orders were given to spare not even dogs or cats – stands for the downfall of classical Persian urban culture."
+    }
+  },
+  {
+    "id": "battle-of-the-indus-jalal-ad-din",
+    "coordinates": [
+      71.5,
+      31.5
+    ],
+    "year": 1221,
+    "type": "battle",
+    "culturalSphere": [
+      "mongol",
+      "central-asian"
+    ],
+    "labels": {
+      "de": "Indusschlacht – Jalāl ad-Dīns letzter Widerstand",
+      "en": "Battle of the Indus – Jalal ad-Din's Last Stand"
+    },
+    "description": {
+      "de": "Der letzte Khwarezm-Shah Jalāl ad-Dīn stellte sich am Indus persönlich den mongolischen Truppen Dschingis Khans. Obwohl er besiegt wurde und über den Indus entkam, bewies seine hartnäckige Gegenwehr den Mut des letzten islamischen Widerstands gegen die Mongolen.",
+      "en": "The last Khwarezm Shah Jalal ad-Din personally confronted Genghis Khan's Mongol forces at the Indus River. Though defeated and escaping across the Indus, his tenacious resistance demonstrated the courage of the last Islamic resistance against the Mongols."
+    }
+  },
+  {
+    "id": "fifth-crusade-failure",
+    "coordinates": [
+      32.26,
+      31.19
+    ],
+    "year": 1221,
+    "type": "battle",
+    "culturalSphere": [
+      "crusader",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Fünfter Kreuzzug – Scheitern vor Damiette",
+      "en": "Fifth Crusade – Failure at Damietta"
+    },
+    "description": {
+      "de": "Der Fünfte Kreuzzug marschierte auf Ägypten zu, um Jerusalem durch Kontrolle des nilotischen Zentrums zurückzugewinnen. Der Angriff auf Kairo scheiterte an der Nilflut, und der Kreuzzug endete im August 1221 mit einer demütigenden Kapitulation.",
+      "en": "The Fifth Crusade marched into Egypt to recapture Jerusalem by controlling the Nile delta center. The attack on Cairo failed due to the Nile flood, and the crusade ended in humiliating surrender in August 1221."
+    }
+  },
+  {
+    "id": "church-of-saint-francis-assisi",
+    "coordinates": [
+      12.61,
+      43.07
+    ],
+    "year": 1228,
+    "type": "cultural",
+    "culturalSphere": [
+      "roman-catholic",
+      "italian"
+    ],
+    "labels": {
+      "de": "Heiligsprechung des Franz von Assisi",
+      "en": "Canonization of Francis of Assisi"
+    },
+    "description": {
+      "de": "Papst Gregor IX. sprach Franz von Assisi 1228, nur zwei Jahre nach seinem Tod, heilig – ein Zeichen seiner außergewöhnlichen Bedeutung. Der Heilige und die von ihm gegründeten Franziskaner wurden zu einer reformerischen Kraft in der mittelalterlichen Kirche.",
+      "en": "Pope Gregory IX canonized Francis of Assisi in 1228, only two years after his death – a sign of his exceptional significance. The saint and the Franciscans he founded became a reforming force in the medieval church."
+    }
+  }
+]

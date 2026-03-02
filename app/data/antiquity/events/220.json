@@ -1,5 +1,25 @@
 [
   {
+    "id": "eastern-han-fall",
+    "coordinates": [
+      112,
+      34.75
+    ],
+    "year": 220,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Ende der Han-Dynastie",
+      "en": "Fall of the Han Dynasty"
+    },
+    "description": {
+      "de": "Der letzte Kaiser der Han-Dynastie, Xian, dankte ab und beendete damit 400 Jahre Han-Herrschaft über China. Das Reich zersplitterte in drei miteinander rivalisierende Königreiche — Wei, Wu und Shu Han —, eine Ära, die als Drei-Königreiche-Zeit bekannt ist und bis heute die chinesische Literatur und Kultur prägt.",
+      "en": "The last Han emperor, Xian, abdicated, ending 400 years of Han rule over China. The empire fragmented into three rival kingdoms — Wei, Wu, and Shu Han — an era known as the Three Kingdoms period that continues to shape Chinese literature and culture."
+    }
+  },
+  {
     "id": "sassanid-empire-founded",
     "coordinates": [
       52.891,
@@ -18,6 +38,26 @@
     "description": {
       "de": "Ardaschir I. besiegt den letzten Partherkönig und gründet das Sassanidenreich, das über 400 Jahre lang Roms und Byzanz' größter Rivale im Osten bleibt.",
       "en": "Ardashir I defeats the last Parthian king and founds the Sassanid Empire, which remains Rome's and Byzantium's greatest eastern rival for over 400 years."
+    }
+  },
+  {
+    "id": "sassanid-empire-ardashir",
+    "coordinates": [
+      44.58,
+      33.09
+    ],
+    "year": 224,
+    "type": "foundation",
+    "culturalSphere": [
+      "persian"
+    ],
+    "labels": {
+      "de": "Gründung des Sassanidenreichs",
+      "en": "Founding of the Sassanid Empire"
+    },
+    "description": {
+      "de": "Ardashir I. besiegte den letzten Partherkönig Artabanos IV. und krönte sich zum Schahanschah — König der Könige. Das Sassanidenreich erneuerte die zoroastrische Staatstradition Persiens und wurde für vier Jahrhunderte zur größten Rivalin Roms im Osten.",
+      "en": "Ardashir I defeated the last Parthian king Artabanus IV and crowned himself Shahanshah — King of Kings. The Sassanid Empire revived the Zoroastrian state tradition of Persia and became Rome's greatest eastern rival for four centuries."
     }
   }
 ]

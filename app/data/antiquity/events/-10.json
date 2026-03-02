@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "augustan-golden-age-literature",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": -10,
+    "type": "cultural",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Augusteisches Goldenes Zeitalter der Literatur",
+      "en": "Augustan Golden Age of Literature"
+    },
+    "description": {
+      "de": "Unter der Förderung des Augustus und seines Freundes Maecenas schufen Vergil (Aeneis), Horaz (Oden) und Ovid (Metamorphosen) Werke, die die lateinische Literatur für zwei Jahrtausende prägten. Die augusteische Dichtung verschmolz griechische Vorbilder mit römischem Nationalstolz und kaiserlicher Ideologie.",
+      "en": "Under the patronage of Augustus and his friend Maecenas, Virgil (Aeneid), Horace (Odes), and Ovid (Metamorphoses) created works that shaped Latin literature for two millennia. Augustan poetry blended Greek models with Roman national pride and imperial ideology."
+    }
+  }
+]

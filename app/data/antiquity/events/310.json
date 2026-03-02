@@ -1,25 +1,5 @@
 [
   {
-    "id": "edict-of-milan",
-    "coordinates": [
-      9.19,
-      45.46
-    ],
-    "year": 313,
-    "type": "political",
-    "culturalSphere": [
-      "roman"
-    ],
-    "labels": {
-      "de": "Mailänder Toleranzedikt",
-      "en": "Edict of Milan"
-    },
-    "description": {
-      "de": "Kaiser Konstantin und Licinius vereinbarten in Mailand die Religionsfreiheit im Römischen Reich. Das Edikt beendete die Christenverfolgungen und ebnete den Weg zur Christianisierung Europas.",
-      "en": "Emperors Constantine and Licinius agreed on religious freedom in the Roman Empire at Milan. The edict ended the persecution of Christians and paved the way for the Christianization of Europe."
-    }
-  },
-  {
     "id": "disaster-of-yongjia",
     "coordinates": [
       112.45,
@@ -37,6 +17,46 @@
     "description": {
       "de": "Xiongnu-Truppen plünderten die Hauptstadt Luoyang und nahmen den Jin-Kaiser gefangen. Dies löste eine massive Fluchtbewegung der Han-Chinesen nach Süden aus.",
       "en": "Xiongnu forces sacked the capital Luoyang and captured the Jin emperor. This triggered a massive southward migration of Han Chinese."
+    }
+  },
+  {
+    "id": "battle-of-milvian-bridge",
+    "coordinates": [
+      12.47,
+      41.94
+    ],
+    "year": 312,
+    "type": "battle",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Milvische Brücke – Konstantins Sieg",
+      "en": "Battle of the Milvian Bridge"
+    },
+    "description": {
+      "de": "Konstantins Sieg über Maxentius an der Milvischen Brücke war verbunden mit einer Vision, die ihn zum Christentum hinführte. Der Triumph ebnte den Weg für das Mailänder Edikt 313 n. Chr., das das Christentum im Reich tolerierte und die religiöse Geschichte der Welt veränderte.",
+      "en": "Constantine's victory over Maxentius at the Milvian Bridge was accompanied by a vision that led him to embrace Christianity. The triumph paved the way for the Edict of Milan in 313 AD, granting Christianity toleration in the empire and reshaping the religious history of the world."
+    }
+  },
+  {
+    "id": "edict-of-milan",
+    "coordinates": [
+      9.19,
+      45.46
+    ],
+    "year": 313,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Mailänder Toleranzedikt",
+      "en": "Edict of Milan"
+    },
+    "description": {
+      "de": "Kaiser Konstantin und Licinius vereinbarten in Mailand die Religionsfreiheit im Römischen Reich. Das Edikt beendete die Christenverfolgungen und ebnete den Weg zur Christianisierung Europas.",
+      "en": "Emperors Constantine and Licinius agreed on religious freedom in the Roman Empire at Milan. The edict ended the persecution of Christians and paved the way for the Christianization of Europe."
     }
   }
 ]

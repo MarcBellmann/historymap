@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "roman-engineering-colosseum",
+    "coordinates": [
+      12.49,
+      41.89
+    ],
+    "year": 80,
+    "type": "cultural",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Einweihung des Kolosseums",
+      "en": "Inauguration of the Colosseum"
+    },
+    "description": {
+      "de": "Kaiser Titus weihte das Flavische Amphitheater — das Kolosseum — mit hundert Tagen Spektakeln ein, an denen Tiere, Gladiatoren und nachgestellte Seeschlachten zu sehen waren. Das bis zu 80.000 Zuschauer fassende Bauwerk steht sinnbildlich für die Unterhaltungskultur und das ingenieurtechnische Können Roms.",
+      "en": "Emperor Titus inaugurated the Flavian Amphitheater — the Colosseum — with one hundred days of spectacles featuring animals, gladiators, and staged naval battles. The structure, capable of holding up to 80,000 spectators, epitomizes Roman entertainment culture and engineering achievement."
+    }
+  }
+]

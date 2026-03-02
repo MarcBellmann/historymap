@@ -1,5 +1,48 @@
 [
   {
+    "id": "roman-conquest-of-egypt",
+    "coordinates": [
+      29.919,
+      31.2
+    ],
+    "year": -30,
+    "type": "political",
+    "culturalSphere": [
+      "roman",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Römische Eroberung Ägyptens",
+      "en": "Roman Conquest of Egypt"
+    },
+    "description": {
+      "de": "Nach der Schlacht von Actium und dem Selbstmord Kleopatras VII. wird Ägypten zur römischen Provinz. Das Ende der Ptolemäerherrschaft und des letzten hellenistischen Großreiches.",
+      "en": "After the Battle of Actium and the suicide of Cleopatra VII, Egypt becomes a Roman province. The end of Ptolemaic rule and the last great Hellenistic kingdom."
+    }
+  },
+  {
+    "id": "death-of-cleopatra",
+    "coordinates": [
+      29.92,
+      31.2
+    ],
+    "year": -30,
+    "type": "political",
+    "culturalSphere": [
+      "egyptian",
+      "greek",
+      "roman"
+    ],
+    "labels": {
+      "de": "Tod Kleopatras und Ende Ptolemäischen Ägyptens",
+      "en": "Death of Cleopatra and End of Ptolemaic Egypt"
+    },
+    "description": {
+      "de": "Kleopatra VII., die letzte Herrscherin der Ptolemäerdynastie, nahm sich das Leben, nachdem Octavians Truppen Ägypten besetzt hatten. Mit ihr endeten die 300-jährige hellenistische Herrschaft über Ägypten und das letzte unabhängige Nachfolgereich Alexanders des Großen.",
+      "en": "Cleopatra VII, the last ruler of the Ptolemaic dynasty, took her own life after Octavian's forces occupied Egypt. With her ended 300 years of Hellenistic rule over Egypt and the last independent successor state of Alexander the Great."
+    }
+  },
+  {
     "id": "pax-romana-begins",
     "coordinates": [
       12.48,
@@ -20,24 +63,23 @@
     }
   },
   {
-    "id": "roman-conquest-of-egypt",
+    "id": "augustus-first-emperor",
     "coordinates": [
-      29.919,
-      31.2
+      12.48,
+      41.89
     ],
-    "year": -30,
+    "year": -27,
     "type": "political",
     "culturalSphere": [
-      "roman",
-      "egyptian"
+      "roman"
     ],
     "labels": {
-      "de": "Römische Eroberung Ägyptens",
-      "en": "Roman Conquest of Egypt"
+      "de": "Augustus wird erster Römischer Kaiser",
+      "en": "Augustus Becomes First Roman Emperor"
     },
     "description": {
-      "de": "Nach der Schlacht von Actium und dem Selbstmord Kleopatras VII. wird Ägypten zur römischen Provinz. Das Ende der Ptolemäerherrschaft und des letzten hellenistischen Großreiches.",
-      "en": "After the Battle of Actium and the suicide of Cleopatra VII, Egypt becomes a Roman province. The end of Ptolemaic rule and the last great Hellenistic kingdom."
+      "de": "Der Senat verlieh Octavian den Ehrentitel 'Augustus' und legitimierte damit seine Alleinherrschaft. Damit begann die Kaiserzeit, das Principat, das eine 200-jährige Friedensperiode — die Pax Romana — einläutete und das Mittelmeer zur 'Mare Nostrum' Roms machte.",
+      "en": "The Senate granted Octavian the honorary title 'Augustus,' legitimizing his sole rule. This began the imperial era, the Principate, which ushered in a 200-year peace — the Pax Romana — and made the Mediterranean Rome's 'Mare Nostrum.'"
     }
   }
 ]

@@ -19,5 +19,46 @@
       "de": "Kyros der Große erobert Babylon kampflos und beendet das neubabylonische Reich. Er erlässt den berühmten Kyros-Zylinder und gestattet den Juden die Rückkehr nach Jerusalem.",
       "en": "Cyrus the Great captures Babylon without a fight and ends the Neo-Babylonian Empire. He issues the famous Cyrus Cylinder and permits the Jews to return to Jerusalem."
     }
+  },
+  {
+    "id": "cyrus-conquers-babylon",
+    "coordinates": [
+      44.42,
+      32.54
+    ],
+    "year": -539,
+    "type": "political",
+    "culturalSphere": [
+      "persian",
+      "babylonian"
+    ],
+    "labels": {
+      "de": "Kyros erobert Babylon",
+      "en": "Cyrus Conquers Babylon"
+    },
+    "description": {
+      "de": "Kyros der Große nahm Babylon kampflos ein und beendete das Neobabylonische Reich. Er erließ den Kyros-Zylinder, der als frühe Charta der Menschenrechte gilt, und erlaubte den im babylonischen Exil lebenden Juden, in ihre Heimat zurückzukehren.",
+      "en": "Cyrus the Great took Babylon without major fighting and ended the Neo-Babylonian Empire. He issued the Cyrus Cylinder, regarded as an early charter of human rights, and permitted the Jews living in Babylonian exile to return to their homeland."
+    }
+  },
+  {
+    "id": "cyrus-cylinder-edict-539bc",
+    "coordinates": [
+      44.42,
+      32.54
+    ],
+    "year": -539,
+    "type": "political",
+    "culturalSphere": [
+      "persian"
+    ],
+    "labels": {
+      "de": "Kyros-Zylinder — frühes Menschenrechtsdokument",
+      "en": "Cyrus Cylinder — Early Human Rights Document"
+    },
+    "description": {
+      "de": "Nach der Einnahme Babylons ließ Kyros der Große den Kyros-Zylinder anfertigen, der Religionsfreiheit und die Rückkehr deportierter Völker in ihre Heimatländer verkündete. Das Dokument gilt als eines der ältesten bekannten Menschenrechtsmanifeste der Geschichte.",
+      "en": "After taking Babylon, Cyrus the Great had the Cyrus Cylinder produced, proclaiming religious freedom and allowing deported peoples to return to their homelands. The document is regarded as one of the oldest known human rights manifestos in history."
+    }
   }
 ]

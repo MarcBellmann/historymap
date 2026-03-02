@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "assyrian-conquest-egypt-671bc",
+    "coordinates": [
+      31.23,
+      30.06
+    ],
+    "year": -671,
+    "type": "battle",
+    "culturalSphere": [
+      "assyrian",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Assyrische Eroberung Ägyptens",
+      "en": "Assyrian Conquest of Egypt"
+    },
+    "description": {
+      "de": "König Asarhaddon von Assyrien besiegte den nubisch-ägyptischen Pharao Taharqa und nahm Memphis ein. Die Eroberung markierte den Höhepunkt assyrischer Macht — das Reich erstreckte sich nun vom Persischen Golf bis zum Nil.",
+      "en": "Assyrian king Esarhaddon defeated the Nubian-Egyptian pharaoh Taharqa and captured Memphis. The conquest marked the height of Assyrian power — the empire now stretched from the Persian Gulf to the Nile."
+    }
+  }
+]

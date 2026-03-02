@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "pericles-golden-age-athens",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": -461,
+    "type": "political",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Perikles und das Goldene Zeitalter Athens",
+      "en": "Pericles and the Golden Age of Athens"
+    },
+    "description": {
+      "de": "Unter der Führung des Strategen Perikles erlebte Athen seine größte kulturelle und politische Blüte. Demokratie, Philosophie, Theater und Architektur florierten, und der Wiederaufbau der Akropolis mit dem Parthenon machte Athen zum kulturellen Herz Griechenlands.",
+      "en": "Under the leadership of strategos Pericles, Athens experienced its greatest cultural and political flowering. Democracy, philosophy, theater, and architecture flourished, and the rebuilding of the Acropolis with the Parthenon made Athens the cultural heart of Greece."
+    }
+  }
+]

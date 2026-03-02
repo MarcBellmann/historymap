@@ -1,25 +1,5 @@
 [
   {
-    "id": "norman-conquest-of-england",
-    "coordinates": [
-      0.49,
-      50.91
-    ],
-    "year": 1066,
-    "type": "battle",
-    "culturalSphere": [
-      "norman"
-    ],
-    "labels": {
-      "de": "Schlacht von Hastings",
-      "en": "Battle of Hastings"
-    },
-    "description": {
-      "de": "Wilhelm der Eroberer besiegte König Harold II. bei Hastings und eroberte England. Die normannische Eroberung veränderte Englands Sprache, Kultur und Herrschaftsstrukturen grundlegend.",
-      "en": "William the Conqueror defeated King Harold II at Hastings and conquered England. The Norman Conquest fundamentally transformed England's language, culture, and governance."
-    }
-  },
-  {
     "id": "almoravid-empire-founded",
     "coordinates": [
       -5.81,
@@ -38,6 +18,26 @@
     "description": {
       "de": "Die Almoraviden gründen Marrakesch und schaffen ein Reich, das den Maghreb und das muslimische Spanien vereint. Eine Periode des islamischen Purismus in Nordwestafrika.",
       "en": "The Almoravids found Marrakech and create an empire uniting the Maghreb and Muslim Spain. A period of Islamic puritanism in Northwest Africa."
+    }
+  },
+  {
+    "id": "norman-conquest-of-england",
+    "coordinates": [
+      0.49,
+      50.91
+    ],
+    "year": 1066,
+    "type": "battle",
+    "culturalSphere": [
+      "norman"
+    ],
+    "labels": {
+      "de": "Schlacht von Hastings",
+      "en": "Battle of Hastings"
+    },
+    "description": {
+      "de": "Wilhelm der Eroberer besiegte König Harold II. bei Hastings und eroberte England. Die normannische Eroberung veränderte Englands Sprache, Kultur und Herrschaftsstrukturen grundlegend.",
+      "en": "William the Conqueror defeated King Harold II at Hastings and conquered England. The Norman Conquest fundamentally transformed England's language, culture, and governance."
     }
   }
 ]

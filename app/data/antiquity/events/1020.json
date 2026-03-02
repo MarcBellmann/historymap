@@ -1,5 +1,45 @@
 [
   {
+    "id": "chola-rajendra-ganges-campaign",
+    "coordinates": [
+      80.27,
+      13.08
+    ],
+    "year": 1022,
+    "type": "battle",
+    "culturalSphere": [
+      "dravidian"
+    ],
+    "labels": {
+      "de": "Rajendra Cholas Ganges-Feldzug",
+      "en": "Rajendra Chola's Ganges Campaign"
+    },
+    "description": {
+      "de": "Rajendra Chola I. führt einen Feldzug bis zum Ganges und besiegt den Pala-König, wobei er heiliges Gangeswasser in den Süden bringt.",
+      "en": "Rajendra Chola I campaigns north to the Ganges, defeating the Pala king and bringing sacred Ganges water to the south."
+    }
+  },
+  {
+    "id": "song-dynasty-paper-money",
+    "coordinates": [
+      104.06,
+      30.67
+    ],
+    "year": 1023,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Song-Dynastie: Staatliches Papiergeld",
+      "en": "Song Dynasty: State-Issued Paper Money"
+    },
+    "description": {
+      "de": "Das Song-China führte 1023 das erste staatlich kontrollierte Papiergeld der Welt ein – die sogenannten Jiaozi. Diese monetäre Revolution erleichterte den Handel, förderte die Wirtschaft und zeugte von der administrativen Reife des Reiches.",
+      "en": "Song China in 1023 introduced the world's first state-controlled paper money – the so-called jiaozi. This monetary revolution facilitated trade, boosted the economy, and testified to the administrative sophistication of the empire."
+    }
+  },
+  {
     "id": "chola-invasion-srivijaya",
     "coordinates": [
       104.75,
@@ -58,26 +98,6 @@
     "description": {
       "de": "Sultan Mahmud von Ghazni plündert den berühmten Hindu-Tempel von Somnath in Gujarat bei seinem letzten von 17 Feldzügen nach Indien.",
       "en": "Sultan Mahmud of Ghazni plunders the famed Hindu temple of Somnath in Gujarat, his last of 17 campaigns into India."
-    }
-  },
-  {
-    "id": "chola-rajendra-ganges-campaign",
-    "coordinates": [
-      80.27,
-      13.08
-    ],
-    "year": 1022,
-    "type": "battle",
-    "culturalSphere": [
-      "dravidian"
-    ],
-    "labels": {
-      "de": "Rajendra Cholas Ganges-Feldzug",
-      "en": "Rajendra Chola's Ganges Campaign"
-    },
-    "description": {
-      "de": "Rajendra Chola I. führt einen Feldzug bis zum Ganges und besiegt den Pala-König, wobei er heiliges Gangeswasser in den Süden bringt.",
-      "en": "Rajendra Chola I campaigns north to the Ganges, defeating the Pala king and bringing sacred Ganges water to the south."
     }
   }
 ]

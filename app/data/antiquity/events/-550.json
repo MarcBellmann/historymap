@@ -1,5 +1,45 @@
 [
   {
+    "id": "founding-achaemenid-empire",
+    "coordinates": [
+      53.17,
+      30.19
+    ],
+    "year": -550,
+    "type": "foundation",
+    "culturalSphere": [
+      "persian"
+    ],
+    "labels": {
+      "de": "Gründung des Achämenidenreiches durch Kyros",
+      "en": "Founding of the Achaemenid Empire by Cyrus"
+    },
+    "description": {
+      "de": "Kyros der Große besiegte den Mederkönig Astyages und gründete das Achämenidische Weltreich mit seiner Hauptstadt in Pasargadae. Sein Reich, das bald Persien, Medien und Lydien umfasste, wurde zum größten der damaligen Zeit.",
+      "en": "Cyrus the Great defeated the Median king Astyages and founded the Achaemenid Persian Empire with his capital at Pasargadae. His realm, which soon encompassed Persia, Media, and Lydia, became the largest in the world at that time."
+    }
+  },
+  {
+    "id": "persian-lydia-conquest-546bc",
+    "coordinates": [
+      28.04,
+      38.46
+    ],
+    "year": -546,
+    "type": "political",
+    "culturalSphere": [
+      "persian"
+    ],
+    "labels": {
+      "de": "Kyros erobert Lydien und besiegt Krösus",
+      "en": "Cyrus Conquers Lydia and Defeats Croesus"
+    },
+    "description": {
+      "de": "Kyros der Große schlug König Krösus von Lydien — den Inbegriff des Reichtums im Altertum — bei Sardes und übernahm damit das gesamte westliche Kleinasien. Damit kontrollierten die Perser nun auch die griechischen Kolonien an der ionischen Küste.",
+      "en": "Cyrus the Great defeated King Croesus of Lydia — the embodiment of wealth in antiquity — at Sardis, taking control of all western Anatolia. The Persians now also controlled the Greek colonies along the Ionian coast."
+    }
+  },
+  {
     "id": "birth-of-sun-tzu",
     "coordinates": [
       117.02,
@@ -37,6 +77,26 @@
     "description": {
       "de": "Unter der Haryanka-Dynastie wird Magadha zum mächtigsten der sechzehn Mahajanapadas im nordindischen Tiefland.",
       "en": "Under the Haryanka dynasty, Magadha becomes the most powerful of the sixteen Mahajanapadas in the north Indian plains."
+    }
+  },
+  {
+    "id": "founding-magadha-kingdom",
+    "coordinates": [
+      85.42,
+      25.03
+    ],
+    "year": -543,
+    "type": "foundation",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Aufstieg des Königreichs Magadha",
+      "en": "Rise of the Kingdom of Magadha"
+    },
+    "description": {
+      "de": "König Bimbisara bestieg im Alter von 15 Jahren den Thron in Rajagriha und verwandelte Magadha durch Heiratsallianzen und Eroberungen in eine Großmacht. Sein Reich bildete das Fundament, auf dem später das Maurya-Imperium errichtet wurde.",
+      "en": "King Bimbisara ascended the throne at Rajagriha at 15 and transformed Magadha into a major power through marriage alliances and conquest. His kingdom formed the foundation upon which the later Mauryan Empire was built."
     }
   }
 ]

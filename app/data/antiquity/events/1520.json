@@ -1,5 +1,46 @@
 [
   {
+    "id": "suleiman-the-magnificent-reign",
+    "coordinates": [
+      28.97,
+      41.01
+    ],
+    "year": 1520,
+    "type": "political",
+    "culturalSphere": [
+      "ottoman",
+      "turkic"
+    ],
+    "labels": {
+      "de": "Süleyman der Prächtige – Goldenes Zeitalter des Osmanischen Reiches",
+      "en": "Suleiman the Magnificent – Ottoman Golden Age"
+    },
+    "description": {
+      "de": "Süleyman I. bestieg 1520 den osmanischen Thron und regierte bis 1566 das mächtigste Reich seiner Zeit. Als 'Kanuni' (der Gesetzgeber) reformierte er das Rechtssystem, ließ Sinan die Süleymaniye-Moschee bauen und dehnte das Reich von Wien bis Persien aus.",
+      "en": "Suleiman I ascended the Ottoman throne in 1520 and ruled until 1566 over the most powerful empire of his era. Known as 'Kanuni' (the Lawgiver), he reformed the legal system, commissioned the Süleymaniye Mosque from architect Sinan, and expanded the empire from Vienna to Persia."
+    }
+  },
+  {
+    "id": "spanish-conquest-aztecs",
+    "coordinates": [
+      -99.13,
+      19.43
+    ],
+    "year": 1521,
+    "type": "battle",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Fall von Tenochtitlan",
+      "en": "Fall of Tenochtitlan"
+    },
+    "description": {
+      "de": "Hernán Cortés und seine indigenen Verbündeten erobern Tenochtitlan nach monatelanger Belagerung und beenden das Azteken-Reich.",
+      "en": "Hernán Cortés and his indigenous allies capture Tenochtitlan after months of siege, ending the Aztec Empire."
+    }
+  },
+  {
     "id": "battle-of-mohacs",
     "coordinates": [
       18.68,
@@ -18,6 +59,46 @@
     "description": {
       "de": "Sultan Süleiman der Prächtige vernichtete das ungarische Heer und König Ludwig II. fiel in der Schlacht. Die Niederlage führte zur Teilung Ungarns zwischen Osmanen und Habsburgern.",
       "en": "Sultan Suleiman the Magnificent destroyed the Hungarian army and King Louis II died in battle. The defeat led to the partition of Hungary between the Ottomans and Habsburgs."
+    }
+  },
+  {
+    "id": "first-battle-of-panipat",
+    "coordinates": [
+      76.97,
+      29.39
+    ],
+    "year": 1526,
+    "type": "battle",
+    "culturalSphere": [
+      "mughal"
+    ],
+    "labels": {
+      "de": "Erste Schlacht von Panipat",
+      "en": "First Battle of Panipat"
+    },
+    "description": {
+      "de": "Babur besiegt Sultan Ibrahim Lodi und gründet das Mogulreich, das Nordindien für über drei Jahrhunderte prägen wird.",
+      "en": "Babur defeats Sultan Ibrahim Lodi at Panipat, founding the Mughal Empire that will dominate northern India for over three centuries."
+    }
+  },
+  {
+    "id": "transatlantic-slave-trade-begins",
+    "coordinates": [
+      -17.44,
+      14.69
+    ],
+    "year": 1526,
+    "type": "political",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Beginn des transatlantischen Sklavenhandels",
+      "en": "Transatlantic Slave Trade Begins"
+    },
+    "description": {
+      "de": "Der systematische transatlantische Sklavenhandel beginnt; König Afonso I. des Kongo protestiert vergeblich gegen die Verschleppung seines Volkes.",
+      "en": "The systematic transatlantic slave trade begins; King Afonso I of Kongo protests in vain against the enslavement of his people."
     }
   },
   {
@@ -42,27 +123,6 @@
     }
   },
   {
-    "id": "ottoman-siege-of-vienna-1529",
-    "coordinates": [
-      16.373,
-      48.209
-    ],
-    "year": 1529,
-    "type": "battle",
-    "culturalSphere": [
-      "turkic",
-      "islamic"
-    ],
-    "labels": {
-      "de": "Osmanische Belagerung Wiens",
-      "en": "Ottoman Siege of Vienna"
-    },
-    "description": {
-      "de": "Sultan Süleyman der Prächtige belagert Wien, den Höhepunkt der osmanischen Expansion in Europa. Die gescheiterte Belagerung markiert die Westgrenze osmanischer Macht.",
-      "en": "Sultan Suleiman the Magnificent besieges Vienna, the high point of Ottoman expansion in Europe. The failed siege marks the western limit of Ottoman power."
-    }
-  },
-  {
     "id": "fall-of-majapahit",
     "coordinates": [
       112.75,
@@ -80,26 +140,6 @@
     "description": {
       "de": "Das Sultanat Demak eroberte die letzte Majapahit-Hauptstadt. Der Fall des letzten großen Hindu-buddhistischen Reiches markierte den Aufstieg des Islam auf Java.",
       "en": "The Sultanate of Demak conquered the last Majapahit capital. The fall of the last great Hindu-Buddhist empire marked the rise of Islam on Java."
-    }
-  },
-  {
-    "id": "first-battle-of-panipat",
-    "coordinates": [
-      76.97,
-      29.39
-    ],
-    "year": 1526,
-    "type": "battle",
-    "culturalSphere": [
-      "mughal"
-    ],
-    "labels": {
-      "de": "Erste Schlacht von Panipat",
-      "en": "First Battle of Panipat"
-    },
-    "description": {
-      "de": "Babur besiegt Sultan Ibrahim Lodi und gründet das Mogulreich, das Nordindien für über drei Jahrhunderte prägen wird.",
-      "en": "Babur defeats Sultan Ibrahim Lodi at Panipat, founding the Mughal Empire that will dominate northern India for over three centuries."
     }
   },
   {
@@ -123,43 +163,24 @@
     }
   },
   {
-    "id": "transatlantic-slave-trade-begins",
+    "id": "ottoman-siege-of-vienna-1529",
     "coordinates": [
-      -17.44,
-      14.69
+      16.373,
+      48.209
     ],
-    "year": 1526,
-    "type": "political",
-    "culturalSphere": [
-      "west-african"
-    ],
-    "labels": {
-      "de": "Beginn des transatlantischen Sklavenhandels",
-      "en": "Transatlantic Slave Trade Begins"
-    },
-    "description": {
-      "de": "Der systematische transatlantische Sklavenhandel beginnt; König Afonso I. des Kongo protestiert vergeblich gegen die Verschleppung seines Volkes.",
-      "en": "The systematic transatlantic slave trade begins; King Afonso I of Kongo protests in vain against the enslavement of his people."
-    }
-  },
-  {
-    "id": "spanish-conquest-aztecs",
-    "coordinates": [
-      -99.13,
-      19.43
-    ],
-    "year": 1521,
+    "year": 1529,
     "type": "battle",
     "culturalSphere": [
-      "mesoamerican"
+      "turkic",
+      "islamic"
     ],
     "labels": {
-      "de": "Fall von Tenochtitlan",
-      "en": "Fall of Tenochtitlan"
+      "de": "Osmanische Belagerung Wiens",
+      "en": "Ottoman Siege of Vienna"
     },
     "description": {
-      "de": "Hernán Cortés und seine indigenen Verbündeten erobern Tenochtitlan nach monatelanger Belagerung und beenden das Azteken-Reich.",
-      "en": "Hernán Cortés and his indigenous allies capture Tenochtitlan after months of siege, ending the Aztec Empire."
+      "de": "Sultan Süleyman der Prächtige belagert Wien, den Höhepunkt der osmanischen Expansion in Europa. Die gescheiterte Belagerung markiert die Westgrenze osmanischer Macht.",
+      "en": "Sultan Suleiman the Magnificent besieges Vienna, the high point of Ottoman expansion in Europe. The failed siege marks the western limit of Ottoman power."
     }
   }
 ]

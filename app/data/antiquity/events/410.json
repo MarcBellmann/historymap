@@ -19,5 +19,26 @@
       "de": "König Alarich I. und seine Westgoten plünderten Rom — die erste Eroberung der Stadt seit 800 Jahren. Das Ereignis erschütterte die gesamte römische Welt und symbolisierte den Niedergang des Imperiums.",
       "en": "King Alaric I and his Visigoths sacked Rome — the first conquest of the city in 800 years. The event shook the entire Roman world and symbolized the decline of the empire."
     }
+  },
+  {
+    "id": "visigoth-sack-of-rome-410",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 410,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "germanic"
+    ],
+    "labels": {
+      "de": "Westgotische Plünderung Roms 410",
+      "en": "Visigoth Sack of Rome 410"
+    },
+    "description": {
+      "de": "König Alarichs Westgoten brachen in Rom ein und plünderten die Ewige Stadt drei Tage lang — das erste Mal seit dem gallischen Überfall 390 v. Chr. Das Ereignis erschütterte die gesamte antike Welt psychologisch und trieb Augustinus zur Abfassung seines Werkes 'De civitate Dei'.",
+      "en": "King Alaric's Visigoths breached Rome and looted the Eternal City for three days — the first time since the Gallic sack in 390 BC. The event shattered the psychological foundations of the ancient world and prompted Augustine to write 'The City of God.'"
+    }
   }
 ]

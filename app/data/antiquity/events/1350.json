@@ -1,23 +1,22 @@
 [
   {
-    "id": "battle-of-poitiers-1356",
+    "id": "majapahit-golden-age-hayam-wuruk",
     "coordinates": [
-      -0.02,
-      46.5
+      112.38,
+      -7.58
     ],
-    "year": 1356,
-    "type": "battle",
+    "year": 1350,
+    "type": "political",
     "culturalSphere": [
-      "english",
-      "french"
+      "southeast-asian"
     ],
     "labels": {
-      "de": "Schlacht von Poitiers",
-      "en": "Battle of Poitiers (1356)"
+      "de": "Goldenes Zeitalter Majapahits unter Hayam Wuruk",
+      "en": "Majapahit Golden Age Under Hayam Wuruk"
     },
     "description": {
-      "de": "Der Schwarze Prinz besiegte das französische Heer und nahm König Johann II. gefangen. Die Niederlage stürzte Frankreich in eine tiefe politische Krise.",
-      "en": "The Black Prince defeated the French army and captured King John II. The defeat plunged France into a deep political crisis."
+      "de": "Unter König Hayam Wuruk und Premierminister Gajah Mada erreichte das Majapahit-Reich auf Java seinen Höhepunkt als mächtigstes Seereich Südostasiens. Das Reich kontrollierte weite Teile des heutigen Indonesiens, Malaysias und der Philippinen und war ein bedeutendes Handelszentrum.",
+      "en": "Under King Hayam Wuruk and Prime Minister Gajah Mada, the Majapahit Empire on Java reached its peak as the most powerful maritime empire of Southeast Asia. The empire controlled large parts of modern Indonesia, Malaysia, and the Philippines and was a significant trade center."
     }
   },
   {
@@ -38,6 +37,48 @@
     "description": {
       "de": "König Ramathibodi I. gründete Ayutthaya, das zum mächtigsten Königreich Südostasiens aufstieg und über 400 Jahre bestand.",
       "en": "King Ramathibodi I founded Ayutthaya, which rose to become Southeast Asia's most powerful kingdom and lasted over 400 years."
+    }
+  },
+  {
+    "id": "ottoman-gallipoli-1354",
+    "coordinates": [
+      26.68,
+      40.4
+    ],
+    "year": 1354,
+    "type": "political",
+    "culturalSphere": [
+      "ottoman",
+      "byzantine"
+    ],
+    "labels": {
+      "de": "Osmanen besetzen Gallipoli – Eintritt in Europa",
+      "en": "Ottomans Occupy Gallipoli – Entry into Europe"
+    },
+    "description": {
+      "de": "Ein Erdbeben zerstörte die Mauern von Gallipoli, und osmanische Truppen besetzten die strategische Halbinsel am Eingang zum Schwarzen Meer. Dieser erste osmanische Brückenkopf in Europa markierte den Beginn der Balkaneroberungen und stellte das Schicksal des Byzantinischen Reiches in Frage.",
+      "en": "An earthquake destroyed the walls of Gallipoli, and Ottoman forces occupied the strategic peninsula at the entrance to the Black Sea. This first Ottoman bridgehead in Europe marked the beginning of Balkan conquests and put the fate of the Byzantine Empire in question."
+    }
+  },
+  {
+    "id": "battle-of-poitiers-1356",
+    "coordinates": [
+      -0.02,
+      46.5
+    ],
+    "year": 1356,
+    "type": "battle",
+    "culturalSphere": [
+      "english",
+      "french"
+    ],
+    "labels": {
+      "de": "Schlacht von Poitiers",
+      "en": "Battle of Poitiers (1356)"
+    },
+    "description": {
+      "de": "Der Schwarze Prinz besiegte das französische Heer und nahm König Johann II. gefangen. Die Niederlage stürzte Frankreich in eine tiefe politische Krise.",
+      "en": "The Black Prince defeated the French army and captured King John II. The defeat plunged France into a deep political crisis."
     }
   }
 ]

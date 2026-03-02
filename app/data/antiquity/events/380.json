@@ -1,5 +1,45 @@
 [
   {
+    "id": "edict-of-thessalonica",
+    "coordinates": [
+      22.94,
+      40.64
+    ],
+    "year": 380,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Edikt von Thessaloniki",
+      "en": "Edict of Thessalonica"
+    },
+    "description": {
+      "de": "Kaiser Theodosius I. erließ das Edikt von Thessaloniki, das das Christentum nicänischer Prägung zur einzigen offiziellen Staatsreligion des Römischen Reiches erklärte. Das Edikt läutete das Ende der religiösen Toleranz für pagane Religionen ein und veränderte die kulturelle Identität Europas grundlegend.",
+      "en": "Emperor Theodosius I issued the Edict of Thessalonica, declaring Nicene Christianity the only official state religion of the Roman Empire. The edict ended religious tolerance for pagan religions and fundamentally transformed the cultural identity of Europe."
+    }
+  },
+  {
+    "id": "gupta-golden-age",
+    "coordinates": [
+      82.97,
+      25.32
+    ],
+    "year": 380,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Goldenes Zeitalter der Gupta-Dynastie",
+      "en": "Golden Age of the Gupta Dynasty"
+    },
+    "description": {
+      "de": "Unter Chandragupta II. erlebte die Gupta-Dynastie ihren kulturellen Höhepunkt: Mathematiker entwickelten das Dezimalsystem mit der Null, Dichter wie Kalidasa schufen unvergängliche Werke, und die Philosophie, Astronomie und Medizin blühten auf. Die Gupta-Ära gilt als das 'Goldene Zeitalter' der indischen Zivilisation.",
+      "en": "Under Chandragupta II, the Gupta Dynasty reached its cultural zenith: mathematicians developed the decimal system with zero, poets like Kalidasa created enduring works, and philosophy, astronomy, and medicine flourished. The Gupta era is considered the 'Golden Age' of Indian civilization."
+    }
+  },
+  {
     "id": "battle-of-fei-river",
     "coordinates": [
       116.78,
@@ -17,6 +57,27 @@
     "description": {
       "de": "Die zahlenmäßig unterlegene Östliche Jin-Armee besiegte die riesige Armee der Früheren Qin am Fei-Fluss. Dieser Sieg sicherte die Unabhängigkeit Südchinas für über ein Jahrhundert.",
       "en": "The outnumbered Eastern Jin army defeated the massive Former Qin army at the Fei River. This victory secured southern China's independence for over a century."
+    }
+  },
+  {
+    "id": "northern-wei-dynasty",
+    "coordinates": [
+      113,
+      37.87
+    ],
+    "year": 386,
+    "type": "foundation",
+    "culturalSphere": [
+      "chinese",
+      "steppe"
+    ],
+    "labels": {
+      "de": "Gründung der Nördlichen Wei-Dynastie",
+      "en": "Founding of the Northern Wei Dynasty"
+    },
+    "description": {
+      "de": "Das Xianbei-Volk gründete die Nördliche Wei-Dynastie und einte schrittweise Nordchina. Die Wei-Kaiser nahmen chinesische Verwaltungsstrukturen und Kultur an, förderten den Buddhismus intensiv und errichteten die berühmten Felsheiligtümer von Yungang und Longmen.",
+      "en": "The Xianbei people founded the Northern Wei Dynasty and gradually unified northern China. The Wei emperors adopted Chinese administrative structures and culture, vigorously promoted Buddhism, and constructed the famous cave sanctuaries of Yungang and Longmen."
     }
   }
 ]

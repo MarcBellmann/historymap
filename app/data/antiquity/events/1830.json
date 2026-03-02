@@ -1,25 +1,5 @@
 [
   {
-    "id": "abolition-of-slavery-britain",
-    "coordinates": [
-      -0.12,
-      51.5
-    ],
-    "year": 1833,
-    "type": "political",
-    "culturalSphere": [
-      "english"
-    ],
-    "labels": {
-      "de": "Abschaffung der Sklaverei in Großbritannien",
-      "en": "Abolition of Slavery in the British Empire"
-    },
-    "description": {
-      "de": "Das britische Parlament verabschiedete den Slavery Abolition Act, der die Sklaverei im gesamten Britischen Empire abschaffte. Das Gesetz befreite über 800.000 Sklaven in den britischen Kolonien.",
-      "en": "The British Parliament passed the Slavery Abolition Act, abolishing slavery throughout the British Empire. The law freed over 800,000 enslaved people in British colonies."
-    }
-  },
-  {
     "id": "french-conquest-of-algeria",
     "coordinates": [
       3.042,
@@ -41,6 +21,47 @@
     }
   },
   {
+    "id": "abolition-of-slavery-britain",
+    "coordinates": [
+      -0.12,
+      51.5
+    ],
+    "year": 1833,
+    "type": "political",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Abschaffung der Sklaverei in Großbritannien",
+      "en": "Abolition of Slavery in the British Empire"
+    },
+    "description": {
+      "de": "Das britische Parlament verabschiedete den Slavery Abolition Act, der die Sklaverei im gesamten Britischen Empire abschaffte. Das Gesetz befreite über 800.000 Sklaven in den britischen Kolonien.",
+      "en": "The British Parliament passed the Slavery Abolition Act, abolishing slavery throughout the British Empire. The law freed over 800,000 enslaved people in British colonies."
+    }
+  },
+  {
+    "id": "abolition-slavery-british-empire",
+    "coordinates": [
+      -0.12,
+      51.51
+    ],
+    "year": 1833,
+    "type": "political",
+    "culturalSphere": [
+      "english",
+      "european"
+    ],
+    "labels": {
+      "de": "Abschaffung der Sklaverei im Britischen Empire",
+      "en": "Abolition of Slavery in the British Empire"
+    },
+    "description": {
+      "de": "Das britische Parlament verabschiedete 1833 den Slavery Abolition Act, der die Sklaverei im gesamten Britischen Empire verbot – mit Ausnahmen für Indien und teils verzögerten Implementierungen. Nach Jahrzehnten abolitionistischer Kampagnen war dies ein Wendepunkt im globalen Kampf gegen den Sklavenhandel.",
+      "en": "The British Parliament passed the Slavery Abolition Act in 1833, banning slavery throughout the British Empire – with exceptions for India and phased implementation. After decades of abolitionist campaigns, this was a turning point in the global struggle against the slave trade."
+    }
+  },
+  {
     "id": "treaty-of-balta-liman",
     "coordinates": [
       29.047,
@@ -59,6 +80,26 @@
     "description": {
       "de": "Das Osmanische Reich und Großbritannien unterzeichnen ein Freihandelsabkommen, das die osmanische Wirtschaft für europäische Importe öffnet und die heimische Industrie schwächt.",
       "en": "The Ottoman Empire and Britain sign a free trade agreement that opens the Ottoman economy to European imports and weakens domestic industry."
+    }
+  },
+  {
+    "id": "trail-of-tears",
+    "coordinates": [
+      -85.31,
+      35.04
+    ],
+    "year": 1838,
+    "type": "political",
+    "culturalSphere": [
+      "north-american"
+    ],
+    "labels": {
+      "de": "Pfad der Tränen",
+      "en": "Trail of Tears"
+    },
+    "description": {
+      "de": "Die US-Regierung vertreibt die Cherokee und andere indigene Völker gewaltsam aus dem Südosten; Tausende sterben auf dem Marsch.",
+      "en": "The US government forcibly removes the Cherokee and other indigenous peoples from the Southeast; thousands die on the march."
     }
   },
   {
@@ -103,26 +144,6 @@
     }
   },
   {
-    "id": "trail-of-tears",
-    "coordinates": [
-      -85.31,
-      35.04
-    ],
-    "year": 1838,
-    "type": "political",
-    "culturalSphere": [
-      "north-american"
-    ],
-    "labels": {
-      "de": "Pfad der Tränen",
-      "en": "Trail of Tears"
-    },
-    "description": {
-      "de": "Die US-Regierung vertreibt die Cherokee und andere indigene Völker gewaltsam aus dem Südosten; Tausende sterben auf dem Marsch.",
-      "en": "The US government forcibly removes the Cherokee and other indigenous peoples from the Southeast; thousands die on the march."
-    }
-  },
-  {
     "id": "first-anglo-afghan-war",
     "coordinates": [
       69.17,
@@ -140,6 +161,27 @@
     "description": {
       "de": "Großbritannien marschiert in Afghanistan ein; der Rückzug aus Kabul 1842 endet in einer katastrophalen Niederlage.",
       "en": "Britain invades Afghanistan; the retreat from Kabul in 1842 ends in a catastrophic defeat."
+    }
+  },
+  {
+    "id": "ottoman-tanzimat-beginning",
+    "coordinates": [
+      28.97,
+      41.01
+    ],
+    "year": 1839,
+    "type": "political",
+    "culturalSphere": [
+      "ottoman",
+      "turkic"
+    ],
+    "labels": {
+      "de": "Tanzimat-Reformen – Osmanische Modernisierung",
+      "en": "Tanzimat Reforms – Ottoman Modernization"
+    },
+    "description": {
+      "de": "Das Kaiserliche Edikt von Gülhane 1839 leitete die Tanzimat-Ära ein, eine Periode tiefgreifender Rechts- und Verwaltungsreformen im Osmanischen Reich. Das Edikt garantierte Gleichheit vor dem Gesetz für alle osmanischen Untertanen unabhängig von Religion – ein Paradigmenwechsel in der islamischen Staatsverwaltung.",
+      "en": "The Imperial Edict of Gülhane in 1839 launched the Tanzimat era, a period of sweeping legal and administrative reforms in the Ottoman Empire. The edict guaranteed equality before the law for all Ottoman subjects regardless of religion – a paradigm shift in Islamic state governance."
     }
   }
 ]

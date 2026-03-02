@@ -20,6 +20,26 @@
     }
   },
   {
+    "id": "invention-gunpowder-weapons-song",
+    "coordinates": [
+      114.3,
+      30.6
+    ],
+    "year": 1132,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Song-Dynastie: Erste Schusswaffen aus Schießpulver",
+      "en": "Song Dynasty: First Gunpowder Weapons"
+    },
+    "description": {
+      "de": "Bei der Belagerung von De'an 1132 setzten Song-Truppen erstmals schriftlich belegte Schießpulverwaffen ein – Flammenwerfer mit brennenden Schießpulverröhren. Diese Innovation aus China veränderte die Kriegsführung weltweit und ebnete den Weg zur modernen Feuerwaffe.",
+      "en": "At the siege of De'an in 1132, Song troops used the first documented gunpowder weapons – flame throwers with burning gunpowder tubes. This Chinese innovation transformed warfare worldwide and paved the way for the modern firearm."
+    }
+  },
+  {
     "id": "ethiopian-zagwe-dynasty",
     "coordinates": [
       39.04,

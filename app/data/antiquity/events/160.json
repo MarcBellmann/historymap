@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "antonine-plague",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 165,
+    "type": "natural",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Antoninische Pest",
+      "en": "Antonine Plague"
+    },
+    "description": {
+      "de": "Eine verheerende Seuche, wahrscheinlich Pocken, breitete sich aus dem Osten über das gesamte Römerreich aus und forderte bis zu 25 Millionen Todesopfer in 15 Jahren. Die Epidemie beschleunigte den demografischen Niedergang des Reiches und gilt als Wendepunkt in Roms langer Verfallsgeschichte.",
+      "en": "A devastating epidemic, likely smallpox, spread from the east across the entire Roman Empire, claiming up to 25 million lives over 15 years. The pandemic accelerated the empire's demographic decline and is considered a turning point in Rome's long story of decline."
+    }
+  }
+]

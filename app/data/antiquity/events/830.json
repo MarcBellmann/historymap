@@ -20,5 +20,26 @@
       "de": "Kalif al-Ma'mun erweitert das Haus der Weisheit zur größten Bibliothek und Übersetzungsakademie der Welt. Griechische, persische und indische Werke werden ins Arabische übertragen.",
       "en": "Caliph al-Ma'mun expands the House of Wisdom into the world's largest library and translation academy. Greek, Persian, and Indian works are translated into Arabic."
     }
+  },
+  {
+    "id": "founding-of-abbasid-baghdad-growth",
+    "coordinates": [
+      44.36,
+      33.34
+    ],
+    "year": 830,
+    "type": "cultural",
+    "culturalSphere": [
+      "islamic",
+      "abbasid"
+    ],
+    "labels": {
+      "de": "Haus der Weisheit Bagdad",
+      "en": "House of Wisdom Baghdad"
+    },
+    "description": {
+      "de": "Das Bayt al-Hikma in Bagdad wird zum führenden Wissenschaftszentrum der Welt, in dem Gelehrte aus aller Welt Werke ins Arabische übersetzen und mathematische, astronomische und philosophische Erkenntnisse synthetisieren.",
+      "en": "The Bayt al-Hikma in Baghdad becomes the world's leading center of scholarship, where scholars from across the world translate works into Arabic and synthesize mathematical, astronomical, and philosophical knowledge."
+    }
   }
 ]

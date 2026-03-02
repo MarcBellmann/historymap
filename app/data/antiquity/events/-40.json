@@ -1,25 +1,5 @@
 [
   {
-    "id": "battle-of-actium",
-    "coordinates": [
-      20.72,
-      38.95
-    ],
-    "year": -31,
-    "type": "battle",
-    "culturalSphere": [
-      "roman"
-    ],
-    "labels": {
-      "de": "Schlacht von Actium",
-      "en": "Battle of Actium"
-    },
-    "description": {
-      "de": "Octavians Flotte besiegte die vereinten Streitkräfte von Marcus Antonius und Kleopatra vor der griechischen Küste. Der Sieg ebnete den Weg für das Römische Kaiserreich unter Augustus.",
-      "en": "Octavian's fleet defeated the combined forces of Mark Antony and Cleopatra off the Greek coast. The victory paved the way for the Roman Empire under Augustus."
-    }
-  },
-  {
     "id": "founding-of-goguryeo",
     "coordinates": [
       126.07,
@@ -37,6 +17,47 @@
     "description": {
       "de": "Jumong gründete das Königreich Goguryeo im Norden der koreanischen Halbinsel. Es wurde zu einem der mächtigsten Staaten in Ostasien.",
       "en": "Jumong founded the kingdom of Goguryeo in the north of the Korean Peninsula. It became one of the most powerful states in East Asia."
+    }
+  },
+  {
+    "id": "huns-defeat-xiongnu",
+    "coordinates": [
+      104,
+      47
+    ],
+    "year": -36,
+    "type": "battle",
+    "culturalSphere": [
+      "chinese",
+      "steppe"
+    ],
+    "labels": {
+      "de": "Han-China besiegt die Xiongnu",
+      "en": "Han China Defeats the Xiongnu"
+    },
+    "description": {
+      "de": "Chinesische Han-Truppen errangen entscheidende Siege gegen die Xiongnu-Nomaden, die die nördlichen Grenzen Chinas seit Jahrhunderten bedrohten. Die Niederlagen der Xiongnu trieben Teile dieser Völker nach Westen — möglicherweise ein früher Anstoß für die Wanderungen, die Jahrhunderte später als Hunneneinfall Europa erschüttern sollten.",
+      "en": "Chinese Han forces won decisive victories against the Xiongnu nomads who had threatened China's northern frontiers for centuries. The defeats of the Xiongnu pushed parts of these peoples westward — possibly an early impetus for the migrations that would shake Europe centuries later as the Hun invasion."
+    }
+  },
+  {
+    "id": "battle-of-actium",
+    "coordinates": [
+      20.72,
+      38.95
+    ],
+    "year": -31,
+    "type": "battle",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Schlacht von Actium",
+      "en": "Battle of Actium"
+    },
+    "description": {
+      "de": "Octavians Flotte besiegte die vereinten Streitkräfte von Marcus Antonius und Kleopatra vor der griechischen Küste. Der Sieg ebnete den Weg für das Römische Kaiserreich unter Augustus.",
+      "en": "Octavian's fleet defeated the combined forces of Mark Antony and Cleopatra off the Greek coast. The victory paved the way for the Roman Empire under Augustus."
     }
   }
 ]

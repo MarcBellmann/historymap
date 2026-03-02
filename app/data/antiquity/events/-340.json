@@ -21,6 +21,46 @@
     }
   },
   {
+    "id": "assassination-philip-ii-macedon",
+    "coordinates": [
+      22.5,
+      40.45
+    ],
+    "year": -336,
+    "type": "political",
+    "culturalSphere": [
+      "macedonian"
+    ],
+    "labels": {
+      "de": "Ermordung Philipps II. von Makedonien",
+      "en": "Assassination of Philip II of Macedon"
+    },
+    "description": {
+      "de": "Philipp II. von Makedonien wurde bei der Hochzeit seiner Tochter von einem seiner Leibwächter ermordet. Sein Sohn Alexander — erst 20 Jahre alt — übernahm die Herrschaft und begann seinen beispiellosen Feldzug zur Eroberung des Perserreiches.",
+      "en": "Philip II of Macedon was assassinated at his daughter's wedding by one of his bodyguards. His son Alexander — only 20 years old — took power and began his unprecedented campaign to conquer the Persian Empire."
+    }
+  },
+  {
+    "id": "aristotle-founds-lyceum",
+    "coordinates": [
+      23.74,
+      37.97
+    ],
+    "year": -335,
+    "type": "cultural",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Aristoteles gründet das Lyzeum in Athen",
+      "en": "Aristotle Founds the Lyceum in Athens"
+    },
+    "description": {
+      "de": "Aristoteles gründete das Lyzeum in Athen und begründete damit eine der wichtigsten philosophischen Schulen des Altertums. Seine enzyklopädischen Werke über Logik, Biologie, Physik, Ethik und Staatslehre bildeten das intellektuelle Rückgrat des europäischen Mittelalters.",
+      "en": "Aristotle founded the Lyceum in Athens, establishing one of antiquity's most important philosophical schools. His encyclopedic works on logic, biology, physics, ethics, and political science formed the intellectual backbone of European medieval thought."
+    }
+  },
+  {
     "id": "alexander-crosses-hellespont",
     "coordinates": [
       26.41,
@@ -124,6 +164,48 @@
     "description": {
       "de": "Alexander der Große gründet Alexandria an der ägyptischen Mittelmeerküste. Die Stadt wird zum intellektuellen Zentrum der antiken Welt mit der berühmten Bibliothek und dem Leuchtturm.",
       "en": "Alexander the Great founds Alexandria on Egypt's Mediterranean coast. The city becomes the intellectual center of the ancient world, home to the famous Library and Lighthouse."
+    }
+  },
+  {
+    "id": "alexander-conquers-persia",
+    "coordinates": [
+      43.25,
+      36.36
+    ],
+    "year": -331,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "persian"
+    ],
+    "labels": {
+      "de": "Alexanders Sieg bei Gaugamela",
+      "en": "Alexander's Victory at Gaugamela"
+    },
+    "description": {
+      "de": "Auf der Ebene von Gaugamela schlug Alexander der Große das persische Heer des Dareios III. ein letztes Mal und öffnete damit den Weg nach Babylon, Susa und Persepolis. Die Niederlage besiegelte das Ende des Achämenidenreichs nach über 200 Jahren Herrschaft über Vorderasien.",
+      "en": "On the plains of Gaugamela, Alexander the Great defeated the Persian army of Darius III for the last time, opening the path to Babylon, Susa, and Persepolis. The defeat sealed the end of the Achaemenid Empire after over 200 years of dominance over the Near East."
+    }
+  },
+  {
+    "id": "founding-of-alexandria-egypt",
+    "coordinates": [
+      29.92,
+      31.2
+    ],
+    "year": -331,
+    "type": "foundation",
+    "culturalSphere": [
+      "greek",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Gründung von Alexandria",
+      "en": "Founding of Alexandria"
+    },
+    "description": {
+      "de": "Alexander der Große gründete Alexandria an der ägyptischen Mittelmeerküste, die zur bedeutendsten Metropole der antiken Welt wurde. Die Stadt beherbergte die berühmte Bibliothek von Alexandria und wurde zum Zentrum der hellenistischen Wissenschaft, Philosophie und Kultur.",
+      "en": "Alexander the Great founded Alexandria on Egypt's Mediterranean coast, which grew to become the most important metropolis of the ancient world. The city housed the famous Library of Alexandria and became the center of Hellenistic science, philosophy, and culture."
     }
   }
 ]

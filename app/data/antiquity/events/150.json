@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "kushan-empire-peak",
+    "coordinates": [
+      69.18,
+      34.52
+    ],
+    "year": 150,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian",
+      "persian",
+      "greek"
+    ],
+    "labels": {
+      "de": "Blütezeit des Kuschanreichs",
+      "en": "Peak of the Kushan Empire"
+    },
+    "description": {
+      "de": "Unter Kaiser Kanischka I. erreichte das Kuschanreich seine größte Ausdehnung und Bedeutung, kontrollierte Schlüsselabschnitte der Seidenstraße zwischen China und dem Mittelmeer. Die Kuschanen beförderten aktiv die Verbreitung des Buddhismus nach Zentralasien und China und schufen eine einzigartige Synthese aus griechischer, indischer und persischer Kunst.",
+      "en": "Under Emperor Kanishka I, the Kushan Empire reached its greatest extent and influence, controlling key sections of the Silk Road between China and the Mediterranean. The Kushans actively promoted the spread of Buddhism to Central Asia and China and created a unique synthesis of Greek, Indian, and Persian art."
+    }
+  }
+]

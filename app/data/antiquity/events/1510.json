@@ -1,22 +1,22 @@
 [
   {
-    "id": "luther-95-theses",
+    "id": "portuguese-capture-malacca",
     "coordinates": [
-      11.98,
-      51.87
+      102.25,
+      2.19
     ],
-    "year": 1517,
-    "type": "cultural",
+    "year": 1511,
+    "type": "battle",
     "culturalSphere": [
-      "european"
+      "malay"
     ],
     "labels": {
-      "de": "Luthers 95 Thesen",
-      "en": "Luther's 95 Theses"
+      "de": "Portugiesische Eroberung von Malakka",
+      "en": "Portuguese Capture of Malacca"
     },
     "description": {
-      "de": "Martin Luther veröffentlichte seine 95 Thesen gegen den Ablasshandel in Wittenberg. Der Thesenanschlag gilt als Auslöser der Reformation, die Europa religiös und politisch spaltete.",
-      "en": "Martin Luther published his 95 Theses against the sale of indulgences in Wittenberg. The posting is considered the trigger of the Reformation, which divided Europe religiously and politically."
+      "de": "Afonso de Albuquerque eroberte das Sultanat Malakka und etablierte den ersten europäischen Stützpunkt in Südostasien, was den Beginn des Kolonialismus markierte.",
+      "en": "Afonso de Albuquerque captured the Malacca Sultanate and established the first European base in Southeast Asia, marking the beginning of colonialism."
     }
   },
   {
@@ -63,6 +63,26 @@
     }
   },
   {
+    "id": "luther-95-theses",
+    "coordinates": [
+      11.98,
+      51.87
+    ],
+    "year": 1517,
+    "type": "cultural",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Luthers 95 Thesen",
+      "en": "Luther's 95 Theses"
+    },
+    "description": {
+      "de": "Martin Luther veröffentlichte seine 95 Thesen gegen den Ablasshandel in Wittenberg. Der Thesenanschlag gilt als Auslöser der Reformation, die Europa religiös und politisch spaltete.",
+      "en": "Martin Luther published his 95 Theses against the sale of indulgences in Wittenberg. The posting is considered the trigger of the Reformation, which divided Europe religiously and politically."
+    }
+  },
+  {
     "id": "battle-of-ridaniya",
     "coordinates": [
       31.279,
@@ -85,23 +105,67 @@
     }
   },
   {
-    "id": "portuguese-capture-malacca",
+    "id": "protestant-reformation-wittenberg",
     "coordinates": [
-      102.25,
-      2.19
+      12.65,
+      51.87
     ],
-    "year": 1511,
-    "type": "battle",
+    "year": 1517,
+    "type": "cultural",
     "culturalSphere": [
-      "malay"
+      "european",
+      "german"
     ],
     "labels": {
-      "de": "Portugiesische Eroberung von Malakka",
-      "en": "Portuguese Capture of Malacca"
+      "de": "Luthers 95 Thesen – Beginn der Reformation",
+      "en": "Luther's 95 Theses – Beginning of the Reformation"
     },
     "description": {
-      "de": "Afonso de Albuquerque eroberte das Sultanat Malakka und etablierte den ersten europäischen Stützpunkt in Südostasien, was den Beginn des Kolonialismus markierte.",
-      "en": "Afonso de Albuquerque captured the Malacca Sultanate and established the first European base in Southeast Asia, marking the beginning of colonialism."
+      "de": "Martin Luther veröffentlichte 1517 in Wittenberg seine 95 Thesen gegen den Ablasshandel und forderte eine tiefgreifende Reform der Kirche. Die Reformation spaltete das westliche Christentum dauerhaft und löste religiöse Kriege, neue politische Ordnungen und eine kulturelle Neuorientierung Europas aus.",
+      "en": "Martin Luther published his 95 Theses against indulgences in Wittenberg in 1517, demanding a profound reform of the Church. The Reformation permanently split Western Christianity, triggering religious wars, new political orders, and a cultural reorientation of Europe."
+    }
+  },
+  {
+    "id": "ottoman-conquest-mamluk-egypt",
+    "coordinates": [
+      31.24,
+      30.06
+    ],
+    "year": 1517,
+    "type": "battle",
+    "culturalSphere": [
+      "ottoman",
+      "egyptian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Osmanische Eroberung Ägyptens – Fall der Mamluken",
+      "en": "Ottoman Conquest of Egypt – Fall of the Mamluks"
+    },
+    "description": {
+      "de": "Sultan Selim I. besiegte 1517 in der Entscheidungsschlacht bei Ridaniya die Mamluken und machte Ägypten zur osmanischen Provinz. Damit übernahmen die Osmanen die Kontrolle über den wichtigsten Handelsweg zwischen Mittelmeer und Rotem Meer – und beanspruchten die Schutzherrschaft über Mekka und Medina.",
+      "en": "Sultan Selim I defeated the Mamluks at the decisive Battle of Ridaniya in 1517, making Egypt an Ottoman province. This gave the Ottomans control over the most important trade route between the Mediterranean and Red Sea – and they claimed suzerainty over Mecca and Medina."
+    }
+  },
+  {
+    "id": "magellan-elcano-circumnavigation",
+    "coordinates": [
+      -6.35,
+      36.78
+    ],
+    "year": 1519,
+    "type": "cultural",
+    "culturalSphere": [
+      "spanish",
+      "portuguese"
+    ],
+    "labels": {
+      "de": "Erste Weltumsegelung",
+      "en": "First Circumnavigation of the Globe"
+    },
+    "description": {
+      "de": "Die Expedition unter Ferdinand Magellan verließ 1519 Sanlúcar de Barrameda und kehrte 1522 unter Juan Sebastián Elcano mit nur 18 von ursprünglich 270 Mann zurück. Die Reise bewies die Kugelgestalt der Erde und enthüllte die wahren Ausmaße des Pazifischen Ozeans.",
+      "en": "The expedition under Ferdinand Magellan departed Sanlúcar de Barrameda in 1519 and returned in 1522 under Juan Sebastián Elcano with only 18 of the original 270 men. The voyage proved Earth's spherical shape and revealed the true vastness of the Pacific Ocean."
     }
   }
 ]

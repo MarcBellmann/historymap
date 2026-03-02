@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "angkor-wat-khmer-peak",
+    "coordinates": [
+      103.87,
+      13.41
+    ],
+    "year": 1113,
+    "type": "cultural",
+    "culturalSphere": [
+      "khmer"
+    ],
+    "labels": {
+      "de": "Angkor Wat – Beginn des Baus unter Suryavarman II.",
+      "en": "Angkor Wat – Construction Begins Under Suryavarman II"
+    },
+    "description": {
+      "de": "König Suryavarman II. begann 1113 den Bau von Angkor Wat als hinduistischen Tempelkomplex und Staatstempel des Khmer-Reiches. Die Anlage wurde zum größten Sakralbauwerk der Welt und zeugt vom Höhepunkt der Khmer-Zivilisation.",
+      "en": "King Suryavarman II began construction of Angkor Wat in 1113 as a Hindu temple complex and state temple of the Khmer Empire. The complex became the world's largest religious building and testifies to the peak of Khmer civilization."
+    }
+  },
+  {
+    "id": "song-dynasty-magnetic-compass",
+    "coordinates": [
+      120.15,
+      30.26
+    ],
+    "year": 1119,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Seefahrt-Kompass der Song-Dynastie",
+      "en": "Song Dynasty Maritime Compass"
+    },
+    "description": {
+      "de": "Zhu Yu dokumentierte 1119 erstmals den Einsatz des Magnetkompasses zur Navigation auf See. Die chinesische Erfindung revolutionierte die maritime Navigation und war eine Schlüsseltechnologie, die später die europäischen Entdeckungsreisen ermöglichte.",
+      "en": "Zhu Yu documented in 1119 the first use of a magnetic compass for maritime navigation. This Chinese invention revolutionized maritime navigation and was a key technology that later enabled European voyages of discovery."
+    }
+  }
+]

@@ -1,5 +1,26 @@
 [
   {
+    "id": "crusader-county-edessa-falls",
+    "coordinates": [
+      38.78,
+      37.15
+    ],
+    "year": 1144,
+    "type": "political",
+    "culturalSphere": [
+      "crusader",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Fall der Grafschaft Edessa",
+      "en": "Fall of the County of Edessa"
+    },
+    "description": {
+      "de": "Zengi, der Atabegh von Mossul, eroberte 1144 das Kreuzfahrer-Fürstentum Edessa, das erste christliche Staatsgebiet im Heiligen Land, das an die Muslime fiel. Dieser Schock löste den Zweiten Kreuzzug aus und markierte das Beginn des Rückzugs der Kreuzfahrerstaaten.",
+      "en": "Zengi, the Atabeg of Mosul, conquered the crusader principality of Edessa in 1144, the first Christian territory in the Holy Land to fall to Muslims. This shock triggered the Second Crusade and marked the beginning of the retreat of the Crusader states."
+    }
+  },
+  {
     "id": "almohad-empire-rises",
     "coordinates": [
       -5.81,
@@ -18,6 +39,27 @@
     "description": {
       "de": "Die Almohaden stürzen die Almoraviden und vereinen den gesamten Maghreb unter einem strengen monotheistischen Reformprogramm. Höhepunkt der nordafrikanischen Reichsbildung.",
       "en": "The Almohads overthrow the Almoravids and unite the entire Maghreb under a strict monotheistic reform program. The peak of North African empire-building."
+    }
+  },
+  {
+    "id": "second-crusade-siege-of-damascus",
+    "coordinates": [
+      36.3,
+      33.51
+    ],
+    "year": 1148,
+    "type": "battle",
+    "culturalSphere": [
+      "crusader",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Zweiter Kreuzzug – Belagerung von Damaskus",
+      "en": "Second Crusade – Siege of Damascus"
+    },
+    "description": {
+      "de": "Die Kreuzritter griffen Damaskus an – eine Stadt, die bis dahin als Verbündeter des Kreuzfahrerkönigreichs galt. Das fehlgeschlagene Abenteuer trieb Damaskus in die Arme Nur ad-Dins und beendete den Zweiten Kreuzzug in einer totalen Niederlage.",
+      "en": "The crusaders attacked Damascus, until then an ally of the Crusader Kingdom of Jerusalem. The failed venture drove Damascus into the arms of Nur ad-Din and ended the Second Crusade in total failure."
     }
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "id": "viking-dublin-founded",
+    "coordinates": [
+      -6.26,
+      53.33
+    ],
+    "year": 841,
+    "type": "foundation",
+    "culturalSphere": [
+      "viking",
+      "norse"
+    ],
+    "labels": {
+      "de": "Gründung des Wikingerlagers Dublin",
+      "en": "Viking Founding of Dublin"
+    },
+    "description": {
+      "de": "Wikinger aus Norwegen gründen am Fluss Liffey ein befestigtes Lager (Longphort), das sich zum Stadthafen Dublin entwickelt. Dublin wurde zum wichtigsten Wikingerstützpunkt auf den Britischen Inseln und Handelsdrehscheibe des nordatlantischen Wikingerreichs.",
+      "en": "Norse Vikings establish a fortified camp (longphort) on the River Liffey that grows into the port city of Dublin. Dublin became the most important Viking base in the British Isles and a trading hub of the North Atlantic Viking world."
+    }
+  },
+  {
     "id": "treaty-of-verdun",
     "coordinates": [
       5.38,

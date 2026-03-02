@@ -38,5 +38,25 @@
       "de": "Die klassische Periode der Maya beginnt mit monumentaler Architektur und Schriftkultur in Städten wie Tikal und Palenque.",
       "en": "The Maya Classic Period begins with monumental architecture and writing in cities like Tikal and Palenque."
     }
+  },
+  {
+    "id": "mayan-classic-period-tikal",
+    "coordinates": [
+      -89.62,
+      17.22
+    ],
+    "year": 250,
+    "type": "foundation",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Maya-Klassik – Blüte von Tikal",
+      "en": "Maya Classic Period – Rise of Tikal"
+    },
+    "description": {
+      "de": "Tikal entwickelte sich in der klassischen Maya-Periode zur bedeutendsten Metropole Mesoamerikas mit imposanten Tempelpyramiden, einem ausgeklügelten Kalender- und Schriftsystem sowie umfangreichem Fernhandel. Die Maya-Zivilisation der Klassik war gleichzeitig mit dem Höhepunkt des Römischen Reiches eine der fortschrittlichsten Kulturen der damaligen Welt.",
+      "en": "Tikal developed into the most important metropolis of Mesoamerica in the Classic Maya period, with impressive temple pyramids, a sophisticated calendar and writing system, and extensive long-distance trade. Classic Maya civilization was contemporaneous with the Roman Empire's height and was one of the most advanced cultures of its time."
+    }
   }
 ]

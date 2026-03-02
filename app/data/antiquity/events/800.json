@@ -40,6 +40,48 @@
     }
   },
   {
+    "id": "ghana-empire-peak",
+    "coordinates": [
+      -7.97,
+      17.44
+    ],
+    "year": 800,
+    "type": "political",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Blütezeit des Ghana-Reiches",
+      "en": "Ghana Empire at Its Peak"
+    },
+    "description": {
+      "de": "Das Ghana-Reich (Wagadou) kontrolliert den Transsahara-Goldhandel und wird zum mächtigsten Staat Westafrikas.",
+      "en": "The Ghana Empire (Wagadu) controls the trans-Saharan gold trade, becoming the most powerful state in West Africa."
+    }
+  },
+  {
+    "id": "arab-trade-east-africa",
+    "coordinates": [
+      39.65,
+      -4.05
+    ],
+    "year": 800,
+    "type": "cultural",
+    "culturalSphere": [
+      "swahili",
+      "arab",
+      "african"
+    ],
+    "labels": {
+      "de": "Arabischer Handel an der Swahili-Küste",
+      "en": "Arab Trade on the Swahili Coast"
+    },
+    "description": {
+      "de": "Arabische und persische Händler intensivieren Handelskontakte zu Städten an der ostafrikanischen Küste wie Mombasa, Kilwa und Zanzibar. Diese Begegnungen schufen die Swahili-Zivilisation — eine einzigartige Verschmelzung afrikanischer, arabischer und persischer Kulturen.",
+      "en": "Arab and Persian merchants intensify trade contacts with cities on the East African coast such as Mombasa, Kilwa, and Zanzibar. These encounters created the Swahili civilization — a unique fusion of African, Arab, and Persian cultures."
+    }
+  },
+  {
     "id": "khmer-empire-founding",
     "coordinates": [
       103.87,
@@ -60,23 +102,24 @@
     }
   },
   {
-    "id": "ghana-empire-peak",
+    "id": "khmer-empire-founded-corrected",
     "coordinates": [
-      -7.97,
-      17.44
+      103.87,
+      13.41
     ],
-    "year": 800,
-    "type": "political",
+    "year": 802,
+    "type": "foundation",
     "culturalSphere": [
-      "west-african"
+      "khmer",
+      "southeast-asian"
     ],
     "labels": {
-      "de": "Blütezeit des Ghana-Reiches",
-      "en": "Ghana Empire at Its Peak"
+      "de": "Gründung des Khmer-Reichs",
+      "en": "Founding of the Khmer Empire"
     },
     "description": {
-      "de": "Das Ghana-Reich (Wagadou) kontrolliert den Transsahara-Goldhandel und wird zum mächtigsten Staat Westafrikas.",
-      "en": "The Ghana Empire (Wagadu) controls the trans-Saharan gold trade, becoming the most powerful state in West Africa."
+      "de": "Jayavarman II. krönt sich auf dem heiligen Berg Phnom Kulen zum Chakravartin und begründet das Khmer-Reich in Kambodscha. Sein Reich wurde Basis für Angkor Wat, eine der größten sakralen Stadtanlagen der Welt.",
+      "en": "Jayavarman II crowns himself Chakravartin on the sacred mountain Phnom Kulen and establishes the Khmer Empire in Cambodia. His kingdom would become the foundation for Angkor Wat, one of the largest religious complexes in the world."
     }
   }
 ]

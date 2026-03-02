@@ -1,46 +1,5 @@
 [
   {
-    "id": "fatimid-caliphate-founded",
-    "coordinates": [
-      10.181,
-      36.806
-    ],
-    "year": 909,
-    "type": "political",
-    "culturalSphere": [
-      "islamic",
-      "north-african"
-    ],
-    "labels": {
-      "de": "Gründung des Fatimiden-Kalifats",
-      "en": "Fatimid Caliphate Founded"
-    },
-    "description": {
-      "de": "Die schiitischen Fatimiden gründen ein rivalisierendes Kalifat in Nordafrika. Von dort aus erobern sie Ägypten und werden zu einer der mächtigsten Dynastien der islamischen Welt.",
-      "en": "The Shia Fatimids establish a rival caliphate in North Africa. From there they conquer Egypt and become one of the most powerful dynasties in the Islamic world."
-    }
-  },
-  {
-    "id": "fall-of-tang-dynasty",
-    "coordinates": [
-      108.94,
-      34.27
-    ],
-    "year": 907,
-    "type": "political",
-    "culturalSphere": [
-      "chinese"
-    ],
-    "labels": {
-      "de": "Fall der Tang-Dynastie",
-      "en": "Fall of the Tang Dynasty"
-    },
-    "description": {
-      "de": "Nach der Huang-Chao-Rebellion und Jahrzehnten des Niedergangs endete die Tang-Dynastie. China zerfiel in die Periode der Fünf Dynastien und Zehn Reiche.",
-      "en": "After the Huang Chao Rebellion and decades of decline, the Tang dynasty ended. China fragmented into the Five Dynasties and Ten Kingdoms period."
-    }
-  },
-  {
     "id": "swahili-coast-trade-flourishes",
     "coordinates": [
       39.28,
@@ -78,6 +37,112 @@
     "description": {
       "de": "Die großen Maya-Städte im südlichen Tiefland werden innerhalb weniger Jahrzehnte aufgegeben; die Ursachen sind bis heute umstritten.",
       "en": "The great Maya cities in the southern lowlands are abandoned within a few decades; the causes remain debated."
+    }
+  },
+  {
+    "id": "kievan-rus-trade-routes",
+    "coordinates": [
+      30.52,
+      50.45
+    ],
+    "year": 900,
+    "type": "cultural",
+    "culturalSphere": [
+      "rus",
+      "slavic",
+      "viking"
+    ],
+    "labels": {
+      "de": "Waräger-Handelsweg von Nowgorod nach Konstantinopel",
+      "en": "Varangian Trade Route from Novgorod to Constantinople"
+    },
+    "description": {
+      "de": "Die Waräger (Nordgermanen) etablieren entlang der großen osteuropäischen Flüsse eine Handelsroute von Skandinavien nach Konstantinopel. Diese Route verbindet baltischen Bernstein und skandinavische Waren mit Byzanz und dem Abbasidenreich und prägt Osteuropa kulturell.",
+      "en": "The Varangians (Norse) establish a trade route from Scandinavia to Constantinople along the great rivers of Eastern Europe. This route connects Baltic amber and Norse goods with Byzantium and the Abbasid Caliphate, culturally shaping Eastern Europe."
+    }
+  },
+  {
+    "id": "toltec-civilization-tula",
+    "coordinates": [
+      -99.34,
+      20.06
+    ],
+    "year": 900,
+    "type": "foundation",
+    "culturalSphere": [
+      "toltec",
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Tula – Hauptstadt der Tolteken",
+      "en": "Tula – Toltec Capital"
+    },
+    "description": {
+      "de": "Die Tolteken errichten Tula (Tollan) als ihre Hauptstadt und entwickeln eine militärisch-religiöse Kultur, die spätere mesoamerikanische Zivilisationen stark beeinflusst. Quetzalcoatl, eine der mächtigsten Gottheiten Mesoamerikas, wird mit dieser Ära verbunden.",
+      "en": "The Toltecs establish Tula (Tollan) as their capital and develop a militaristic-religious culture that strongly influenced later Mesoamerican civilizations. Quetzalcoatl, one of Mesoamerica's most powerful deities, is associated with this era."
+    }
+  },
+  {
+    "id": "fall-of-tang-dynasty",
+    "coordinates": [
+      108.94,
+      34.27
+    ],
+    "year": 907,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Fall der Tang-Dynastie",
+      "en": "Fall of the Tang Dynasty"
+    },
+    "description": {
+      "de": "Nach der Huang-Chao-Rebellion und Jahrzehnten des Niedergangs endete die Tang-Dynastie. China zerfiel in die Periode der Fünf Dynastien und Zehn Reiche.",
+      "en": "After the Huang Chao Rebellion and decades of decline, the Tang dynasty ended. China fragmented into the Five Dynasties and Ten Kingdoms period."
+    }
+  },
+  {
+    "id": "fatimid-caliphate-founded",
+    "coordinates": [
+      10.181,
+      36.806
+    ],
+    "year": 909,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "north-african"
+    ],
+    "labels": {
+      "de": "Gründung des Fatimiden-Kalifats",
+      "en": "Fatimid Caliphate Founded"
+    },
+    "description": {
+      "de": "Die schiitischen Fatimiden gründen ein rivalisierendes Kalifat in Nordafrika. Von dort aus erobern sie Ägypten und werden zu einer der mächtigsten Dynastien der islamischen Welt.",
+      "en": "The Shia Fatimids establish a rival caliphate in North Africa. From there they conquer Egypt and become one of the most powerful dynasties in the Islamic world."
+    }
+  },
+  {
+    "id": "caliphate-schism-abbasid-fatimid",
+    "coordinates": [
+      44.36,
+      33.34
+    ],
+    "year": 909,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "fatimid",
+      "abbasid"
+    ],
+    "labels": {
+      "de": "Dreispaltung des Islam: Abbasiden, Fatimiden, Umayyaden",
+      "en": "Three-Way Islamic Split: Abbasids, Fatimids, Umayyads"
+    },
+    "description": {
+      "de": "Das 10. Jahrhundert sieht drei rivalisierende islamische Dynastien mit Anspruch auf das Kalifat: Abbasiden in Bagdad, Fatimiden in Kairo und Umayyaden in Córdoba. Diese Teilung spiegelt die theologischen und politischen Bruchlinien der islamischen Welt wider.",
+      "en": "The 10th century sees three rival Islamic dynasties claiming the caliphate: Abbasids in Baghdad, Fatimids in Cairo, and Umayyads in Córdoba. This division reflects the theological and political fault lines of the Islamic world."
     }
   }
 ]

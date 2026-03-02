@@ -20,26 +20,6 @@
     }
   },
   {
-    "id": "solon-reforms-athens",
-    "coordinates": [
-      23.73,
-      37.97
-    ],
-    "year": -594,
-    "type": "political",
-    "culturalSphere": [
-      "greek"
-    ],
-    "labels": {
-      "de": "Solons Reformen in Athen",
-      "en": "Solon's Reforms in Athens"
-    },
-    "description": {
-      "de": "Der Staatsmann Solon führte weitreichende Reformen in Athen ein, darunter die Aufhebung der Schuldknechtschaft und die Neuordnung der Bürgerklassen — ein Grundstein für die spätere Demokratie.",
-      "en": "The statesman Solon introduced far-reaching reforms in Athens, including the abolition of debt bondage and a reorganization of citizen classes — a foundation for later democracy."
-    }
-  },
-  {
     "id": "mahajanapada-wars-begin",
     "coordinates": [
       85.14,
@@ -57,6 +37,86 @@
     "description": {
       "de": "Die sechzehn Mahajanapadas (Großkönigreicheider) im Ganges-Tal beginnen eine Epoche der Rivalität und Konsolidierung.",
       "en": "The sixteen Mahajanapadas (great kingdoms) in the Ganges valley enter an era of rivalry and consolidation."
+    }
+  },
+  {
+    "id": "mahajanapadas-16-kingdoms-india",
+    "coordinates": [
+      83,
+      25.5
+    ],
+    "year": -600,
+    "type": "political",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Die 16 Mahajanapadas — Großkönigreiche Indiens",
+      "en": "The 16 Mahajanapadas — Great Kingdoms of India"
+    },
+    "description": {
+      "de": "Im 6. Jahrhundert v. Chr. hatten sich auf dem indischen Subkontinent 16 große Königreiche (Mahajanapadas) entwickelt, von Gandhara im Nordwesten bis Magadha im Osten. Diese Staatsgebilde legten das Fundament für die spätere Maurya-Einigung Indiens.",
+      "en": "By the 6th century BC, 16 great kingdoms (Mahajanapadas) had emerged across the Indian subcontinent, from Gandhara in the northwest to Magadha in the east. These polities laid the groundwork for the later Mauryan unification of India."
+    }
+  },
+  {
+    "id": "sappho-poetry-lesbos-600bc",
+    "coordinates": [
+      26.55,
+      39.2
+    ],
+    "year": -600,
+    "type": "cultural",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Sappho — Dichterin von Lesbos",
+      "en": "Sappho — Poetess of Lesbos"
+    },
+    "description": {
+      "de": "Die Dichterin Sappho schuf auf der Insel Lesbos Lyrik von einzigartiger emotionaler Tiefe und musikalischer Eleganz. Obwohl nur Fragmente erhalten sind, gilt sie als eine der bedeutendsten Dichterinnen der Antike und wurde schon von Platon als 'die zehnte Muse' bezeichnet.",
+      "en": "The poet Sappho created on the island of Lesbos lyric poetry of unique emotional depth and musical elegance. Though only fragments survive, she is considered one of the most significant poets of antiquity and was already called 'the tenth muse' by Plato."
+    }
+  },
+  {
+    "id": "birth-of-mahavira",
+    "coordinates": [
+      85.93,
+      25.55
+    ],
+    "year": -599,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Geburt Mahaviras, Begründer des Jainismus",
+      "en": "Birth of Mahavira, Founder of Jainism"
+    },
+    "description": {
+      "de": "Vardhamana Mahavira wurde in einer königlichen Kshatriya-Familie im heutigen Bihar geboren. Nach zwölfjähriger Askese erlangte er die Erleuchtung und lehrte Ahimsa (Gewaltlosigkeit) als höchstes ethisches Prinzip — die Grundlage des Jainismus.",
+      "en": "Vardhamana Mahavira was born into a royal Kshatriya family in modern Bihar. After twelve years of asceticism he attained enlightenment and taught ahimsa (non-violence) as the highest ethical principle — the foundation of Jainism."
+    }
+  },
+  {
+    "id": "solon-reforms-athens",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": -594,
+    "type": "political",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Solons Reformen in Athen",
+      "en": "Solon's Reforms in Athens"
+    },
+    "description": {
+      "de": "Der Staatsmann Solon führte weitreichende Reformen in Athen ein, darunter die Aufhebung der Schuldknechtschaft und die Neuordnung der Bürgerklassen — ein Grundstein für die spätere Demokratie.",
+      "en": "The statesman Solon introduced far-reaching reforms in Athens, including the abolition of debt bondage and a reorganization of citizen classes — a foundation for later democracy."
     }
   }
 ]

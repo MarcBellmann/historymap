@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "crisis-of-third-century",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 235,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Krise des dritten Jahrhunderts",
+      "en": "Crisis of the Third Century"
+    },
+    "description": {
+      "de": "Mit der Ermordung Kaiser Alexanders Severus' begann eine 50-jährige Phase extremer politischer Instabilität: Über 20 Kaiser regierten in dieser Zeit, das Reich zerbrach kurz in drei Teile, und Epidemien, Invasionen und wirtschaftlicher Verfall erschütterten die Grundlagen der römischen Zivilisation.",
+      "en": "With the assassination of Emperor Alexander Severus began a 50-year period of extreme political instability: over 20 emperors ruled in this period, the empire briefly fractured into three parts, and epidemics, invasions, and economic decline shook the foundations of Roman civilization."
+    }
+  }
+]

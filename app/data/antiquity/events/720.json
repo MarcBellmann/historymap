@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "byzantine-iconoclasm",
+    "coordinates": [
+      28.97,
+      41.01
+    ],
+    "year": 726,
+    "type": "political",
+    "culturalSphere": [
+      "byzantine"
+    ],
+    "labels": {
+      "de": "Byzantinischer Bilderstreit",
+      "en": "Byzantine Iconoclasm"
+    },
+    "description": {
+      "de": "Kaiser Leo III. ordnet die Entfernung und Zerstörung religiöser Bildnisse im Byzantinischen Reich an und löst einen Jahrhundert dauernden theologischen Konflikt aus. Der Ikonoklasmus vertiefte den Riss zwischen Rom und Konstantinopel und beschleunigte die Kirchenspaltung.",
+      "en": "Emperor Leo III orders the removal and destruction of religious images in the Byzantine Empire, triggering a theological conflict lasting over a century. Iconoclasm deepened the rift between Rome and Constantinople and accelerated the Great Schism."
+    }
+  }
+]

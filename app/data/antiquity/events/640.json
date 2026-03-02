@@ -1,5 +1,26 @@
 [
   {
+    "id": "aksum-decline-trade-routes",
+    "coordinates": [
+      38.72,
+      14.34
+    ],
+    "year": 640,
+    "type": "political",
+    "culturalSphere": [
+      "aksumite",
+      "african"
+    ],
+    "labels": {
+      "de": "Niedergang des Aksumitischen Reichs",
+      "en": "Decline of the Aksumite Empire"
+    },
+    "description": {
+      "de": "Die arabische Expansion im Roten Meer verdrängt das aksumitische Reich aus seinen Handelsnetzwerken und führt zu einem schrittweisen wirtschaftlichen Niedergang. Axum zieht sich ins Hochland zurück und verliert seinen Status als Mittelmeer-Handelspartner.",
+      "en": "The Arab expansion across the Red Sea displaces the Aksumite Empire from its trade networks, leading to a gradual economic decline. Axum retreats into the highlands and loses its status as a Mediterranean trading partner."
+    }
+  },
+  {
     "id": "arab-conquest-of-egypt",
     "coordinates": [
       31.232,

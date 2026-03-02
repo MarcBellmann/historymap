@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "partition-of-jin-state-453bc",
+    "coordinates": [
+      112.37,
+      37.85
+    ],
+    "year": -453,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Teilung des Staates Jin — Drei Reiche entstehen",
+      "en": "Partition of the State of Jin — Three Kingdoms Emerge"
+    },
+    "description": {
+      "de": "Das mächtige Königreich Jin in Nordchina wurde in die drei Staaten Han, Zhao und Wei aufgeteilt. Die Entstehung dieser drei Mächte gilt als Beginn der eigentlichen Periode der Streitenden Reiche und veränderte die politische Karte Chinas grundlegend.",
+      "en": "The powerful state of Jin in northern China was divided into the three states of Han, Zhao, and Wei. The emergence of these three powers is considered the true start of the Warring States period and fundamentally reshaped China's political map."
+    }
+  }
+]

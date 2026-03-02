@@ -1,5 +1,46 @@
 [
   {
+    "id": "brunei-empire-peak",
+    "coordinates": [
+      114.94,
+      4.94
+    ],
+    "year": 1500,
+    "type": "political",
+    "culturalSphere": [
+      "malay"
+    ],
+    "labels": {
+      "de": "Höhepunkt des Sultanats Brunei",
+      "en": "Peak of the Brunei Sultanate"
+    },
+    "description": {
+      "de": "Das Sultanat Brunei erreichte seine größte Ausdehnung und kontrollierte weite Teile Borneos und der Sulu-Inseln. Es war ein bedeutendes Zentrum des islamischen Handels.",
+      "en": "The Brunei Sultanate reached its greatest extent, controlling much of Borneo and the Sulu Islands. It was a major center of Islamic trade."
+    }
+  },
+  {
+    "id": "mutapa-kingdom-peak",
+    "coordinates": [
+      31,
+      -16.5
+    ],
+    "year": 1500,
+    "type": "political",
+    "culturalSphere": [
+      "bantu",
+      "east-african"
+    ],
+    "labels": {
+      "de": "Königreich Mutapa – Nachfolger Simbabwes",
+      "en": "Kingdom of Mutapa – Successor to Zimbabwe"
+    },
+    "description": {
+      "de": "Das Königreich Mutapa (Mwene Mutapa) hatte um 1500 seinen Machthöhepunkt als Nachfolger von Groß-Simbabwe und kontrollierte den Goldhandel zwischen dem Landesinnern Südafrikas und den Swahili-Küstenstädten. Es stand im Handelskontakt mit arabischen, indischen und später portugiesischen Händlern.",
+      "en": "The Kingdom of Mutapa (Mwene Mutapa) reached its peak power around 1500 as the successor to Great Zimbabwe, controlling gold trade between southern African interior and Swahili coastal cities. It maintained commercial contact with Arab, Indian, and later Portuguese merchants."
+    }
+  },
+  {
     "id": "safavid-empire-founded",
     "coordinates": [
       46.3,
@@ -21,23 +62,24 @@
     }
   },
   {
-    "id": "brunei-empire-peak",
+    "id": "kongo-kingdom-christianity",
     "coordinates": [
-      114.94,
-      4.94
+      14.25,
+      -6.27
     ],
-    "year": 1500,
-    "type": "political",
+    "year": 1509,
+    "type": "cultural",
     "culturalSphere": [
-      "malay"
+      "bantu",
+      "central-african"
     ],
     "labels": {
-      "de": "Höhepunkt des Sultanats Brunei",
-      "en": "Peak of the Brunei Sultanate"
+      "de": "Afonso I – Christianisierung des Kongoreichs",
+      "en": "Afonso I – Christianization of the Kongo Kingdom"
     },
     "description": {
-      "de": "Das Sultanat Brunei erreichte seine größte Ausdehnung und kontrollierte weite Teile Borneos und der Sulu-Inseln. Es war ein bedeutendes Zentrum des islamischen Handels.",
-      "en": "The Brunei Sultanate reached its greatest extent, controlling much of Borneo and the Sulu Islands. It was a major center of Islamic trade."
+      "de": "König Afonso I. (Mvemba a Nzinga) bestieg 1509 den Thron von Mbanza Kongo und erklärte das Christentum zur Staatsreligion. Er gründete Schulen, schrieb auf Portugiesisch und schuf eine synkretistische Form des Christentums, die kongolesische Kosmologie mit katholischer Lehre verband.",
+      "en": "King Afonso I (Mvemba a Nzinga) ascended the throne of Mbanza Kongo in 1509 and declared Christianity the state religion. He founded schools, corresponded in Portuguese, and created a syncretic form of Christianity that merged Kongolese cosmology with Catholic doctrine."
     }
   }
 ]

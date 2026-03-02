@@ -1,5 +1,25 @@
 [
   {
+    "id": "tikal-calakmul-war",
+    "coordinates": [
+      -89.62,
+      17.22
+    ],
+    "year": 562,
+    "type": "battle",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Tikal-Calakmul-Krieg",
+      "en": "Tikal-Calakmul War"
+    },
+    "description": {
+      "de": "Calakmul besiegt Tikal im sogenannten 'Sternenkrieg' und begründet eine Ära der Rivalität der Maya-Großmächte.",
+      "en": "Calakmul defeats Tikal in the so-called 'Star War,' beginning an era of rivalry between Maya superpowers."
+    }
+  },
+  {
     "id": "lombard-invasion-of-italy",
     "coordinates": [
       11.87,
@@ -20,23 +40,24 @@
     }
   },
   {
-    "id": "tikal-calakmul-war",
+    "id": "lombard-kingdom-italy",
     "coordinates": [
-      -89.62,
-      17.22
+      9.19,
+      45.46
     ],
-    "year": 562,
-    "type": "battle",
+    "year": 568,
+    "type": "political",
     "culturalSphere": [
-      "mesoamerican"
+      "lombard",
+      "germanic"
     ],
     "labels": {
-      "de": "Tikal-Calakmul-Krieg",
-      "en": "Tikal-Calakmul War"
+      "de": "Langobardeneinfall in Italien",
+      "en": "Lombard Invasion of Italy"
     },
     "description": {
-      "de": "Calakmul besiegt Tikal im sogenannten 'Sternenkrieg' und begründet eine Ära der Rivalität der Maya-Großmächte.",
-      "en": "Calakmul defeats Tikal in the so-called 'Star War,' beginning an era of rivalry between Maya superpowers."
+      "de": "Die Langobarden unter König Alboin überqueren die Alpen und erobern weite Teile Norditaliens, wenige Jahre nach Justinians langwieriger Rückeroberung. Die Langobarden gaben der Lombardei ihren Namen und prägten das mittelalterliche Italien grundlegend.",
+      "en": "The Lombards under King Alboin cross the Alps and conquer large parts of northern Italy, just years after Justinian's hard-won reconquest. The Lombards gave Lombardy its name and fundamentally shaped medieval Italy."
     }
   }
 ]

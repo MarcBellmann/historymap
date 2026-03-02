@@ -1,5 +1,25 @@
 [
   {
+    "id": "la-tene-culture-emerges",
+    "coordinates": [
+      7,
+      47
+    ],
+    "year": -450,
+    "type": "cultural",
+    "culturalSphere": [
+      "celtic"
+    ],
+    "labels": {
+      "de": "Entstehung der La-Tène-Kultur",
+      "en": "Emergence of La Tène Culture"
+    },
+    "description": {
+      "de": "In Mitteleuropa entstand die La-Tène-Kultur, eine hochentwickelte keltische Kunsttradition mit charakteristischen Spiralmustern und Flechtwerk. Diese Periode markierte die kulturelle Blüte der Kelten, die sich von der britischen Insel bis nach Anatolien ausbreiteten.",
+      "en": "In central Europe, La Tène culture emerged — a sophisticated Celtic artistic tradition characterized by spirals and interlaced patterns. This period marked the cultural flowering of the Celts, who spread from the British Isles to Anatolia."
+    }
+  },
+  {
     "id": "parthenon-construction",
     "coordinates": [
       23.73,

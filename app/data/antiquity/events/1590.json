@@ -1,5 +1,89 @@
 [
   {
+    "id": "battle-of-tondibi",
+    "coordinates": [
+      -0.33,
+      16
+    ],
+    "year": 1591,
+    "type": "battle",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Schlacht von Tondibi",
+      "en": "Battle of Tondibi"
+    },
+    "description": {
+      "de": "Eine marokkanische Expeditionsarmee mit Feuerwaffen besiegt das Songhai-Reich und beendet dessen Vorherrschaft in Westafrika.",
+      "en": "A Moroccan expeditionary force with firearms defeats the Songhai Empire, ending its dominance in West Africa."
+    }
+  },
+  {
+    "id": "fall-of-songhai-tondibi",
+    "coordinates": [
+      2.09,
+      15.9
+    ],
+    "year": 1591,
+    "type": "battle",
+    "culturalSphere": [
+      "west-african",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Schlacht bei Tondibi – Fall des Songhai-Reiches",
+      "en": "Battle of Tondibi – Fall of the Songhai Empire"
+    },
+    "description": {
+      "de": "Die marokkanische Saadidendynastie sandte 1591 eine mit Musketen bewaffnete Armee über die Sahara, die bei Tondibi die Streitkräfte des Songhai-Reiches vernichtend schlug. Der Kollaps des mächtigsten westafrikaanischen Reiches öffnete den Weg für eine Zeit politischer Zersplitterung in der Sahelregion.",
+      "en": "The Moroccan Saadian dynasty sent a musket-armed army across the Sahara in 1591 that decisively defeated the forces of the Songhai Empire at Tondibi. The collapse of the most powerful West African empire opened the way to a period of political fragmentation in the Sahel region."
+    }
+  },
+  {
+    "id": "imjin-war",
+    "coordinates": [
+      129.03,
+      35.1
+    ],
+    "year": 1592,
+    "type": "battle",
+    "culturalSphere": [
+      "japanese",
+      "korean",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Imjin-Krieg – Japanische Invasion Koreas",
+      "en": "Imjin War – Japanese Invasion of Korea"
+    },
+    "description": {
+      "de": "Toyotomi Hideyoshi fiel mit 158.000 Soldaten in Korea ein. Die Invasionen (1592–1598) verwüsteten Korea, wurden aber durch koreanischen Widerstand und Ming-Hilfe abgewehrt.",
+      "en": "Toyotomi Hideyoshi invaded Korea with 158,000 soldiers. The invasions (1592–1598) devastated Korea but were repelled by Korean resistance and Ming Chinese aid."
+    }
+  },
+  {
+    "id": "battle-of-myeongnyang",
+    "coordinates": [
+      126.31,
+      34.57
+    ],
+    "year": 1597,
+    "type": "battle",
+    "culturalSphere": [
+      "korean",
+      "japanese"
+    ],
+    "labels": {
+      "de": "Seeschlacht von Myeongnyang",
+      "en": "Battle of Myeongnyang"
+    },
+    "description": {
+      "de": "Admiral Yi Sun-sin besiegte mit nur 13 Schiffen eine japanische Flotte von 133 Schiffen in der Meerenge von Myeongnyang – eine der größten Seeschlachten der Geschichte.",
+      "en": "Admiral Yi Sun-sin defeated a Japanese fleet of 133 ships with only 13 vessels in the Myeongnyang Strait — one of history's greatest naval victories."
+    }
+  },
+  {
     "id": "edict-of-nantes",
     "coordinates": [
       -1.55,
@@ -41,28 +125,6 @@
     }
   },
   {
-    "id": "imjin-war",
-    "coordinates": [
-      129.03,
-      35.1
-    ],
-    "year": 1592,
-    "type": "battle",
-    "culturalSphere": [
-      "japanese",
-      "korean",
-      "chinese"
-    ],
-    "labels": {
-      "de": "Imjin-Krieg – Japanische Invasion Koreas",
-      "en": "Imjin War – Japanese Invasion of Korea"
-    },
-    "description": {
-      "de": "Toyotomi Hideyoshi fiel mit 158.000 Soldaten in Korea ein. Die Invasionen (1592–1598) verwüsteten Korea, wurden aber durch koreanischen Widerstand und Ming-Hilfe abgewehrt.",
-      "en": "Toyotomi Hideyoshi invaded Korea with 158,000 soldiers. The invasions (1592–1598) devastated Korea but were repelled by Korean resistance and Ming Chinese aid."
-    }
-  },
-  {
     "id": "battle-of-noryang",
     "coordinates": [
       127.8,
@@ -81,47 +143,6 @@
     "description": {
       "de": "In der letzten großen Seeschlacht des Imjin-Krieges besiegten koreanische und Ming-Flotten die abziehende japanische Marine. Admiral Yi Sun-sin fiel im Kampf.",
       "en": "In the last major naval battle of the Imjin War, Korean and Ming fleets defeated the withdrawing Japanese navy. Admiral Yi Sun-sin was killed in action."
-    }
-  },
-  {
-    "id": "battle-of-myeongnyang",
-    "coordinates": [
-      126.31,
-      34.57
-    ],
-    "year": 1597,
-    "type": "battle",
-    "culturalSphere": [
-      "korean",
-      "japanese"
-    ],
-    "labels": {
-      "de": "Seeschlacht von Myeongnyang",
-      "en": "Battle of Myeongnyang"
-    },
-    "description": {
-      "de": "Admiral Yi Sun-sin besiegte mit nur 13 Schiffen eine japanische Flotte von 133 Schiffen in der Meerenge von Myeongnyang – eine der größten Seeschlachten der Geschichte.",
-      "en": "Admiral Yi Sun-sin defeated a Japanese fleet of 133 ships with only 13 vessels in the Myeongnyang Strait — one of history's greatest naval victories."
-    }
-  },
-  {
-    "id": "battle-of-tondibi",
-    "coordinates": [
-      -0.33,
-      16
-    ],
-    "year": 1591,
-    "type": "battle",
-    "culturalSphere": [
-      "west-african"
-    ],
-    "labels": {
-      "de": "Schlacht von Tondibi",
-      "en": "Battle of Tondibi"
-    },
-    "description": {
-      "de": "Eine marokkanische Expeditionsarmee mit Feuerwaffen besiegt das Songhai-Reich und beendet dessen Vorherrschaft in Westafrika.",
-      "en": "A Moroccan expeditionary force with firearms defeats the Songhai Empire, ending its dominance in West Africa."
     }
   }
 ]

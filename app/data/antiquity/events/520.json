@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "id": "aksum-king-kaleb-yemen-campaign",
+    "coordinates": [
+      38.72,
+      14.34
+    ],
+    "year": 525,
+    "type": "battle",
+    "culturalSphere": [
+      "aksumite",
+      "christian",
+      "african"
+    ],
+    "labels": {
+      "de": "König Kaleb von Aksum – Feldzug nach Jemen",
+      "en": "King Kaleb of Aksum – Campaign into Yemen"
+    },
+    "description": {
+      "de": "Aksumitischer König Kaleb I. überquert das Rote Meer und erobert Jemen, um die verfolgte christliche Bevölkerung unter dem jüdischen König Dhu Nuwas zu befreien. Dies markierte den Höhepunkt des aksumitischen Reiches, das auf zwei Kontinenten herrschte.",
+      "en": "Aksumite King Kaleb I crosses the Red Sea and conquers Yemen to protect the persecuted Christian population under the Jewish King Dhu Nuwas. This marked the peak of the Aksumite Empire, which ruled on two continents."
+    }
+  },
+  {
+    "id": "justinian-code",
+    "coordinates": [
+      28.97,
+      41.01
+    ],
+    "year": 529,
+    "type": "political",
+    "culturalSphere": [
+      "byzantine",
+      "roman"
+    ],
+    "labels": {
+      "de": "Corpus Juris Civilis",
+      "en": "Corpus Juris Civilis"
+    },
+    "description": {
+      "de": "Kaiser Justinian I. lässt das gesamte römische Recht in einem systematischen Gesetzeskodex zusammenfassen. Der Corpus Juris Civilis blieb über 900 Jahre Grundlage byzantinischen Rechts und prägt westliche Rechtssysteme bis heute.",
+      "en": "Emperor Justinian I commissions a comprehensive codification of all Roman law. The Corpus Juris Civilis remained the foundation of Byzantine law for over 900 years and continues to shape Western legal systems to this day."
+    }
+  },
+  {
+    "id": "monastery-of-monte-cassino",
+    "coordinates": [
+      13.81,
+      41.47
+    ],
+    "year": 529,
+    "type": "foundation",
+    "culturalSphere": [
+      "roman",
+      "christian",
+      "benedictine"
+    ],
+    "labels": {
+      "de": "Gründung von Monte Cassino – Benediktiner",
+      "en": "Founding of Monte Cassino – Benedictines"
+    },
+    "description": {
+      "de": "Benedikt von Nursia gründet das Kloster Monte Cassino und verfasst die Regula Benedicti, die Grundlage des westlichen Mönchtums. Die benediktinischen Klöster wurden zu den wichtigsten Zentren von Schriftkultur, Wissen und Landwirtschaft im frühmittelalterlichen Europa.",
+      "en": "Benedict of Nursia founds the monastery of Monte Cassino and writes the Rule of Saint Benedict, the foundation of Western monasticism. Benedictine monasteries became the most important centers of literary culture, knowledge, and agriculture in early medieval Europe."
+    }
+  }
+]

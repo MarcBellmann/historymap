@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "lydian-coinage-innovation",
+    "coordinates": [
+      28.04,
+      38.46
+    ],
+    "year": -650,
+    "type": "cultural",
+    "culturalSphere": [
+      "lydian"
+    ],
+    "labels": {
+      "de": "Lydien erfindet die Münzprägung",
+      "en": "Lydia Invents Coinage"
+    },
+    "description": {
+      "de": "In Sardes, der lydischen Hauptstadt, wurden die ersten standardisierten Münzen aus Elektrum (Gold-Silber-Legierung) geprägt. Diese Innovation revolutionierte den Handel, erleichterte die Steuererhebung und schuf die Grundlage für die moderne Geldwirtschaft.",
+      "en": "In Sardis, the Lydian capital, the first standardized coins were struck from electrum (a gold-silver alloy). This innovation revolutionized commerce, facilitated tax collection, and created the foundation for the modern monetary economy."
+    }
+  }
+]

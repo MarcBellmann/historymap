@@ -18,5 +18,26 @@
       "de": "Kaiser Wen der Sui eroberte die Chen-Dynastie und vereinigte China nach fast 300 Jahren der Teilung erstmals wieder unter einer Herrschaft.",
       "en": "Emperor Wen of Sui conquered the Chen dynasty and reunited China under one rule for the first time in nearly 300 years of division."
     }
+  },
+  {
+    "id": "sui-dynasty-reunification",
+    "coordinates": [
+      108.94,
+      34.27
+    ],
+    "year": 589,
+    "type": "political",
+    "culturalSphere": [
+      "chinese",
+      "sui"
+    ],
+    "labels": {
+      "de": "Wiedervereinigung Chinas unter der Sui-Dynastie",
+      "en": "Reunification of China under the Sui Dynasty"
+    },
+    "description": {
+      "de": "Kaiser Wendi der Sui-Dynastie beendet fast vier Jahrhunderte der Teilung und vereinigt China wieder unter einer zentralen Regierung. Der Kaiserkanal, der unter seinem Nachfolger gebaut wurde, verband Nordchina mit dem reichen Süden und formte die chinesische Wirtschaft für Jahrtausende.",
+      "en": "Emperor Wendi of the Sui dynasty ends nearly four centuries of division and reunifies China under a central government. The Grand Canal, built under his successor, connected northern China with the prosperous south and shaped the Chinese economy for millennia."
+    }
   }
 ]

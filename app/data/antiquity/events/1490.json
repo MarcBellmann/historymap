@@ -1,5 +1,25 @@
 [
   {
+    "id": "kingdom-of-kongo-portuguese-contact",
+    "coordinates": [
+      15.31,
+      -6.27
+    ],
+    "year": 1491,
+    "type": "political",
+    "culturalSphere": [
+      "bantu"
+    ],
+    "labels": {
+      "de": "Kongo-Königreich nimmt das Christentum an",
+      "en": "Kingdom of Kongo Adopts Christianity"
+    },
+    "description": {
+      "de": "König Nzinga a Nkuwu des Kongo-Reiches lässt sich taufen und nimmt den Namen João I. an, was eine enge Beziehung zu Portugal begründet.",
+      "en": "King Nzinga a Nkuwu of the Kongo Kingdom is baptized as João I, establishing a close relationship with Portugal."
+    }
+  },
+  {
     "id": "fall-of-granada",
     "coordinates": [
       -3.6,
@@ -61,26 +81,6 @@
     }
   },
   {
-    "id": "kingdom-of-kongo-portuguese-contact",
-    "coordinates": [
-      15.31,
-      -6.27
-    ],
-    "year": 1491,
-    "type": "political",
-    "culturalSphere": [
-      "bantu"
-    ],
-    "labels": {
-      "de": "Kongo-Königreich nimmt das Christentum an",
-      "en": "Kingdom of Kongo Adopts Christianity"
-    },
-    "description": {
-      "de": "König Nzinga a Nkuwu des Kongo-Reiches lässt sich taufen und nimmt den Namen João I. an, was eine enge Beziehung zu Portugal begründet.",
-      "en": "King Nzinga a Nkuwu of the Kongo Kingdom is baptized as João I, establishing a close relationship with Portugal."
-    }
-  },
-  {
     "id": "vasco-da-gama-reaches-india",
     "coordinates": [
       75.37,
@@ -98,6 +98,27 @@
     "description": {
       "de": "Vasco da Gama landet in Calicut an der Malabarküste und eröffnet den direkten Seehandel zwischen Europa und Indien.",
       "en": "Vasco da Gama lands at Calicut on the Malabar Coast, opening direct maritime trade between Europe and India."
+    }
+  },
+  {
+    "id": "vasco-da-gama-india-1498",
+    "coordinates": [
+      75.78,
+      11.25
+    ],
+    "year": 1498,
+    "type": "cultural",
+    "culturalSphere": [
+      "portuguese",
+      "indian"
+    ],
+    "labels": {
+      "de": "Vasco da Gama erreicht Indien",
+      "en": "Vasco da Gama Reaches India"
+    },
+    "description": {
+      "de": "Der portugiesische Seefahrer Vasco da Gama erreichte am 20. Mai 1498 mit seiner Flotte den Hafen von Kozhikode (Calicut) an der Malabarküste. Diese erste europäische Seereute nach Indien umging die arabischen Handelsmittler und brach das Monopol des Osmanischen Reichs auf den Gewürzhandel – mit weitreichenden Folgen für den Indischen Ozean.",
+      "en": "Portuguese navigator Vasco da Gama arrived at the port of Kozhikode (Calicut) on the Malabar Coast on 20 May 1498. This first European sea route to India bypassed Arab trading intermediaries, breaking the Ottoman monopoly on the spice trade and reshaping commerce across the Indian Ocean."
     }
   }
 ]

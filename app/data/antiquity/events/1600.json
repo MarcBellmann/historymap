@@ -20,6 +20,27 @@
     }
   },
   {
+    "id": "dutch-golden-age-amsterdam",
+    "coordinates": [
+      4.9,
+      52.37
+    ],
+    "year": 1602,
+    "type": "cultural",
+    "culturalSphere": [
+      "dutch",
+      "european"
+    ],
+    "labels": {
+      "de": "Niederländisches Goldenes Zeitalter – VOC-Gründung",
+      "en": "Dutch Golden Age – Founding of the VOC"
+    },
+    "description": {
+      "de": "Die Gründung der Vereinigten Ostindischen Kompanie (VOC) 1602 in Amsterdam markierte den Beginn des niederländischen Goldenen Zeitalters. Als erste Aktiengesellschaft der Welt kontrollierte die VOC den Gewürzhandel in Asien und machte Amsterdam zum globalen Handelszentrum.",
+      "en": "The founding of the United East India Company (VOC) in Amsterdam in 1602 marked the beginning of the Dutch Golden Age. As the world's first publicly traded company, the VOC controlled the spice trade in Asia and made Amsterdam the global center of commerce."
+    }
+  },
+  {
     "id": "tokugawa-shogunate-established",
     "coordinates": [
       139.69,
@@ -77,6 +98,27 @@
     "description": {
       "de": "Jamestown wird als erste dauerhafte englische Siedlung in Nordamerika gegründet.",
       "en": "Jamestown is founded as the first permanent English settlement in North America."
+    }
+  },
+  {
+    "id": "galileo-telescope-observations",
+    "coordinates": [
+      11.88,
+      45.41
+    ],
+    "year": 1609,
+    "type": "cultural",
+    "culturalSphere": [
+      "italian",
+      "european"
+    ],
+    "labels": {
+      "de": "Galileis Teleskopbeobachtungen",
+      "en": "Galileo's Telescope Observations"
+    },
+    "description": {
+      "de": "Galileo Galilei verbesserte 1609 das Teleskop und richtete es systematisch auf den Himmel, entdeckte dabei Jupitermonde, Mondkrater und die Phasen der Venus. Seine Beobachtungen lieferten den ersten empirischen Beweis für das heliozentrische Weltbild und legten den Grundstein der modernen Astronomie.",
+      "en": "Galileo Galilei improved the telescope in 1609 and systematically turned it skyward, discovering Jupiter's moons, lunar craters, and Venus's phases. His observations provided the first empirical evidence for heliocentrism and laid the foundations of modern astronomy."
     }
   }
 ]

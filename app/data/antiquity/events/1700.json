@@ -1,5 +1,86 @@
 [
   {
+    "id": "mughal-empire-peak-aurangzeb",
+    "coordinates": [
+      77.23,
+      28.61
+    ],
+    "year": 1700,
+    "type": "political",
+    "culturalSphere": [
+      "mughal"
+    ],
+    "labels": {
+      "de": "Mogulreich auf seinem Höhepunkt",
+      "en": "Mughal Empire at Its Peak"
+    },
+    "description": {
+      "de": "Unter Aurangzeb erreicht das Mogulreich seine größte Ausdehnung, doch innere Spannungen und endlose Kriege leiten den Verfall ein.",
+      "en": "Under Aurangzeb the Mughal Empire reaches its greatest extent, but internal tensions and endless wars begin its decline."
+    }
+  },
+  {
+    "id": "qing-dynasty-peak-kangxi",
+    "coordinates": [
+      116.39,
+      39.9
+    ],
+    "year": 1700,
+    "type": "political",
+    "culturalSphere": [
+      "chinese",
+      "manchu"
+    ],
+    "labels": {
+      "de": "Kangxi-Kaiser – Blütezeit der Qing-Dynastie",
+      "en": "Kangxi Emperor – Height of the Qing Dynasty"
+    },
+    "description": {
+      "de": "Kaiser Kangxi (1661–1722) festigte die Qing-Herrschaft über das riesige chinesische Reich, unterdrückte den Aufstand der Drei Feudalfürsten und erließ bedeutende Reformen. Unter seiner Herrschaft erlebte China eine Periode wirtschaftlicher Prosperität und territorialer Ausdehnung bis Zentralasien.",
+      "en": "Emperor Kangxi (1661–1722) consolidated Qing rule over the vast Chinese empire, suppressed the Revolt of the Three Feudatories, and enacted significant reforms. Under his reign, China experienced a period of economic prosperity and territorial expansion into Central Asia."
+    }
+  },
+  {
+    "id": "asante-kingdom-ghana-rise",
+    "coordinates": [
+      -1.62,
+      6.69
+    ],
+    "year": 1701,
+    "type": "foundation",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Asante-Reich – Gründung in Ghana",
+      "en": "Ashanti Empire – Foundation in Ghana"
+    },
+    "description": {
+      "de": "König Osei Tutu I. vereinte um 1701 die Akan-Stämme unter der Herrschaft des Goldenen Stuhls (Sika Dwa Kofi) und gründete das mächtige Asante-Reich. Die einzigartige Goldbearbeitung, das Kente-Gewebe und ein ausgeklügeltes politisches System machten das Asante-Reich zu einer der bedeutendsten Staatsgründungen Westafrikas.",
+      "en": "King Osei Tutu I united the Akan peoples around 1701 under the rule of the Golden Stool (Sika Dwa Kofi), founding the powerful Ashanti Empire. Unique goldworking, Kente cloth, and a sophisticated political system made the Ashanti Empire one of West Africa's most significant state formations."
+    }
+  },
+  {
+    "id": "founding-saint-petersburg",
+    "coordinates": [
+      30.32,
+      59.95
+    ],
+    "year": 1703,
+    "type": "foundation",
+    "culturalSphere": [
+      "russian"
+    ],
+    "labels": {
+      "de": "Gründung Sankt Petersburgs",
+      "en": "Founding of Saint Petersburg"
+    },
+    "description": {
+      "de": "Zar Peter der Große gründete am 27. Mai 1703 an der Neva-Mündung Sankt Petersburg als neues 'Fenster nach Europa'. Die Stadt wurde zur russischen Hauptstadt und symbolisierte Peters Programm der Modernisierung und Westausrichtung Russlands nach dem Sieg im Großen Nordischen Krieg.",
+      "en": "Tsar Peter the Great founded Saint Petersburg at the mouth of the Neva River on 27 May 1703 as Russia's new 'window to Europe.' The city became the Russian capital and symbolized Peter's program of modernization and Western orientation following victory in the Great Northern War."
+    }
+  },
+  {
     "id": "battle-of-blenheim",
     "coordinates": [
       10.6,
@@ -18,27 +99,6 @@
     "description": {
       "de": "Der Duke of Marlborough und Prinz Eugen von Savoyen besiegten die französisch-bayerische Armee. Der Sieg rettete Wien vor der französischen Bedrohung und wendete den Spanischen Erbfolgekrieg.",
       "en": "The Duke of Marlborough and Prince Eugene of Savoy defeated the Franco-Bavarian army. The victory saved Vienna from the French threat and turned the War of the Spanish Succession."
-    }
-  },
-  {
-    "id": "battle-of-poltava",
-    "coordinates": [
-      34.55,
-      49.59
-    ],
-    "year": 1709,
-    "type": "battle",
-    "culturalSphere": [
-      "russian",
-      "swedish"
-    ],
-    "labels": {
-      "de": "Schlacht von Poltawa",
-      "en": "Battle of Poltava"
-    },
-    "description": {
-      "de": "Zar Peter I. besiegte die schwedische Armee Karls XII. entscheidend bei Poltawa. Die Schlacht beendete die schwedische Großmachtstellung und machte Russland zur europäischen Großmacht.",
-      "en": "Tsar Peter I decisively defeated the Swedish army of Charles XII at Poltava. The battle ended Sweden's status as a great power and established Russia as a major European power."
     }
   },
   {
@@ -62,23 +122,45 @@
     }
   },
   {
-    "id": "mughal-empire-peak-aurangzeb",
+    "id": "mughal-decline-aurangzeb",
     "coordinates": [
-      77.23,
-      28.61
+      77.21,
+      28.64
     ],
-    "year": 1700,
+    "year": 1707,
     "type": "political",
     "culturalSphere": [
-      "mughal"
+      "mughal",
+      "indian"
     ],
     "labels": {
-      "de": "Mogulreich auf seinem Höhepunkt",
-      "en": "Mughal Empire at Its Peak"
+      "de": "Tod Aurangzebs – Beginn des Mogulverfalls",
+      "en": "Death of Aurangzeb – Beginning of Mughal Decline"
     },
     "description": {
-      "de": "Unter Aurangzeb erreicht das Mogulreich seine größte Ausdehnung, doch innere Spannungen und endlose Kriege leiten den Verfall ein.",
-      "en": "Under Aurangzeb the Mughal Empire reaches its greatest extent, but internal tensions and endless wars begin its decline."
+      "de": "Der Tod Kaiser Aurangzebs 1707 nach 49-jähriger Herrschaft leitete den unaufhaltsamen Niedergang des Mogulreiches ein. Seine Politik religiöser Intoleranz und ständige Expansionskriege im Dekkan hatten das Reich finanziell erschöpft; die folgenden Jahrzehnte sahen dynastische Kriege, Maratha-Angriffe und schließlich britische Dominanz.",
+      "en": "Emperor Aurangzeb's death in 1707 after 49 years of rule initiated the irreversible decline of the Mughal Empire. His policy of religious intolerance and constant Deccan wars had financially exhausted the empire; the following decades saw dynastic conflicts, Maratha attacks, and ultimately British dominance."
+    }
+  },
+  {
+    "id": "battle-of-poltava",
+    "coordinates": [
+      34.55,
+      49.59
+    ],
+    "year": 1709,
+    "type": "battle",
+    "culturalSphere": [
+      "russian",
+      "swedish"
+    ],
+    "labels": {
+      "de": "Schlacht von Poltawa",
+      "en": "Battle of Poltava"
+    },
+    "description": {
+      "de": "Zar Peter I. besiegte die schwedische Armee Karls XII. entscheidend bei Poltawa. Die Schlacht beendete die schwedische Großmachtstellung und machte Russland zur europäischen Großmacht.",
+      "en": "Tsar Peter I decisively defeated the Swedish army of Charles XII at Poltava. The battle ended Sweden's status as a great power and established Russia as a major European power."
     }
   }
 ]

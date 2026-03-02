@@ -18,5 +18,26 @@
       "de": "Dareios I. beginnt den Bau von Persepolis als zeremonielle Hauptstadt des Achämenidenreiches. Die Stadt wird zum Symbol persischer Macht und Pracht.",
       "en": "Darius I begins construction of Persepolis as the ceremonial capital of the Achaemenid Empire. The city becomes a symbol of Persian power and splendor."
     }
+  },
+  {
+    "id": "darius-scythian-campaign-513bc",
+    "coordinates": [
+      30.57,
+      47.28
+    ],
+    "year": -513,
+    "type": "battle",
+    "culturalSphere": [
+      "persian",
+      "scythian"
+    ],
+    "labels": {
+      "de": "Darius' Feldzug gegen die Skythen",
+      "en": "Darius' Campaign against the Scythians"
+    },
+    "description": {
+      "de": "Darius I. überquerte die Donau mit einem riesigen Heer und drang tief in skythisches Gebiet vor. Die Skythen wichen jedoch zurück und verbrannten das Land — Darius musste unverrichteter Dinge abziehen und zeigte erstmals die Grenzen persischer Macht.",
+      "en": "Darius I crossed the Danube with a vast army and pushed deep into Scythian territory. The Scythians retreated and scorched the earth, forcing Darius to withdraw — demonstrating for the first time the limits of Persian power."
+    }
   }
 ]

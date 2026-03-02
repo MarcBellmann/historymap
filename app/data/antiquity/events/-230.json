@@ -1,25 +1,5 @@
 [
   {
-    "id": "qin-unification-of-china",
-    "coordinates": [
-      108.94,
-      34.27
-    ],
-    "year": -221,
-    "type": "political",
-    "culturalSphere": [
-      "chinese"
-    ],
-    "labels": {
-      "de": "Vereinigung Chinas unter Qin",
-      "en": "Unification of China under Qin"
-    },
-    "description": {
-      "de": "Qin Shi Huang vereinigte die sechs rivalisierenden Reiche und gründete das erste chinesische Kaiserreich. Er standardisierte Schrift, Maße und Währung und begann den Bau der Großen Mauer.",
-      "en": "Qin Shi Huang unified the six rival kingdoms and founded the first Chinese empire. He standardized writing, measures, and currency and began construction of the Great Wall."
-    }
-  },
-  {
     "id": "satavahana-dynasty-founded",
     "coordinates": [
       78.49,
@@ -37,6 +17,26 @@
     "description": {
       "de": "Die Satavahana-Dynastie entsteht im Dekkan und wird zur ersten großen südindischen Macht, die den Handel zwischen Nord und Süd kontrolliert.",
       "en": "The Satavahana dynasty emerges in the Deccan, becoming the first major southern Indian power controlling trade between north and south."
+    }
+  },
+  {
+    "id": "qin-unification-of-china",
+    "coordinates": [
+      108.94,
+      34.27
+    ],
+    "year": -221,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Vereinigung Chinas unter Qin",
+      "en": "Unification of China under Qin"
+    },
+    "description": {
+      "de": "Qin Shi Huang vereinigte die sechs rivalisierenden Reiche und gründete das erste chinesische Kaiserreich. Er standardisierte Schrift, Maße und Währung und begann den Bau der Großen Mauer.",
+      "en": "Qin Shi Huang unified the six rival kingdoms and founded the first Chinese empire. He standardized writing, measures, and currency and began construction of the Great Wall."
     }
   }
 ]

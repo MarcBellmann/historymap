@@ -21,26 +21,6 @@
     }
   },
   {
-    "id": "battle-of-ipsus",
-    "coordinates": [
-      30.669,
-      38.669
-    ],
-    "year": -301,
-    "type": "battle",
-    "culturalSphere": [
-      "hellenistic"
-    ],
-    "labels": {
-      "de": "Schlacht von Ipsos",
-      "en": "Battle of Ipsus"
-    },
-    "description": {
-      "de": "Die letzte große Diadochenschlacht teilt Alexanders Reich endgültig in die Nachfolgestaaten der Ptolemäer, Seleukiden und Antigoniden auf.",
-      "en": "The last great battle of the Diadochi finally divides Alexander's empire into the successor states of the Ptolemies, Seleucids, and Antigonids."
-    }
-  },
-  {
     "id": "chandragupta-defeats-seleucids",
     "coordinates": [
       66,
@@ -58,6 +38,47 @@
     "description": {
       "de": "Chandragupta Maurya besiegt Seleukos I. Nikator und sichert die Kontrolle über die Gebiete westlich des Indus.",
       "en": "Chandragupta Maurya defeats Seleucus I Nicator, securing Mauryan control over territories west of the Indus."
+    }
+  },
+  {
+    "id": "founding-ptolemaic-kingdom",
+    "coordinates": [
+      29.92,
+      31.2
+    ],
+    "year": -305,
+    "type": "foundation",
+    "culturalSphere": [
+      "greek",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Gründung des Ptolemäischen Reiches",
+      "en": "Founding of the Ptolemaic Kingdom"
+    },
+    "description": {
+      "de": "Ptolemaios I. Soter, einer von Alexanders Generälen, krönte sich zum Pharao und Basileios von Ägypten. Das Ptolemäische Reich entwickelte sich zur bedeutendsten hellenistischen Monarchie mit Alexandria als kulturellem und wissenschaftlichem Zentrum der Welt.",
+      "en": "Ptolemy I Soter, one of Alexander's generals, crowned himself pharaoh and king of Egypt. The Ptolemaic Kingdom developed into the most significant Hellenistic monarchy, with Alexandria as the cultural and scholarly center of the ancient world."
+    }
+  },
+  {
+    "id": "battle-of-ipsus",
+    "coordinates": [
+      30.669,
+      38.669
+    ],
+    "year": -301,
+    "type": "battle",
+    "culturalSphere": [
+      "hellenistic"
+    ],
+    "labels": {
+      "de": "Schlacht von Ipsos",
+      "en": "Battle of Ipsus"
+    },
+    "description": {
+      "de": "Die letzte große Diadochenschlacht teilt Alexanders Reich endgültig in die Nachfolgestaaten der Ptolemäer, Seleukiden und Antigoniden auf.",
+      "en": "The last great battle of the Diadochi finally divides Alexander's empire into the successor states of the Ptolemies, Seleucids, and Antigonids."
     }
   }
 ]

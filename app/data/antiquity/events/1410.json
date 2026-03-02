@@ -1,5 +1,48 @@
 [
   {
+    "id": "battle-of-grunwald-1410",
+    "coordinates": [
+      20.13,
+      53.49
+    ],
+    "year": 1410,
+    "type": "battle",
+    "culturalSphere": [
+      "polish",
+      "lithuanian",
+      "german"
+    ],
+    "labels": {
+      "de": "Grunwald – Polen und Litauen besiegen den Deutschen Orden",
+      "en": "Grunwald – Poland and Lithuania Defeat the Teutonic Order"
+    },
+    "description": {
+      "de": "Die Vereinigten Heere Polens und Litauens unter Władysław II. Jagiełło besiegten bei Grunwald den Deutschen Orden vernichtend. Diese Niederlage beendete die militärische Macht des Ordens und sicherte polnisch-litauische Dominanz im Baltikum.",
+      "en": "The combined armies of Poland and Lithuania under Władysław II Jagiełło decisively defeated the Teutonic Order at Grunwald. This defeat ended the military power of the Order and secured Polish-Lithuanian dominance in the Baltic."
+    }
+  },
+  {
+    "id": "malacca-sultanate-conversion-islam",
+    "coordinates": [
+      102.25,
+      2.19
+    ],
+    "year": 1414,
+    "type": "cultural",
+    "culturalSphere": [
+      "southeast-asian",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Malakka nimmt den Islam an",
+      "en": "Malacca Converts to Islam"
+    },
+    "description": {
+      "de": "Parameswara, Gründer des Sultanats Malakka, konvertierte um 1414 zum Islam und gab dem aufstrebenden Handelszentrum eine islamische Identität. Malakka wurde zum wichtigsten Handelsknotenpunkt in Südostasien und zum Ausgangspunkt der Islamisierung der Region.",
+      "en": "Parameswara, founder of the Malacca Sultanate, converted to Islam around 1414, giving the rising trading center an Islamic identity. Malacca became the most important trading hub in Southeast Asia and the starting point for the Islamization of the region."
+    }
+  },
+  {
     "id": "battle-of-agincourt",
     "coordinates": [
       2.14,

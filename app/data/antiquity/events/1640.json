@@ -1,5 +1,26 @@
 [
   {
+    "id": "manchu-conquest-beijing",
+    "coordinates": [
+      116.4,
+      39.9
+    ],
+    "year": 1644,
+    "type": "political",
+    "culturalSphere": [
+      "chinese",
+      "manchu"
+    ],
+    "labels": {
+      "de": "Mandschu-Eroberung Pekings – Beginn der Qing-Dynastie",
+      "en": "Manchu Capture of Beijing – Start of Qing Dynasty"
+    },
+    "description": {
+      "de": "Nachdem der letzte Ming-Kaiser Selbstmord beging, öffnete General Wu Sangui die Große Mauer für die Mandschu. Die Qing-Dynastie bestieg den Thron und begann die Eroberung ganz Chinas.",
+      "en": "After the last Ming emperor committed suicide, General Wu Sangui opened the Great Wall to the Manchu. The Qing dynasty took the throne and began conquering all of China."
+    }
+  },
+  {
     "id": "peace-of-westphalia",
     "coordinates": [
       7.63,
@@ -20,6 +41,28 @@
     }
   },
   {
+    "id": "thirty-years-war-westphalia",
+    "coordinates": [
+      7.63,
+      51.96
+    ],
+    "year": 1648,
+    "type": "political",
+    "culturalSphere": [
+      "european",
+      "habsburg",
+      "french"
+    ],
+    "labels": {
+      "de": "Westfälischer Friede",
+      "en": "Peace of Westphalia"
+    },
+    "description": {
+      "de": "Die Friedensverträge von Münster und Osnabrück beendeten 1648 den Dreißigjährigen Krieg, der große Teile Mitteleuropas verwüstet hatte. Das Prinzip der staatlichen Souveränität und die Gleichberechtigung der Konfessionen, die hier verankert wurden, gelten als Grundlagen des modernen Völkerrechts.",
+      "en": "The peace treaties of Münster and Osnabrück ended the Thirty Years' War in 1648, which had devastated much of Central Europe. The principles of state sovereignty and religious coexistence enshrined here are considered the foundations of modern international law."
+    }
+  },
+  {
     "id": "english-civil-war-execution-charles",
     "coordinates": [
       -0.13,
@@ -37,27 +80,6 @@
     "description": {
       "de": "König Karl I. von England wurde nach dem Bürgerkrieg wegen Hochverrats hingerichtet. Die Hinrichtung eines Monarchen durch sein eigenes Parlament war ein beispielloser Akt in der europäischen Geschichte.",
       "en": "King Charles I of England was executed for treason after the Civil War. The execution of a monarch by his own parliament was an unprecedented act in European history."
-    }
-  },
-  {
-    "id": "manchu-conquest-beijing",
-    "coordinates": [
-      116.4,
-      39.9
-    ],
-    "year": 1644,
-    "type": "political",
-    "culturalSphere": [
-      "chinese",
-      "manchu"
-    ],
-    "labels": {
-      "de": "Mandschu-Eroberung Pekings – Beginn der Qing-Dynastie",
-      "en": "Manchu Capture of Beijing – Start of Qing Dynasty"
-    },
-    "description": {
-      "de": "Nachdem der letzte Ming-Kaiser Selbstmord beging, öffnete General Wu Sangui die Große Mauer für die Mandschu. Die Qing-Dynastie bestieg den Thron und begann die Eroberung ganz Chinas.",
-      "en": "After the last Ming emperor committed suicide, General Wu Sangui opened the Great Wall to the Manchu. The Qing dynasty took the throne and began conquering all of China."
     }
   }
 ]

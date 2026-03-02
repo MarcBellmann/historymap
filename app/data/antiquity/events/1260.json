@@ -40,5 +40,66 @@
       "de": "Hülegüs Mongolen plündern Aleppo und seine berühmte Zitadelle. Die Zerstörung Syriens durch die Mongolen verändert die Machtbalance im Nahen Osten.",
       "en": "Hulagu's Mongols sack Aleppo and its famous citadel. The Mongol destruction of Syria reshapes the balance of power in the Middle East."
     }
+  },
+  {
+    "id": "mongol-empire-fragmentation",
+    "coordinates": [
+      106.9,
+      47.9
+    ],
+    "year": 1260,
+    "type": "political",
+    "culturalSphere": [
+      "mongol"
+    ],
+    "labels": {
+      "de": "Zersplitterung des Mongolischen Reiches",
+      "en": "Fragmentation of the Mongol Empire"
+    },
+    "description": {
+      "de": "Nach dem Tod Möngke Khans 1259 teilte sich das Mongolische Reich durch Erbschaftsstreitigkeiten in vier rivalisierende Khanate: Yuan-Dynastie, Ilchanat, Goldene Horde und Tschagatai-Khanat. Das ehemals einheitliche Weltreich wurde zu einem Staatenbund konkurrierender Mächte.",
+      "en": "After the death of Möngke Khan in 1259, the Mongol Empire split through succession disputes into four rival khanates: the Yuan dynasty, the Ilkhanate, the Golden Horde, and the Chagatai Khanate. The once unified world empire became a confederation of competing powers."
+    }
+  },
+  {
+    "id": "hagia-sophia-completed-restoration",
+    "coordinates": [
+      28.98,
+      41.01
+    ],
+    "year": 1261,
+    "type": "political",
+    "culturalSphere": [
+      "byzantine"
+    ],
+    "labels": {
+      "de": "Wiederherstellung Konstantinopels – Ende des Lateinischen Kaiserreichs",
+      "en": "Restoration of Constantinople – End of the Latin Empire"
+    },
+    "description": {
+      "de": "Kaiser Michael VIII. Paläologos reconquered Konstantinopel von den Lateinern und stellte das Byzantinische Reich wieder her. Die Rückeroberung beendete das Lateinische Kaiserreich von Konstantinopel, das seit dem Vierten Kreuzzug 1204 bestanden hatte, ließ Byzanz aber dauerhaft geschwächt zurück.",
+      "en": "Emperor Michael VIII Palaiologos recaptured Constantinople from the Latins and restored the Byzantine Empire. The reconquest ended the Latin Empire of Constantinople that had existed since the Fourth Crusade in 1204, but left Byzantium permanently weakened."
+    }
+  },
+  {
+    "id": "thomas-aquinas-summa-theologica",
+    "coordinates": [
+      15.8,
+      41.12
+    ],
+    "year": 1265,
+    "type": "cultural",
+    "culturalSphere": [
+      "roman-catholic",
+      "european"
+    ],
+    "labels": {
+      "de": "Thomas von Aquin – Summa Theologica",
+      "en": "Thomas Aquinas – Summa Theologica"
+    },
+    "description": {
+      "de": "Thomas von Aquin begann 1265 sein Hauptwerk, die Summa Theologica, in der er aristotelische Philosophie mit christlicher Theologie vereinte. Das Werk wurde zum Fundament der scholastischen Theologie und prägt die westliche intellektuelle Tradition bis heute.",
+      "en": "Thomas Aquinas began his masterwork, the Summa Theologica, in 1265, reconciling Aristotelian philosophy with Christian theology. The work became the foundation of scholastic theology and continues to shape Western intellectual tradition."
+    }
   }
 ]

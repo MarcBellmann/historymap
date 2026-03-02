@@ -1,26 +1,5 @@
 [
   {
-    "id": "ionian-revolt",
-    "coordinates": [
-      27.151,
-      38.423
-    ],
-    "year": -499,
-    "type": "battle",
-    "culturalSphere": [
-      "greek",
-      "persian"
-    ],
-    "labels": {
-      "de": "Ionischer Aufstand",
-      "en": "Ionian Revolt"
-    },
-    "description": {
-      "de": "Die griechischen Städte Ioniens erheben sich gegen die Perserherrschaft. Der Aufstand wird niedergeschlagen, provoziert aber die Perserkriege gegen das griechische Mutterland.",
-      "en": "The Greek cities of Ionia revolt against Persian rule. The revolt is suppressed but provokes the Greco-Persian Wars against mainland Greece."
-    }
-  },
-  {
     "id": "nok-culture-iron-smelting",
     "coordinates": [
       8,
@@ -58,6 +37,88 @@
     "description": {
       "de": "Die Zapoteken gründen Monte Albán in Oaxaca, eines der frühesten städtischen Zentren Mesoamerikas.",
       "en": "The Zapotecs found Monte Albán in Oaxaca, one of the earliest urban centers in Mesoamerica."
+    }
+  },
+  {
+    "id": "persian-empire-at-peak-darius",
+    "coordinates": [
+      53.69,
+      32.44
+    ],
+    "year": -500,
+    "type": "political",
+    "culturalSphere": [
+      "persian"
+    ],
+    "labels": {
+      "de": "Persisches Reich auf dem Höhepunkt seiner Macht",
+      "en": "Persian Empire at the Peak of its Power"
+    },
+    "description": {
+      "de": "Das Achämenidische Reich unter Darius I. erstreckte sich von Ägypten bis zum Industal und von Libyen bis Zentralasien — das größte Imperium der Geschichte bis dahin. Es umfasste rund 50 Millionen Menschen, etwa 44% der Weltbevölkerung.",
+      "en": "The Achaemenid Empire under Darius I stretched from Egypt to the Indus Valley and from Libya to Central Asia — the largest empire in history up to that point. It encompassed about 50 million people, roughly 44% of the world's population."
+    }
+  },
+  {
+    "id": "kushite-kingdom-napata-iron-production",
+    "coordinates": [
+      33.97,
+      16.94
+    ],
+    "year": -500,
+    "type": "cultural",
+    "culturalSphere": [
+      "nubian"
+    ],
+    "labels": {
+      "de": "Meroe — Afrikas großes Zentrum der Eisenverhüttung",
+      "en": "Meroe — Africa's Great Center of Iron Smelting"
+    },
+    "description": {
+      "de": "Das Königreich Kush entwickelte in Meroe ein hochentwickeltes Zentrum der Eisenverhüttung, das Werkzeuge und Waffen für weite Teile Afrikas produzierte. Diese technologische Überlegenheit trug wesentlich zur wirtschaftlichen und militärischen Stärke des Kushitischen Reiches bei.",
+      "en": "The Kingdom of Kush developed at Meroe a sophisticated center of iron smelting that produced tools and weapons for much of Africa. This technological superiority contributed significantly to the economic and military strength of the Kushite realm."
+    }
+  },
+  {
+    "id": "gandhara-art-culture-500bc",
+    "coordinates": [
+      71.55,
+      34.01
+    ],
+    "year": -500,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian",
+      "persian"
+    ],
+    "labels": {
+      "de": "Gandhara — Kreuzungspunkt von Ost und West",
+      "en": "Gandhara — Crossroads of East and West"
+    },
+    "description": {
+      "de": "Die Region Gandhara im heutigen Pakistan und Afghanistan war ein lebendiger Kreuzungspunkt persischer, griechischer und indischer Kulturen. Als Teil des Achämenidischen Reiches und später unter griechischem Einfluss entwickelte Gandhara eine einzigartige Mischkunst, die insbesondere die buddhistische Ikonographie prägte.",
+      "en": "The region of Gandhara in modern Pakistan and Afghanistan was a vibrant crossroads of Persian, Greek, and Indian cultures. As part of the Achaemenid Empire and later under Greek influence, Gandhara developed a unique syncretic art that particularly shaped Buddhist iconography."
+    }
+  },
+  {
+    "id": "ionian-revolt",
+    "coordinates": [
+      27.151,
+      38.423
+    ],
+    "year": -499,
+    "type": "battle",
+    "culturalSphere": [
+      "greek",
+      "persian"
+    ],
+    "labels": {
+      "de": "Ionischer Aufstand",
+      "en": "Ionian Revolt"
+    },
+    "description": {
+      "de": "Die griechischen Städte Ioniens erheben sich gegen die Perserherrschaft. Der Aufstand wird niedergeschlagen, provoziert aber die Perserkriege gegen das griechische Mutterland.",
+      "en": "The Greek cities of Ionia revolt against Persian rule. The revolt is suppressed but provokes the Greco-Persian Wars against mainland Greece."
     }
   }
 ]

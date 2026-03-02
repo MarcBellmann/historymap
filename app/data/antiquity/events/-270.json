@@ -1,5 +1,26 @@
 [
   {
+    "id": "first-punic-war-start",
+    "coordinates": [
+      15.55,
+      38.19
+    ],
+    "year": -264,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "phoenician"
+    ],
+    "labels": {
+      "de": "Beginn des Ersten Punischen Krieges",
+      "en": "Start of the First Punic War"
+    },
+    "description": {
+      "de": "Rom und Karthago begannen 264 v. Chr. den ersten ihrer drei großen Kriege um die Vorherrschaft im westlichen Mittelmeer. Der 23 Jahre dauernde Konflikt – größtenteils auf Sizilien ausgefochten – zwang Rom, zur Seemacht zu werden, und endete mit dem ersten römischen Überseeproveinz.",
+      "en": "Rome and Carthage began the first of their three great wars for supremacy in the western Mediterranean in 264 BC. The 23-year conflict — fought largely in Sicily — forced Rome to become a naval power and ended with Rome's first overseas province."
+    }
+  },
+  {
     "id": "battle-of-kalinga",
     "coordinates": [
       85.83,

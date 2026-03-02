@@ -1,22 +1,23 @@
 [
   {
-    "id": "black-death-arrives-in-europe",
+    "id": "battle-of-sluys-1340",
     "coordinates": [
-      36.78,
-      45.35
+      3.5,
+      51.35
     ],
-    "year": 1347,
-    "type": "natural",
+    "year": 1340,
+    "type": "battle",
     "culturalSphere": [
-      "european"
+      "english",
+      "french"
     ],
     "labels": {
-      "de": "Der Schwarze Tod erreicht Europa",
-      "en": "Black Death Arrives in Europe"
+      "de": "Seeschlacht von Sluis",
+      "en": "Battle of Sluys"
     },
     "description": {
-      "de": "Die Pest erreichte Europa über genuesische Handelsschiffe aus der Krim. Die Pandemie tötete innerhalb weniger Jahre ein Drittel bis die Hälfte der europäischen Bevölkerung und veränderte Gesellschaft, Wirtschaft und Kultur grundlegend.",
-      "en": "The plague reached Europe via Genoese trading ships from Crimea. Within a few years, the pandemic killed a third to half of Europe's population, fundamentally transforming society, economy, and culture."
+      "de": "Die englische Flotte vernichtete die französische Marine bei Sluis fast vollständig und sicherte damit für Jahrzehnte die englische Herrschaft über den Ärmelkanal. Der Sieg war die Voraussetzung für die englischen Landoperationen in Frankreich im Hundertjährigen Krieg.",
+      "en": "The English fleet virtually destroyed the French navy at Sluys, securing English dominance over the English Channel for decades. This victory was the prerequisite for English land operations in France during the Hundred Years' War."
     }
   },
   {
@@ -38,6 +39,26 @@
     "description": {
       "de": "Das englische Heer unter Eduard III. besiegte ein weit überlegenes französisches Ritterheer bei Crécy. Die Schlacht bewies die Überlegenheit des englischen Langbogens und revolutionierte die Kriegführung.",
       "en": "The English army under Edward III defeated a far larger French knightly army at Crécy. The battle demonstrated the superiority of the English longbow and revolutionized warfare."
+    }
+  },
+  {
+    "id": "black-death-arrives-in-europe",
+    "coordinates": [
+      36.78,
+      45.35
+    ],
+    "year": 1347,
+    "type": "natural",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Der Schwarze Tod erreicht Europa",
+      "en": "Black Death Arrives in Europe"
+    },
+    "description": {
+      "de": "Die Pest erreichte Europa über genuesische Handelsschiffe aus der Krim. Die Pandemie tötete innerhalb weniger Jahre ein Drittel bis die Hälfte der europäischen Bevölkerung und veränderte Gesellschaft, Wirtschaft und Kultur grundlegend.",
+      "en": "The plague reached Europe via Genoese trading ships from Crimea. Within a few years, the pandemic killed a third to half of Europe's population, fundamentally transforming society, economy, and culture."
     }
   }
 ]

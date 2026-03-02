@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "goryeo-mongol-celadon-ceramics",
+    "coordinates": [
+      126.9,
+      34.84
+    ],
+    "year": 1150,
+    "type": "cultural",
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Koreanisches Seladon – Gipfel der Töpferkunst",
+      "en": "Goryeo Celadon – Pinnacle of Korean Pottery"
+    },
+    "description": {
+      "de": "Die Goryeo-Töpfer entwickelten im 12. Jahrhundert das berühmte Seladon-Porzellan mit einzigartiger Einlegearbeit (Sanggam), das selbst chinesische Experten bewunderten. Diese Keramik steht für die kunsthandwerkliche Hochkultur Koreas im Mittelalter.",
+      "en": "Goryeo potters in the 12th century developed the famous celadon porcelain with unique inlay work (sanggam), which even Chinese experts admired. This ceramic ware represents the artistic high culture of medieval Korea."
+    }
+  }
+]

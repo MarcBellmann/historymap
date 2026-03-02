@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "spartacus-revolt",
+    "coordinates": [
+      14.22,
+      41.08
+    ],
+    "year": -73,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Sklavenaufstand des Spartacus",
+      "en": "Spartacus Slave Revolt"
+    },
+    "description": {
+      "de": "Der thrakische Gladiator Spartacus führte einen Ausbruch aus einem Ausbildungslager in Capua an und riss einen Aufstand von bis zu 120.000 Sklaven in Gang. Der Dritte Servile Krieg erschütterte die römische Republik und zeigte die tiefe Ungleichheit einer auf Sklavenarbeit aufgebauten Gesellschaft.",
+      "en": "The Thracian gladiator Spartacus led a breakout from a training school in Capua and ignited a revolt of up to 120,000 enslaved people. The Third Servile War shook the Roman Republic and revealed the deep contradictions of a society built on enslaved labor."
+    }
+  }
+]

@@ -1,23 +1,23 @@
 [
   {
-    "id": "battle-of-cannae",
+    "id": "second-punic-war-hannibal",
     "coordinates": [
-      16.13,
-      41.31
+      7,
+      44.3
     ],
-    "year": -216,
+    "year": -218,
     "type": "battle",
     "culturalSphere": [
       "roman",
-      "carthaginian"
+      "phoenician"
     ],
     "labels": {
-      "de": "Schlacht von Cannae",
-      "en": "Battle of Cannae"
+      "de": "Hannibal überquert die Alpen",
+      "en": "Hannibal Crosses the Alps"
     },
     "description": {
-      "de": "Hannibal Barkas vernichtete mit seiner Doppelumfassung ein weit überlegenes römisches Heer. Die Schlacht gilt als einer der größten taktischen Siege der Militärgeschichte.",
-      "en": "Hannibal Barca destroyed a far larger Roman army with his double envelopment. The battle is regarded as one of the greatest tactical victories in military history."
+      "de": "Der karthagische Feldherr Hannibal Barkas führte sein Heer, darunter Kriegselefanten, auf einem beispiellosen Marsch über die Alpen nach Italien. Dieser kühne Zug brachte den Krieg direkt ins Herz des Römischen Reiches und wurde zu einer der legendärsten Kampagnen der Militärgeschichte.",
+      "en": "The Carthaginian general Hannibal Barca led his army, including war elephants, on an unprecedented march across the Alps into Italy. This bold maneuver brought the war directly into the heart of the Roman world and became one of the most celebrated campaigns in military history."
     }
   },
   {
@@ -39,6 +39,48 @@
     "description": {
       "de": "Ptolemaios IV. besiegt Antiochos III. bei Raphia und sichert Ägyptens Kontrolle über Koilesyrien. Eine der größten Schlachten der hellenistischen Welt.",
       "en": "Ptolemy IV defeats Antiochus III at Raphia, securing Egypt's control over Coele-Syria. One of the largest battles of the Hellenistic world."
+    }
+  },
+  {
+    "id": "battle-of-lake-trasimene",
+    "coordinates": [
+      12.1,
+      43.14
+    ],
+    "year": -217,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "phoenician"
+    ],
+    "labels": {
+      "de": "Seeschlacht am Trasimenischen See",
+      "en": "Battle of Lake Trasimene"
+    },
+    "description": {
+      "de": "In einem meisterhaft geplanten Hinterhalt am Ufer des Trasimenischen Sees vernichtete Hannibal das römische Heer unter Konsul Flaminius fast vollständig. Die größte Hinterhaltsschlacht der Antike zeigte Roms Verwundbarkeit und erschütterte die italische Halbinsel bis in die Grundfesten.",
+      "en": "In a masterfully planned ambush on the shores of Lake Trasimene, Hannibal nearly annihilated the Roman army under Consul Flaminius. The greatest ambush of antiquity exposed Rome's vulnerability and shook the Italian peninsula to its foundations."
+    }
+  },
+  {
+    "id": "battle-of-cannae",
+    "coordinates": [
+      16.13,
+      41.31
+    ],
+    "year": -216,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "carthaginian"
+    ],
+    "labels": {
+      "de": "Schlacht von Cannae",
+      "en": "Battle of Cannae"
+    },
+    "description": {
+      "de": "Hannibal Barkas vernichtete mit seiner Doppelumfassung ein weit überlegenes römisches Heer. Die Schlacht gilt als einer der größten taktischen Siege der Militärgeschichte.",
+      "en": "Hannibal Barca destroyed a far larger Roman army with his double envelopment. The battle is regarded as one of the greatest tactical victories in military history."
     }
   },
   {

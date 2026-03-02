@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "tang-golden-age-poetry",
+    "coordinates": [
+      108.94,
+      34.27
+    ],
+    "year": 740,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese",
+      "tang"
+    ],
+    "labels": {
+      "de": "Goldenes Zeitalter der Tang-Dichtung",
+      "en": "Golden Age of Tang Poetry"
+    },
+    "description": {
+      "de": "Li Bai und Du Fu prägen die chinesische Dichtkunst mit Werken von unübertroffener Tiefe und Eleganz. Die Tang-Ära gilt bis heute als Höhepunkt der chinesischen Literatur, mit über 50.000 erhaltenen Gedichten von mehr als 2.000 Dichtern.",
+      "en": "Li Bai and Du Fu shape Chinese poetry with works of unmatched depth and elegance. The Tang era is still considered the apex of Chinese literature, with over 50,000 surviving poems from more than 2,000 poets."
+    }
+  }
+]

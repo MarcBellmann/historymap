@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "year-of-five-emperors",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 193,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Jahr der fünf Kaiser",
+      "en": "Year of the Five Emperors"
+    },
+    "description": {
+      "de": "Nach der Ermordung des Kaisers Commodus erhoben fünf Männer innerhalb eines Jahres Anspruch auf den Kaiserthron. Das Chaos des Jahres 193 n. Chr. offenbarte die strukturelle Instabilität der römischen Nachfolgeregelung und leitete eine Ära ein, in der das Heer die Kaiserwürde faktisch vergab.",
+      "en": "After the assassination of Emperor Commodus, five men claimed the imperial throne within a single year. The chaos of 193 AD revealed the structural instability of Roman succession and inaugurated an era in which the army effectively decided who became emperor."
+    }
+  }
+]

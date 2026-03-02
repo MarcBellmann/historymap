@@ -1,5 +1,45 @@
 [
   {
+    "id": "iroquois-confederacy-formed",
+    "coordinates": [
+      -76.15,
+      43.04
+    ],
+    "year": 1570,
+    "type": "political",
+    "culturalSphere": [
+      "north-american"
+    ],
+    "labels": {
+      "de": "Gründung der Irokesen-Konföderation",
+      "en": "Iroquois Confederacy Formed"
+    },
+    "description": {
+      "de": "Die fünf (später sechs) Nationen der Irokesen schließen sich zum Haudenosaunee-Bund zusammen, einer der ältesten demokratischen Vereinigungen der Welt.",
+      "en": "The five (later six) Iroquois nations form the Haudenosaunee Confederacy, one of the oldest democratic unions in the world."
+    }
+  },
+  {
+    "id": "ming-dynasty-great-wall-restoration",
+    "coordinates": [
+      117.23,
+      40.68
+    ],
+    "year": 1570,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Wiederherstellung der Chinesischen Mauer unter der Ming-Dynastie",
+      "en": "Ming Dynasty Restoration of the Great Wall"
+    },
+    "description": {
+      "de": "Die Ming-Dynastie restaurierte und erweiterte im 15. und 16. Jahrhundert die Chinesische Mauer zu ihrer heutigen Form aus Ziegel und Stein. Das Mammutprojekt sollte mongol. Invasionen abwehren und beschäftigte Hunderttausende Soldaten und Zwangsarbeiter – es symbolisiert die Grenzpolitik der Ming.",
+      "en": "The Ming Dynasty restored and expanded the Great Wall into its current brick-and-stone form during the 15th and 16th centuries. The massive project aimed to repel Mongol invasions and employed hundreds of thousands of soldiers and forced laborers, symbolizing Ming frontier policy."
+    }
+  },
+  {
     "id": "battle-of-lepanto",
     "coordinates": [
       21.78,
@@ -18,6 +58,48 @@
     "description": {
       "de": "Eine Flotte der Heiligen Liga besiegte die osmanische Marine im Golf von Patras. Die letzte große Galeerenschlacht der Geschichte brach den Mythos der osmanischen Unbesiegbarkeit zur See.",
       "en": "A Holy League fleet defeated the Ottoman navy in the Gulf of Patras. The last great galley battle in history shattered the myth of Ottoman invincibility at sea."
+    }
+  },
+  {
+    "id": "mughal-fatehpur-sikri",
+    "coordinates": [
+      77.66,
+      27.09
+    ],
+    "year": 1571,
+    "type": "foundation",
+    "culturalSphere": [
+      "mughal",
+      "indian"
+    ],
+    "labels": {
+      "de": "Fatehpur Sikri – Neue Hauptstadt der Moguln",
+      "en": "Fatehpur Sikri – New Mughal Capital"
+    },
+    "description": {
+      "de": "Kaiser Akbar ließ ab 1569 die neue Hauptstadt Fatehpur Sikri ('Stadt des Sieges') westlich von Agra errichten. Die Palastanlage vereint indo-persische Architektur mit hinduistischen Elementen und spiegelt Akbars Vision einer synkretistischen Hofkultur wider, die verschiedene religiöse Traditionen integrierte.",
+      "en": "Emperor Akbar ordered the construction of the new capital Fatehpur Sikri ('City of Victory') west of Agra from 1569. The palace complex merges Indo-Persian architecture with Hindu elements, reflecting Akbar's vision of a syncretic court culture that integrated diverse religious traditions."
+    }
+  },
+  {
+    "id": "spanish-conquest-philippines",
+    "coordinates": [
+      120.98,
+      14.6
+    ],
+    "year": 1571,
+    "type": "foundation",
+    "culturalSphere": [
+      "spanish",
+      "malay"
+    ],
+    "labels": {
+      "de": "Spanische Gründung von Manila",
+      "en": "Spanish Founding of Manila"
+    },
+    "description": {
+      "de": "Miguel López de Legazpi gründete 1571 Manila als Hauptstadt der spanischen Philippinen-Kolonie. Die Stadt wurde zum Knotenpunkt des Manila-Galeonen-Handels, der Silber aus Mexiko gegen chinesische Waren tauschte und die erste direkte pazifische Handelsroute zwischen Amerika und Asien schuf.",
+      "en": "Miguel López de Legazpi founded Manila in 1571 as capital of the Spanish Philippines colony. The city became the hub of the Manila Galleon trade, exchanging Mexican silver for Chinese goods, creating the first direct Pacific trade route between America and Asia."
     }
   },
   {
@@ -40,26 +122,6 @@
     "description": {
       "de": "Die Osmanen erobern Tunis endgültig von den Spaniern und sichern die osmanische Herrschaft über den zentralen Maghreb. Nordafrika wird Teil des Osmanischen Reiches.",
       "en": "The Ottomans permanently capture Tunis from the Spanish, securing Ottoman control over the central Maghreb. North Africa becomes part of the Ottoman Empire."
-    }
-  },
-  {
-    "id": "iroquois-confederacy-formed",
-    "coordinates": [
-      -76.15,
-      43.04
-    ],
-    "year": 1570,
-    "type": "political",
-    "culturalSphere": [
-      "north-american"
-    ],
-    "labels": {
-      "de": "Gründung der Irokesen-Konföderation",
-      "en": "Iroquois Confederacy Formed"
-    },
-    "description": {
-      "de": "Die fünf (später sechs) Nationen der Irokesen schließen sich zum Haudenosaunee-Bund zusammen, einer der ältesten demokratischen Vereinigungen der Welt.",
-      "en": "The five (later six) Iroquois nations form the Haudenosaunee Confederacy, one of the oldest democratic unions in the world."
     }
   },
   {

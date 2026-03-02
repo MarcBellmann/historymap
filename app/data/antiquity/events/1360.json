@@ -1,22 +1,43 @@
 [
   {
-    "id": "red-turban-revolt-ming-founding",
+    "id": "ottoman-capture-adrianople",
     "coordinates": [
-      118.8,
-      32.06
+      26.56,
+      41.68
     ],
-    "year": 1368,
+    "year": 1362,
     "type": "political",
     "culturalSphere": [
-      "chinese"
+      "ottoman",
+      "byzantine"
     ],
     "labels": {
-      "de": "Gründung der Ming-Dynastie",
-      "en": "Founding of the Ming Dynasty"
+      "de": "Osmanen nehmen Adrianopel – neue Hauptstadt Edirne",
+      "en": "Ottomans Capture Adrianople – New Capital Edirne"
     },
     "description": {
-      "de": "Zhu Yuanzhang, ein Anführer der Roten Turbane, stürzte die Yuan-Herrschaft und gründete die Ming-Dynastie mit der Hauptstadt Nanjing. China war wieder unter Han-chinesischer Herrschaft.",
-      "en": "Zhu Yuanzhang, a Red Turban leader, overthrew Yuan rule and founded the Ming dynasty with its capital at Nanjing. China was again under Han Chinese rule."
+      "de": "Die osmanische Einnahme Adrianopels (Edirne) verlegte das politische Zentrum des Reiches nach Europa und isolierte Konstantinopel weitgehend. Als neue osmanische Hauptstadt wurde Edirne zur Basis für die weitere Expansion auf dem Balkan.",
+      "en": "The Ottoman capture of Adrianople (Edirne) moved the political center of the empire to Europe and largely isolated Constantinople. As the new Ottoman capital, Edirne became the base for further expansion in the Balkans."
+    }
+  },
+  {
+    "id": "janissary-corps-established",
+    "coordinates": [
+      29.06,
+      40.19
+    ],
+    "year": 1363,
+    "type": "political",
+    "culturalSphere": [
+      "ottoman"
+    ],
+    "labels": {
+      "de": "Gründung des Janitscharen-Korps",
+      "en": "Establishment of the Janissary Corps"
+    },
+    "description": {
+      "de": "Sultan Murad I. gründete das Janitscharenkorps – eine Elite-Infanterietruppe aus im Knabentrib (devşirme) rekrutierten Christen. Diese loyale Kerntruppe ohne familiäre Bindungen in der Heimat wurde zur schlagkräftigsten Militärformation des Osmanischen Reiches.",
+      "en": "Sultan Murad I established the Janissary Corps – an elite infantry force recruited from Christians through the child levy (devşirme). This loyal core force without family ties at home became the most powerful military formation of the Ottoman Empire."
     }
   },
   {
@@ -37,6 +58,26 @@
     "description": {
       "de": "Unter König Hayam Wuruk und Minister Gajah Mada erreichte Majapahit seine größte Ausdehnung und kontrollierte weite Teile des heutigen Indonesiens und darüber hinaus.",
       "en": "Under King Hayam Wuruk and minister Gajah Mada, Majapahit reached its greatest extent, controlling much of modern Indonesia and beyond."
+    }
+  },
+  {
+    "id": "red-turban-revolt-ming-founding",
+    "coordinates": [
+      118.8,
+      32.06
+    ],
+    "year": 1368,
+    "type": "political",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Gründung der Ming-Dynastie",
+      "en": "Founding of the Ming Dynasty"
+    },
+    "description": {
+      "de": "Zhu Yuanzhang, ein Anführer der Roten Turbane, stürzte die Yuan-Herrschaft und gründete die Ming-Dynastie mit der Hauptstadt Nanjing. China war wieder unter Han-chinesischer Herrschaft.",
+      "en": "Zhu Yuanzhang, a Red Turban leader, overthrew Yuan rule and founded the Ming dynasty with its capital at Nanjing. China was again under Han Chinese rule."
     }
   }
 ]

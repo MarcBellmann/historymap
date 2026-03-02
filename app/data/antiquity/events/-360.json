@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "battle-guiling-354bc",
+    "coordinates": [
+      115.44,
+      35.53
+    ],
+    "year": -354,
+    "type": "battle",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Schlacht von Guiling — Sun Bins Meisterstrategie",
+      "en": "Battle of Guiling — Sun Bin's Master Strategy"
+    },
+    "description": {
+      "de": "Der Stratege Sun Bin aus dem Staat Qi rettete den belagerten Staat Zhao, indem er nicht dessen Hauptstadt entsetzte, sondern stattdessen die Wei-Hauptstadt Daliang bedrohte. Als das Wei-Heer hastig zurückkehrte, wurde es bei Guiling vernichtend geschlagen — eine frühe Demonstration der 'Befreiungsstrategie'.",
+      "en": "Strategist Sun Bin of Qi rescued the besieged state of Zhao not by relieving its capital but by threatening Wei's capital Daliang. As the Wei army rushed back, it was annihilated at Guiling — an early demonstration of the 'relief strategy'."
+    }
+  }
+]

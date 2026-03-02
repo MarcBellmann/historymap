@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "jewish-diaspora-babylon",
+    "coordinates": [
+      35.23,
+      31.78
+    ],
+    "year": -300,
+    "type": "cultural",
+    "culturalSphere": [
+      "jewish"
+    ],
+    "labels": {
+      "de": "Jüdische Diaspora im Hellenismus",
+      "en": "Jewish Diaspora in the Hellenistic World"
+    },
+    "description": {
+      "de": "Unter den hellenistischen Nachfolgereichs lebten jüdische Gemeinschaften über das gesamte östliche Mittelmeer verstreut, von Alexandria bis Antiochien und Babylon. Diese Diaspora-Gemeinden entwickelten neue Formen jüdischer Identität, übersetzten die Tora ins Griechische (Septuaginta) und bildeten die Basis für das spätere Christentum.",
+      "en": "Under the Hellenistic successor states, Jewish communities lived scattered across the entire eastern Mediterranean, from Alexandria to Antioch and Babylon. These diaspora communities developed new forms of Jewish identity, translated the Torah into Greek (the Septuagint), and formed the basis for later Christianity."
+    }
+  }
+]

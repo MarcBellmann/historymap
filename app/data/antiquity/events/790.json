@@ -1,5 +1,26 @@
 [
   {
+    "id": "carolingian-renaissance",
+    "coordinates": [
+      6.08,
+      50.77
+    ],
+    "year": 790,
+    "type": "cultural",
+    "culturalSphere": [
+      "frankish",
+      "carolingian"
+    ],
+    "labels": {
+      "de": "Karolingische Renaissance",
+      "en": "Carolingian Renaissance"
+    },
+    "description": {
+      "de": "Karl der Große fördert an seinem Hof in Aachen Bildung, Kunst und Kirchenreform und schafft damit eine kulturelle Erneuerungsbewegung im lateinischen Europa. Gelehrte wie Alkuin von York systematisierten Latein, Theologie und das Bildungswesen der Klosterschulen.",
+      "en": "Charlemagne promotes education, art, and church reform at his court in Aachen, creating a cultural renewal movement in Latin Europe. Scholars like Alcuin of York systematized Latin, theology, and the monastic school curriculum."
+    }
+  },
+  {
     "id": "viking-raid-lindisfarne",
     "coordinates": [
       -1.8,

@@ -1,5 +1,25 @@
 [
   {
+    "id": "inca-build-machu-picchu",
+    "coordinates": [
+      -72.55,
+      -13.16
+    ],
+    "year": 1450,
+    "type": "foundation",
+    "culturalSphere": [
+      "andean"
+    ],
+    "labels": {
+      "de": "Bau von Machu Picchu",
+      "en": "Construction of Machu Picchu"
+    },
+    "description": {
+      "de": "Die Inka errichten Machu Picchu als königliches Anwesen und zeremonielle Stätte hoch in den Anden.",
+      "en": "The Inca construct Machu Picchu as a royal estate and ceremonial site high in the Andes."
+    }
+  },
+  {
     "id": "fall-of-constantinople",
     "coordinates": [
       28.98,
@@ -21,23 +41,24 @@
     }
   },
   {
-    "id": "inca-build-machu-picchu",
+    "id": "battle-of-castillon-1453",
     "coordinates": [
-      -72.55,
-      -13.16
+      0.05,
+      44.85
     ],
-    "year": 1450,
-    "type": "foundation",
+    "year": 1453,
+    "type": "battle",
     "culturalSphere": [
-      "andean"
+      "french",
+      "english"
     ],
     "labels": {
-      "de": "Bau von Machu Picchu",
-      "en": "Construction of Machu Picchu"
+      "de": "Endschlacht von Castillon – Ende des Hundertjährigen Krieges",
+      "en": "Battle of Castillon – End of the Hundred Years' War"
     },
     "description": {
-      "de": "Die Inka errichten Machu Picchu als königliches Anwesen und zeremonielle Stätte hoch in den Anden.",
-      "en": "The Inca construct Machu Picchu as a royal estate and ceremonial site high in the Andes."
+      "de": "In der Schlacht von Castillon 1453 besiegte Frankreich das englische Heer mit dem gezielten Einsatz von Artillerie und beendete damit den Hundertjährigen Krieg. England verlor alle Gebiete in Frankreich außer Calais und musste die Kontinentalambitionen aufgeben.",
+      "en": "At the Battle of Castillon in 1453, France defeated the English army using targeted artillery fire, ending the Hundred Years' War. England lost all its territories in France except Calais and had to abandon its continental ambitions."
     }
   }
 ]

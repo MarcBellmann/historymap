@@ -18,5 +18,65 @@
       "de": "Chavín de Huántar wird zum religiösen Zentrum der Zentralanden und beeinflusst die Entwicklung nachfolgender Andenkulturen.",
       "en": "Chavín de Huántar becomes the religious center of the central Andes, influencing the development of subsequent Andean cultures."
     }
+  },
+  {
+    "id": "hallstatt-iron-age-culture",
+    "coordinates": [
+      13.65,
+      47.56
+    ],
+    "year": -800,
+    "type": "cultural",
+    "culturalSphere": [
+      "celtic"
+    ],
+    "labels": {
+      "de": "Hallstatt-Kultur — Eisenzeit und Salzhandel",
+      "en": "Hallstatt Culture — Iron Age and Salt Trade"
+    },
+    "description": {
+      "de": "Die Hallstatt-Kultur in den Alpen entfaltete sich als erste deutlich erkennbare keltische Zivilisation, reich durch den Salzhandel aus den Bergwerken des Salzkammerguts. Ihre Eisentechnologie und Handelsnetze verbanden Nordeuropa mit der mediterranen Welt.",
+      "en": "The Hallstatt culture in the Alps flourished as the first clearly recognizable Celtic civilization, enriched by salt trade from the Salzkammergut mines. Its iron technology and trade networks connected northern Europe with the Mediterranean world."
+    }
+  },
+  {
+    "id": "phoenician-founding-gadir-spain",
+    "coordinates": [
+      -6.3,
+      36.53
+    ],
+    "year": -800,
+    "type": "foundation",
+    "culturalSphere": [
+      "phoenician"
+    ],
+    "labels": {
+      "de": "Phönizische Gründung von Gadir (Cadiz)",
+      "en": "Phoenician Founding of Gadir (Cádiz)"
+    },
+    "description": {
+      "de": "Phönizier aus Tyros gründeten Gadir an der Atlantikküste Iberiens als westlichste bedeutende Handelsniederlassung des Mittelmeerraums. Von hier aus erschlossen sie die Silber- und Zinnvorkommen Hispaniens und schufen ein Handelsnetz, das den Atlantik mit dem Orient verband.",
+      "en": "Phoenicians from Tyre founded Gadir on the Atlantic coast of Iberia as the westernmost major trading post of the Mediterranean world. From here they accessed the silver and tin deposits of Hispania, creating a trade network connecting the Atlantic to the Orient."
+    }
+  },
+  {
+    "id": "upanishads-vedic-philosophy-india",
+    "coordinates": [
+      82,
+      27
+    ],
+    "year": -800,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Entstehung der Upanishaden — vedische Philosophie",
+      "en": "Composition of the Upanishads — Vedic Philosophy"
+    },
+    "description": {
+      "de": "In den Waldwäldern Nordindiens entstanden die Upanishaden, tiefgründige philosophische Texte über das Wesen der Realität (Brahman) und des Selbst (Atman). Diese Schriften legten die geistigen Grundlagen des Hinduismus und beeinflussten alle späteren indischen Religionen.",
+      "en": "In the forests of northern India, the Upanishads were composed — profound philosophical texts on the nature of reality (Brahman) and the self (Atman). These scriptures laid the spiritual foundations of Hinduism and influenced all subsequent Indian religions."
+    }
   }
 ]

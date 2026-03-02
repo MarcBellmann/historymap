@@ -38,5 +38,25 @@
       "de": "Lý Thái Tổ gründete die Lý-Dynastie und verlegte die Hauptstadt nach Thăng Long (Hanoi), das für fast 1.000 Jahre das politische Zentrum Vietnams blieb.",
       "en": "Lý Thái Tổ founded the Lý dynasty and moved the capital to Thăng Long (Hanoi), which remained Vietnam's political center for nearly 1,000 years."
     }
+  },
+  {
+    "id": "chola-brihadeeswarar-temple",
+    "coordinates": [
+      79.13,
+      10.78
+    ],
+    "year": 1010,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Chola: Brihadeeswarar-Tempel in Thanjavur",
+      "en": "Chola: Brihadeeswarar Temple at Thanjavur"
+    },
+    "description": {
+      "de": "König Rajaraja I. vollendete 1010 den mächtigen Brihadeeswarar-Tempel in Thanjavur, ein Meisterwerk der Chola-Architektur mit einem 66 Meter hohen Turm. Der Tempel symbolisiert die religiöse Macht und künstlerische Höchstleistung des Chola-Reiches auf dem Höhepunkt seiner Macht.",
+      "en": "King Rajaraja I completed the magnificent Brihadeeswarar Temple at Thanjavur in 1010, a masterpiece of Chola architecture with a 66-meter tower. The temple symbolizes the religious power and artistic achievement of the Chola Empire at its peak."
+    }
   }
 ]

@@ -18,5 +18,26 @@
       "de": "Groß-Simbabwe erreicht seinen Höhepunkt als Zentrum des Goldhandels mit bis zu 18.000 Einwohnern und monumentalen Steinbauten.",
       "en": "Great Zimbabwe reaches its peak as a gold-trading center with up to 18,000 inhabitants and monumental stone structures."
     }
+  },
+  {
+    "id": "dante-divine-comedy",
+    "coordinates": [
+      11.25,
+      43.77
+    ],
+    "year": 1308,
+    "type": "cultural",
+    "culturalSphere": [
+      "italian",
+      "european"
+    ],
+    "labels": {
+      "de": "Dante Alighieri – Göttliche Komödie",
+      "en": "Dante Alighieri – Divine Comedy"
+    },
+    "description": {
+      "de": "Dante Alighieri begann 1308 die Göttliche Komödie, das epochale Gedicht über Hölle, Fegefeuer und Paradies. Das auf Toskanisch (statt Latein) verfasste Werk begründete die italienische Literatursprache und wurde zum bedeutendsten literarischen Werk des europäischen Mittelalters.",
+      "en": "Dante Alighieri began the Divine Comedy in 1308, the epoch-making poem about Hell, Purgatory, and Paradise. Written in Tuscan Italian (rather than Latin), the work established the Italian literary language and became the most important literary work of the European Middle Ages."
+    }
   }
 ]

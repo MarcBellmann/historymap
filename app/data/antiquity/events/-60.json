@@ -19,5 +19,47 @@
       "de": "Die Parther unter Surena vernichten die römische Armee des Crassus bei Carrhae. Eine der schwersten römischen Niederlagen, die Roms Expansion nach Osten für Jahrhunderte stoppt.",
       "en": "The Parthians under Surena annihilate Crassus' Roman army at Carrhae. One of Rome's worst defeats, halting Roman expansion eastward for centuries."
     }
+  },
+  {
+    "id": "roman-parthian-war-crassus",
+    "coordinates": [
+      38.78,
+      36.87
+    ],
+    "year": -53,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "persian"
+    ],
+    "labels": {
+      "de": "Niederlage Roms gegen Parthien bei Carrhae",
+      "en": "Roman Defeat at Carrhae"
+    },
+    "description": {
+      "de": "Der reiche römische Politiker Marcus Licinius Crassus führte ein Heer von 35.000 Mann gegen das Partherreich und wurde bei Carrhae vernichtend geschlagen — Crassus selbst fiel. Die Niederlage markierte die Ostgrenze des Römischen Reiches und zeigte die Überlegenheit der parthischen Reitertaktik gegen schwere Infanterie.",
+      "en": "The wealthy Roman politician Marcus Licinius Crassus led an army of 35,000 against the Parthian Empire and was crushingly defeated at Carrhae — Crassus himself was killed. The defeat marked the eastern limit of the Roman Empire and demonstrated the superiority of Parthian cavalry tactics against heavy infantry."
+    }
+  },
+  {
+    "id": "gallic-wars-alesia",
+    "coordinates": [
+      4.49,
+      47.54
+    ],
+    "year": -52,
+    "type": "battle",
+    "culturalSphere": [
+      "roman",
+      "celtic"
+    ],
+    "labels": {
+      "de": "Belagerung von Alesia",
+      "en": "Siege of Alesia"
+    },
+    "description": {
+      "de": "Julius Caesar besiegte den gallischen Anführer Vercingetorix in der Bergfestung Alesia durch eine doppelte Belagerungslinie. Der Fall von Alesia beendete den gallischen Widerstand und integrierte das gesamte Gallien dauerhaft ins Römische Reich.",
+      "en": "Julius Caesar defeated the Gallic leader Vercingetorix at the hilltop fortress of Alesia using a double siege line. The fall of Alesia ended Gallic resistance and permanently incorporated all of Gaul into the Roman world."
+    }
   }
 ]

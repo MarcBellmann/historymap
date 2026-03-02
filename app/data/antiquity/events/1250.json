@@ -22,6 +22,27 @@
     }
   },
   {
+    "id": "hulegu-founds-ilkhanate",
+    "coordinates": [
+      51.42,
+      35.69
+    ],
+    "year": 1256,
+    "type": "foundation",
+    "culturalSphere": [
+      "mongol",
+      "persian"
+    ],
+    "labels": {
+      "de": "Hülegü gründet das Ilchanat in Persien",
+      "en": "Hulegu Founds the Ilkhanate in Persia"
+    },
+    "description": {
+      "de": "Hülegü Khan errichtete nach der Vernichtung des Nizariten-Staates (Assassinen) und der Zerstörung Bagdads das mongolische Ilchanat in Persien und im Nahen Osten. Unter seinen Nachfolgern konvertierten die Ilkhane zum Islam und übernahmen die persische Verwaltungskultur.",
+      "en": "Hulegu Khan established the Mongol Ilkhanate in Persia and the Middle East after destroying the Nizari state (Assassins) and Baghdad. Under his successors, the Ilkhans converted to Islam and adopted Persian administrative culture."
+    }
+  },
+  {
     "id": "mongol-sack-of-baghdad",
     "coordinates": [
       44.366,

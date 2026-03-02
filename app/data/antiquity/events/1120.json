@@ -1,5 +1,26 @@
 [
   {
+    "id": "concordat-of-worms",
+    "coordinates": [
+      8.35,
+      49.63
+    ],
+    "year": 1122,
+    "type": "political",
+    "culturalSphere": [
+      "roman-catholic",
+      "german"
+    ],
+    "labels": {
+      "de": "Wormser Konkordat",
+      "en": "Concordat of Worms"
+    },
+    "description": {
+      "de": "Mit dem Wormser Konkordat einigten sich Kaiser Heinrich V. und Papst Calixtus II. auf eine Trennung von geistlicher und weltlicher Investitur. Das Abkommen beendete den jahrzehntelangen Investiturstreit und legte Grundlagen für die mittelalterliche Kirchenverfassung.",
+      "en": "The Concordat of Worms reached an agreement between Emperor Henry V and Pope Calixtus II on the separation of spiritual and secular investiture. The agreement ended the decades-long Investiture Controversy and laid foundations for medieval church governance."
+    }
+  },
+  {
     "id": "jin-conquest-northern-song",
     "coordinates": [
       114.31,

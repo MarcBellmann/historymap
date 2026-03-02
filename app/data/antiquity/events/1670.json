@@ -1,25 +1,5 @@
 [
   {
-    "id": "habeas-corpus-act",
-    "coordinates": [
-      -0.12,
-      51.5
-    ],
-    "year": 1679,
-    "type": "political",
-    "culturalSphere": [
-      "english"
-    ],
-    "labels": {
-      "de": "Habeas-Corpus-Akte",
-      "en": "Habeas Corpus Act"
-    },
-    "description": {
-      "de": "Das englische Parlament verabschiedete die Habeas-Corpus-Akte, die willkürliche Inhaftierung verbot. Das Gesetz wurde zum Eckpfeiler des Rechtsstaats und individueller Freiheitsrechte.",
-      "en": "The English Parliament passed the Habeas Corpus Act, prohibiting arbitrary imprisonment. The law became a cornerstone of the rule of law and individual liberty."
-    }
-  },
-  {
     "id": "maratha-empire-founded",
     "coordinates": [
       73.68,
@@ -37,6 +17,47 @@
     "description": {
       "de": "Shivaji lässt sich in Raigad zum Chhatrapati krönen und gründet das Maratha-Reich als Widerstand gegen die Mogulherrschaft.",
       "en": "Shivaji crowns himself Chhatrapati at Raigad, founding the Maratha Empire in resistance to Mughal rule."
+    }
+  },
+  {
+    "id": "maratha-empire-rise",
+    "coordinates": [
+      73.85,
+      18.52
+    ],
+    "year": 1674,
+    "type": "political",
+    "culturalSphere": [
+      "indian",
+      "dravidian"
+    ],
+    "labels": {
+      "de": "Chhatrapati Shivaji – Gründung des Marathen-Reiches",
+      "en": "Chhatrapati Shivaji – Founding of the Maratha Empire"
+    },
+    "description": {
+      "de": "Shivaji Maharaj ließ sich 1674 in Raigad zum Chhatrapati (Herrscher der Herrscher) krönen und gründete damit formal das Marathen-Reich. Als führender Widerstandskämpfer gegen die Mogul-Expansion begründete er eine Tradition militärischer Unabhängigkeit, die das Marathen-Reich zur stärksten Macht Indiens des 18. Jahrhunderts machte.",
+      "en": "Shivaji Maharaj was crowned Chhatrapati (ruler of rulers) at Raigad in 1674, formally establishing the Maratha Empire. As the leading resistance fighter against Mughal expansion, he created a tradition of military independence that made the Maratha Empire the strongest power in 18th-century India."
+    }
+  },
+  {
+    "id": "habeas-corpus-act",
+    "coordinates": [
+      -0.12,
+      51.5
+    ],
+    "year": 1679,
+    "type": "political",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Habeas-Corpus-Akte",
+      "en": "Habeas Corpus Act"
+    },
+    "description": {
+      "de": "Das englische Parlament verabschiedete die Habeas-Corpus-Akte, die willkürliche Inhaftierung verbot. Das Gesetz wurde zum Eckpfeiler des Rechtsstaats und individueller Freiheitsrechte.",
+      "en": "The English Parliament passed the Habeas Corpus Act, prohibiting arbitrary imprisonment. The law became a cornerstone of the rule of law and individual liberty."
     }
   }
 ]

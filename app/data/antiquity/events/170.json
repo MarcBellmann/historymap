@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "marcus-aurelius-meditations",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 170,
+    "type": "cultural",
+    "culturalSphere": [
+      "roman",
+      "greek"
+    ],
+    "labels": {
+      "de": "Marcus Aurelius – Meditationen",
+      "en": "Marcus Aurelius – Meditations"
+    },
+    "description": {
+      "de": "Der philosophisch Kaiser Marcus Aurelius verfasste während seiner Feldzüge an der Donau private Aufzeichnungen stoischer Reflexionen, die als 'Meditationen' überliefert sind. Das Werk gilt als eines der bedeutendsten Dokumente der Philosophie und zeigt, wie ein Herrscher sein inneres Leben mit den Pflichten des Amtes zu verbinden versuchte.",
+      "en": "The philosopher-emperor Marcus Aurelius composed private stoic reflections during his campaigns on the Danube, preserved as the 'Meditations.' The work is considered one of the most significant documents of philosophy, showing how a ruler sought to reconcile inner life with the demands of office."
+    }
+  }
+]

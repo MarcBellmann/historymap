@@ -1,5 +1,26 @@
 [
   {
+    "id": "goryeo-mongol-invasion",
+    "coordinates": [
+      126.97,
+      37.57
+    ],
+    "year": 1231,
+    "type": "battle",
+    "culturalSphere": [
+      "korean",
+      "mongol"
+    ],
+    "labels": {
+      "de": "Mongolische Invasion Koreas",
+      "en": "Mongol Invasion of Goryeo Korea"
+    },
+    "description": {
+      "de": "Die Mongolen unter Ögedei Khan fielen 1231 in Korea ein und zwangen die Goryeo-Regierung, auf die Insel Ganghwa zu flüchten. Obwohl der Hof in Sicherheit war, verwüsteten sechs Invasionswellen das Festland und kosteten eine Million Menschen das Leben.",
+      "en": "The Mongols under Ögedei Khan invaded Korea in 1231, forcing the Goryeo government to flee to Ganghwa Island. Though the court remained safe, six waves of invasion devastated the mainland and cost a million lives."
+    }
+  },
+  {
     "id": "fall-of-jin-dynasty-1234",
     "coordinates": [
       113.65,
@@ -21,23 +42,23 @@
     }
   },
   {
-    "id": "sukhothai-kingdom-founded",
+    "id": "goryeo-metal-movable-type",
     "coordinates": [
-      99.7,
-      17.01
+      126.97,
+      37.57
     ],
-    "year": 1238,
-    "type": "foundation",
+    "year": 1234,
+    "type": "cultural",
     "culturalSphere": [
-      "thai"
+      "korean"
     ],
     "labels": {
-      "de": "Gründung des Königreichs Sukhothai",
-      "en": "Founding of the Sukhothai Kingdom"
+      "de": "Metallener Buchdruck in Korea",
+      "en": "Metal Movable Type Printing in Korea"
     },
     "description": {
-      "de": "Das Königreich Sukhothai wurde als erstes bedeutendes Thai-Königreich gegründet. König Ramkhamhaeng entwickelte die thailändische Schrift und förderte den Theravada-Buddhismus.",
-      "en": "The Sukhothai Kingdom was founded as the first major Thai kingdom. King Ramkhamhaeng developed the Thai script and promoted Theravada Buddhism."
+      "de": "Goryeo-Korea entwickelte rund zwei Jahrhunderte vor Gutenberg den metallenen Buchdruck mit beweglichen Lettern. Das erste bekannte mit Metalldruck gedruckte Buch war 1234 ein Ritualwerk für Konfuzianer und zeugt von Koreas außergewöhnlichem technologischen Vorsprung.",
+      "en": "Goryeo Korea developed metal movable type printing around two centuries before Gutenberg. The first known book printed with metal type was a Confucian ritual text in 1234, testifying to Korea's remarkable technological lead."
     }
   },
   {
@@ -58,6 +79,26 @@
     "description": {
       "de": "Sundiata Keita besiegt in der Schlacht von Kirina den Sosso-König Sumanguru und gründet das Mali-Reich.",
       "en": "Sundiata Keita defeats Sosso king Sumanguru at the Battle of Kirina, founding the Mali Empire."
+    }
+  },
+  {
+    "id": "sukhothai-kingdom-founded",
+    "coordinates": [
+      99.7,
+      17.01
+    ],
+    "year": 1238,
+    "type": "foundation",
+    "culturalSphere": [
+      "thai"
+    ],
+    "labels": {
+      "de": "Gründung des Königreichs Sukhothai",
+      "en": "Founding of the Sukhothai Kingdom"
+    },
+    "description": {
+      "de": "Das Königreich Sukhothai wurde als erstes bedeutendes Thai-Königreich gegründet. König Ramkhamhaeng entwickelte die thailändische Schrift und förderte den Theravada-Buddhismus.",
+      "en": "The Sukhothai Kingdom was founded as the first major Thai kingdom. King Ramkhamhaeng developed the Thai script and promoted Theravada Buddhism."
     }
   }
 ]

@@ -1,5 +1,87 @@
 [
   {
+    "id": "aksumite-kingdom-rises",
+    "coordinates": [
+      38.72,
+      14.13
+    ],
+    "year": 100,
+    "type": "political",
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Aufstieg des Königreichs Aksum",
+      "en": "Rise of the Kingdom of Aksum"
+    },
+    "description": {
+      "de": "Das Königreich Aksum im heutigen Äthiopien und Eritrea wird zu einer der vier großen Weltmächte der Antike.",
+      "en": "The Kingdom of Aksum in modern Ethiopia and Eritrea rises to become one of the four great powers of the ancient world."
+    }
+  },
+  {
+    "id": "spread-of-buddhism-central-asia",
+    "coordinates": [
+      69.18,
+      34.52
+    ],
+    "year": 100,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian",
+      "persian"
+    ],
+    "labels": {
+      "de": "Ausbreitung des Buddhismus nach Zentralasien",
+      "en": "Spread of Buddhism to Central Asia"
+    },
+    "description": {
+      "de": "Entlang der Seidenstraße breiteten sich buddhistische Mönche, Texte und Kunstformen von Indien über Gandhara, das Kuschanreich bis nach Zentralasien aus. Das hellenistische Erbe Gandharas schuf eine einzigartige griechisch-buddhistische Kunsttradition, deren Einfluss bis nach China reichte.",
+      "en": "Along the Silk Road, Buddhist monks, texts, and art forms spread from India through Gandhara and the Kushan Empire into Central Asia. The Hellenistic heritage of Gandhara created a unique Greco-Buddhist artistic tradition whose influence reached all the way to China."
+    }
+  },
+  {
+    "id": "aksumite-trade-empire",
+    "coordinates": [
+      38.72,
+      14.13
+    ],
+    "year": 100,
+    "type": "foundation",
+    "culturalSphere": [
+      "african"
+    ],
+    "labels": {
+      "de": "Aksumitisches Handelszentrum",
+      "en": "Aksumite Trade Empire"
+    },
+    "description": {
+      "de": "Das Königreich Aksum etablierte sich als bedeutende Handelsmacht am Roten Meer, kontrollierte die Handelswege zwischen dem Römischen Reich, Arabien und Indien und prägte Münzen aus Gold, Silber und Bronze. Aksum war eine der bedeutendsten Zivilisationen der antiken Welt, die in der modernen westlichen Geschichtsschreibung lange unterschätzt wurde.",
+      "en": "The Kingdom of Aksum established itself as a major trading power on the Red Sea, controlling trade routes between the Roman Empire, Arabia, and India, and minting coins in gold, silver, and bronze. Aksum was one of the most significant civilizations of the ancient world, long undervalued in Western historiography."
+    }
+  },
+  {
+    "id": "kushan-kanishka-council",
+    "coordinates": [
+      74.31,
+      31.55
+    ],
+    "year": 100,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian",
+      "persian"
+    ],
+    "labels": {
+      "de": "Viertes Buddhisten-Konzil unter Kanischka",
+      "en": "Fourth Buddhist Council under Kanishka"
+    },
+    "description": {
+      "de": "Kaiser Kanischka I. berief das Vierte Buddhistische Konzil ein, auf dem die Texte des Mahayana-Buddhismus systematisiert wurden. Die Entscheidungen dieses Konzils prägten den Mahayana-Buddhismus, der sich in der Folge über Zentralasien und China verbreitete.",
+      "en": "Emperor Kanishka I convened the Fourth Buddhist Council, at which the texts of Mahayana Buddhism were systematized. The decisions of this council shaped Mahayana Buddhism, which subsequently spread through Central Asia and China."
+    }
+  },
+  {
     "id": "nabataean-kingdom-annexed",
     "coordinates": [
       35.442,
@@ -21,23 +103,23 @@
     }
   },
   {
-    "id": "aksumite-kingdom-rises",
+    "id": "trajan-dacian-wars",
     "coordinates": [
-      38.72,
-      14.13
+      23,
+      45.8
     ],
-    "year": 100,
-    "type": "political",
+    "year": 106,
+    "type": "battle",
     "culturalSphere": [
-      "ethiopian"
+      "roman"
     ],
     "labels": {
-      "de": "Aufstieg des Königreichs Aksum",
-      "en": "Rise of the Kingdom of Aksum"
+      "de": "Trajans Dakerkriege",
+      "en": "Trajan's Dacian Wars"
     },
     "description": {
-      "de": "Das Königreich Aksum im heutigen Äthiopien und Eritrea wird zu einer der vier großen Weltmächte der Antike.",
-      "en": "The Kingdom of Aksum in modern Ethiopia and Eritrea rises to become one of the four great powers of the ancient world."
+      "de": "Kaiser Trajan führte zwei erfolgreiche Feldzüge gegen das Dakerreich unter König Decebalus und machte Dakien zur römischen Provinz. Die gewaltigen Goldvorräte der dakischen Minen finanzierten Trajans ehrgeizige Bauprogramme in Rom, darunter das Trajansforum und die berühmte Trajanssäule.",
+      "en": "Emperor Trajan conducted two successful campaigns against the Dacian kingdom under King Decebalus and made Dacia a Roman province. The vast gold reserves of the Dacian mines financed Trajan's ambitious building programs in Rome, including Trajan's Forum and the famous Trajan's Column."
     }
   }
 ]

@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "id": "formation-of-yamato-japan",
+    "coordinates": [
+      135.83,
+      34.69
+    ],
+    "year": 300,
+    "type": "foundation",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Entstehung des Yamato-Reiches in Japan",
+      "en": "Formation of the Yamato State in Japan"
+    },
+    "description": {
+      "de": "Im japanischen Kernland um die Kinai-Region bildete sich das erste politisch geinte japanische Reich unter dem Herrscherhaus Yamato heraus. Die Yamato-Herrscher schufen eine Hofkultur, die Elemente aus China und Korea übernahm und zur Grundlage der späteren japanischen Zivilisation wurde.",
+      "en": "In the Japanese heartland around the Kinai region, the first politically unified Japanese state emerged under the Yamato ruling house. The Yamato rulers created a court culture that incorporated elements from China and Korea and became the foundation of later Japanese civilization."
+    }
+  },
+  {
+    "id": "vedic-to-puranic-india",
+    "coordinates": [
+      79,
+      21
+    ],
+    "year": 300,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Entstehung des klassischen Hinduismus",
+      "en": "Emergence of Classical Hinduism"
+    },
+    "description": {
+      "de": "In der Gupta-Ära entwickelte sich aus den vedischen Traditionen der klassische Hinduismus mit seinem Pantheon, den Puranas und dem Tempelbau. Gleichzeitig entstanden die großen Epen Mahabharata und Ramayana in ihrer kanonischen Form, die die religiöse und kulturelle Identität Südasiens bis heute prägen.",
+      "en": "In the Gupta era, classical Hinduism developed from the Vedic traditions, with its pantheon, the Puranas, and temple construction. Simultaneously, the great epics Mahabharata and Ramayana were compiled in their canonical form, shaping the religious and cultural identity of South Asia to this day."
+    }
+  },
+  {
+    "id": "sixteen-kingdoms-northern-china",
+    "coordinates": [
+      108,
+      36
+    ],
+    "year": 304,
+    "type": "political",
+    "culturalSphere": [
+      "chinese",
+      "steppe"
+    ],
+    "labels": {
+      "de": "Die Sechzehn Reiche – Nordchina",
+      "en": "Sixteen Kingdoms of Northern China"
+    },
+    "description": {
+      "de": "Nach dem Zusammenbruch der Westlichen Jin-Dynastie zersplitterte Nordchina in eine Folge von kurzlebigen Reichen, die von verschiedenen Völkern — Xiongnu, Jie, Di, Qiang und Xianbei — gegründet wurden. Diese von chinesischen Historikern als 'Sechzehn Reiche' bezeichnete Epoche dauerte über 130 Jahre und prägte die ethnische und kulturelle Vielfalt Chinas nachhaltig.",
+      "en": "After the collapse of the Western Jin Dynasty, northern China fragmented into a succession of short-lived kingdoms founded by various peoples — Xiongnu, Jie, Di, Qiang, and Xianbei. This era, called the 'Sixteen Kingdoms' by Chinese historians, lasted over 130 years and profoundly shaped China's ethnic and cultural diversity."
+    }
+  }
+]

@@ -18,5 +18,25 @@
       "de": "Mahapadma Nanda stürzt die Shishunaga-Dynastie und errichtet das erste große Reich, das weite Teile Nordindiens vereint.",
       "en": "Mahapadma Nanda overthrows the Shishunaga dynasty, establishing the first great empire uniting much of northern India."
     }
+  },
+  {
+    "id": "battle-of-maling-342bc",
+    "coordinates": [
+      115.44,
+      35.53
+    ],
+    "year": -342,
+    "type": "battle",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Schlacht von Maling — Qi besiegt Wei",
+      "en": "Battle of Maling — Qi Defeats Wei"
+    },
+    "description": {
+      "de": "Der Stratege Sun Bin lockte die Wei-Armee in einen Hinterhalt bei Maling, indem er einen Rückzug vortäuschte. Die vernichtende Niederlage beendete Wei's Vormachtstellung in China und läutete den Aufstieg von Qi und Qin ein.",
+      "en": "Strategist Sun Bin lured the Wei army into an ambush at Maling by feigning retreat. The crushing defeat ended Wei's dominance in China and heralded the rise of Qi and Qin."
+    }
   }
 ]

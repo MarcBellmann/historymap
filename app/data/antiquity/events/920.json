@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "caliphate-cordoba-peak",
+    "coordinates": [
+      -4.78,
+      37.88
+    ],
+    "year": 929,
+    "type": "political",
+    "culturalSphere": [
+      "islamic",
+      "umayyad",
+      "andalusian"
+    ],
+    "labels": {
+      "de": "Höhepunkt des Kalifats von Córdoba",
+      "en": "Peak of the Caliphate of Córdoba"
+    },
+    "description": {
+      "de": "Abd ar-Rahman III. erklärt sich zum Kalifen und erhebt Al-Andalus zum unabhängigen Gegengewicht zum Abbasidenkalifat in Bagdad. Córdoba mit einer halben Million Einwohnern war eine der größten und aufgeklärtesten Städte der Welt — Zentrum von Wissenschaft, Philosophie und Toleranz.",
+      "en": "Abd ar-Rahman III declares himself Caliph, elevating Al-Andalus as an independent counterweight to the Abbasid Caliphate in Baghdad. Córdoba, with half a million inhabitants, was one of the largest and most enlightened cities in the world — a center of science, philosophy, and tolerance."
+    }
+  }
+]

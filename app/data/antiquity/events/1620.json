@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "queen-nzinga-resistance",
+    "coordinates": [
+      14.84,
+      -9.09
+    ],
+    "year": 1624,
+    "type": "political",
+    "culturalSphere": [
+      "bantu",
+      "central-african"
+    ],
+    "labels": {
+      "de": "Königin Nzinga – Widerstand gegen Portugal",
+      "en": "Queen Nzinga – Resistance Against Portugal"
+    },
+    "description": {
+      "de": "Königin Nzinga Mbande übernahm 1624 die Herrschaft über das Königreich Ndongo und führte über vier Jahrzehnte einen entschlossenen Widerstand gegen die portugiesische Kolonisierung Angolas. Sie schloss Bündnisse mit niederländischen Handelsmächten, führte selbst Truppen und störte gezielt den portugiesischen Sklavenhandel.",
+      "en": "Queen Nzinga Mbande assumed rule over the Kingdom of Ndongo in 1624 and led a determined four-decade resistance against Portuguese colonization of Angola. She formed alliances with Dutch merchants, personally led troops, and strategically disrupted the Portuguese slave trade."
+    }
+  }
+]

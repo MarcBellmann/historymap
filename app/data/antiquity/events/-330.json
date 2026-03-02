@@ -20,6 +20,27 @@
     }
   },
   {
+    "id": "death-of-alexander",
+    "coordinates": [
+      44.42,
+      32.54
+    ],
+    "year": -323,
+    "type": "political",
+    "culturalSphere": [
+      "greek",
+      "persian"
+    ],
+    "labels": {
+      "de": "Tod Alexanders des Großen",
+      "en": "Death of Alexander the Great"
+    },
+    "description": {
+      "de": "Alexander der Große starb im Alter von 32 Jahren in Babylon, ohne einen klaren Nachfolger bestimmt zu haben. Sein Tod löste die sogenannten Diadochenkriege aus – jahrzehntelange Kämpfe seiner Generäle, die zur Aufteilung seines Reiches in mehrere hellenistische Königreiche führten.",
+      "en": "Alexander the Great died at the age of 32 in Babylon without designating a clear successor. His death triggered the Wars of the Diadochi, decades-long conflicts among his generals that led to the division of his empire into several Hellenistic kingdoms."
+    }
+  },
+  {
     "id": "chandragupta-maurya-founds-empire",
     "coordinates": [
       85.14,

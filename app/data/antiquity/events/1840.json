@@ -1,22 +1,22 @@
 [
   {
-    "id": "revolutions-of-1848",
+    "id": "treaty-of-nanking",
     "coordinates": [
-      2.34,
-      48.86
+      118.8,
+      32.06
     ],
-    "year": 1848,
+    "year": 1842,
     "type": "political",
     "culturalSphere": [
-      "european"
+      "chinese"
     ],
     "labels": {
-      "de": "Revolutionen von 1848",
-      "en": "Revolutions of 1848"
+      "de": "Vertrag von Nanjing",
+      "en": "Treaty of Nanking"
     },
     "description": {
-      "de": "Eine Welle von Revolutionen erfasste Europa — vom Völkerfrühling in Paris über Wien bis Berlin. Obwohl die meisten Aufstände scheiterten, wurden Leibeigenschaft abgeschafft und demokratische Ideen verbreitet.",
-      "en": "A wave of revolutions swept across Europe — from the Spring of Nations in Paris to Vienna and Berlin. Though most uprisings failed, serfdom was abolished and democratic ideas were spread."
+      "de": "Der erste der 'ungleichen Verträge' zwang China zur Öffnung von fünf Vertragshäfen, zur Zahlung von Entschädigungen und zur Abtretung Hongkongs an Großbritannien.",
+      "en": "The first of the 'unequal treaties' forced China to open five treaty ports, pay indemnities, and cede Hong Kong to Britain."
     }
   },
   {
@@ -40,23 +40,43 @@
     }
   },
   {
-    "id": "treaty-of-nanking",
+    "id": "founding-of-liberia",
     "coordinates": [
-      118.8,
-      32.06
+      -10.8,
+      6.3
     ],
-    "year": 1842,
-    "type": "political",
+    "year": 1847,
+    "type": "foundation",
     "culturalSphere": [
-      "chinese"
+      "west-african"
     ],
     "labels": {
-      "de": "Vertrag von Nanjing",
-      "en": "Treaty of Nanking"
+      "de": "Gründung der Republik Liberia",
+      "en": "Republic of Liberia Founded"
     },
     "description": {
-      "de": "Der erste der 'ungleichen Verträge' zwang China zur Öffnung von fünf Vertragshäfen, zur Zahlung von Entschädigungen und zur Abtretung Hongkongs an Großbritannien.",
-      "en": "The first of the 'unequal treaties' forced China to open five treaty ports, pay indemnities, and cede Hong Kong to Britain."
+      "de": "Befreite afroamerikanische Sklaven gründen die Republik Liberia, den ersten unabhängigen Staat des modernen Afrika.",
+      "en": "Freed African-American slaves found the Republic of Liberia, the first independent state of modern Africa."
+    }
+  },
+  {
+    "id": "revolutions-of-1848",
+    "coordinates": [
+      2.34,
+      48.86
+    ],
+    "year": 1848,
+    "type": "political",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Revolutionen von 1848",
+      "en": "Revolutions of 1848"
+    },
+    "description": {
+      "de": "Eine Welle von Revolutionen erfasste Europa — vom Völkerfrühling in Paris über Wien bis Berlin. Obwohl die meisten Aufstände scheiterten, wurden Leibeigenschaft abgeschafft und demokratische Ideen verbreitet.",
+      "en": "A wave of revolutions swept across Europe — from the Spring of Nations in Paris to Vienna and Berlin. Though most uprisings failed, serfdom was abolished and democratic ideas were spread."
     }
   },
   {
@@ -77,26 +97,6 @@
     "description": {
       "de": "Die Briten besiegen das Sikh-Reich in der Schlacht von Gujarat und annektieren den Punjab.",
       "en": "The British defeat the Sikh Empire at the Battle of Gujarat and annex Punjab."
-    }
-  },
-  {
-    "id": "founding-of-liberia",
-    "coordinates": [
-      -10.8,
-      6.3
-    ],
-    "year": 1847,
-    "type": "foundation",
-    "culturalSphere": [
-      "west-african"
-    ],
-    "labels": {
-      "de": "Gründung der Republik Liberia",
-      "en": "Republic of Liberia Founded"
-    },
-    "description": {
-      "de": "Befreite afroamerikanische Sklaven gründen die Republik Liberia, den ersten unabhängigen Staat des modernen Afrika.",
-      "en": "Freed African-American slaves found the Republic of Liberia, the first independent state of modern Africa."
     }
   }
 ]

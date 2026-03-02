@@ -1,5 +1,46 @@
 [
   {
+    "id": "enlightenment-publication-encyclopedie",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "year": 1751,
+    "type": "cultural",
+    "culturalSphere": [
+      "french",
+      "european"
+    ],
+    "labels": {
+      "de": "Encyclopédie – Manifest der Aufklärung",
+      "en": "Encyclopédie – Monument of the Enlightenment"
+    },
+    "description": {
+      "de": "Diderot und d'Alembert begannen 1751 mit der Herausgabe der Encyclopédie, einem 35-bändigen Werk, das Wissen rationalistisch systematisierte und kirchliche Dogmen herausforderte. Als intellectuelles Rückgrat der Aufklärung beeinflusste es die Amerikanische und Französische Revolution.",
+      "en": "Diderot and d'Alembert began publishing the Encyclopédie in 1751, a 35-volume work that systematized knowledge rationally and challenged religious dogma. As the intellectual backbone of the Enlightenment, it shaped both the American and French Revolutions."
+    }
+  },
+  {
+    "id": "konbaung-dynasty-founding",
+    "coordinates": [
+      95.98,
+      21.92
+    ],
+    "year": 1752,
+    "type": "foundation",
+    "culturalSphere": [
+      "burmese"
+    ],
+    "labels": {
+      "de": "Gründung der Konbaung-Dynastie",
+      "en": "Founding of the Konbaung Dynasty"
+    },
+    "description": {
+      "de": "Alaungpaya gründete die Konbaung-Dynastie und vereinigte Myanmar erneut. Die Dynastie wurde zur letzten Herrscherdynastie Burmas.",
+      "en": "Alaungpaya founded the Konbaung dynasty and reunified Myanmar. The dynasty became the last ruling dynasty of Burma."
+    }
+  },
+  {
     "id": "lisbon-earthquake",
     "coordinates": [
       -9.14,
@@ -17,26 +58,6 @@
     "description": {
       "de": "Ein Erdbeben der Stärke 7,7, gefolgt von Tsunami und Bränden, zerstörte Lissabon fast vollständig und tötete etwa 30.000–40.000 Menschen. Die Katastrophe löste eine europaweite philosophische Debatte über Theodizee aus.",
       "en": "A magnitude 7.7 earthquake, followed by a tsunami and fires, almost completely destroyed Lisbon, killing 30,000–40,000 people. The disaster triggered a Europe-wide philosophical debate on theodicy."
-    }
-  },
-  {
-    "id": "seven-years-war-begins",
-    "coordinates": [
-      14.42,
-      50.09
-    ],
-    "year": 1756,
-    "type": "battle",
-    "culturalSphere": [
-      "european"
-    ],
-    "labels": {
-      "de": "Beginn des Siebenjährigen Krieges",
-      "en": "Seven Years' War Begins"
-    },
-    "description": {
-      "de": "Der Siebenjährige Krieg brach aus, der erste wirklich globale Konflikt. In Europa kämpfte Preußen unter Friedrich dem Großen gegen eine Koalition aus Österreich, Frankreich und Russland.",
-      "en": "The Seven Years' War broke out, the first truly global conflict. In Europe, Prussia under Frederick the Great fought a coalition of Austria, France, and Russia."
     }
   },
   {
@@ -61,23 +82,45 @@
     }
   },
   {
-    "id": "konbaung-dynasty-founding",
+    "id": "seven-years-war-begins",
     "coordinates": [
-      95.98,
-      21.92
+      14.42,
+      50.09
     ],
-    "year": 1752,
-    "type": "foundation",
+    "year": 1756,
+    "type": "battle",
     "culturalSphere": [
-      "burmese"
+      "european"
     ],
     "labels": {
-      "de": "Gründung der Konbaung-Dynastie",
-      "en": "Founding of the Konbaung Dynasty"
+      "de": "Beginn des Siebenjährigen Krieges",
+      "en": "Seven Years' War Begins"
     },
     "description": {
-      "de": "Alaungpaya gründete die Konbaung-Dynastie und vereinigte Myanmar erneut. Die Dynastie wurde zur letzten Herrscherdynastie Burmas.",
-      "en": "Alaungpaya founded the Konbaung dynasty and reunified Myanmar. The dynasty became the last ruling dynasty of Burma."
+      "de": "Der Siebenjährige Krieg brach aus, der erste wirklich globale Konflikt. In Europa kämpfte Preußen unter Friedrich dem Großen gegen eine Koalition aus Österreich, Frankreich und Russland.",
+      "en": "The Seven Years' War broke out, the first truly global conflict. In Europe, Prussia under Frederick the Great fought a coalition of Austria, France, and Russia."
+    }
+  },
+  {
+    "id": "seven-years-war-global",
+    "coordinates": [
+      -0.12,
+      51.51
+    ],
+    "year": 1756,
+    "type": "battle",
+    "culturalSphere": [
+      "english",
+      "french",
+      "european"
+    ],
+    "labels": {
+      "de": "Siebenjähriger Krieg – Erster Weltkrieg",
+      "en": "Seven Years' War – First World War"
+    },
+    "description": {
+      "de": "Der Siebenjährige Krieg (1756–1763) wurde auf fünf Kontinenten gleichzeitig geführt und gilt als erster globaler Konflikt. Großbritannien sicherte sich durch Siege in Nordamerika, Indien und auf See die globale maritime Vorherrschaft und die Grundlagen seines Weltreiches.",
+      "en": "The Seven Years' War (1756–1763) was fought simultaneously on five continents and is considered the first global conflict. Britain secured global maritime supremacy and the foundations of its empire through victories in North America, India, and at sea."
     }
   },
   {
@@ -98,6 +141,50 @@
     "description": {
       "de": "Robert Clive besiegt Nawab Siraj ud-Daulah bei Plassey, womit die britische Herrschaft über Bengalen und letztlich ganz Indien beginnt.",
       "en": "Robert Clive defeats Nawab Siraj ud-Daulah at Plassey, beginning British dominion over Bengal and eventually all of India."
+    }
+  },
+  {
+    "id": "battle-of-plassey-british-india",
+    "coordinates": [
+      88.24,
+      23.8
+    ],
+    "year": 1757,
+    "type": "battle",
+    "culturalSphere": [
+      "english",
+      "indian",
+      "mughal"
+    ],
+    "labels": {
+      "de": "Schlacht von Plassey – Beginn britischer Herrschaft in Indien",
+      "en": "Battle of Plassey – Beginning of British Rule in India"
+    },
+    "description": {
+      "de": "Robert Clive besiegte 1757 bei Plassey (Palashi) den Nawab von Bengalen Siraj ud-Daulah durch Verrat und militärische Überlegenheit. Der Sieg gab der Britischen Ostindien-Kompanie die Kontrolle über das reiche Bengalen und legte den Grundstein für die britische Kolonialherrschaft über Indien.",
+      "en": "Robert Clive defeated Bengal's Nawab Siraj ud-Daulah at Plassey in 1757 through betrayal and military superiority. The victory gave the British East India Company control over wealthy Bengal and laid the foundation for British colonial rule over India."
+    }
+  },
+  {
+    "id": "qing-conquest-xinjiang",
+    "coordinates": [
+      87.56,
+      43.79
+    ],
+    "year": 1759,
+    "type": "political",
+    "culturalSphere": [
+      "chinese",
+      "manchu",
+      "turkic"
+    ],
+    "labels": {
+      "de": "Qing-Conquest Xinjiangs – Ende des Dzungar-Khanats",
+      "en": "Qing Conquest of Xinjiang – End of the Dzungar Khanate"
+    },
+    "description": {
+      "de": "Kaiser Qianlongs Feldzüge (1755–1759) vernichteten das Dzungar-Khanat und annektierten das riesige Gebiet des heutigen Xinjiang ('Neue Grenze'). Dies war die letzte Expansion des Steppennomadentums, und die Qing verdoppelten dabei ihr Territorium – auf Kosten einer der schwersten demografischen Katastrophen Zentralasiens.",
+      "en": "Emperor Qianlong's campaigns (1755–1759) destroyed the Dzungar Khanate and annexed the vast territory of modern Xinjiang ('New Frontier'). This was the last confrontation with steppe nomadism, and the Qing doubled their territory – at the cost of one of Central Asia's most severe demographic catastrophes."
     }
   }
 ]

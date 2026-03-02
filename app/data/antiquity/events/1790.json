@@ -1,5 +1,46 @@
 [
   {
+    "id": "haitian-revolution",
+    "coordinates": [
+      -72.34,
+      18.54
+    ],
+    "year": 1791,
+    "type": "battle",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Haitianische Revolution",
+      "en": "Haitian Revolution"
+    },
+    "description": {
+      "de": "Versklavte Menschen auf Saint-Domingue erheben sich unter Toussaint Louverture; 1804 wird Haiti die erste freie schwarze Republik.",
+      "en": "Enslaved people on Saint-Domingue rise up under Toussaint Louverture; in 1804 Haiti becomes the first free Black republic."
+    }
+  },
+  {
+    "id": "haitian-revolution-1791",
+    "coordinates": [
+      -72.2,
+      19.75
+    ],
+    "year": 1791,
+    "type": "political",
+    "culturalSphere": [
+      "caribbean",
+      "west-african"
+    ],
+    "labels": {
+      "de": "Haitianische Revolution",
+      "en": "Haitian Revolution"
+    },
+    "description": {
+      "de": "Am 21. August 1791 erhoben sich die versklavten Menschen Saint-Domingues unter Führung von Toussaint Louverture und anderen gegen die französische Kolonialherrschaft. 1804 wurde Haiti die erste schwarze Republik der Welt – der einzige erfolgreiche Sklavenaufstand in der Geschichte, der zur Staatsgründung führte.",
+      "en": "On 21 August 1791, the enslaved people of Saint-Domingue rose up under Toussaint Louverture and others against French colonial rule. In 1804, Haiti became the first Black republic in the world – the only successful slave revolt in history that led to the founding of a state."
+    }
+  },
+  {
     "id": "execution-louis-xvi",
     "coordinates": [
       2.32,
@@ -40,23 +81,23 @@
     }
   },
   {
-    "id": "napoleons-coup",
+    "id": "white-lotus-rebellion",
     "coordinates": [
-      2.35,
-      48.86
+      108,
+      31
     ],
-    "year": 1799,
+    "year": 1796,
     "type": "political",
     "culturalSphere": [
-      "french"
+      "chinese"
     ],
     "labels": {
-      "de": "Staatsstreich Napoleons",
-      "en": "Napoleon's Coup of 18 Brumaire"
+      "de": "Aufstand der Weißen Lotusgesellschaft",
+      "en": "White Lotus Rebellion"
     },
     "description": {
-      "de": "Napoleon Bonaparte stürzte das Direktorium in einem Staatsstreich und wurde Erster Konsul Frankreichs. Der Coup beendete die Französische Revolution und leitete die napoleonische Ära ein.",
-      "en": "Napoleon Bonaparte overthrew the Directory in a coup d'etat and became First Consul of France. The coup ended the French Revolution and ushered in the Napoleonic era."
+      "de": "Der Aufstand der Weißen Lotusgesellschaft (1796–1804) in Zentralchina kostete über 100.000 Menschenleben und offenbarte die zunehmende Schwäche der Qing-Dynastie.",
+      "en": "The White Lotus Rebellion (1796–1804) in central China cost over 100,000 lives and revealed the growing weakness of the Qing dynasty."
     }
   },
   {
@@ -81,6 +122,47 @@
     }
   },
   {
+    "id": "napoleon-egypt-campaign",
+    "coordinates": [
+      31.24,
+      30.04
+    ],
+    "year": 1798,
+    "type": "political",
+    "culturalSphere": [
+      "french",
+      "egyptian"
+    ],
+    "labels": {
+      "de": "Napoleons Ägyptenfeldzug",
+      "en": "Napoleon's Egyptian Campaign"
+    },
+    "description": {
+      "de": "Napoleon Bonaparte landete 1798 mit 35.000 Soldaten in Ägypten und besiegte die Mamelucken in der Pyramidenschlacht. Obwohl militärisch gescheitert, öffnete der Feldzug durch die Mitnahme von Gelehrten den modernen Zugang zur Ägyptologie – und der Rosettastein ermöglichte die Entzifferung der Hieroglyphen.",
+      "en": "Napoleon Bonaparte landed in Egypt in 1798 with 35,000 soldiers and defeated the Mamluks at the Battle of the Pyramids. Though militarily a failure, the campaign opened modern Egyptology through accompanying scholars – and the Rosetta Stone enabled decipherment of hieroglyphics."
+    }
+  },
+  {
+    "id": "napoleons-coup",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "year": 1799,
+    "type": "political",
+    "culturalSphere": [
+      "french"
+    ],
+    "labels": {
+      "de": "Staatsstreich Napoleons",
+      "en": "Napoleon's Coup of 18 Brumaire"
+    },
+    "description": {
+      "de": "Napoleon Bonaparte stürzte das Direktorium in einem Staatsstreich und wurde Erster Konsul Frankreichs. Der Coup beendete die Französische Revolution und leitete die napoleonische Ära ein.",
+      "en": "Napoleon Bonaparte overthrew the Directory in a coup d'etat and became First Consul of France. The coup ended the French Revolution and ushered in the Napoleonic era."
+    }
+  },
+  {
     "id": "rosetta-stone-discovered",
     "coordinates": [
       30.417,
@@ -102,26 +184,6 @@
     }
   },
   {
-    "id": "white-lotus-rebellion",
-    "coordinates": [
-      108,
-      31
-    ],
-    "year": 1796,
-    "type": "political",
-    "culturalSphere": [
-      "chinese"
-    ],
-    "labels": {
-      "de": "Aufstand der Weißen Lotusgesellschaft",
-      "en": "White Lotus Rebellion"
-    },
-    "description": {
-      "de": "Der Aufstand der Weißen Lotusgesellschaft (1796–1804) in Zentralchina kostete über 100.000 Menschenleben und offenbarte die zunehmende Schwäche der Qing-Dynastie.",
-      "en": "The White Lotus Rebellion (1796–1804) in central China cost over 100,000 lives and revealed the growing weakness of the Qing dynasty."
-    }
-  },
-  {
     "id": "mysore-wars-tipu-sultan",
     "coordinates": [
       76.65,
@@ -139,26 +201,6 @@
     "description": {
       "de": "Tipu Sultan fällt bei der Verteidigung Seringapatams gegen die Briten; Mysore wird britisches Protektorat.",
       "en": "Tipu Sultan falls defending Seringapatam against the British; Mysore becomes a British protectorate."
-    }
-  },
-  {
-    "id": "haitian-revolution",
-    "coordinates": [
-      -72.34,
-      18.54
-    ],
-    "year": 1791,
-    "type": "battle",
-    "culturalSphere": [
-      "mesoamerican"
-    ],
-    "labels": {
-      "de": "Haitianische Revolution",
-      "en": "Haitian Revolution"
-    },
-    "description": {
-      "de": "Versklavte Menschen auf Saint-Domingue erheben sich unter Toussaint Louverture; 1804 wird Haiti die erste freie schwarze Republik.",
-      "en": "Enslaved people on Saint-Domingue rise up under Toussaint Louverture; in 1804 Haiti becomes the first free Black republic."
     }
   }
 ]

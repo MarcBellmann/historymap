@@ -1,25 +1,5 @@
 [
   {
-    "id": "council-of-trent",
-    "coordinates": [
-      11.12,
-      46.07
-    ],
-    "year": 1545,
-    "type": "cultural",
-    "culturalSphere": [
-      "european"
-    ],
-    "labels": {
-      "de": "Konzil von Trient",
-      "en": "Council of Trent"
-    },
-    "description": {
-      "de": "Das Konzil von Trient eröffnete die katholische Gegenreformation. In 18 Jahren Beratung wurden die katholische Lehre präzisiert und umfassende Kirchenreformen beschlossen.",
-      "en": "The Council of Trent launched the Catholic Counter-Reformation. Over 18 years of deliberation, Catholic doctrine was clarified and comprehensive church reforms were enacted."
-    }
-  },
-  {
     "id": "arrival-of-portuguese-japan",
     "coordinates": [
       130.73,
@@ -40,6 +20,47 @@
     }
   },
   {
+    "id": "copernicus-de-revolutionibus",
+    "coordinates": [
+      19.68,
+      54.36
+    ],
+    "year": 1543,
+    "type": "cultural",
+    "culturalSphere": [
+      "european",
+      "polish"
+    ],
+    "labels": {
+      "de": "Kopernikus – Heliozentrische Theorie",
+      "en": "Copernicus – Heliocentric Theory"
+    },
+    "description": {
+      "de": "Nikolaus Kopernikus veröffentlichte in seinem Sternjahr sein Hauptwerk 'De Revolutionibus Orbium Coelestium' aus dem Dom zu Frombork. Die Idee, dass die Sonne und nicht die Erde das Zentrum des Sonnensystems sei, leitete die Wissenschaftliche Revolution ein und erschütterte das mittelalterliche Weltbild.",
+      "en": "Nicolaus Copernicus published his landmark work 'De Revolutionibus Orbium Coelestium' from Frombork Cathedral in the year of his death. The idea that the Sun, not Earth, was the center of the solar system launched the Scientific Revolution and shattered the medieval worldview."
+    }
+  },
+  {
+    "id": "council-of-trent",
+    "coordinates": [
+      11.12,
+      46.07
+    ],
+    "year": 1545,
+    "type": "cultural",
+    "culturalSphere": [
+      "european"
+    ],
+    "labels": {
+      "de": "Konzil von Trient",
+      "en": "Council of Trent"
+    },
+    "description": {
+      "de": "Das Konzil von Trient eröffnete die katholische Gegenreformation. In 18 Jahren Beratung wurden die katholische Lehre präzisiert und umfassende Kirchenreformen beschlossen.",
+      "en": "The Council of Trent launched the Catholic Counter-Reformation. Over 18 years of deliberation, Catholic doctrine was clarified and comprehensive church reforms were enacted."
+    }
+  },
+  {
     "id": "potosi-silver-boom",
     "coordinates": [
       -65.75,
@@ -57,6 +78,68 @@
     "description": {
       "de": "Die Silbermine von Potosí wird entdeckt; sie wird zur ergiebigsten Silberquelle der Welt und treibt die globale Wirtschaft an.",
       "en": "The silver mine of Potosí is discovered; it becomes the world's most productive silver source, driving the global economy."
+    }
+  },
+  {
+    "id": "protestant-reformation-council-of-trent",
+    "coordinates": [
+      11.12,
+      46.07
+    ],
+    "year": 1545,
+    "type": "cultural",
+    "culturalSphere": [
+      "european",
+      "italian"
+    ],
+    "labels": {
+      "de": "Konzil von Trient – Gegenreformation",
+      "en": "Council of Trent – Counter-Reformation"
+    },
+    "description": {
+      "de": "Das Konzil von Trient (1545–1563) war die Antwort der katholischen Kirche auf die protestantische Reformation. Es klärte Glaubenslehren, reformierte kirchliche Missstände und stärkte die päpstliche Autorität. Die Beschlüsse prägten den Katholizismus bis ins 20. Jahrhundert und gaben der Gegenreformation ihren ideologischen Rahmen.",
+      "en": "The Council of Trent (1545–1563) was the Catholic Church's response to the Protestant Reformation. It clarified doctrine, reformed ecclesiastical abuses, and strengthened papal authority. Its decrees shaped Catholicism until the 20th century and gave the Counter-Reformation its ideological framework."
+    }
+  },
+  {
+    "id": "ivan-the-terrible-first-tsar",
+    "coordinates": [
+      37.62,
+      55.75
+    ],
+    "year": 1547,
+    "type": "political",
+    "culturalSphere": [
+      "russian"
+    ],
+    "labels": {
+      "de": "Iwan der Schreckliche – Erster Zar Russlands",
+      "en": "Ivan the Terrible – First Tsar of Russia"
+    },
+    "description": {
+      "de": "Iwan IV. ließ sich am 16. Januar 1547 in der Mariä-Entschlafens-Kathedrale im Moskauer Kreml zum ersten Zaren aller Russen krönen. Der Titel, abgeleitet vom lateinischen 'Caesar', signalisierte Russlands Anspruch auf imperiale Würde und Legitimität nach dem Fall Konstantinopels.",
+      "en": "Ivan IV was crowned the first Tsar of All Russia on 16 January 1547 at the Cathedral of the Dormition in the Moscow Kremlin. The title, derived from the Latin 'Caesar,' signaled Russia's claim to imperial dignity and legitimacy following the fall of Constantinople."
+    }
+  },
+  {
+    "id": "portuguese-colonization-brazil",
+    "coordinates": [
+      -38.5,
+      -12.97
+    ],
+    "year": 1549,
+    "type": "foundation",
+    "culturalSphere": [
+      "portuguese",
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Gründung von Salvador – Erste Hauptstadt Brasiliens",
+      "en": "Founding of Salvador – First Capital of Brazil"
+    },
+    "description": {
+      "de": "Tomé de Sousa gründete 1549 Salvador da Bahia als erste Hauptstadt der portugiesischen Kolonie Brasilien. Die Stadt wurde zum Zentrum des transatlantischen Sklavenhandels; Millionen von Afrikanern wurden durch den Hafen von Salvador verschleppt, was die kulturelle DNA Brasiliens bis heute prägt.",
+      "en": "Tomé de Sousa founded Salvador da Bahia in 1549 as the first capital of Portuguese Brazil. The city became a hub of the transatlantic slave trade; millions of Africans were trafficked through Salvador's port, shaping Brazil's cultural DNA to this day."
     }
   }
 ]

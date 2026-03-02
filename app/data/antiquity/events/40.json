@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "caligula-assassination",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "year": 41,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Ermordung des Caligula",
+      "en": "Assassination of Caligula"
+    },
+    "description": {
+      "de": "Kaiser Gaius Caesar — bekannt als Caligula — wurde von Angehörigen seiner eigenen Prätorianergarde ermordet, nachdem sein Regime von Willkür, Grausamkeit und Verschwendung geprägt war. Die Ermordung und die chaotische Ernennung seines Onkels Claudius zum Nachfolger enthüllten die faktische Macht der Leibwache über die Kaiserwahl.",
+      "en": "Emperor Gaius Caesar — known as Caligula — was assassinated by members of his own Praetorian Guard after his regime was marked by arbitrary cruelty and extravagance. The murder and the chaotic appointment of his uncle Claudius as successor revealed the Praetorian Guard's effective power over imperial succession."
+    }
+  },
+  {
+    "id": "roman-conquest-britannia",
+    "coordinates": [
+      -0.12,
+      51.51
+    ],
+    "year": 43,
+    "type": "political",
+    "culturalSphere": [
+      "roman",
+      "celtic"
+    ],
+    "labels": {
+      "de": "Römische Invasion Britanniens",
+      "en": "Roman Invasion of Britain"
+    },
+    "description": {
+      "de": "Kaiser Claudius befahl die Invasion der britischen Inseln, und vier Legionen setzten nach Britannien über. Innerhalb weniger Jahrzehnte kontrollierten die Römer den größten Teil des heutigen England und Wales und gründeten London (Londinium) als Verwaltungszentrum.",
+      "en": "Emperor Claudius ordered the invasion of the British Isles, and four legions crossed over to Britain. Within a few decades, the Romans controlled most of modern England and Wales and founded London (Londinium) as an administrative center."
+    }
+  }
+]

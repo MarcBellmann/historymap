@@ -1,5 +1,66 @@
 [
   {
+    "id": "solomonic-dynasty-restored",
+    "coordinates": [
+      39.47,
+      11.6
+    ],
+    "year": 1270,
+    "type": "political",
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Wiederherstellung der Solomonischen Dynastie",
+      "en": "Solomonic Dynasty Restored"
+    },
+    "description": {
+      "de": "Yekuno Amlak stürzt die Zagwe und begründet die Solomonische Dynastie, die Äthiopien bis 1974 regieren wird.",
+      "en": "Yekuno Amlak overthrows the Zagwe and founds the Solomonic dynasty, which will rule Ethiopia until 1974."
+    }
+  },
+  {
+    "id": "rise-of-axum-christianity",
+    "coordinates": [
+      38.73,
+      14.13
+    ],
+    "year": 1270,
+    "type": "political",
+    "culturalSphere": [
+      "ethiopian"
+    ],
+    "labels": {
+      "de": "Wiederherstellung der Salomonischen Dynastie in Äthiopien",
+      "en": "Restoration of the Solomonic Dynasty in Ethiopia"
+    },
+    "description": {
+      "de": "Yekuno Amlak stellte 1270 die Salomonische Dynastie in Äthiopien wieder her und beendete die Herrschaft der Zagwe-Dynastie. Die neue Herrscherfamilie berief sich auf direkten Abstammung von Salomo und der Königin von Saba und festigte das orthodoxe Christentum als Staatsreligion.",
+      "en": "Yekuno Amlak restored the Solomonic dynasty in Ethiopia in 1270, ending the Zagwe dynasty's rule. The new ruling family claimed direct descent from Solomon and the Queen of Sheba and consolidated Orthodox Christianity as the state religion."
+    }
+  },
+  {
+    "id": "kublai-khan-yuan-dynasty-founded",
+    "coordinates": [
+      116.39,
+      39.93
+    ],
+    "year": 1271,
+    "type": "foundation",
+    "culturalSphere": [
+      "mongol",
+      "chinese"
+    ],
+    "labels": {
+      "de": "Kublai Khan gründet die Yuan-Dynastie",
+      "en": "Kublai Khan Founds the Yuan Dynasty"
+    },
+    "description": {
+      "de": "Kublai Khan rief 1271 die Yuan-Dynastie aus und machm damit erstmals einen nicht-chinesischen Herrscher zum Kaiser von ganz China. Als erstes fremdes Herrscherhaus über ganz China verband die Yuan-Dynastie die Steppenwelt der Mongolen mit der Hochkultur Chinas.",
+      "en": "Kublai Khan proclaimed the Yuan dynasty in 1271, making a non-Chinese ruler emperor of all China for the first time. As the first foreign ruling house over all of China, the Yuan dynasty connected the Mongol steppe world with Chinese high culture."
+    }
+  },
+  {
     "id": "mongol-invasion-japan-1274",
     "coordinates": [
       130.38,
@@ -21,6 +82,28 @@
     }
   },
   {
+    "id": "marco-polo-china",
+    "coordinates": [
+      116.39,
+      39.93
+    ],
+    "year": 1275,
+    "type": "cultural",
+    "culturalSphere": [
+      "mongol",
+      "chinese",
+      "italian"
+    ],
+    "labels": {
+      "de": "Marco Polo am Hof Kublai Khans",
+      "en": "Marco Polo at the Court of Kublai Khan"
+    },
+    "description": {
+      "de": "Marco Polo erreichte 1275 den Hof Kublai Khans in Peking und verbrachte fast zwei Jahrzehnte im Dienst des Mongolenkaisers. Seine späteren Reiseberichte vermittelten Europa ein lebhaftes Bild Asiens und inspirierten Generationen von Entdeckern, darunter Christoph Kolumbus.",
+      "en": "Marco Polo reached the court of Kublai Khan in Beijing in 1275 and spent nearly two decades in service to the Mongol emperor. His later travel accounts gave Europe a vivid picture of Asia and inspired generations of explorers, including Christopher Columbus."
+    }
+  },
+  {
     "id": "mongol-conquest-song-1279",
     "coordinates": [
       113.08,
@@ -39,26 +122,6 @@
     "description": {
       "de": "Die mongolische Flotte vernichtete die letzte Song-Flotte in der Schlacht von Yamen. Ganz China fiel unter mongolische Herrschaft der Yuan-Dynastie.",
       "en": "The Mongol fleet destroyed the last Song fleet at the Battle of Yamen. All of China fell under Mongol rule of the Yuan dynasty."
-    }
-  },
-  {
-    "id": "solomonic-dynasty-restored",
-    "coordinates": [
-      39.47,
-      11.6
-    ],
-    "year": 1270,
-    "type": "political",
-    "culturalSphere": [
-      "ethiopian"
-    ],
-    "labels": {
-      "de": "Wiederherstellung der Solomonischen Dynastie",
-      "en": "Solomonic Dynasty Restored"
-    },
-    "description": {
-      "de": "Yekuno Amlak stürzt die Zagwe und begründet die Solomonische Dynastie, die Äthiopien bis 1974 regieren wird.",
-      "en": "Yekuno Amlak overthrows the Zagwe and founds the Solomonic dynasty, which will rule Ethiopia until 1974."
     }
   }
 ]

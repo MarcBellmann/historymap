@@ -1,5 +1,25 @@
 [
   {
+    "id": "late-roman-mishnah-compiled",
+    "coordinates": [
+      35.3,
+      32.71
+    ],
+    "year": 200,
+    "type": "cultural",
+    "culturalSphere": [
+      "jewish"
+    ],
+    "labels": {
+      "de": "Zusammenstellung der Mischna",
+      "en": "Compilation of the Mishnah"
+    },
+    "description": {
+      "de": "Rabbi Judah haNasi kodifizierte die mündliche jüdische Gesetzestradition in der Mischna, dem grundlegenden Dokument des rabbinischen Judentums. Diese systematische Zusammenstellung der Halachah legte das Fundament für den späteren Talmud und sicherte das Überleben jüdischer Rechtstraditionen nach der Zerstörung des Tempels.",
+      "en": "Rabbi Judah haNasi codified the oral Jewish legal tradition in the Mishnah, the foundational document of rabbinic Judaism. This systematic compilation of Halachah laid the foundation for the later Talmud and ensured the survival of Jewish legal traditions after the destruction of the Temple."
+    }
+  },
+  {
     "id": "battle-of-red-cliffs",
     "coordinates": [
       113.75,

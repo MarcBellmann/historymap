@@ -18,5 +18,26 @@
       "de": "König Ezana von Aksum konvertiert zum Christentum und macht es zur Staatsreligion — eines der ersten christlichen Königreiche der Welt.",
       "en": "King Ezana of Aksum converts to Christianity and makes it the state religion — one of the first Christian kingdoms in the world."
     }
+  },
+  {
+    "id": "founding-constantinople",
+    "coordinates": [
+      28.97,
+      41.01
+    ],
+    "year": 330,
+    "type": "foundation",
+    "culturalSphere": [
+      "roman",
+      "greek"
+    ],
+    "labels": {
+      "de": "Gründung von Konstantinopel",
+      "en": "Founding of Constantinople"
+    },
+    "description": {
+      "de": "Kaiser Konstantin weihte am 11. Mai 330 n. Chr. seine neue Hauptstadt Konstantinopel, das alte Byzanz, ein. Die strategisch günstige Lage am Bosporus machte die Stadt zur mächtigsten Metropole des Mittelalters und zum Zentrum der oströmischen Zivilisation für über tausend Jahre.",
+      "en": "Emperor Constantine inaugurated his new capital Constantinople, the ancient Byzantium, on 11 May 330 AD. Its strategic location at the Bosphorus made the city the most powerful metropolis of the Middle Ages and the center of Eastern Roman civilization for over a thousand years."
+    }
   }
 ]

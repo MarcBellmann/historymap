@@ -60,5 +60,26 @@
       "de": "Sultan Ala ud-Din Khilji expandiert das Sultanat von Delhi bis nach Südindien und wehrt mongolische Invasionen ab.",
       "en": "Sultan Alauddin Khilji expands the Delhi Sultanate into southern India and repels Mongol invasions."
     }
+  },
+  {
+    "id": "ottoman-founding-1299",
+    "coordinates": [
+      30.52,
+      40.02
+    ],
+    "year": 1299,
+    "type": "foundation",
+    "culturalSphere": [
+      "ottoman",
+      "turkic"
+    ],
+    "labels": {
+      "de": "Gründung des Osmanischen Reiches durch Osman I.",
+      "en": "Ottoman Empire Founded by Osman I"
+    },
+    "description": {
+      "de": "Osman I. erklärte sich zum unabhängigen Herrscher einer turkmenischen Gemeinschaft in Nordwestanatolien und legte damit den Grundstein für das Osmanische Reich. Aus diesem kleinen Ghazi-Fürstentum entstand im Laufe von zwei Jahrhunderten das mächtigste islamische Reich des Mittelmeerraums.",
+      "en": "Osman I declared himself independent ruler of a Turkmen community in northwestern Anatolia, laying the foundation for the Ottoman Empire. From this small ghazi principality, the most powerful Islamic empire of the Mediterranean developed over two centuries."
+    }
   }
 ]

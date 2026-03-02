@@ -1,5 +1,47 @@
 [
   {
+    "id": "nara-capital-japan",
+    "coordinates": [
+      135.83,
+      34.68
+    ],
+    "year": 710,
+    "type": "foundation",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Nara wird Japans Hauptstadt",
+      "en": "Nara Becomes Japan's Capital"
+    },
+    "description": {
+      "de": "Die Verlegung der japanischen Hauptstadt nach Nara leitete eine Blütezeit buddhistischer Kunst und Kultur ein. Die Stadt wurde nach dem Vorbild der Tang-Hauptstadt Chang'an angelegt.",
+      "en": "The relocation of Japan's capital to Nara ushered in a golden age of Buddhist art and culture. The city was modeled after the Tang capital Chang'an."
+    }
+  },
+  {
+    "id": "spread-of-islam-central-asia",
+    "coordinates": [
+      69.28,
+      41.3
+    ],
+    "year": 710,
+    "type": "cultural",
+    "culturalSphere": [
+      "islamic",
+      "central-asian",
+      "umayyad"
+    ],
+    "labels": {
+      "de": "Islamisierung Zentralasiens – Samarkand und Buchara",
+      "en": "Islamization of Central Asia – Samarkand and Bukhara"
+    },
+    "description": {
+      "de": "Unter Qutayba ibn Muslim werden die bedeutenden Handelsstädte Samarkand und Buchara arabisch-islamisch und werden zu Zentren der islamischen Wissenschaft. Die Verschmelzung von iranischer, türkischer und arabischer Kultur in Zentralasien schuf eine der reichsten Zivilisationen der mittelalterlichen Welt.",
+      "en": "Under Qutayba ibn Muslim, the great trading cities of Samarkand and Bukhara become Arab-Islamic and transform into centers of Islamic scholarship. The fusion of Iranian, Turkic, and Arab cultures in Central Asia created one of the richest civilizations of the medieval world."
+    }
+  },
+  {
     "id": "umayyad-conquest-of-iberia",
     "coordinates": [
       -5.99,
@@ -21,6 +63,26 @@
     }
   },
   {
+    "id": "arab-conquest-of-sindh",
+    "coordinates": [
+      68.37,
+      25.37
+    ],
+    "year": 711,
+    "type": "battle",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Arabische Eroberung von Sindh",
+      "en": "Arab Conquest of Sindh"
+    },
+    "description": {
+      "de": "Muhammad ibn Qasim erobert Sindh für das Umayyaden-Kalifat — der erste dauerhafte muslimische Vorstoß auf den indischen Subkontinent.",
+      "en": "Muhammad ibn Qasim conquers Sindh for the Umayyad Caliphate — the first permanent Muslim foothold on the Indian subcontinent."
+    }
+  },
+  {
     "id": "umayyad-great-mosque-damascus",
     "coordinates": [
       36.307,
@@ -39,46 +101,6 @@
     "description": {
       "de": "Kalif al-Walid I. vollendet die Umayyaden-Moschee in Damaskus, eines der ältesten und prächtigsten Gotteshäuser des Islam, errichtet auf dem Gelände einer römischen Basilika.",
       "en": "Caliph al-Walid I completes the Umayyad Great Mosque of Damascus, one of Islam's oldest and grandest houses of worship, built on the site of a Roman basilica."
-    }
-  },
-  {
-    "id": "nara-capital-japan",
-    "coordinates": [
-      135.83,
-      34.68
-    ],
-    "year": 710,
-    "type": "foundation",
-    "culturalSphere": [
-      "japanese"
-    ],
-    "labels": {
-      "de": "Nara wird Japans Hauptstadt",
-      "en": "Nara Becomes Japan's Capital"
-    },
-    "description": {
-      "de": "Die Verlegung der japanischen Hauptstadt nach Nara leitete eine Blütezeit buddhistischer Kunst und Kultur ein. Die Stadt wurde nach dem Vorbild der Tang-Hauptstadt Chang'an angelegt.",
-      "en": "The relocation of Japan's capital to Nara ushered in a golden age of Buddhist art and culture. The city was modeled after the Tang capital Chang'an."
-    }
-  },
-  {
-    "id": "arab-conquest-of-sindh",
-    "coordinates": [
-      68.37,
-      25.37
-    ],
-    "year": 711,
-    "type": "battle",
-    "culturalSphere": [
-      "indian"
-    ],
-    "labels": {
-      "de": "Arabische Eroberung von Sindh",
-      "en": "Arab Conquest of Sindh"
-    },
-    "description": {
-      "de": "Muhammad ibn Qasim erobert Sindh für das Umayyaden-Kalifat — der erste dauerhafte muslimische Vorstoß auf den indischen Subkontinent.",
-      "en": "Muhammad ibn Qasim conquers Sindh for the Umayyad Caliphate — the first permanent Muslim foothold on the Indian subcontinent."
     }
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "portuguese-exploration-africa-coast",
+    "coordinates": [
+      13.41,
+      -8.84
+    ],
+    "year": 1483,
+    "type": "cultural",
+    "culturalSphere": [
+      "portuguese"
+    ],
+    "labels": {
+      "de": "Diogo Cão erkundet Kongomündung",
+      "en": "Diogo Cão Explores the Congo River Mouth"
+    },
+    "description": {
+      "de": "Der portugiesische Seefahrer Diogo Cão erreichte 1483 die Mündung des Kongoflusses und nahm ersten Kontakt mit dem mächtigen Königreich Kongo auf. Diese Reise eröffnete die portugiesische Präsenz in Zentralafrika und legte den Grundstein für jahrhundertelange Handels- und Kolonialbeziehungen.",
+      "en": "Portuguese navigator Diogo Cão reached the mouth of the Congo River in 1483 and made first contact with the powerful Kingdom of Kongo. This voyage opened Portuguese presence in Central Africa and laid the foundation for centuries of commercial and colonial relations."
+    }
+  },
+  {
     "id": "battle-of-bosworth-field",
     "coordinates": [
       -1.4,

@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "islamic-golden-age-mathematics",
+    "coordinates": [
+      44.36,
+      33.34
+    ],
+    "year": 820,
+    "type": "cultural",
+    "culturalSphere": [
+      "islamic",
+      "abbasid"
+    ],
+    "labels": {
+      "de": "Al-Khwarizmi und die Algebra",
+      "en": "Al-Khwarizmi and the Birth of Algebra"
+    },
+    "description": {
+      "de": "Der persische Mathematiker al-Khwarizmi legt in Bagdad mit seinem Werk Kitab al-mukhtasar fi hisab al-jabr die Grundlagen der Algebra. Sein Name lebt im Wort 'Algorithmus' fort, und sein Werk revolutionierte Mathematik, Astronomie und Handel weltweit.",
+      "en": "Persian mathematician al-Khwarizmi lays the foundations of algebra in Baghdad with his work Kitab al-mukhtasar fi hisab al-jabr. His name lives on in the word 'algorithm,' and his work revolutionized mathematics, astronomy, and commerce worldwide."
+    }
+  }
+]

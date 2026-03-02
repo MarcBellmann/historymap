@@ -18,5 +18,25 @@
       "de": "Eine verheerende Seuche brach im belagerten Athen aus und tötete bis zu einem Drittel der Bevölkerung, darunter Perikles. Die Epidemie schwächte Athen entscheidend im Peloponnesischen Krieg.",
       "en": "A devastating plague broke out in besieged Athens, killing up to a third of the population, including Pericles. The epidemic critically weakened Athens during the Peloponnesian War."
     }
+  },
+  {
+    "id": "hippocrates-medicine-430bc",
+    "coordinates": [
+      27.05,
+      36.89
+    ],
+    "year": -430,
+    "type": "cultural",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Hippokrates und die Grundlagen der Medizin",
+      "en": "Hippocrates and the Foundations of Medicine"
+    },
+    "description": {
+      "de": "Hippokrates von Kos schuf durch systematische Beobachtung und rationale Analyse das Fundament der wissenschaftlichen Medizin und löste sie von religiöser Überlieferung. Der Hippokratische Eid und seine klinischen Beschreibungen sind Grundlagen der ärztlichen Berufsethik bis heute.",
+      "en": "Hippocrates of Cos established the foundation of scientific medicine through systematic observation and rational analysis, separating it from religious tradition. The Hippocratic Oath and his clinical descriptions remain pillars of medical ethics to this day."
+    }
   }
 ]

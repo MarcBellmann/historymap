@@ -1,5 +1,25 @@
 [
   {
+    "id": "ashurnasirpal-ii-assyrian-king",
+    "coordinates": [
+      43.33,
+      35.93
+    ],
+    "year": -884,
+    "type": "political",
+    "culturalSphere": [
+      "assyrian"
+    ],
+    "labels": {
+      "de": "Ashurnasirpal II. — Neuassyrische Expansion",
+      "en": "Ashurnasirpal II — Neo-Assyrian Expansion"
+    },
+    "description": {
+      "de": "König Ashurnasirpal II. verlegte die assyrische Hauptstadt nach Kalhu (Nimrud) und baute ein prächtiges Palastanlage. Durch gewaltsame Feldzüge und den Einsatz psychologischer Kriegsführung — Massendeportationen und öffentliche Hinrichtungen — schuf er das erste Weltreich der Geschichte.",
+      "en": "King Ashurnasirpal II moved the Assyrian capital to Kalhu (Nimrud) and built a magnificent palace complex. Through violent campaigns and psychological warfare — mass deportations and public executions — he created history's first true world empire."
+    }
+  },
+  {
     "id": "assyrian-empire-expansion",
     "coordinates": [
       43.153,

@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "christian-conversion-serbia-moravia",
+    "coordinates": [
+      16.6,
+      49.2
+    ],
+    "year": 863,
+    "type": "cultural",
+    "culturalSphere": [
+      "slavic",
+      "byzantine"
+    ],
+    "labels": {
+      "de": "Christianisierung der Mährischen Slawen – Kyrill und Method",
+      "en": "Christianization of Moravia – Cyril and Methodius"
+    },
+    "description": {
+      "de": "Die byzantinischen Missionare Kyrill und Method entwickeln das glagolitische Alphabet und übersetzen die Bibel ins Altkirchenslawische, um die Mähren in ihrer eigenen Sprache zu evangelisieren. Das kyrillische Schriftsystem, das daraus hervorgeht, prägt bis heute Sprachen von Russisch bis Bulgarisch.",
+      "en": "Byzantine missionaries Cyril and Methodius create the Glagolitic alphabet and translate the Bible into Old Church Slavonic to evangelize the Moravians in their own language. The Cyrillic script system that emerges from this shapes languages from Russian to Bulgarian to this day."
+    }
+  },
+  {
+    "id": "introduction-of-block-printing-china",
+    "coordinates": [
+      104.07,
+      30.67
+    ],
+    "year": 868,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese",
+      "tang"
+    ],
+    "labels": {
+      "de": "Ältestes gedrucktes Buch der Welt",
+      "en": "World's Oldest Printed Book"
+    },
+    "description": {
+      "de": "Das Diamond Sutra, gedruckt 868 in China, ist das älteste bekannte vollständig datierte Druckwerk der Welt. Der Holzblockdruck, schon früher in China entwickelt, revolutionierte die Verbreitung buddhistischer Texte und leitete das Informationszeitalter Ostasiens ein.",
+      "en": "The Diamond Sutra, printed in 868 in China, is the oldest known fully dated printed book in the world. Woodblock printing, developed earlier in China, revolutionized the spread of Buddhist texts and initiated East Asia's information age."
+    }
+  }
+]

@@ -21,6 +21,27 @@
     }
   },
   {
+    "id": "khmer-angkor-decline",
+    "coordinates": [
+      103.86,
+      13.41
+    ],
+    "year": 1431,
+    "type": "political",
+    "culturalSphere": [
+      "khmer",
+      "southeast-asian"
+    ],
+    "labels": {
+      "de": "Aufgabe Angkors – Ende des Khmer-Reiches",
+      "en": "Abandonment of Angkor – End of the Khmer Empire"
+    },
+    "description": {
+      "de": "1431 wurde Angkor nach einer langen Belagerung durch das Königreich Ayutthaya geplündert und aufgegeben. Das Khmer-Reich, das jahrhundertelang Südostasien dominiert hatte, verlegte seine Hauptstadt nach Phnom Penh. Der Niedergang ist auch mit Klimawandel und dem Zusammenbruch des komplexen Bewässerungssystems verbunden.",
+      "en": "In 1431, Angkor was sacked and abandoned following a prolonged siege by the Kingdom of Ayutthaya. The Khmer Empire, which had dominated Southeast Asia for centuries, relocated its capital to Phnom Penh. The decline is also linked to climate change and the collapse of the complex irrigation system."
+    }
+  },
+  {
     "id": "inca-expansion-pachacuti",
     "coordinates": [
       -71.97,

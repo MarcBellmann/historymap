@@ -1,5 +1,25 @@
 [
   {
+    "id": "benin-kingdom-bronze-art",
+    "coordinates": [
+      5.63,
+      6.34
+    ],
+    "year": 1550,
+    "type": "cultural",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Benin-Königreich – Blütezeit der Bronzekunst",
+      "en": "Kingdom of Benin – Peak of Bronze Art"
+    },
+    "description": {
+      "de": "Unter den Obas des 15. und 16. Jahrhunderts, besonders Oba Esigie (ab ca. 1504), erreichte das Königreich Benin seine politische und künstlerische Hochphase. Die berühmten Benin-Bronzen – kunstvolle Reliefs und Skulpturen für die Ahnensaltar der Könige – zeugen von höchster Metallgußtechnik und einer reichen Hofkultur.",
+      "en": "Under the Obas of the 15th and 16th centuries, especially Oba Esigie (from c. 1504), the Kingdom of Benin reached its political and artistic peak. The famous Benin Bronzes – elaborate reliefs and sculptures for the royal ancestral altars – demonstrate supreme casting technique and a rich court culture."
+    }
+  },
+  {
     "id": "mapuche-resistance-spain",
     "coordinates": [
       -73.05,
@@ -17,6 +37,27 @@
     "description": {
       "de": "Lautaro führt die Mapuche in der Schlacht von Tucapel zum Sieg über die Spanier — der Beginn eines jahrhundertelangen Widerstands.",
       "en": "Lautaro leads the Mapuche to victory over the Spanish at the Battle of Tucapel — beginning centuries of resistance."
+    }
+  },
+  {
+    "id": "akbar-the-great-coronation",
+    "coordinates": [
+      77.01,
+      27.18
+    ],
+    "year": 1556,
+    "type": "political",
+    "culturalSphere": [
+      "mughal",
+      "indian"
+    ],
+    "labels": {
+      "de": "Akbar der Große – Krönungsjahr",
+      "en": "Akbar the Great – Accession to Power"
+    },
+    "description": {
+      "de": "Akbar bestieg 1556 im Alter von 13 Jahren den Mogulthron und regierte bis 1605. Unter ihm erlebte das Mogulreich seine Blütezeit: Er schaffte die Kopfsteuer für Nicht-Muslime ab, förderte religionsübergreifenden Dialog in seinem Ibadat Khana und schuf das synkretische Din-i-Ilahi.",
+      "en": "Akbar ascended the Mughal throne in 1556 at age 13 and ruled until 1605. Under him, the Mughal Empire reached its cultural peak: he abolished the jizya tax on non-Muslims, promoted interfaith dialogue in his Ibadat Khana, and created the syncretic Din-i-Ilahi faith."
     }
   }
 ]

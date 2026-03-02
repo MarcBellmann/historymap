@@ -1,46 +1,5 @@
 [
   {
-    "id": "industrial-revolution-britain",
-    "coordinates": [
-      -2.24,
-      53.48
-    ],
-    "year": 1769,
-    "type": "cultural",
-    "culturalSphere": [
-      "english"
-    ],
-    "labels": {
-      "de": "Industrielle Revolution",
-      "en": "Industrial Revolution"
-    },
-    "description": {
-      "de": "James Watts verbesserte Dampfmaschine revolutionierte die Produktion in Großbritannien. Die Industrialisierung, ausgehend von Manchester und den Midlands, veränderte Wirtschaft und Gesellschaft weltweit.",
-      "en": "James Watt's improved steam engine revolutionized production in Britain. The industrialization, starting from Manchester and the Midlands, transformed the economy and society worldwide."
-    }
-  },
-  {
-    "id": "fall-of-ayutthaya",
-    "coordinates": [
-      100.59,
-      14.35
-    ],
-    "year": 1767,
-    "type": "battle",
-    "culturalSphere": [
-      "thai",
-      "burmese"
-    ],
-    "labels": {
-      "de": "Zerstörung von Ayutthaya",
-      "en": "Destruction of Ayutthaya"
-    },
-    "description": {
-      "de": "Birmanische Truppen der Konbaung-Dynastie eroberten und zerstörten Ayutthaya nach 14-monatiger Belagerung und beendeten das 417 Jahre alte Königreich.",
-      "en": "Burmese troops of the Konbaung dynasty captured and destroyed Ayutthaya after a 14-month siege, ending the 417-year-old kingdom."
-    }
-  },
-  {
     "id": "third-battle-of-panipat",
     "coordinates": [
       76.97,
@@ -79,6 +38,90 @@
     "description": {
       "de": "Die Britische Ostindien-Kompanie besiegt die vereinten Kräfte des Mogulkaisers, des Nawab von Oudh und des Nawab von Bengalen.",
       "en": "The British East India Company defeats the combined forces of the Mughal emperor, Nawab of Oudh, and Nawab of Bengal."
+    }
+  },
+  {
+    "id": "mughal-battle-of-buxar",
+    "coordinates": [
+      83.98,
+      25.56
+    ],
+    "year": 1764,
+    "type": "battle",
+    "culturalSphere": [
+      "english",
+      "mughal",
+      "indian"
+    ],
+    "labels": {
+      "de": "Schlacht bei Buxar – Britische Vorherrschaft in Indien",
+      "en": "Battle of Buxar – British Supremacy in India"
+    },
+    "description": {
+      "de": "In der Entscheidungsschlacht bei Buxar 1764 besiegten britische Truppen unter Hector Munro die vereinten Streitkräfte des Mogulkaisers, des Nawab von Bengalen und des Nawab von Awadh. Der Sieg gab Großbritannien die Diwani-Rechte – die finanzielle Kontrolle über Bengalen und Bihar.",
+      "en": "In the decisive Battle of Buxar in 1764, British troops under Hector Munro defeated the combined forces of the Mughal Emperor, the Nawab of Bengal, and the Nawab of Awadh. The victory gave Britain the Diwani rights – financial control over Bengal and Bihar."
+    }
+  },
+  {
+    "id": "fall-of-ayutthaya",
+    "coordinates": [
+      100.59,
+      14.35
+    ],
+    "year": 1767,
+    "type": "battle",
+    "culturalSphere": [
+      "thai",
+      "burmese"
+    ],
+    "labels": {
+      "de": "Zerstörung von Ayutthaya",
+      "en": "Destruction of Ayutthaya"
+    },
+    "description": {
+      "de": "Birmanische Truppen der Konbaung-Dynastie eroberten und zerstörten Ayutthaya nach 14-monatiger Belagerung und beendeten das 417 Jahre alte Königreich.",
+      "en": "Burmese troops of the Konbaung dynasty captured and destroyed Ayutthaya after a 14-month siege, ending the 417-year-old kingdom."
+    }
+  },
+  {
+    "id": "industrial-revolution-britain",
+    "coordinates": [
+      -2.24,
+      53.48
+    ],
+    "year": 1769,
+    "type": "cultural",
+    "culturalSphere": [
+      "english"
+    ],
+    "labels": {
+      "de": "Industrielle Revolution",
+      "en": "Industrial Revolution"
+    },
+    "description": {
+      "de": "James Watts verbesserte Dampfmaschine revolutionierte die Produktion in Großbritannien. Die Industrialisierung, ausgehend von Manchester und den Midlands, veränderte Wirtschaft und Gesellschaft weltweit.",
+      "en": "James Watt's improved steam engine revolutionized production in Britain. The industrialization, starting from Manchester and the Midlands, transformed the economy and society worldwide."
+    }
+  },
+  {
+    "id": "industrial-revolution-steam-engine",
+    "coordinates": [
+      -1.9,
+      52.48
+    ],
+    "year": 1769,
+    "type": "cultural",
+    "culturalSphere": [
+      "english",
+      "european"
+    ],
+    "labels": {
+      "de": "James Watt – Dampfmaschine und Industrielle Revolution",
+      "en": "James Watt – Steam Engine and Industrial Revolution"
+    },
+    "description": {
+      "de": "James Watt patentierte 1769 seine verbesserte Dampfmaschine in Birmingham, die die Industrielle Revolution antrieb. Diese Erfindung transformierte die Produktion, revolutionierte den Transport und verlagerte wirtschaftliche Macht – mit tiefgreifenden sozialen Konsequenzen für Arbeit und städtisches Leben.",
+      "en": "James Watt patented his improved steam engine in Birmingham in 1769, powering the Industrial Revolution. This invention transformed production, revolutionized transport, and shifted economic power – with profound social consequences for labor and urban life."
     }
   }
 ]

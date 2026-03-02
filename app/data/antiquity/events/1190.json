@@ -20,6 +20,48 @@
     }
   },
   {
+    "id": "third-crusade-siege-of-acre",
+    "coordinates": [
+      35.07,
+      32.93
+    ],
+    "year": 1191,
+    "type": "battle",
+    "culturalSphere": [
+      "crusader",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Dritter Kreuzzug – Belagerung von Akkon",
+      "en": "Third Crusade – Siege of Acre"
+    },
+    "description": {
+      "de": "König Richard I. von England eroberte Akkon am 12. Juli 1191 und stellte damit die wichtigste Küstenstadt im Heiligen Land zurück unter christliche Kontrolle. Der Fall Akkons war der bedeutendste Erfolg des Dritten Kreuzzugs.",
+      "en": "King Richard I of England captured Acre on 12 July 1191, restoring the most important coastal city in the Holy Land to Christian control. The fall of Acre was the most significant achievement of the Third Crusade."
+    }
+  },
+  {
+    "id": "battle-of-arsuf",
+    "coordinates": [
+      34.9,
+      32.17
+    ],
+    "year": 1191,
+    "type": "battle",
+    "culturalSphere": [
+      "crusader",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Schlacht bei Arsuf",
+      "en": "Battle of Arsuf"
+    },
+    "description": {
+      "de": "König Richard I. besiegte Saladin in der einzigen offenen Feldschlacht des Dritten Kreuzzugs bei Arsuf. Richards Fähigkeit, seine Infanterie gegen die muslimischen Kavallerieattacken zu halten, galt als meisterhaftes Beispiel mittelalterlicher Kriegsführung.",
+      "en": "King Richard I defeated Saladin at Arsuf in the only open pitched battle of the Third Crusade. Richard's ability to hold his infantry steady against Muslim cavalry attacks was regarded as a masterful example of medieval warfare."
+    }
+  },
+  {
     "id": "second-battle-of-tarain",
     "coordinates": [
       76.92,

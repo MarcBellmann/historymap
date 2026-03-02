@@ -1,5 +1,25 @@
 [
   {
+    "id": "ibn-battuta-visits-delhi",
+    "coordinates": [
+      77.23,
+      28.61
+    ],
+    "year": 1334,
+    "type": "cultural",
+    "culturalSphere": [
+      "indian"
+    ],
+    "labels": {
+      "de": "Ibn Battuta besucht Delhi",
+      "en": "Ibn Battuta Visits Delhi"
+    },
+    "description": {
+      "de": "Der Reisende Ibn Battuta erreicht Delhi und dient Sultan Muhammad bin Tughluq acht Jahre lang als Richter.",
+      "en": "The traveler Ibn Battuta reaches Delhi and serves Sultan Muhammad bin Tughluq as a judge for eight years."
+    }
+  },
+  {
     "id": "vijayanagara-founded",
     "coordinates": [
       76.46,
@@ -20,23 +40,24 @@
     }
   },
   {
-    "id": "ibn-battuta-visits-delhi",
+    "id": "hundred-years-war-begins",
     "coordinates": [
-      77.23,
-      28.61
+      2.35,
+      48.85
     ],
-    "year": 1334,
-    "type": "cultural",
+    "year": 1337,
+    "type": "political",
     "culturalSphere": [
-      "indian"
+      "french",
+      "english"
     ],
     "labels": {
-      "de": "Ibn Battuta besucht Delhi",
-      "en": "Ibn Battuta Visits Delhi"
+      "de": "Beginn des Hundertjährigen Krieges",
+      "en": "Beginning of the Hundred Years' War"
     },
     "description": {
-      "de": "Der Reisende Ibn Battuta erreicht Delhi und dient Sultan Muhammad bin Tughluq acht Jahre lang als Richter.",
-      "en": "The traveler Ibn Battuta reaches Delhi and serves Sultan Muhammad bin Tughluq as a judge for eight years."
+      "de": "Der englische König Eduard III. beanspruchte 1337 den französischen Thron und löste damit einen über ein Jahrhundert dauernden intermittierenden Krieg zwischen England und Frankreich aus. Dieser Konflikt wurde zum Geburtsort moderner Nationen und des Nationalgefühls in beiden Ländern.",
+      "en": "English King Edward III claimed the French throne in 1337, triggering an intermittent war between England and France lasting over a century. This conflict became the birthplace of modern nationhood and national consciousness in both countries."
     }
   }
 ]

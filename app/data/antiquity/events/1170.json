@@ -19,5 +19,26 @@
       "de": "Saladin beendet das Fatimiden-Kalifat, gründet die Ayyubiden-Dynastie und vereinigt Ägypten und Syrien unter sunnitischer Herrschaft — die Grundlage für die Rückeroberung Jerusalems.",
       "en": "Saladin ends the Fatimid Caliphate, founds the Ayyubid dynasty, and unites Egypt and Syria under Sunni rule — the foundation for the reconquest of Jerusalem."
     }
+  },
+  {
+    "id": "battle-of-legnano",
+    "coordinates": [
+      8.91,
+      45.59
+    ],
+    "year": 1176,
+    "type": "battle",
+    "culturalSphere": [
+      "italian",
+      "german"
+    ],
+    "labels": {
+      "de": "Schlacht von Legnano",
+      "en": "Battle of Legnano"
+    },
+    "description": {
+      "de": "Das Städtebündnis der Lombardischen Liga besiegte Kaiser Friedrich Barbarossa bei Legnano und stoppte seinen Versuch, die Kontrolle über die norditalienischen Städte zurückzugewinnen. Der Sieg festigte die kommunale Autonomie Italiens und zwang Barbarossa, die städtischen Freiheiten anzuerkennen.",
+      "en": "The city alliance of the Lombard League defeated Emperor Frederick Barbarossa at Legnano, halting his attempt to regain control over northern Italian cities. The victory secured Italian communal autonomy and forced Barbarossa to recognize urban liberties."
+    }
   }
 ]

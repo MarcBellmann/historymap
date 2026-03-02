@@ -83,6 +83,51 @@
     }
   },
   {
+    "id": "congress-of-vienna-1815",
+    "coordinates": [
+      16.37,
+      48.21
+    ],
+    "year": 1815,
+    "type": "political",
+    "culturalSphere": [
+      "european",
+      "habsburg",
+      "russian",
+      "english",
+      "prussian"
+    ],
+    "labels": {
+      "de": "Wiener Kongress – Neuordnung Europas",
+      "en": "Congress of Vienna – Reorganization of Europe"
+    },
+    "description": {
+      "de": "Der Wiener Kongress (1814–1815) verhandelte unter Fürst Metternich die europäische Nachkriegsordnung nach Napoleons Niederlagen. Das erzielte Gleichgewicht der Mächte und das Prinzip der Legitimität bestimmten die europäische Politik für Jahrzehnte und unterdrückten nationale und liberale Bewegungen.",
+      "en": "The Congress of Vienna (1814–1815) negotiated the post-Napoleonic European order under Prince Metternich. The resulting balance of power and principle of legitimacy shaped European politics for decades and suppressed national and liberal movements."
+    }
+  },
+  {
+    "id": "jose-de-san-martin-argentina",
+    "coordinates": [
+      -68.83,
+      -32.89
+    ],
+    "year": 1817,
+    "type": "battle",
+    "culturalSphere": [
+      "andean",
+      "spanish"
+    ],
+    "labels": {
+      "de": "San Martín überquert die Anden",
+      "en": "San Martín Crosses the Andes"
+    },
+    "description": {
+      "de": "General José de San Martín führte 1817 sein Heer über die Anden und besiegte die spanischen Truppen in der Provinz Cuyo. Dieser kühne Marsch über das höchste Gebirge Südamerikas öffnete den Weg zur Befreiung Chiles und Perus und steht als militärische Meisterleistung Lateinamerikas.",
+      "en": "General José de San Martín led his army across the Andes in 1817 and defeated Spanish troops in the Cuyo region. This bold march over South America's highest mountains opened the way to the liberation of Chile and Peru, standing as a Latin American military masterpiece."
+    }
+  },
+  {
     "id": "first-saudi-state-destroyed",
     "coordinates": [
       46.571,
@@ -142,6 +187,27 @@
     "description": {
       "de": "Simón Bolívar besiegt die Spanier in der Schlacht von Boyacá und befreit Venezuela, Kolumbien und Ecuador.",
       "en": "Simón Bolívar defeats the Spanish at the Battle of Boyacá, liberating Venezuela, Colombia, and Ecuador."
+    }
+  },
+  {
+    "id": "latin-american-independence-bolivar",
+    "coordinates": [
+      -66.87,
+      10.49
+    ],
+    "year": 1819,
+    "type": "political",
+    "culturalSphere": [
+      "andean",
+      "spanish"
+    ],
+    "labels": {
+      "de": "Simón Bolívar – Lateinamerikanische Unabhängigkeit",
+      "en": "Simón Bolívar – Latin American Independence"
+    },
+    "description": {
+      "de": "Simón Bolívar führte die Befreiungskriege gegen Spanien in Südamerika an und gründete 1819 nach dem Sieg bei Boyacá Gran Colombia. Bolívar träumte von einem vereinten Lateinamerika; seine Feldzüge befreiten Venezuela, Kolumbien, Ecuador, Peru und Bolivien von der spanischen Kolonialherrschaft.",
+      "en": "Simón Bolívar led the wars of independence against Spain in South America and founded Gran Colombia in 1819 after victory at Boyacá. Bolívar dreamed of a united Latin America; his campaigns liberated Venezuela, Colombia, Ecuador, Peru, and Bolivia from Spanish colonial rule."
     }
   }
 ]

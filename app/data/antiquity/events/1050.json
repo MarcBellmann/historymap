@@ -1,5 +1,25 @@
 [
   {
+    "id": "chichen-itza-decline",
+    "coordinates": [
+      -88.57,
+      20.68
+    ],
+    "year": 1050,
+    "type": "political",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Niedergang von Chichén Itzá",
+      "en": "Decline of Chichén Itzá"
+    },
+    "description": {
+      "de": "Chichén Itzá verliert seine Vorherrschaft auf der Yucatán-Halbinsel; die Maya-Macht verlagert sich nach Mayapán.",
+      "en": "Chichén Itzá loses its dominance over the Yucatán Peninsula; Maya power shifts to Mayapán."
+    }
+  },
+  {
     "id": "great-schism",
     "coordinates": [
       28.98,
@@ -38,26 +58,6 @@
     "description": {
       "de": "Der Seldschukenführer Tughrul Beg zieht in Bagdad ein und wird vom Abbasiden-Kalifen zum Sultan ernannt. Die türkische Vorherrschaft in der islamischen Welt beginnt.",
       "en": "Seljuk leader Tughrul Beg enters Baghdad and is named Sultan by the Abbasid Caliph. Turkish dominance in the Islamic world begins."
-    }
-  },
-  {
-    "id": "chichen-itza-decline",
-    "coordinates": [
-      -88.57,
-      20.68
-    ],
-    "year": 1050,
-    "type": "political",
-    "culturalSphere": [
-      "mesoamerican"
-    ],
-    "labels": {
-      "de": "Niedergang von Chichén Itzá",
-      "en": "Decline of Chichén Itzá"
-    },
-    "description": {
-      "de": "Chichén Itzá verliert seine Vorherrschaft auf der Yucatán-Halbinsel; die Maya-Macht verlagert sich nach Mayapán.",
-      "en": "Chichén Itzá loses its dominance over the Yucatán Peninsula; Maya power shifts to Mayapán."
     }
   }
 ]

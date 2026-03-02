@@ -19,5 +19,26 @@
       "de": "Seleukos I. Nikator begründet nach den Diadochenkriegen das Seleukidenreich und kontrolliert den größten Teil des ehemaligen Perserreiches von Syrien bis Zentralasien.",
       "en": "Seleucus I Nicator founds the Seleucid Empire after the Wars of the Diadochi, controlling most of the former Persian Empire from Syria to Central Asia."
     }
+  },
+  {
+    "id": "founding-seleucid-empire",
+    "coordinates": [
+      44.42,
+      32.54
+    ],
+    "year": -312,
+    "type": "foundation",
+    "culturalSphere": [
+      "greek",
+      "persian"
+    ],
+    "labels": {
+      "de": "Gründung des Seleukidenreichs",
+      "en": "Founding of the Seleucid Empire"
+    },
+    "description": {
+      "de": "Seleukos I. Nikator etablierte seine Herrschaft über Babylonien und schuf das größte der Nachfolgereichs Alexanders. Das Seleukidenreich erstreckte sich von Anatolien bis nach Indien und versuchte, griechische und orientalische Kulturen miteinander zu verbinden.",
+      "en": "Seleucus I Nicator established his rule over Babylonia and created the largest of Alexander's successor states. The Seleucid Empire stretched from Anatolia to India and attempted to blend Greek and Eastern cultures into a new synthesis."
+    }
   }
 ]

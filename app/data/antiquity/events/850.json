@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "heian-japan-culture",
+    "coordinates": [
+      135.77,
+      35.01
+    ],
+    "year": 850,
+    "type": "cultural",
+    "culturalSphere": [
+      "japanese"
+    ],
+    "labels": {
+      "de": "Heian-Periode – Blüte der japanischen Hofkultur",
+      "en": "Heian Period – Flowering of Japanese Court Culture"
+    },
+    "description": {
+      "de": "Die Heian-Periode (794–1185) bringt in Kyoto eine einzigartige höfische Kultur hervor, von der Dichtung über die Kalligraphie bis zur Hofzeremonie. Das Genji Monogatari (um 1000), vermutlich der erste Roman der Weltliteratur, entsteht in dieser Ära der kulturellen Blüte.",
+      "en": "The Heian period (794–1185) produces a unique courtly culture in Kyoto, from poetry to calligraphy to court ceremony. The Tale of Genji (c. 1000), arguably the world's first novel, emerges in this era of cultural flourishing."
+    }
+  },
+  {
+    "id": "chinese-gunpowder-military",
+    "coordinates": [
+      116.39,
+      39.93
+    ],
+    "year": 850,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese",
+      "tang"
+    ],
+    "labels": {
+      "de": "Erste militärische Nutzung von Schießpulver",
+      "en": "First Military Use of Gunpowder"
+    },
+    "description": {
+      "de": "Chinesische Alchemisten entwickeln im späten Tang-Zeitalter Schießpulver als militärische Waffe in Form von Brandgeschossen und frühen Feuerlanzen. Diese Erfindung sollte Kriegsführung und Gesellschaft weltweit tiefgreifend verändern.",
+      "en": "Chinese alchemists in the late Tang era develop gunpowder as a military weapon in the form of incendiary projectiles and early fire lances. This invention would profoundly transform warfare and society worldwide."
+    }
+  }
+]

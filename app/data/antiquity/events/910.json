@@ -1,5 +1,26 @@
 [
   {
+    "id": "founding-of-normandy",
+    "coordinates": [
+      1.1,
+      49.44
+    ],
+    "year": 911,
+    "type": "political",
+    "culturalSphere": [
+      "viking",
+      "frankish"
+    ],
+    "labels": {
+      "de": "Gründung der Normandie",
+      "en": "Founding of Normandy"
+    },
+    "description": {
+      "de": "Im Vertrag von Saint-Clair-sur-Epte erhält der Wikingerführer Rollo von Karl dem Einfältigen Land im Norden Frankreichs. Die normannische Integration in die fränkische Gesellschaft legte den Grundstein für eine Macht, die 1066 England erobern sollte.",
+      "en": "In the Treaty of Saint-Clair-sur-Epte, Viking leader Rollo receives land in northern France from Charles the Simple. The Norman integration into Frankish society laid the groundwork for a power that would conquer England in 1066."
+    }
+  },
+  {
     "id": "founding-of-goryeo",
     "coordinates": [
       126.56,
@@ -17,6 +38,26 @@
     "description": {
       "de": "Wang Geon gründete die Goryeo-Dynastie und vereinigte die koreanische Halbinsel. Der Name Korea leitet sich von Goryeo ab.",
       "en": "Wang Geon founded the Goryeo dynasty and unified the Korean Peninsula. The name Korea derives from Goryeo."
+    }
+  },
+  {
+    "id": "goryeo-kingdom-founded",
+    "coordinates": [
+      126.54,
+      37.75
+    ],
+    "year": 918,
+    "type": "foundation",
+    "culturalSphere": [
+      "korean"
+    ],
+    "labels": {
+      "de": "Gründung des Goryeo-Königreichs",
+      "en": "Founding of the Goryeo Kingdom"
+    },
+    "description": {
+      "de": "Wang Geon gründet das Goryeo-Königreich und vereint die zerstrittenen späten Drei Königreiche Koreas. Die Goryeo-Ära erlebte die Erfindung des Metalldrucks und die Schaffung des Tripitaka Koreana — 80.000 Holztafeln mit buddhistischen Schriften.",
+      "en": "Wang Geon founds the Goryeo Kingdom, uniting the warring later Three Kingdoms of Korea. The Goryeo era saw the invention of metal movable type and the creation of the Tripitaka Koreana — 80,000 wooden tablets containing Buddhist scriptures."
     }
   }
 ]

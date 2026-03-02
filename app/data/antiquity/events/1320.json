@@ -1,5 +1,25 @@
 [
   {
+    "id": "mansa-musa-pilgrimage",
+    "coordinates": [
+      -8,
+      12.57
+    ],
+    "year": 1324,
+    "type": "cultural",
+    "culturalSphere": [
+      "west-african"
+    ],
+    "labels": {
+      "de": "Mansa Musas Pilgerfahrt nach Mekka",
+      "en": "Mansa Musa's Pilgrimage to Mecca"
+    },
+    "description": {
+      "de": "Mansa Musa unternimmt seine berühmte Hadsch nach Mekka mit so viel Gold, dass er den Goldpreis in Kairo zum Einsturz bringt.",
+      "en": "Mansa Musa undertakes his famous hajj to Mecca with so much gold that he crashes the gold price in Cairo."
+    }
+  },
+  {
     "id": "ibn-battuta-departs",
     "coordinates": [
       -5.81,
@@ -18,26 +38,6 @@
     "description": {
       "de": "Der marokkanische Reisende Ibn Battuta bricht von Tanger zu einer 30-jährigen Reise auf, die ihn durch die gesamte islamische Welt und darüber hinaus führt — der größte Reisende des Mittelalters.",
       "en": "Moroccan traveler Ibn Battuta departs from Tangier on a 30-year journey across the entire Islamic world and beyond — the greatest traveler of the Middle Ages."
-    }
-  },
-  {
-    "id": "mansa-musa-pilgrimage",
-    "coordinates": [
-      -8,
-      12.57
-    ],
-    "year": 1324,
-    "type": "cultural",
-    "culturalSphere": [
-      "west-african"
-    ],
-    "labels": {
-      "de": "Mansa Musas Pilgerfahrt nach Mekka",
-      "en": "Mansa Musa's Pilgrimage to Mecca"
-    },
-    "description": {
-      "de": "Mansa Musa unternimmt seine berühmte Hadsch nach Mekka mit so viel Gold, dass er den Goldpreis in Kairo zum Einsturz bringt.",
-      "en": "Mansa Musa undertakes his famous hajj to Mecca with so much gold that he crashes the gold price in Cairo."
     }
   },
   {

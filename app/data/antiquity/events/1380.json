@@ -1,5 +1,47 @@
 [
   {
+    "id": "timur-conquers-persia",
+    "coordinates": [
+      59.61,
+      36.29
+    ],
+    "year": 1383,
+    "type": "political",
+    "culturalSphere": [
+      "timurid",
+      "persian"
+    ],
+    "labels": {
+      "de": "Timur Lenk erobert Persien",
+      "en": "Timur the Lame Conquers Persia"
+    },
+    "description": {
+      "de": "Timur Lenk (Tamerlan) begann 1383 seine systematische Unterwerfung Persiens, die mit verheerenden Massakern und der Vernichtung ganzer Städte einherging. Sein Reichsaufbau folgte mongolischen Mustern, kombiniert mit einem Anspruch auf islamische Rechtmäßigkeit und persisches Kulturerbe.",
+      "en": "Timur Lenk (Tamerlane) began the systematic conquest of Persia in 1383, accompanied by devastating massacres and the destruction of entire cities. His empire-building followed Mongol patterns combined with a claim to Islamic legitimacy and Persian cultural heritage."
+    }
+  },
+  {
+    "id": "timur-sacks-isfahan",
+    "coordinates": [
+      51.68,
+      32.66
+    ],
+    "year": 1387,
+    "type": "battle",
+    "culturalSphere": [
+      "timurid",
+      "persian"
+    ],
+    "labels": {
+      "de": "Timur zerstört Isfahan",
+      "en": "Timur Destroys Isfahan"
+    },
+    "description": {
+      "de": "Nach einem Aufstand ließ Timur die Bevölkerung Isfahans massakrieren und Türme aus den Schädeln der Opfer errichten – symbolisches Instrument der Einschüchterung. Der Schrecken Timurs verbreitete sich im gesamten islamischen Raum und sicherte die Unterwerfung vieler Städte ohne Widerstand.",
+      "en": "After an uprising, Timur had Isfahan's population massacred and towers built from the skulls of victims – a symbolic instrument of intimidation. The terror of Timur spread throughout the Islamic world and secured the submission of many cities without resistance."
+    }
+  },
+  {
     "id": "battle-of-kosovo",
     "coordinates": [
       21.09,

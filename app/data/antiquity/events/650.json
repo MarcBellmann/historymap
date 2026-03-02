@@ -1,5 +1,47 @@
 [
   {
+    "id": "pakal-great-palenque",
+    "coordinates": [
+      -92.05,
+      17.48
+    ],
+    "year": 650,
+    "type": "cultural",
+    "culturalSphere": [
+      "maya",
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Blütezeit von Palenque unter Pakal",
+      "en": "Palenque's Golden Age under Pakal"
+    },
+    "description": {
+      "de": "König K'inich Janaab' Pakal regiert Palenque 68 Jahre und verwandelt die Stadt in ein Zentrum maya'ischer Kunst und Architektur. Sein Grabmal im Tempel der Inschriften gehört zu den bedeutendsten archäologischen Entdeckungen Mesoamerikas.",
+      "en": "King K'inich Janaab' Pakal rules Palenque for 68 years, transforming the city into a center of Maya art and architecture. His tomb in the Temple of the Inscriptions is among the most significant archaeological discoveries in Mesoamerica."
+    }
+  },
+  {
+    "id": "tang-dynasty-cultural-exchange",
+    "coordinates": [
+      116.39,
+      39.93
+    ],
+    "year": 650,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese",
+      "tang"
+    ],
+    "labels": {
+      "de": "Tang-Dynastie – Kosmopolitisches Zeitalter",
+      "en": "Tang Dynasty – Cosmopolitan Age"
+    },
+    "description": {
+      "de": "Die Tang-Hauptstadt Chang'an (Xi'an) zieht Kaufleute, Botschafter, Mönche und Künstler aus dem gesamten Eurasien an und wird zur möglicherweise größten Metropole der Welt. Der interkulturelle Austausch verbreitete chinesische Technologien von der Seidenfärbung bis zur Druckkunst.",
+      "en": "The Tang capital Chang'an (Xi'an) attracts merchants, ambassadors, monks, and artists from across Eurasia, becoming arguably the world's largest metropolis. This intercultural exchange spread Chinese technologies from silk dyeing to printing."
+    }
+  },
+  {
     "id": "arab-conquest-of-persia",
     "coordinates": [
       44.58,
@@ -19,6 +61,28 @@
     "description": {
       "de": "Der letzte Sassaniden-König Yazdegerd III. wird ermordet. Das persische Großreich geht vollständig im islamischen Kalifat auf — das Ende einer über tausendjährigen Zivilisation.",
       "en": "The last Sassanid king Yazdegerd III is assassinated. The Persian Empire is fully absorbed into the Islamic Caliphate — the end of a civilization over a thousand years old."
+    }
+  },
+  {
+    "id": "sassanid-fall-651",
+    "coordinates": [
+      51.42,
+      35.69
+    ],
+    "year": 651,
+    "type": "political",
+    "culturalSphere": [
+      "persian",
+      "sassanid",
+      "islamic"
+    ],
+    "labels": {
+      "de": "Ende des Sassanidenreichs",
+      "en": "End of the Sassanid Empire"
+    },
+    "description": {
+      "de": "Mit dem Tod des letzten Sassanidenkönigs Yazdegerd III. erlischt ein über 400 Jahre altes persisches Reich. Die islamische Eroberung Persiens bedeutete keinen völligen Kulturbruch — zoroastrische Traditionen, persische Dichtkunst und Verwaltungsformen lebten unter islamischer Herrschaft fort.",
+      "en": "With the death of the last Sassanid king Yazdegerd III, a Persian empire of over 400 years comes to an end. The Islamic conquest of Persia did not mean a complete cultural break — Zoroastrian traditions, Persian poetry, and administrative forms lived on under Islamic rule."
     }
   }
 ]

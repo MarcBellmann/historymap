@@ -1,5 +1,25 @@
 [
   {
+    "id": "herodotus-histories-written",
+    "coordinates": [
+      27.5,
+      37.04
+    ],
+    "year": -440,
+    "type": "cultural",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Herodot schreibt die Historien",
+      "en": "Herodotus Writes the Histories"
+    },
+    "description": {
+      "de": "Herodot aus Halikarnassos erforschte und beschrieb die Ursachen der Perserkriege und dabei Kulturen von Ägypten bis Persien. Mit seiner Methode der Quellenforschung und Beobachtung gilt er als 'Vater der Geschichtsschreibung' und Vorläufer der Ethnographie.",
+      "en": "Herodotus of Halicarnassus investigated and described the causes of the Persian Wars while documenting cultures from Egypt to Persia. With his method of source research and observation, he is regarded as the 'Father of History' and a forerunner of ethnography."
+    }
+  },
+  {
     "id": "peloponnesian-war-begins",
     "coordinates": [
       23.73,
@@ -17,6 +37,46 @@
     "description": {
       "de": "Der Krieg zwischen dem Attischen Seebund unter Athen und dem Peloponnesischen Bund unter Sparta begann. Der 27-jährige Konflikt veränderte die griechische Welt grundlegend.",
       "en": "War broke out between the Delian League under Athens and the Peloponnesian League under Sparta. The 27-year conflict fundamentally transformed the Greek world."
+    }
+  },
+  {
+    "id": "thucydides-peloponnesian-war-history",
+    "coordinates": [
+      23.73,
+      37.97
+    ],
+    "year": -431,
+    "type": "cultural",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Thukydides schreibt den Peloponnesischen Krieg",
+      "en": "Thucydides Writes the Peloponnesian War"
+    },
+    "description": {
+      "de": "Thukydides, ein athenischer Feldherr und Historiker, begann seine analytische Geschichte des Peloponnesischen Krieges zu verfassen. Sein Werk gilt als Grundlage der wissenschaftlichen Historiographie und der realistischen Theorie internationaler Beziehungen.",
+      "en": "Thucydides, an Athenian general and historian, began composing his analytical history of the Peloponnesian War. His work is regarded as the foundation of scientific historiography and the realist theory of international relations."
+    }
+  },
+  {
+    "id": "peloponnesian-war-start",
+    "coordinates": [
+      22.43,
+      37.94
+    ],
+    "year": -431,
+    "type": "battle",
+    "culturalSphere": [
+      "greek"
+    ],
+    "labels": {
+      "de": "Beginn des Peloponnesischen Krieges",
+      "en": "Start of the Peloponnesian War"
+    },
+    "description": {
+      "de": "Der Krieg zwischen Athen und dem Peloponnesischen Bund unter Sparta begann 431 v. Chr. und dauerte fast drei Jahrzehnte. Der verheerende Konflikt schwächte die griechischen Stadtstaaten so stark, dass Makedonien schließlich die Vorherrschaft über Griechenland übernehmen konnte.",
+      "en": "The war between Athens and the Peloponnesian League under Sparta began in 431 BC and lasted nearly three decades. The devastating conflict so weakened the Greek city-states that Macedon was eventually able to assert dominance over Greece."
     }
   }
 ]

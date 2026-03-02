@@ -40,5 +40,48 @@
       "de": "Die erste große Schlacht des Islam: Mohammed besiegt mit rund 300 Anhängern eine überlegene mekkanische Armee. Ein entscheidender Moment für die junge muslimische Gemeinschaft.",
       "en": "The first major battle of Islam: Muhammad defeats a superior Meccan army with around 300 followers. A decisive moment for the young Muslim community."
     }
+  },
+  {
+    "id": "siege-of-constantinople-626",
+    "coordinates": [
+      28.97,
+      41.01
+    ],
+    "year": 626,
+    "type": "battle",
+    "culturalSphere": [
+      "byzantine",
+      "avar",
+      "persian"
+    ],
+    "labels": {
+      "de": "Belagerung Konstantinopels (626)",
+      "en": "Siege of Constantinople (626)"
+    },
+    "description": {
+      "de": "Avaren, Slawen und Sassaniden belagern gemeinsam Konstantinopel, scheitern aber an der byzantinischen Seeverteidigung. Die erfolgreiche Abwehr stärkte das religiöse Selbstbewusstsein Byzanz' und rettete das Reich vor dem Zusammenbruch.",
+      "en": "Avars, Slavs, and Sassanids jointly besiege Constantinople but are repelled by Byzantine naval defenses. The successful defense strengthened Byzantium's religious self-image and saved the empire from collapse."
+    }
+  },
+  {
+    "id": "battle-of-nineveh-627",
+    "coordinates": [
+      43.15,
+      36.36
+    ],
+    "year": 627,
+    "type": "battle",
+    "culturalSphere": [
+      "byzantine",
+      "persian"
+    ],
+    "labels": {
+      "de": "Schlacht von Ninive",
+      "en": "Battle of Nineveh"
+    },
+    "description": {
+      "de": "Kaiser Herakleios besiegt das sassanidische Heer in einem kühnen Winterfeldzug nahe dem antiken Ninive. Der Sieg brach die Macht Persiens dauerhaft, doch beide Reiche waren so geschwächt, dass die arabische Expansion auf fruchtbaren Boden fiel.",
+      "en": "Emperor Heraclius defeats the Sassanid army in a bold winter campaign near ancient Nineveh. The victory permanently broke Persia's power, but both empires were so weakened that the Arab expansion found fertile ground."
+    }
   }
 ]

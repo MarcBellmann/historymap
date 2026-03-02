@@ -1,5 +1,25 @@
 [
   {
+    "id": "malacca-sultanate-founded",
+    "coordinates": [
+      102.25,
+      2.19
+    ],
+    "year": 1400,
+    "type": "foundation",
+    "culturalSphere": [
+      "malay"
+    ],
+    "labels": {
+      "de": "Gründung des Sultanats Malakka",
+      "en": "Founding of the Malacca Sultanate"
+    },
+    "description": {
+      "de": "Parameswara gründete das Sultanat Malakka, das zum wichtigsten Handelszentrum Südostasiens aufstieg und die Islamisierung der malaiischen Welt vorantrieb.",
+      "en": "Parameswara founded the Malacca Sultanate, which rose to become Southeast Asia's most important trading center and advanced the Islamization of the Malay world."
+    }
+  },
+  {
     "id": "timur-sacks-baghdad",
     "coordinates": [
       44.366,
@@ -84,23 +104,23 @@
     }
   },
   {
-    "id": "malacca-sultanate-founded",
+    "id": "ming-yongle-zheng-he-voyages",
     "coordinates": [
-      102.25,
-      2.19
+      118.78,
+      32.06
     ],
-    "year": 1400,
-    "type": "foundation",
+    "year": 1405,
+    "type": "cultural",
     "culturalSphere": [
-      "malay"
+      "chinese"
     ],
     "labels": {
-      "de": "Gründung des Sultanats Malakka",
-      "en": "Founding of the Malacca Sultanate"
+      "de": "Zheng He – Schatzflotten der Ming-Dynastie",
+      "en": "Zheng He – Ming Dynasty Treasure Voyages"
     },
     "description": {
-      "de": "Parameswara gründete das Sultanat Malakka, das zum wichtigsten Handelszentrum Südostasiens aufstieg und die Islamisierung der malaiischen Welt vorantrieb.",
-      "en": "Parameswara founded the Malacca Sultanate, which rose to become Southeast Asia's most important trading center and advanced the Islamization of the Malay world."
+      "de": "Admiral Zheng He führte zwischen 1405 und 1433 sieben Expeditionen mit gewaltigen Schatzflotten bis nach Ostafrika. Die Fahrten demonstrierten Chinas maritime Überlegenheit und knüpften Handelskontakte vom Indischen Ozean bis zum Persischen Golf, doch Chinas späterer Rückzug ließ den Weg für Europa frei.",
+      "en": "Admiral Zheng He led seven expeditions with enormous treasure fleets between 1405 and 1433, reaching as far as East Africa. The voyages demonstrated China's maritime superiority and established trade contacts from the Indian Ocean to the Persian Gulf, yet China's later withdrawal ceded the field to Europe."
     }
   }
 ]

@@ -19,5 +19,27 @@
       "de": "Karl Martell besiegte ein umayyadisches Heer bei Tours und stoppte die islamische Expansion nach Westeuropa. Der Sieg festigte die fränkische Vorherrschaft in Gallien.",
       "en": "Charles Martel defeated an Umayyad army at Tours, halting Islamic expansion into Western Europe. The victory solidified Frankish dominance in Gaul."
     }
+  },
+  {
+    "id": "battle-of-tours-poitiers",
+    "coordinates": [
+      0.33,
+      46.58
+    ],
+    "year": 732,
+    "type": "battle",
+    "culturalSphere": [
+      "frankish",
+      "islamic",
+      "umayyad"
+    ],
+    "labels": {
+      "de": "Schlacht von Tours und Poitiers",
+      "en": "Battle of Tours and Poitiers"
+    },
+    "description": {
+      "de": "Karl Martell stoppt den umayyad Vormarsch in Westeuropa und besiegt das islamische Heer nahe Poitiers. Die Entscheidungsschlacht begrenzte die nordwestliche Expansion des Islams und stärkte das fränkische Haus, aus dem später Karls der Große hervorgehen sollte.",
+      "en": "Charles Martel halts the Umayyad advance into Western Europe, defeating the Islamic army near Poitiers. The decisive battle limited Islam's northwestern expansion and strengthened the Frankish house from which Charlemagne would later emerge."
+    }
   }
 ]

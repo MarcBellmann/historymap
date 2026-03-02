@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "roman-empire-trajan-max-extent",
+    "coordinates": [
+      35.24,
+      38.96
+    ],
+    "year": 117,
+    "type": "political",
+    "culturalSphere": [
+      "roman"
+    ],
+    "labels": {
+      "de": "Größte Ausdehnung des Römischen Reiches",
+      "en": "Greatest Extent of the Roman Empire"
+    },
+    "description": {
+      "de": "Unter Kaiser Trajan erreichte das Römische Reich mit der Annexion Dakiens, Arabiens und Mesopotamiens seine größte territoriale Ausdehnung. Das Reich umfasste nun über 5 Millionen Quadratkilometer und war die dominierende Macht in Europa, Nordafrika und dem Vorderen Orient.",
+      "en": "Under Emperor Trajan, the Roman Empire reached its greatest territorial extent with the annexation of Dacia, Arabia, and Mesopotamia. The empire now encompassed over 5 million square kilometers and was the dominant power in Europe, North Africa, and the Near East."
+    }
+  }
+]

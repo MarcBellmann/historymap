@@ -18,5 +18,67 @@
       "de": "Die Nazca-Kultur in Südperu schafft riesige Geoglyphen in der Wüste, deren Zweck bis heute rätselhaft ist.",
       "en": "The Nazca culture in southern Peru creates enormous geoglyphs in the desert, whose purpose remains enigmatic to this day."
     }
+  },
+  {
+    "id": "silk-road-parthian-han",
+    "coordinates": [
+      63.58,
+      38.85
+    ],
+    "year": -100,
+    "type": "cultural",
+    "culturalSphere": [
+      "persian",
+      "chinese",
+      "indian"
+    ],
+    "labels": {
+      "de": "Seidenstraße verbindet Ost und West",
+      "en": "Silk Road Connects East and West"
+    },
+    "description": {
+      "de": "Die etablierten Handelsrouten der Seidenstraße verbanden das Partherreich als Mittler zwischen dem Römischen Reich und der Han-Dynastie in China. Über diese Routen flossen nicht nur Seide, Gewürze und Edelsteine, sondern auch Ideen, Religionen und technische Innovationen zwischen den Kulturen.",
+      "en": "The established trade routes of the Silk Road connected the Parthian Empire as intermediary between the Roman Empire and the Han Dynasty in China. These routes carried not only silk, spices, and precious stones, but also ideas, religions, and technical innovations between civilizations."
+    }
+  },
+  {
+    "id": "meroe-kush-kingdom-peak",
+    "coordinates": [
+      33.72,
+      16.93
+    ],
+    "year": -100,
+    "type": "cultural",
+    "culturalSphere": [
+      "african"
+    ],
+    "labels": {
+      "de": "Blütezeit des Meroitischen Reiches",
+      "en": "Peak of the Meroitic Kingdom"
+    },
+    "description": {
+      "de": "Das Königreich Meroë (Kusch) an der Grenze des heutigen Sudan und Ägyptens erlebte um 100 v. Chr. seine kulturelle und wirtschaftliche Blüte. Die Meroiten schufen eine eigene Schrift, errichteten Pyramiden nach ägyptischem Vorbild und kontrollierten den Handel zwischen Sub-Sahara-Afrika und der Mittelmeerwelt.",
+      "en": "The Kingdom of Meroë (Kush) on the border of modern Sudan and Egypt experienced its cultural and economic flourishing around 100 BC. The Meroites developed their own script, built pyramids in the Egyptian tradition, and controlled trade between sub-Saharan Africa and the Mediterranean world."
+    }
+  },
+  {
+    "id": "sima-qian-records-of-historian",
+    "coordinates": [
+      108.9,
+      34.26
+    ],
+    "year": -91,
+    "type": "cultural",
+    "culturalSphere": [
+      "chinese"
+    ],
+    "labels": {
+      "de": "Sima Qians Aufzeichnungen des Historikers",
+      "en": "Sima Qian's Records of the Grand Historian"
+    },
+    "description": {
+      "de": "Hofhistoriker Sima Qian vollendete das umfangreichste historiographische Werk der antiken Welt, die 'Shiji' (Aufzeichnungen des Historikers), das die Geschichte Chinas von mythischen Anfängen bis zur Han-Zeit umfasste. Das Werk legte die Grundlagen für die chinesische Geschichtsschreibung und war Vorbild für alle späteren offiziellen Dynastiegeschichten.",
+      "en": "Court historian Sima Qian completed the most comprehensive historiographical work of the ancient world, the 'Shiji' (Records of the Grand Historian), covering Chinese history from mythical beginnings to the Han era. The work laid the foundations of Chinese historiography and served as the model for all later official dynastic histories."
+    }
   }
 ]

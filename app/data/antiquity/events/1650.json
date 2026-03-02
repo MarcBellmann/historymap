@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "dutch-cape-colony-founding",
+    "coordinates": [
+      18.42,
+      -33.92
+    ],
+    "year": 1652,
+    "type": "foundation",
+    "culturalSphere": [
+      "dutch",
+      "european"
+    ],
+    "labels": {
+      "de": "Gründung der Kapkolonie",
+      "en": "Founding of the Cape Colony"
+    },
+    "description": {
+      "de": "Jan van Riebeeck gründete 1652 im Auftrag der VOC eine Versorgungsstation am Kap der Guten Hoffnung. Aus diesem Stützpunkt entwickelte sich die Kapkolonie, die durch die Versklavung der Khoi-Khoi und importierter Arbeitskräfte aus Asien und Afrika tiefgreifende ethnische und soziale Verwerfungen erzeugte.",
+      "en": "Jan van Riebeeck founded a supply station at the Cape of Good Hope for the VOC in 1652. From this outpost grew the Cape Colony, which through the enslavement of Khoi-Khoi and imported labor from Asia and Africa generated profound ethnic and social transformations."
+    }
+  }
+]

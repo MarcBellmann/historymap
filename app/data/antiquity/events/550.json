@@ -1,5 +1,25 @@
 [
   {
+    "id": "teotihuacan-collapse",
+    "coordinates": [
+      -98.84,
+      19.69
+    ],
+    "year": 550,
+    "type": "political",
+    "culturalSphere": [
+      "mesoamerican"
+    ],
+    "labels": {
+      "de": "Zusammenbruch von Teotihuacan",
+      "en": "Collapse of Teotihuacan"
+    },
+    "description": {
+      "de": "Teotihuacan wird durch Brände und innere Unruhen zerstört; die Stadt verliert ihre Vorherrschaft über Mesoamerika.",
+      "en": "Teotihuacan is destroyed by fires and internal unrest; the city loses its dominance over Mesoamerica."
+    }
+  },
+  {
     "id": "introduction-of-buddhism-japan",
     "coordinates": [
       135.8,
@@ -21,23 +41,23 @@
     }
   },
   {
-    "id": "teotihuacan-collapse",
+    "id": "byzantine-silk-industry",
     "coordinates": [
-      -98.84,
-      19.69
+      28.97,
+      41.01
     ],
-    "year": 550,
-    "type": "political",
+    "year": 553,
+    "type": "cultural",
     "culturalSphere": [
-      "mesoamerican"
+      "byzantine"
     ],
     "labels": {
-      "de": "Zusammenbruch von Teotihuacan",
-      "en": "Collapse of Teotihuacan"
+      "de": "Byzantinisches Seidenmonopol – Einschmuggeln der Seidenraupe",
+      "en": "Byzantine Silk Monopoly – Smuggling of Silkworms"
     },
     "description": {
-      "de": "Teotihuacan wird durch Brände und innere Unruhen zerstört; die Stadt verliert ihre Vorherrschaft über Mesoamerika.",
-      "en": "Teotihuacan is destroyed by fires and internal unrest; the city loses its dominance over Mesoamerica."
+      "de": "Zwei nestorianische Mönche schmuggeln Seidenraupeneier aus China nach Konstantinopel und brechen damit das chinesische Seidenmonopol. Byzanz etablierte eine eigene Seidenindustrie, die für Jahrhunderte die begehrten Luxusstoffe der mittelalterlichen Welt produzierte.",
+      "en": "Two Nestorian monks smuggle silkworm eggs from China to Constantinople, breaking the Chinese silk monopoly. Byzantium established its own silk industry, producing the coveted luxury textiles of the medieval world for centuries."
     }
   }
 ]
