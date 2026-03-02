@@ -4,6 +4,8 @@ export interface City {
   startYear: number; // negative = BC
   endYear: number | null;
   importance: 1 | 2 | 3; // 1=global, 2=regional, 3=local
+  peakStartYear?: number; // peak importance window start (defaults to startYear)
+  peakEndYear?: number | null; // peak importance window end (defaults to endYear)
   culturalSphere: string[];
   labels: Record<string, string>;
   description: Record<string, string>;

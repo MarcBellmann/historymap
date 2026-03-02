@@ -106,8 +106,9 @@ loader: async ({ deps: { decade } }) => {
 
 ### cities.json
 ```
-{ id, coordinates, startYear, endYear, importance (1-3), culturalSphere[], labels, description }
+{ id, coordinates, startYear, endYear, importance (1-3), peakStartYear?, peakEndYear?, culturalSphere[], labels, description }
 ```
+- `peakStartYear`/`peakEndYear` — optional peak importance window. Outside this window, importance drops by 1 level (e.g. global→regional). Defaults to `startYear`/`endYear` if omitted.
 
 ### events.json
 ```

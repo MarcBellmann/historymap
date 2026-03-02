@@ -40,9 +40,17 @@ for (let decade = -1000; decade <= 1900; decade += 10) {
   regionFiles++;
 
   // Cities: startYear <= decade && (endYear === null || endYear >= decade)
-  const filteredCities = cities.filter((c: any) => {
-    return c.startYear <= decade && (c.endYear === null || c.endYear >= decade);
-  });
+  // Outside peak window, importance drops by 1 level (max 3)
+  const filteredCities = cities
+    .filter((c: any) => c.startYear <= decade && (c.endYear === null || c.endYear >= decade))
+    .map((c: any) => {
+      if (c.peakStartYear === undefined && c.peakEndYear === undefined) return c;
+      const peakStart = c.peakStartYear ?? c.startYear;
+      const peakEnd = c.peakEndYear !== undefined ? c.peakEndYear : c.endYear;
+      const inPeak = peakStart <= decade && (peakEnd === null || peakEnd >= decade);
+      if (inPeak) return c;
+      return { ...c, importance: Math.min(3, c.importance + 1) };
+    });
   writeFileSync(
     join(dataDir, "cities", `${decade}.json`),
     JSON.stringify(filteredCities, null, 2)
