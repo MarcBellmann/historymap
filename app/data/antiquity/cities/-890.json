@@ -67,7 +67,9 @@
     "description": {
       "de": "Hauptstadt des altbabylonischen und neubabylonischen Reiches. Unter Nebukadnezar II. eine der größten Städte der Welt mit den legendären Hängenden Gärten.",
       "en": "Capital of the Old Babylonian and Neo-Babylonian empires. Under Nebuchadnezzar II, one of the world's largest cities, famed for its legendary Hanging Gardens."
-    }
+    },
+    "peakStartYear": -1792,
+    "peakEndYear": -539
   },
   {
     "id": "ye-shang",
@@ -111,7 +113,9 @@
     "description": {
       "de": "Um 1104 v. Chr. von Phöniziern als Gadir gegründet, eine der ältesten Städte Westeuropas. Wichtiger Atlantikhafen für Handel mit Zinn und Silber.",
       "en": "Founded by Phoenicians as Gadir around 1104 BC, one of the oldest cities in Western Europe. Important Atlantic port for tin and silver trade."
-    }
+    },
+    "peakStartYear": -1104,
+    "peakEndYear": -200
   },
   {
     "id": "cadiz-medieval",
@@ -166,7 +170,7 @@
     ],
     "startYear": -1046,
     "endYear": null,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "chinese"
     ],
@@ -177,7 +181,9 @@
     "description": {
       "de": "Eine der ältesten chinesischen Hauptstädte, Sitz der Östlichen Zhou, Östlichen Han, Wei und Tang. Zentrum des frühen Buddhismus in China.",
       "en": "One of China's oldest capitals, seat of the Eastern Zhou, Eastern Han, Wei, and Tang dynasties. Center of early Buddhism in China."
-    }
+    },
+    "peakStartYear": -770,
+    "peakEndYear": 755
   },
   {
     "id": "beijing",
@@ -187,7 +193,7 @@
     ],
     "startYear": -1046,
     "endYear": null,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "chinese",
       "mongol",
@@ -200,7 +206,9 @@
     "description": {
       "de": "Hauptstadt der Yuan-, Ming- und Qing-Dynastien. Als Khanbaliq unter den Mongolen erbaut, wurde sie zum dauerhaften Machtzentrum des chinesischen Kaiserreichs. Sitz der Verbotenen Stadt.",
       "en": "Capital of the Yuan, Ming, and Qing dynasties. Built as Khanbaliq under the Mongols, it became the permanent seat of Chinese imperial power. Home to the Forbidden City."
-    }
+    },
+    "peakStartYear": 1264,
+    "peakEndYear": null
   },
   {
     "id": "ephesus",
@@ -210,7 +218,7 @@
     ],
     "startYear": -1000,
     "endYear": 614,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "greek",
       "roman"
@@ -222,7 +230,9 @@
     "description": {
       "de": "Griechische Großstadt an der kleinasiatischen Küste, berühmt für den Artemistempel — eines der Sieben Weltwunder. Unter Rom die größte Stadt Kleinasiens.",
       "en": "Major Greek city on the Anatolian coast, famous for the Temple of Artemis — one of the Seven Wonders. Under Rome, the largest city in Asia Minor."
-    }
+    },
+    "peakStartYear": -600,
+    "peakEndYear": 262
   },
   {
     "id": "tartessos",
@@ -298,7 +308,7 @@
     ],
     "startYear": -1000,
     "endYear": -500,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "mesopotamian"
     ],
@@ -309,7 +319,9 @@
     "description": {
       "de": "Einst mächtige sumerische Stadt mit der berühmten Zikkurat. In der Spätzeit noch als religiöses Zentrum bedeutsam.",
       "en": "Once powerful Sumerian city with its famous ziggurat. Still significant as a religious center in its later period."
-    }
+    },
+    "peakStartYear": -2112,
+    "peakEndYear": -1740
   },
   {
     "id": "tyre",
@@ -332,7 +344,9 @@
     "description": {
       "de": "Bedeutendste phönizische Seehandelsstadt und Gründerin zahlreicher Kolonien, darunter Karthago. Berühmt für Purpurproduktion.",
       "en": "Preeminent Phoenician maritime trading city and founder of many colonies including Carthage. Famous for its purple dye production."
-    }
+    },
+    "peakStartYear": -1000,
+    "peakEndYear": -64
   },
   {
     "id": "sidon",
@@ -397,7 +411,9 @@
     "description": {
       "de": "Erste Hauptstadt des vereinten Ägypten und über Jahrtausende politisches und religiöses Zentrum. Nahe den Pyramiden von Gizeh.",
       "en": "First capital of united Egypt and political and religious center for millennia. Located near the Pyramids of Giza."
-    }
+    },
+    "peakStartYear": -1069,
+    "peakEndYear": -664
   },
   {
     "id": "thebes-egypt",
@@ -407,7 +423,7 @@
     ],
     "startYear": -1000,
     "endYear": -84,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "egyptian"
     ],
@@ -418,7 +434,9 @@
     "description": {
       "de": "Hauptstadt des Neuen Reiches und religiöses Zentrum des Amun-Kultes. Standort der Tempel von Karnak und Luxor sowie des Tals der Könige.",
       "en": "Capital of the New Kingdom and religious center of the Amun cult. Site of the temples of Karnak, Luxor, and the Valley of the Kings."
-    }
+    },
+    "peakStartYear": -1550,
+    "peakEndYear": -1069
   },
   {
     "id": "susa",
@@ -428,7 +446,7 @@
     ],
     "startYear": -1000,
     "endYear": 640,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "persian",
       "mesopotamian"
@@ -440,7 +458,9 @@
     "description": {
       "de": "Antike Hauptstadt Elams und Winterresidenz der Achaemeniden. Fundort des Codex Hammurabi und wichtiges Verwaltungszentrum des Perserreiches.",
       "en": "Ancient capital of Elam and winter residence of the Achaemenids. Where the Code of Hammurabi was found and a key administrative center of the Persian Empire."
-    }
+    },
+    "peakStartYear": -520,
+    "peakEndYear": -330
   },
   {
     "id": "damascus",
@@ -450,7 +470,7 @@
     ],
     "startYear": -1000,
     "endYear": null,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "aramaean",
       "roman",
@@ -464,7 +484,9 @@
     "description": {
       "de": "Eine der ältesten durchgehend besiedelten Städte der Welt. Hauptstadt des Umayyaden-Kalifats und bedeutendes Zentrum islamischer Kultur.",
       "en": "One of the oldest continuously inhabited cities in the world. Capital of the Umayyad Caliphate and major center of Islamic culture."
-    }
+    },
+    "peakStartYear": 661,
+    "peakEndYear": 750
   },
   {
     "id": "gaza",
@@ -583,7 +605,9 @@
     "description": {
       "de": "Hauptstadt des antiken Königreichs Saba, berühmt für den Großen Staudamm von Ma'rib. Zentrum des südarabischen Weihrauchhandels.",
       "en": "Capital of the ancient Kingdom of Sheba, famous for the Great Dam of Ma'rib. Center of the South Arabian incense trade."
-    }
+    },
+    "peakStartYear": -1000,
+    "peakEndYear": 275
   },
   {
     "id": "harran",
@@ -616,7 +640,7 @@
     ],
     "startYear": -1000,
     "endYear": 1220,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "persian",
       "islamic"
@@ -628,7 +652,9 @@
     "description": {
       "de": "Eine der bedeutendsten Städte der antiken Medien und des mittelalterlichen Iran. Geburtsort des Arztes ar-Razi. 1220 von den Mongolen zerstört.",
       "en": "One of the most important cities of ancient Media and medieval Iran. Birthplace of the physician al-Razi. Destroyed by the Mongols in 1220."
-    }
+    },
+    "peakStartYear": 800,
+    "peakEndYear": 1220
   },
   {
     "id": "homs",
@@ -681,7 +707,7 @@
     ],
     "startYear": -1000,
     "endYear": 500,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "indian",
       "buddhist"
@@ -693,7 +719,9 @@
     "description": {
       "de": "Eines der aeltesten Bildungszentren der Welt und Hauptstadt des antiken Gandhara. Knotenpunkt zwischen indischer, persischer und griechischer Zivilisation, beruehmte Universaet seit dem 6. Jh. v. Chr.",
       "en": "One of the oldest centers of learning in the world and capital of ancient Gandhara. A crossroads of Indian, Persian, and Greek civilizations, with a famous university since the 6th century BC."
-    }
+    },
+    "peakStartYear": -500,
+    "peakEndYear": 100
   },
   {
     "id": "tonga-nuku-alofa",
@@ -747,7 +775,7 @@
     ],
     "startYear": -900,
     "endYear": -146,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "greek"
     ],
@@ -758,7 +786,9 @@
     "description": {
       "de": "Militärisch dominante Polis im antiken Griechenland. Führte die Griechen gegen Persien bei den Thermopylen und besiegte Athen im Peloponnesischen Krieg.",
       "en": "Militarily dominant polis in ancient Greece. Led the Greeks against Persia at Thermopylae and defeated Athens in the Peloponnesian War."
-    }
+    },
+    "peakStartYear": -550,
+    "peakEndYear": -362
   },
   {
     "id": "argos",
@@ -800,7 +830,9 @@
     "description": {
       "de": "Nachfolgerin von San Lorenzo als Hauptstadt der Olmeken. Größtes und bedeutendstes olmekisches Zeremonienzentrum mit komplexer Stadtplanung und Pyramidenbauten.",
       "en": "Successor to San Lorenzo as the Olmec capital. The largest and most important Olmec ceremonial center with complex urban planning and pyramid structures."
-    }
+    },
+    "peakStartYear": -900,
+    "peakEndYear": -400
   },
   {
     "id": "chavin-de-huantar",
@@ -821,6 +853,8 @@
     "description": {
       "de": "Religiöses Zentrum der Chavín-Kultur und älteste bedeutende Zivilisation der Anden. Der Tempelkomplex war ein überregionales Pilgerziel und Wiege der andinen Hochkulturen.",
       "en": "Religious center of the Chavín culture and oldest major civilization of the Andes. The temple complex was a supra-regional pilgrimage site and cradle of Andean high cultures."
-    }
+    },
+    "peakStartYear": -900,
+    "peakEndYear": -200
   }
 ]

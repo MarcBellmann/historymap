@@ -55,7 +55,7 @@
     ],
     "startYear": -1894,
     "endYear": -275,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "mesopotamian",
       "persian"
@@ -67,7 +67,9 @@
     "description": {
       "de": "Hauptstadt des altbabylonischen und neubabylonischen Reiches. Unter Nebukadnezar II. eine der größten Städte der Welt mit den legendären Hängenden Gärten.",
       "en": "Capital of the Old Babylonian and Neo-Babylonian empires. Under Nebuchadnezzar II, one of the world's largest cities, famed for its legendary Hanging Gardens."
-    }
+    },
+    "peakStartYear": -1792,
+    "peakEndYear": -539
   },
   {
     "id": "ye-shang",
@@ -111,7 +113,9 @@
     "description": {
       "de": "Um 1104 v. Chr. von Phöniziern als Gadir gegründet, eine der ältesten Städte Westeuropas. Wichtiger Atlantikhafen für Handel mit Zinn und Silber.",
       "en": "Founded by Phoenicians as Gadir around 1104 BC, one of the oldest cities in Western Europe. Important Atlantic port for tin and silver trade."
-    }
+    },
+    "peakStartYear": -1104,
+    "peakEndYear": -200
   },
   {
     "id": "cadiz-medieval",
@@ -156,7 +160,9 @@
     "description": {
       "de": "Eine der ältesten chinesischen Hauptstädte, Sitz der Östlichen Zhou, Östlichen Han, Wei und Tang. Zentrum des frühen Buddhismus in China.",
       "en": "One of China's oldest capitals, seat of the Eastern Zhou, Eastern Han, Wei, and Tang dynasties. Center of early Buddhism in China."
-    }
+    },
+    "peakStartYear": -770,
+    "peakEndYear": 755
   },
   {
     "id": "beijing",
@@ -166,7 +172,7 @@
     ],
     "startYear": -1046,
     "endYear": null,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "chinese",
       "mongol",
@@ -179,7 +185,9 @@
     "description": {
       "de": "Hauptstadt der Yuan-, Ming- und Qing-Dynastien. Als Khanbaliq unter den Mongolen erbaut, wurde sie zum dauerhaften Machtzentrum des chinesischen Kaiserreichs. Sitz der Verbotenen Stadt.",
       "en": "Capital of the Yuan, Ming, and Qing dynasties. Built as Khanbaliq under the Mongols, it became the permanent seat of Chinese imperial power. Home to the Forbidden City."
-    }
+    },
+    "peakStartYear": 1264,
+    "peakEndYear": null
   },
   {
     "id": "ephesus",
@@ -201,7 +209,9 @@
     "description": {
       "de": "Griechische Großstadt an der kleinasiatischen Küste, berühmt für den Artemistempel — eines der Sieben Weltwunder. Unter Rom die größte Stadt Kleinasiens.",
       "en": "Major Greek city on the Anatolian coast, famous for the Temple of Artemis — one of the Seven Wonders. Under Rome, the largest city in Asia Minor."
-    }
+    },
+    "peakStartYear": -600,
+    "peakEndYear": 262
   },
   {
     "id": "tyre",
@@ -224,7 +234,9 @@
     "description": {
       "de": "Bedeutendste phönizische Seehandelsstadt und Gründerin zahlreicher Kolonien, darunter Karthago. Berühmt für Purpurproduktion.",
       "en": "Preeminent Phoenician maritime trading city and founder of many colonies including Carthage. Famous for its purple dye production."
-    }
+    },
+    "peakStartYear": -1000,
+    "peakEndYear": -64
   },
   {
     "id": "sidon",
@@ -278,7 +290,7 @@
     ],
     "startYear": -1000,
     "endYear": -332,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "egyptian"
     ],
@@ -289,7 +301,9 @@
     "description": {
       "de": "Erste Hauptstadt des vereinten Ägypten und über Jahrtausende politisches und religiöses Zentrum. Nahe den Pyramiden von Gizeh.",
       "en": "First capital of united Egypt and political and religious center for millennia. Located near the Pyramids of Giza."
-    }
+    },
+    "peakStartYear": -1069,
+    "peakEndYear": -664
   },
   {
     "id": "thebes-egypt",
@@ -299,7 +313,7 @@
     ],
     "startYear": -1000,
     "endYear": -84,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "egyptian"
     ],
@@ -310,7 +324,9 @@
     "description": {
       "de": "Hauptstadt des Neuen Reiches und religiöses Zentrum des Amun-Kultes. Standort der Tempel von Karnak und Luxor sowie des Tals der Könige.",
       "en": "Capital of the New Kingdom and religious center of the Amun cult. Site of the temples of Karnak, Luxor, and the Valley of the Kings."
-    }
+    },
+    "peakStartYear": -1550,
+    "peakEndYear": -1069
   },
   {
     "id": "susa",
@@ -332,7 +348,9 @@
     "description": {
       "de": "Antike Hauptstadt Elams und Winterresidenz der Achaemeniden. Fundort des Codex Hammurabi und wichtiges Verwaltungszentrum des Perserreiches.",
       "en": "Ancient capital of Elam and winter residence of the Achaemenids. Where the Code of Hammurabi was found and a key administrative center of the Persian Empire."
-    }
+    },
+    "peakStartYear": -520,
+    "peakEndYear": -330
   },
   {
     "id": "damascus",
@@ -342,7 +360,7 @@
     ],
     "startYear": -1000,
     "endYear": null,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "aramaean",
       "roman",
@@ -356,7 +374,9 @@
     "description": {
       "de": "Eine der ältesten durchgehend besiedelten Städte der Welt. Hauptstadt des Umayyaden-Kalifats und bedeutendes Zentrum islamischer Kultur.",
       "en": "One of the oldest continuously inhabited cities in the world. Capital of the Umayyad Caliphate and major center of Islamic culture."
-    }
+    },
+    "peakStartYear": 661,
+    "peakEndYear": 750
   },
   {
     "id": "gaza",
@@ -475,7 +495,9 @@
     "description": {
       "de": "Hauptstadt des antiken Königreichs Saba, berühmt für den Großen Staudamm von Ma'rib. Zentrum des südarabischen Weihrauchhandels.",
       "en": "Capital of the ancient Kingdom of Sheba, famous for the Great Dam of Ma'rib. Center of the South Arabian incense trade."
-    }
+    },
+    "peakStartYear": -1000,
+    "peakEndYear": 275
   },
   {
     "id": "harran",
@@ -508,7 +530,7 @@
     ],
     "startYear": -1000,
     "endYear": 1220,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "persian",
       "islamic"
@@ -520,7 +542,9 @@
     "description": {
       "de": "Eine der bedeutendsten Städte der antiken Medien und des mittelalterlichen Iran. Geburtsort des Arztes ar-Razi. 1220 von den Mongolen zerstört.",
       "en": "One of the most important cities of ancient Media and medieval Iran. Birthplace of the physician al-Razi. Destroyed by the Mongols in 1220."
-    }
+    },
+    "peakStartYear": 800,
+    "peakEndYear": 1220
   },
   {
     "id": "homs",
@@ -585,7 +609,9 @@
     "description": {
       "de": "Eines der aeltesten Bildungszentren der Welt und Hauptstadt des antiken Gandhara. Knotenpunkt zwischen indischer, persischer und griechischer Zivilisation, beruehmte Universaet seit dem 6. Jh. v. Chr.",
       "en": "One of the oldest centers of learning in the world and capital of ancient Gandhara. A crossroads of Indian, Persian, and Greek civilizations, with a famous university since the 6th century BC."
-    }
+    },
+    "peakStartYear": -500,
+    "peakEndYear": 100
   },
   {
     "id": "tonga-nuku-alofa",
@@ -650,7 +676,9 @@
     "description": {
       "de": "Militärisch dominante Polis im antiken Griechenland. Führte die Griechen gegen Persien bei den Thermopylen und besiegte Athen im Peloponnesischen Krieg.",
       "en": "Militarily dominant polis in ancient Greece. Led the Greeks against Persia at Thermopylae and defeated Athens in the Peloponnesian War."
-    }
+    },
+    "peakStartYear": -550,
+    "peakEndYear": -362
   },
   {
     "id": "argos",
@@ -692,7 +720,9 @@
     "description": {
       "de": "Nachfolgerin von San Lorenzo als Hauptstadt der Olmeken. Größtes und bedeutendstes olmekisches Zeremonienzentrum mit komplexer Stadtplanung und Pyramidenbauten.",
       "en": "Successor to San Lorenzo as the Olmec capital. The largest and most important Olmec ceremonial center with complex urban planning and pyramid structures."
-    }
+    },
+    "peakStartYear": -900,
+    "peakEndYear": -400
   },
   {
     "id": "chavin-de-huantar",
@@ -713,7 +743,9 @@
     "description": {
       "de": "Religiöses Zentrum der Chavín-Kultur und älteste bedeutende Zivilisation der Anden. Der Tempelkomplex war ein überregionales Pilgerziel und Wiege der andinen Hochkulturen.",
       "en": "Religious center of the Chavín culture and oldest major civilization of the Andes. The temple complex was a supra-regional pilgrimage site and cradle of Andean high cultures."
-    }
+    },
+    "peakStartYear": -900,
+    "peakEndYear": -200
   },
   {
     "id": "linzi",
@@ -757,7 +789,9 @@
     "description": {
       "de": "814 v. Chr. von phönizischen Siedlern aus Tyros gegründet, stieg Karthago zur dominierenden Seemacht des westlichen Mittelmeers auf. Nach den Punischen Kriegen 146 v. Chr. von Rom zerstört, später als römische Kolonie wiederaufgebaut.",
       "en": "Founded in 814 BC by Phoenician settlers from Tyre, Carthage rose to become the dominant naval power of the western Mediterranean. Destroyed by Rome in 146 BC after the Punic Wars, later rebuilt as a Roman colony."
-    }
+    },
+    "peakStartYear": -600,
+    "peakEndYear": -146
   },
   {
     "id": "athens",
@@ -778,7 +812,9 @@
     "description": {
       "de": "Geburtsstätte der Demokratie, der westlichen Philosophie und des klassischen Theaters. Führende Polis im Goldenen Zeitalter des 5. Jh. v. Chr.",
       "en": "Birthplace of democracy, Western philosophy, and classical theater. Leading polis during the Golden Age of the 5th century BC."
-    }
+    },
+    "peakStartYear": -500,
+    "peakEndYear": -300
   },
   {
     "id": "corinth",
@@ -800,7 +836,9 @@
     "description": {
       "de": "Wohlhabende griechische Handelsstadt am Isthmus zwischen Peloponnes und Festland. Kontrollierte zwei Häfen und war ein Zentrum der Keramikproduktion.",
       "en": "Wealthy Greek trading city on the isthmus between the Peloponnese and mainland. Controlled two ports and was a center of ceramic production."
-    }
+    },
+    "peakStartYear": -700,
+    "peakEndYear": -146
   },
   {
     "id": "thebes-greece",
@@ -810,7 +848,7 @@
     ],
     "startYear": -800,
     "endYear": -335,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "greek"
     ],
@@ -821,7 +859,9 @@
     "description": {
       "de": "Mächtige böotische Polis, die unter Epaminondas in den 360er v. Chr. kurzzeitig die stärkste Macht Griechenlands war. 335 v. Chr. von Alexander dem Großen zerstört.",
       "en": "Powerful Boeotian polis that under Epaminondas briefly became the strongest power in Greece in the 360s BC. Destroyed by Alexander the Great in 335 BC."
-    }
+    },
+    "peakStartYear": -420,
+    "peakEndYear": -335
   },
   {
     "id": "miletus",
@@ -831,7 +871,7 @@
     ],
     "startYear": -800,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "greek"
     ],
@@ -842,7 +882,9 @@
     "description": {
       "de": "Führende ionische Handelsstadt und Mutterstadt dutzender Kolonien am Schwarzen Meer. Heimat der ersten Philosophen Thales, Anaximander und Anaximenes.",
       "en": "Leading Ionian trading city and mother city of dozens of Black Sea colonies. Home to the first philosophers Thales, Anaximander, and Anaximenes."
-    }
+    },
+    "peakStartYear": -700,
+    "peakEndYear": -494
   },
   {
     "id": "gordion",
@@ -916,7 +958,7 @@
     ],
     "startYear": -800,
     "endYear": 1220,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "persian",
       "central-asian",
@@ -929,7 +971,9 @@
     "description": {
       "de": "Antikes Baktra, Hauptstadt Baktriens und Kernstadt des Griechisch-Baktrischen Reiches. Von den Arabern als 'Mutter der Städte' bezeichnet, 1220 von den Mongolen zerstört.",
       "en": "Ancient Bactra, capital of Bactria and core city of the Greco-Bactrian Kingdom. Called 'Mother of Cities' by the Arabs, destroyed by the Mongols in 1220."
-    }
+    },
+    "peakStartYear": -329,
+    "peakEndYear": 700
   },
   {
     "id": "nisibis",
@@ -1009,7 +1053,7 @@
     ],
     "startYear": -800,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "chinese",
       "ming",
@@ -1022,7 +1066,9 @@
     "description": {
       "de": "Pingyao ist eine der am besten erhaltenen Altstädte Chinas mit einer Geschichte von über 2800 Jahren. In der Ming- und Qing-Zeit entwickelte sich die Stadt zum führenden Finanzzentrum des Qing-Reiches, da hier die ersten Banken Chinas, die sogenannten 'Piaohao', entstanden. Die vollständig erhaltene Stadtmauer und das historische Stadtbild machen Pingyao zu einem UNESCO-Welterbe.",
       "en": "Pingyao is one of China's best-preserved ancient cities with a history of over 2800 years. During the Ming and Qing periods, the city developed into the leading financial center of the Qing empire, as China's first banks, the so-called 'Piaohao', were established here. The fully intact city wall and historic cityscape make Pingyao a UNESCO World Heritage Site."
-    }
+    },
+    "peakStartYear": 1370,
+    "peakEndYear": 1900
   },
   {
     "id": "trabzon",
@@ -1054,7 +1100,7 @@
     ],
     "startYear": -756,
     "endYear": 1461,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "greek",
       "byzantine"
@@ -1066,7 +1112,9 @@
     "description": {
       "de": "Trapezunt wurde 756 v. Chr. als griechische Kolonie der Milesier gegründet und lag strategisch günstig an der Schwarzmeerküste auf der Seidenstraße. Nach dem Vierten Kreuzzug 1204 wurde es Hauptstadt des Kaiserreichs Trapezunt, des letzten byzantinischen Nachfolgestaates, bis es 1461 von den Osmanen unter Mehmed II. eingenommen wurde.",
       "en": "Trebizond was founded in 756 BC as a Greek colony by settlers from Miletus, positioned strategically on the Black Sea coast along the Silk Road trade routes. After the Fourth Crusade of 1204, it became the capital of the Empire of Trebizond, the last surviving Byzantine successor state, until it fell to the Ottoman Sultan Mehmed II in 1461."
-    }
+    },
+    "peakStartYear": 1204,
+    "peakEndYear": 1461
   },
   {
     "id": "rome",
@@ -1076,7 +1124,7 @@
     ],
     "startYear": -753,
     "endYear": null,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "roman",
       "italian"
@@ -1088,7 +1136,9 @@
     "description": {
       "de": "Hauptstadt des Römischen Reiches und Zentrum der westlichen Zivilisation. Vom Stadtstaat zur Weltmacht, die das gesamte Mittelmeer beherrschte.",
       "en": "Capital of the Roman Empire and center of Western civilization. Rose from a city-state to a world power that dominated the entire Mediterranean."
-    }
+    },
+    "peakStartYear": -200,
+    "peakEndYear": 400
   },
   {
     "id": "napata",
@@ -1110,7 +1160,9 @@
     "description": {
       "de": "Hauptstadt des kuschitischen Königreiches und religiöses Zentrum des Amun-Kultes am Jebel Barkal. Basis der 25. ägyptischen Dynastie.",
       "en": "Capital of the Kushite kingdom and religious center of the Amun cult at Jebel Barkal. Base of Egypt's 25th Dynasty."
-    }
+    },
+    "peakStartYear": -750,
+    "peakEndYear": -270
   },
   {
     "id": "meroe",
@@ -1120,7 +1172,7 @@
     ],
     "startYear": -750,
     "endYear": 350,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "ethiopian"
     ],
@@ -1131,7 +1183,9 @@
     "description": {
       "de": "Hauptstadt des Königreichs Kusch am Nil, von ca. 590 v. Chr. bis zum 4. Jh. n. Chr. Bekannt für über 200 nubische Pyramiden und eine eigenständige Schrift.",
       "en": "Capital of the Kingdom of Kush on the Nile, from c. 590 BC to the 4th century AD. Known for over 200 Nubian pyramids and a distinctive script."
-    }
+    },
+    "peakStartYear": -270,
+    "peakEndYear": 350
   },
   {
     "id": "syracuse",
@@ -1153,7 +1207,9 @@
     "description": {
       "de": "Mächtigste griechische Kolonie im westlichen Mittelmeer, rivalisierte mit Athen und Karthago. Heimat des Mathematikers Archimedes.",
       "en": "Most powerful Greek colony in the western Mediterranean, rivaling Athens and Carthage. Home of the mathematician Archimedes."
-    }
+    },
+    "peakStartYear": -500,
+    "peakEndYear": -212
   },
   {
     "id": "palermo",
@@ -1163,7 +1219,7 @@
     ],
     "startYear": -734,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "phoenician",
       "greek",
@@ -1178,7 +1234,9 @@
     "description": {
       "de": "Phönizische Gründung, die unter arabischer Herrschaft (831–1072) zu einer der größten Städte Europas aufstieg. Hauptstadt des normannischen Königreichs Sizilien.",
       "en": "Phoenician foundation that under Arab rule (831–1072) became one of Europe's largest cities. Capital of the Norman Kingdom of Sicily."
-    }
+    },
+    "peakStartYear": 831,
+    "peakEndYear": 1200
   },
   {
     "id": "messina",
@@ -1201,7 +1259,9 @@
     "description": {
       "de": "Messina, das griechische Zankle, wurde im 8. Jahrhundert v. Chr. von Chalkidiern gegründet und war wegen seiner strategischen Lage an der Meerenge zwischen Sizilien und dem Festland stets von großer Bedeutung. Im Mittelalter war Messina unter den Normannen die erste Hauptstadt Siziliens und diente als wichtiger Ausgangspunkt für Kreuzzüge. Die Stadt wurde 1908 durch ein verheerendes Erdbeben fast vollständig zerstört.",
       "en": "Messina, the Greek Zancle, was founded in the 8th century BC by Chalcidians and was always of great strategic importance due to its location at the strait between Sicily and the mainland. In the medieval period Messina was under the Normans the first capital of Sicily and served as an important departure point for Crusades. The city was almost completely destroyed by a devastating earthquake in 1908."
-    }
+    },
+    "peakStartYear": -489,
+    "peakEndYear": 400
   },
   {
     "id": "ecbatana",
@@ -1232,7 +1292,7 @@
     ],
     "startYear": -700,
     "endYear": null,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "persian",
       "islamic"
@@ -1244,7 +1304,9 @@
     "description": {
       "de": "Unter den Safawiden Hauptstadt Persiens und berühmt für ihre islamische Architektur. Das Sprichwort sagt: Isfahan ist die Hälfte der Welt.",
       "en": "Under the Safavids capital of Persia and famed for its Islamic architecture. The proverb says: 'Isfahan is half the world.'"
-    }
+    },
+    "peakStartYear": 1598,
+    "peakEndYear": 1722
   },
   {
     "id": "tripoli-libya",
@@ -1316,7 +1378,9 @@
     "description": {
       "de": "Hamadan, das antike Ekbatana, war die Hauptstadt des Mederreiches ab dem 8. Jahrhundert v. Chr. und später Sommerresidenz der achämenidischen Könige. Die Stadt ist einer der wenigen Orte im Nahen Osten mit nachgewiesener kontinuierlicher Besiedlung über mehr als 3.000 Jahre, und ist als Grabstätte des biblischen Esther und Mordechai bekannt.",
       "en": "Hamadan, the ancient Ecbatana, was the capital of the Median Empire from the 8th century BC and later served as the summer residence of Achaemenid kings. The city is one of the few places in the Middle East with documented continuous habitation for over 3,000 years, and is known as the burial place of the biblical figures Esther and Mordecai."
-    }
+    },
+    "peakStartYear": -700,
+    "peakEndYear": -330
   },
   {
     "id": "tripoli-north-africa",
@@ -1372,7 +1436,7 @@
     ],
     "startYear": -700,
     "endYear": 350,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "nubian",
       "egyptian"
@@ -1384,7 +1448,9 @@
     "description": {
       "de": "Meroe war die Hauptstadt des Königreichs Kusch (Nubien) und eines der bedeutendsten politischen und wirtschaftlichen Zentren des antiken Afrikas. Die Stadt blühte zwischen dem 4. Jahrhundert v. Chr. und dem 4. Jahrhundert n. Chr. und war für ihre beeindruckenden Stufenpyramiden bekannt. Meroe war ein wichtiger Knotenpunkt im Handelsnetz zwischen dem Roten Meer, dem Niltal und dem subsaharischen Afrika.",
       "en": "Meroe was the capital of the Kingdom of Kush (Nubia) and one of the most important political and economic centers of ancient Africa. The city flourished between the 4th century BC and the 4th century AD and was known for its impressive step pyramids. Meroe was a critical node in the trade network connecting the Red Sea, the Nile Valley, and sub-Saharan Africa."
-    }
+    },
+    "peakStartYear": -270,
+    "peakEndYear": 350
   },
   {
     "id": "ying",
@@ -1415,7 +1481,7 @@
     ],
     "startYear": -680,
     "endYear": 616,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "persian"
     ],
@@ -1426,7 +1492,9 @@
     "description": {
       "de": "Hauptstadt des Lydischen Reiches unter König Krösus und Endpunkt der persischen Königsstraße. Hier wurden die ersten Münzen geprägt.",
       "en": "Capital of the Lydian Empire under King Croesus and terminus of the Persian Royal Road. Site of the first coined money."
-    }
+    },
+    "peakStartYear": -680,
+    "peakEndYear": -547
   },
   {
     "id": "ye-city",
@@ -1468,7 +1536,9 @@
     "description": {
       "de": "Um 657 v. Chr. als griechische Kolonie am Bosporus gegründet. Strategische Lage zwischen Europa und Asien, 330 n. Chr. von Konstantin zum neuen Rom umgebaut.",
       "en": "Founded as a Greek colony on the Bosporus around 657 BC. Strategic location between Europe and Asia, rebuilt by Constantine as the new Rome in 330 AD."
-    }
+    },
+    "peakStartYear": -500,
+    "peakEndYear": 330
   },
   {
     "id": "cyrene",
@@ -1491,7 +1561,9 @@
     "description": {
       "de": "Kyrene war eine bedeutende griechische Kolonie, gegründet 631 v. Chr. durch Siedler von der Insel Thera im heutigen Libyen, und wurde zum führenden politischen und kulturellen Zentrum Nordafrikas. Die Stadt gab der ganzen Region den Namen Kyrenäika und war bekannt für ihre Philosophenschule sowie als Geburtsort des Eratosthenes; ein großes Erdbeben 365 n. Chr. markierte ihren Untergang.",
       "en": "Cyrene was a major Greek colony founded in 631 BC by settlers from the island of Thera in present-day Libya, becoming the foremost political and cultural center of North Africa. The city gave its name to the entire region of Cyrenaica and was known for its philosophical school and as the birthplace of Eratosthenes; a great earthquake in 365 AD marked its final decline."
-    }
+    },
+    "peakStartYear": -631,
+    "peakEndYear": -96
   },
   {
     "id": "durres",
@@ -1501,7 +1573,7 @@
     ],
     "startYear": -627,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "greek",
       "roman",
@@ -1515,7 +1587,9 @@
     "description": {
       "de": "Dyrrachion (heute Durrës) wurde 627 v. Chr. von Korinthern als Epidamnos gegründet und war der westliche Endpunkt der Via Egnatia, der wichtigsten römischen Straße zwischen der Adriatik und Konstantinopel. Als wichtigste Hafenstadt an der Adria war die Stadt über die Jahrhunderte von Byzantinern, Normannen und Venezianern umkämpft und ein entscheidender Knotenpunkt zwischen Ost und West.",
       "en": "Dyrrachium (modern Durrës) was founded in 627 BC by Corinthians as Epidamnos and served as the western terminus of the Via Egnatia, the vital Roman road linking the Adriatic to Constantinople. As the most important Adriatic port, the city was contested across the centuries by Byzantines, Normans, and Venetians, serving as a crucial gateway between East and West."
-    }
+    },
+    "peakStartYear": -200,
+    "peakEndYear": 400
   },
   {
     "id": "massalia",
@@ -1538,7 +1612,9 @@
     "description": {
       "de": "Um 600 v. Chr. von griechischen Siedlern aus Phokäa gegründet. Älteste Stadt Frankreichs und wichtigstes griechisches Handelszentrum im westlichen Mittelmeer.",
       "en": "Founded around 600 BC by Greek settlers from Phocaea. Oldest city in France and the most important Greek trading center in the western Mediterranean."
-    }
+    },
+    "peakStartYear": -600,
+    "peakEndYear": 200
   },
   {
     "id": "pompeii",
@@ -1581,7 +1657,9 @@
     "description": {
       "de": "Erste Hauptstadt des Königreichs Magadha und Residenz von König Bimbisara. Bedeutende Stadt im frühen Buddhismus, in der Buddha zahlreiche Lehrreden hielt.",
       "en": "First capital of the Kingdom of Magadha and residence of King Bimbisara. An important city in early Buddhism where the Buddha delivered many discourses."
-    }
+    },
+    "peakStartYear": -600,
+    "peakEndYear": -400
   },
   {
     "id": "ujjain",
@@ -1591,7 +1669,7 @@
     ],
     "startYear": -600,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "indian"
     ],
@@ -1602,7 +1680,9 @@
     "description": {
       "de": "Hauptstadt des alten Koenigreichs Avanti und eines der heiligsten Hindu-Pilgerzentren. Als Referenzpunkt fuer den indischen Nullmeridian war es ueber Jahrhunderte ein Zentrum der Astronomie und Mathematik.",
       "en": "Capital of the ancient kingdom of Avanti and one of the holiest Hindu pilgrimage centers. As the reference point for the Indian prime meridian, it was a center of astronomy and mathematics for centuries."
-    }
+    },
+    "peakStartYear": -300,
+    "peakEndYear": 400
   },
   {
     "id": "mathura",
@@ -1667,7 +1747,9 @@
     "description": {
       "de": "Perugia ist eine der zwölf etruskischen Bundesstädte und später eine der bedeutendsten Städte des päpstlichen Italiens. Im Mittelalter war Perugia eine mächtige freie Gemeinde, die für ihre Rivalität mit Assisi und anderen umbrischen Städten bekannt war. Die Universität Perugia, 1308 gegründet, ist eine der ältesten Italiens und machte die Stadt zu einem wichtigen Bildungszentrum.",
       "en": "Perugia was one of the twelve Etruscan league cities and later one of the most significant cities of papal Italy. In the medieval period it was a powerful free commune known for its rivalry with Assisi and other Umbrian cities. The University of Perugia, founded in 1308, is one of Italy's oldest and made the city an important educational center."
-    }
+    },
+    "peakStartYear": -600,
+    "peakEndYear": -310
   },
   {
     "id": "troyes",
@@ -1677,7 +1759,7 @@
     ],
     "startYear": -600,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "roman",
       "medieval-european"
@@ -1689,7 +1771,9 @@
     "description": {
       "de": "Troyes, das antike Augustobona Tricassium, war im Hochmittelalter berühmt für seine Champagner-Messen, die zu den bedeutendsten Handelsereignissen Europas zählten und Kaufleute aus dem gesamten Mittelmeerraum anzogen. Das Troyer Pfundgewicht wurde als Standardmaß für Edelmetalle weltweit bekannt ('Troy weight') und hat sich bis in die Neuzeit erhalten.",
       "en": "Troyes, the ancient Augustobona Tricassium, was famous in the High Middle Ages for its Champagne fairs, among the most important commercial events in Europe attracting merchants from across the Mediterranean world. The Troy pound weight became the standard measure for precious metals worldwide and its name persists in the modern 'troy weight' system used in precious metal trading."
-    }
+    },
+    "peakStartYear": 1100,
+    "peakEndYear": 1300
   },
   {
     "id": "naples-medieval",
@@ -1699,7 +1783,7 @@
     ],
     "startYear": -600,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "greek",
       "roman",
@@ -1712,7 +1796,9 @@
     "description": {
       "de": "Neapel (griechisch: Neapolis) wurde im 7. Jahrhundert v. Chr. als griechische Kolonie auf dem Gebiet der älteren Siedlung Parthenope gegründet. Im Mittelalter war es unter den Normannen und Anjou ein wichtiges Königreich. Friedrich II. machte es zum Zentrum seiner Herrschaft und gründete 1224 die Universität Neapel, eine der ersten staatlichen Universitäten Europas.",
       "en": "Naples (Greek: Neapolis) was founded in the 7th century BC as a Greek colony on the site of the older settlement of Parthenope. In the medieval period it was the center of an important kingdom under the Normans and Angevins. Emperor Frederick II made it the hub of his rule and founded the University of Naples in 1224, one of the first state-established universities in Europe."
-    }
+    },
+    "peakStartYear": 1266,
+    "peakEndYear": 1700
   },
   {
     "id": "leptis-magna",
@@ -1787,7 +1873,7 @@
     ],
     "startYear": -600,
     "endYear": 900,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "maya"
     ],
@@ -1798,7 +1884,9 @@
     "description": {
       "de": "Tikal war eine der bedeutendsten Städte der klassischen Maya-Zivilisation im heutigen Guatemala. Auf dem Höhepunkt seiner Macht zwischen 250 und 900 n. Chr. war Tikal eines der größten Maya-Zentren mit einer Bevölkerung von möglicherweise 100.000 Menschen. Die imposanten Stufenpyramiden, die Tempels I und II und der Große Jaguar-Tempel, sind noch heute eines der beeindruckendsten archäologischen Denkmäler Mesoamerikas.",
       "en": "Tikal was one of the most significant cities of the Classic Maya civilization in present-day Guatemala. At the height of its power between 250 and 900 AD, Tikal was one of the largest Maya centers with a population of possibly 100,000 people. Its imposing step pyramids, including Temple I, Temple II, and the Great Jaguar Temple, remain among the most impressive archaeological monuments of Mesoamerica."
-    }
+    },
+    "peakStartYear": 400,
+    "peakEndYear": 800
   },
   {
     "id": "lumbini",
@@ -1865,7 +1953,9 @@
     "description": {
       "de": "Erste Hauptstadt des Achaemenidenreiches, gegründet von Kyros dem Großen. Stätte seines Grabmals.",
       "en": "First capital of the Achaemenid Empire, founded by Cyrus the Great. Site of his tomb."
-    }
+    },
+    "peakStartYear": -559,
+    "peakEndYear": -330
   },
   {
     "id": "avignon",
@@ -1875,7 +1965,7 @@
     ],
     "startYear": -539,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "celtic",
       "roman",
@@ -1888,7 +1978,9 @@
     "description": {
       "de": "Von 1309 bis 1377 Sitz des Papsttums (Avignonesisches Exil). Während dieser Zeit das geistliche und politische Zentrum der westlichen Christenheit.",
       "en": "Seat of the Papacy from 1309 to 1377 (Avignon Papacy). During this time the spiritual and political center of Western Christendom."
-    }
+    },
+    "peakStartYear": 1309,
+    "peakEndYear": 1377
   },
   {
     "id": "peshawar",
@@ -1898,7 +1990,7 @@
     ],
     "startYear": -539,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "indian",
       "afghan"
@@ -1910,7 +2002,9 @@
     "description": {
       "de": "Eine der aeltesten durchgehend bewohnten Staedte Suedasiens und Hauptstadt Gandharas unter den Kushan. Strategischer Knotenpunkt am Khyber-Pass zwischen Zentralasien und dem indischen Subkontinent.",
       "en": "One of the oldest continuously inhabited cities in South Asia and capital of Gandhara under the Kushans. Strategic hub at the Khyber Pass between Central Asia and the Indian subcontinent."
-    }
+    },
+    "peakStartYear": 100,
+    "peakEndYear": 500
   },
   {
     "id": "bodh-gaya",
@@ -1954,7 +2048,9 @@
     "description": {
       "de": "Ort der ersten Lehrrede Buddhas (Dhammacakkappavattana Sutta) um 528 v. Chr. im Hirschpark. Eines der bedeutendsten buddhistischen Pilgerzentren mit Ashokas beruehmter Loewenkapitell-Saeule.",
       "en": "Site of the Buddha's first sermon (Dhammacakkappavattana Sutta) around 528 BC in the Deer Park. One of the most important Buddhist pilgrimage centers, home to Ashoka's famous Lion Capital pillar."
-    }
+    },
+    "peakStartYear": -528,
+    "peakEndYear": 600
   },
   {
     "id": "persepolis",
@@ -1976,7 +2072,9 @@
     "description": {
       "de": "Persepolis war die Zeremonialhauptstadt des Achämenidenreiches, gegründet von Dareios I. um 518 v. Chr. südlich von Susa. Die Tempelanlagen und Empfangshallen dienten dem Perserkönig für staatliche Zeremonien und die Aufnahme von Tributdelegationen aus dem gesamten Reich; Alexander der Große zerstörte die Stadt 330 v. Chr.",
       "en": "Persepolis was the ceremonial capital of the Achaemenid Empire, founded by Darius I around 518 BC northeast of modern Shiraz, Iran. Its vast terrace with audience halls and palaces served the Persian king for state ceremonies and receiving tribute delegations from across the empire; Alexander the Great burned it in 330 BC."
-    }
+    },
+    "peakStartYear": -518,
+    "peakEndYear": -330
   },
   {
     "id": "suzhou",
@@ -1986,7 +2084,7 @@
     ],
     "startYear": -514,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "chinese"
     ],
@@ -1997,7 +2095,9 @@
     "description": {
       "de": "Kulturmetropole am Großen Kanal, berühmt für Seidenproduktion und klassische Gärten. Ein chinesisches Sprichwort sagt: 'Im Himmel gibt es das Paradies, auf Erden gibt es Suzhou und Hangzhou.'",
       "en": "Cultural metropolis on the Grand Canal, famed for silk production and classical gardens. A Chinese proverb says: 'In heaven there is paradise, on earth there is Suzhou and Hangzhou.'"
-    }
+    },
+    "peakStartYear": 1127,
+    "peakEndYear": null
   },
   {
     "id": "sofia",
@@ -2007,7 +2107,7 @@
     ],
     "startYear": -500,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "roman",
       "slavic",
@@ -2021,7 +2121,9 @@
     "description": {
       "de": "Antike thrakische Siedlung, als Serdica ein bedeutendes römisches Verwaltungszentrum. Diokletian betrachtete es als 'mein Rom'.",
       "en": "Ancient Thracian settlement, as Serdica an important Roman administrative center. Diocletian considered it 'my Rome'."
-    }
+    },
+    "peakStartYear": 300,
+    "peakEndYear": 450
   },
   {
     "id": "bukhara",
@@ -2031,7 +2133,7 @@
     ],
     "startYear": -500,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "sogdian",
       "persian",
@@ -2045,7 +2147,9 @@
     "description": {
       "de": "Bedeutender Knotenpunkt der Seidenstraße und Zentrum islamischer Gelehrsamkeit. Geburtsort des Hadith-Gelehrten Imam al-Buchari.",
       "en": "Major Silk Road hub and center of Islamic scholarship. Birthplace of the hadith scholar Imam al-Bukhari."
-    }
+    },
+    "peakStartYear": 850,
+    "peakEndYear": 999
   },
   {
     "id": "aden",
@@ -2121,7 +2225,7 @@
     ],
     "startYear": -500,
     "endYear": 1220,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "persian",
       "islamic",
@@ -2134,7 +2238,9 @@
     "description": {
       "de": "Mutter der Städte - eines der ältesten Zentren Zentralasiens. Geburtsort Rumis und wichtiger Knotenpunkt der Seidenstraße. 1220 von den Mongolen zerstört.",
       "en": "'Mother of Cities' - one of Central Asia's oldest centers. Birthplace of Rumi and key Silk Road hub. Destroyed by the Mongols in 1220."
-    }
+    },
+    "peakStartYear": 700,
+    "peakEndYear": 1220
   },
   {
     "id": "herat",
@@ -2189,7 +2295,7 @@
     ],
     "startYear": -500,
     "endYear": 640,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "axumite",
       "african",
@@ -2202,7 +2308,9 @@
     "description": {
       "de": "Wichtigster Hafen des Königreichs Aksum am Roten Meer. Drehscheibe des Handels zwischen dem Römischen Reich, Indien und dem Inneren Afrikas.",
       "en": "Most important port of the Kingdom of Aksum on the Red Sea. Hub of trade between the Roman Empire, India, and the African interior."
-    }
+    },
+    "peakStartYear": 100,
+    "peakEndYear": 640
   },
   {
     "id": "monte-alban",
@@ -2212,7 +2320,7 @@
     ],
     "startYear": -500,
     "endYear": 750,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "mesoamerican"
     ],
@@ -2223,7 +2331,9 @@
     "description": {
       "de": "Hauptstadt der Zapoteken im Tal von Oaxaca und eine der frühesten Städte Mesoamerikas. Über 1000 Jahre lang das bedeutendste politische und wirtschaftliche Zentrum der Region.",
       "en": "Capital of the Zapotecs in the Valley of Oaxaca and one of the earliest cities of Mesoamerica. For over 1,000 years the most important political and economic center of the region."
-    }
+    },
+    "peakStartYear": 200,
+    "peakEndYear": 700
   },
   {
     "id": "vidisha",
@@ -2357,7 +2467,9 @@
     "description": {
       "de": "Sogdische Stadtfestung am Serafschan mit einzigartigen Wandmalereien. Blühte vom 5.–8. Jh., von arabischen Truppen 722 erobert und im 8. Jh. aufgegeben.",
       "en": "Sogdian fortified town on the Zeravshan with unique wall paintings. Flourished from the 5th–8th centuries, conquered by Arab forces in 722 and abandoned by the 8th century."
-    }
+    },
+    "peakStartYear": 500,
+    "peakEndYear": 722
   },
   {
     "id": "bam",
@@ -2389,7 +2501,7 @@
     ],
     "startYear": -500,
     "endYear": 1220,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "achaemenid",
       "parthian",
@@ -2404,7 +2516,9 @@
     "description": {
       "de": "Merw war eine der bedeutendsten Oasenstädte Zentralasiens an der Seidenstraße und galt im 12. Jahrhundert als eine der größten Städte der Welt. Die Stadt durchlebte persische, hellenistische, parthische, sassanidische, arabische und seldschukische Herrschaft, bevor sie 1221 von den Mongolen zerstört und entvölkert wurde.",
       "en": "Merv was one of the most important oasis cities of Central Asia along the Silk Road and was considered one of the largest cities in the world in the 12th century. The city passed through Persian, Hellenistic, Parthian, Sassanid, Arab, and Seljuk rule before being devastated and depopulated by the Mongols in 1221."
-    }
+    },
+    "peakStartYear": 1037,
+    "peakEndYear": 1220
   },
   {
     "id": "zaranj",
@@ -2459,7 +2573,7 @@
     ],
     "startYear": -500,
     "endYear": 700,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "mesoamerican"
     ],
@@ -2470,7 +2584,9 @@
     "description": {
       "de": "Monte Albán war die Hauptstadt des Zapoteken-Staates und eine der ersten echten Städte Mesoamerikas. Die um 500 v. Chr. gegründete Stadt auf einem abgeflachten Hügel in der Oaxaca-Valley dominierte die Politik der Region für über tausend Jahre. Auf ihrem Höhepunkt um 200–700 n. Chr. hatte Monte Albán möglicherweise 25.000 Einwohner und war Zentrum von Kunst, Astronomie und Schrift.",
       "en": "Monte Albán was the capital of the Zapotec state and one of the first true cities of Mesoamerica. Founded around 500 BC on a flattened hilltop in the Oaxaca Valley, the city dominated the politics of the region for over a thousand years. At its height around 200–700 AD, Monte Albán may have had 25,000 inhabitants and was a center of art, astronomy, and writing."
-    }
+    },
+    "peakStartYear": 200,
+    "peakEndYear": 700
   },
   {
     "id": "taiyuan-jinyang",
@@ -2501,7 +2617,7 @@
     ],
     "startYear": -490,
     "endYear": 550,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "indian",
       "buddhist"
@@ -2513,7 +2629,9 @@
     "description": {
       "de": "Hauptstadt der Maurya- und Gupta-Reiche und eine der groessten Staedte der antiken Welt. Unter Ashoka wurde sie zum Zentrum eines buddhistischen Weltreiches, das fast den gesamten indischen Subkontinent umfasste.",
       "en": "Capital of the Maurya and Gupta Empires and one of the largest cities of the ancient world. Under Ashoka it became the center of a Buddhist empire that encompassed nearly the entire Indian subcontinent."
-    }
+    },
+    "peakStartYear": -321,
+    "peakEndYear": 550
   },
   {
     "id": "yangzhou",
@@ -2523,7 +2641,7 @@
     ],
     "startYear": -486,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "chinese"
     ],
@@ -2534,7 +2652,9 @@
     "description": {
       "de": "Blühende Handelsstadt am Schnittpunkt von Großem Kanal und Jangtse. Unter der Tang-Dynastie eines der reichsten Handelszentren Chinas.",
       "en": "Thriving trade city at the junction of the Grand Canal and the Yangtze. One of China's wealthiest commercial centers during the Tang dynasty."
-    }
+    },
+    "peakStartYear": 600,
+    "peakEndYear": 900
   },
   {
     "id": "nanjing",
@@ -2544,7 +2664,7 @@
     ],
     "startYear": -472,
     "endYear": null,
-    "importance": 1,
+    "importance": 2,
     "culturalSphere": [
       "chinese"
     ],
@@ -2555,7 +2675,9 @@
     "description": {
       "de": "Hauptstadt der Sechs Dynastien, der frühen Ming und später der Republik China. Als 'Südliche Hauptstadt' oft Gegenhauptstadt zu den nördlichen Metropolen.",
       "en": "Capital of the Six Dynasties, early Ming, and later the Republic of China. As 'Southern Capital,' it often served as counterpart to the northern capitals."
-    }
+    },
+    "peakStartYear": 317,
+    "peakEndYear": 1421
   },
   {
     "id": "naples",
@@ -2565,7 +2687,7 @@
     ],
     "startYear": -470,
     "endYear": null,
-    "importance": 2,
+    "importance": 3,
     "culturalSphere": [
       "greek",
       "roman",
@@ -2578,6 +2700,8 @@
     "description": {
       "de": "Als Neapolis ('Neue Stadt') von griechischen Siedlern gegründet. Über Jahrhunderte die größte Stadt Italiens und Hauptstadt des Königreichs Neapel.",
       "en": "Founded as Neapolis ('New City') by Greek settlers. For centuries the largest city in Italy and capital of the Kingdom of Naples."
-    }
+    },
+    "peakStartYear": 1266,
+    "peakEndYear": 1700
   }
 ]
